@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09e604c5af23bece",
+        "id": "f3cdac5b09188dab",
         "type": "tabs",
         "children": [
           {
-            "id": "d9e9e94f7207596a",
+            "id": "66e6bb5e0b49c0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2701c54b02ae282c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "2266179cb9c35810",
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "House Rules.md"
+                "file": "index.md"
               }
             }
           },
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "House Rules.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +139,19 @@
               "state": {
                 "calendar": "ID_6ac80ab98aab",
                 "ephemeral": {
-                  "viewState": 0,
+                  "viewing": {
+                    "day": 15,
+                    "month": 2,
+                    "year": 569
+                  },
+                  "viewState": 2,
                   "displaying": {
                     "day": 15,
                     "month": 2,
                     "year": 569
                   },
-                  "displayDayNumber": false,
-                  "displayMoons": true,
-                  "displayWeeks": true
+                  "displayDayNumber": true,
+                  "displayMoons": true
                 }
               }
             }
@@ -157,12 +174,29 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "3456cdf4d12a612f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a28fac44e8e5f007",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,18 +207,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "d9e9e94f7207596a",
+  "active": "2701c54b02ae282c",
   "lastOpenFiles": [
-    "Sessions/Session 0 (Mistlin Inn).md",
     "House Rules.md",
-    "Maps/Arcanum/Mistlin/Tavern/Inn Basement.webp",
-    "Sessions",
-    "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.webp",
-    "Maps/Arcanum/Mistlin/Tavern/Inn.webp",
+    "index.md",
+    "Sessions/Session 0 (Mistlin Inn)/DM Notes.md",
+    "Maps/World/The Thornheart Realm V0.6.jpg",
     "Maps/World/The Thornheart Realm V0.6 1.jpg",
+    "Maps/World/The Thornheart Realm V0.2 1.jpg",
+    "Maps/World/The Thornheart Realm V0.2.jpg",
+    "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.webp",
+    "Maps/Arcanum/Mistlin/Tavern/Inn Basement.webp",
+    "Maps/Arcanum/Mistlin/Tavern/Inn.webp",
+    "Sessions/Session 0 (Mistlin Inn)",
+    "Sessions",
     "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.dd2vtt",
     "Maps/Arcanum/Mistlin/Tavern/Inn.dungeondraft_map",
     "Maps/Arcanum/Mistlin/Tavern/Inn.dd2vtt",
@@ -193,10 +234,6 @@
     "Maps/Arcanum/Arcanum-v4.wonderdraft_map",
     "Maps/Arcanum/Arcanum-v3.wonderdraft_map",
     "Maps/Arcanum/Arcanum-v2.wonderdraft_map",
-    "Maps/Arcanum/Arcanum.wonderdraft_map",
-    "Maps/World/The Thornheart Realm V0.6.jpg",
-    "Maps/World/The Thornheart Realm V0.2 1.jpg",
-    "Maps/World/The Thornheart Realm V0.2.jpg",
     "2024-03-24.md",
     "Welcome.md"
   ]
