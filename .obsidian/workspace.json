@@ -16,7 +16,9 @@
                 "file": "House Rules.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "House Rules"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -99,36 +109,9 @@
               "type": "outline",
               "state": {
                 "file": "index.md"
-              }
-            }
-          },
-          {
-            "id": "5266bd82c15b8c1f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "69e6b67b3e04eed5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
             }
           },
           {
@@ -139,60 +122,31 @@
               "state": {
                 "calendar": "ID_6ac80ab98aab",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 15,
-                    "month": 2,
-                    "year": 569
-                  },
-                  "viewState": 2,
+                  "viewState": 1,
                   "displaying": {
                     "day": 15,
                     "month": 2,
                     "year": 569
                   },
-                  "displayDayNumber": true,
+                  "displayDayNumber": false,
                   "displayMoons": true
                 }
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
-            "id": "b530e821f70bc8eb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "e5dd6a82da430c10",
+            "id": "689ffab299af3d6c",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "3456cdf4d12a612f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a28fac44e8e5f007",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
