@@ -2,12 +2,12 @@
 title: Welcome! 
 ---
 
-# The Thornheart Realm
+# The Vineheart Realm
 
 ## World
 
 The realm consists of 4 main continents, and many islands.
-![[The Thornheart Realm V0.6.jpg]]
+![[The Vineheart Realm V0.6.jpg]]
 
 ## Rules
 

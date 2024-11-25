@@ -25,14 +25,12 @@
             "id": "2701c54b02ae282c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/VineHeart.png"
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "lucide-image",
+              "title": "VineHeart"
             }
           }
         ],
@@ -108,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Assets/VineHeart.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of VineHeart"
             }
           },
           {
@@ -168,27 +166,29 @@
   },
   "active": "2701c54b02ae282c",
   "lastOpenFiles": [
-    "House Rules.md",
+    "Assets/VineHeart.ico",
+    "Assets/VineHeart.ico.crdownload",
     "Index.md",
-    "interconnected notes.md",
-    "Sessions/Session 0 (Mistlin Inn)/DM Notes.md",
-    "Maps/World/The Thornheart Realm V0.6.jpg",
-    "Maps/World/The Thornheart Realm V0.6 1.jpg",
-    "Maps/World/The Thornheart Realm V0.2 1.jpg",
-    "Maps/World/The Thornheart Realm V0.2.jpg",
-    "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.webp",
+    "Assets/VineHeart.png",
+    "Assets/VineHeart.afpub~lock~",
+    "Assets/VineHeart.afpub",
+    "Assets",
+    "New folder",
+    "House Rules.md",
+    "Maps/World/The Vineheart Realm V0.6.jpg",
     "Maps/Arcanum/Mistlin/Tavern/Inn Basement.webp",
     "Maps/Arcanum/Mistlin/Tavern/Inn.webp",
+    "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.webp",
+    "Maps/World/The Vineheart Realm V0.2.jpg",
+    "Maps/World/The Vineheart Realm V0.6 1.jpg",
+    "Maps/World/The Vineheart Realm V0.2 1.jpg",
+    "interconnected notes.md",
+    "Sessions/Session 0 (Mistlin Inn)/DM Notes.md",
     "Sessions/Session 0 (Mistlin Inn)",
     "Sessions",
     "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.dd2vtt",
     "Maps/Arcanum/Mistlin/Tavern/Inn.dungeondraft_map",
     "Maps/Arcanum/Mistlin/Tavern/Inn.dd2vtt",
-    "Maps/Arcanum/Mistlin/Tavern/Inn Basement.dd2vtt",
-    "Maps/Arcanum/Arcanum-v5.wonderdraft_map",
-    "Maps/Arcanum/Arcanum-v4.wonderdraft_map",
-    "Maps/Arcanum/Arcanum-v3.wonderdraft_map",
-    "Maps/Arcanum/Arcanum-v2.wonderdraft_map",
     "2024-03-24.md",
     "Welcome.md"
   ]
