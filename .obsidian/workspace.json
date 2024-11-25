@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Index"
             }
           }
         ],
@@ -108,10 +108,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Index"
             }
           },
           {
@@ -169,7 +169,8 @@
   "active": "2701c54b02ae282c",
   "lastOpenFiles": [
     "House Rules.md",
-    "index.md",
+    "Index.md",
+    "interconnected notes.md",
     "Sessions/Session 0 (Mistlin Inn)/DM Notes.md",
     "Maps/World/The Thornheart Realm V0.6.jpg",
     "Maps/World/The Thornheart Realm V0.6 1.jpg",

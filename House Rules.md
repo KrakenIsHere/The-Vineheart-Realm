@@ -1,5 +1,3 @@
-# World
-
 ## Rest:
 
 ### Types:
