@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "tvr.krakeenia.com",
-    ignorePatterns: ["DM", "Dungeon Master", "DM Notes", "dm", "private", "templates", ".obsidian"],
+    ignorePatterns: ["?DM", "?dm", "private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
