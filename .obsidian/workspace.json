@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f3cdac5b09188dab",
+        "id": "368ba4555ef55c90",
         "type": "tabs",
         "children": [
           {
-            "id": "66e6bb5e0b49c0c8",
+            "id": "85af6bb7e48212f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules.md",
+                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Rules"
-            }
-          },
-          {
-            "id": "2701c54b02ae282c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/VineHeart.png"
-              },
-              "icon": "lucide-image",
-              "title": "VineHeart"
+              "title": "Mistlin Inn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/VineHeart.png"
+                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of VineHeart"
+              "title": "Outline of Mistlin Inn"
             }
           },
           {
@@ -143,6 +130,52 @@
               "icon": "dice-roller-icon",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "72ba59d941d43925",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mistlin Inn"
+            }
+          },
+          {
+            "id": "06f197cb50a00a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mistlin Inn"
+            }
+          },
+          {
+            "id": "696f4d6992f76516",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
@@ -158,38 +191,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "2701c54b02ae282c",
+  "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
-    "Assets/VineHeart.ico",
-    "Assets/VineHeart.ico.crdownload",
-    "Index.md",
-    "Assets/VineHeart.png",
-    "Assets/VineHeart.afpub~lock~",
-    "Assets/VineHeart.afpub",
-    "Assets",
-    "New folder",
-    "House Rules.md",
-    "Maps/World/The Vineheart Realm V0.6.jpg",
-    "Maps/Arcanum/Mistlin/Tavern/Inn Basement.webp",
-    "Maps/Arcanum/Mistlin/Tavern/Inn.webp",
-    "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.webp",
-    "Maps/World/The Vineheart Realm V0.2.jpg",
-    "Maps/World/The Vineheart Realm V0.6 1.jpg",
-    "Maps/World/The Vineheart Realm V0.2 1.jpg",
-    "interconnected notes.md",
+    "Maps/Arcanum/Mistlin/Mistlin.md",
+    "Maps/Arcanum/Arcanum.md",
+    "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
     "Sessions/Session 0 (Mistlin Inn)/DM Notes.md",
+    "House Rules.md",
+    "Untitled.md",
+    "Index.md",
+    "Maps/World/The Vineheart Realm V0.6.jpg",
+    "Maps/World/The Vineheart Realm V0.2.jpg",
+    "Assets/VineHeart.png",
     "Sessions/Session 0 (Mistlin Inn)",
     "Sessions",
-    "Maps/Arcanum/Mistlin/Tavern/Inn 2nd.dd2vtt",
-    "Maps/Arcanum/Mistlin/Tavern/Inn.dungeondraft_map",
-    "Maps/Arcanum/Mistlin/Tavern/Inn.dd2vtt",
-    "2024-03-24.md",
-    "Welcome.md"
+    "Maps/World",
+    "Maps/Arcanum/Mistlin/Inn/Inn.webp",
+    "Maps/Arcanum/Mistlin/Inn/Inn.dungeondraft_map",
+    "Maps/Arcanum/Mistlin/Inn/Inn.dd2vtt",
+    "Maps/Arcanum/Mistlin/Inn/Inn Basement.webp",
+    "Maps/Arcanum/Mistlin/Inn/Inn Basement.dd2vtt",
+    "Maps/Arcanum/Mistlin/Inn/Inn 2nd.webp",
+    "Maps/Arcanum/Mistlin/Inn/Inn 2nd.dd2vtt",
+    "Maps/Arcanum/Mistlin/Inn",
+    "Maps/Arcanum/Arcanum.wonderdraft_map",
+    "Maps/Arcanum/Mistlin",
+    "quartz/static/icon.png",
+    "quartz/static/icon (2).png",
+    "quartz/static/VineHeart.png",
+    "content/Maps/World/The Vineheart Realm V0.6.jpg",
+    "docs/plugins/TagPage.md",
+    "docs/plugins/TableOfContents.md",
+    "docs/tags/plugin.md",
+    "docs/tags/component.md",
+    "docs/plugins/SyntaxHighlighting.md",
+    "docs/plugins/Static.md",
+    "docs/plugins/RoamFlavoredMarkdown.md",
+    "docs/plugins/RemoveDrafts.md",
+    "docs/plugins/OxHugoFlavoredMarkdown.md",
+    "docs/plugins/ObsidianFlavoredMarkdown.md",
+    "docs/plugins/NotFoundPage.md",
+    "docs/plugins/index.md",
+    "docs/plugins/Latex.md",
+    "docs/plugins/HardLineBreaks.md",
+    "docs/plugins/GitHubFlavoredMarkdown.md",
+    "docs/plugins/Frontmatter.md",
+    "docs/plugins/FolderPage.md",
+    "docs/plugins/ExplicitPublish.md",
+    "docs/plugins/Description.md"
   ]
 }
