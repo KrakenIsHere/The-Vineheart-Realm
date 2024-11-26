@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0/A Notes.md",
+                "file": "Sessions/Session 0/DM Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Notes"
+              "title": "DM Notes"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,14 +93,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 0/A Notes.md"
+                "file": "Sessions/Session 0/DM Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A Notes"
+              "title": "Outline of DM Notes"
             }
           },
           {
-            "id": "8522d8b2fb5e5ce4",
+            "id": "696f4d6992f76516",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93919ede5fb974f8",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -122,59 +135,13 @@
             }
           },
           {
-            "id": "689ffab299af3d6c",
+            "id": "a35cc3bd2f5a0b0a",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "dice-roller-icon",
               "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "72ba59d941d43925",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sessions/Session 0/A Notes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for A Notes"
-            }
-          },
-          {
-            "id": "06f197cb50a00a9a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sessions/Session 0/A Notes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from A Notes"
-            }
-          },
-          {
-            "id": "696f4d6992f76516",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
             }
           }
         ]
@@ -191,23 +158,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false,
-      "calendarium:Open Calendarium": false
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "85af6bb7e48212f5",
+  "active": "15619512660efef4",
   "lastOpenFiles": [
-    "Sessions/Session 0/DM Notes.md",
-    "Sessions/Session 0/K Notes.md",
     "Sessions/Session 0/A Notes.md",
+    "Sessions/Session 0/K Notes.md",
+    "Sessions/Session 0/DM Notes.md",
     "House Rules.md",
+    "Index.md",
     "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
     "Maps/Arcanum/Mistlin/Mistlin.md",
     "Maps/Arcanum/Arcanum.md",
     "Untitled.md",
-    "Index.md",
     "Maps/World/The Vineheart Realm V0.6.jpg",
     "Maps/World/The Vineheart Realm V0.2.jpg",
     "Assets/VineHeart.png",
