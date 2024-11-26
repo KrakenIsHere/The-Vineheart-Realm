@@ -1,9 +1,10 @@
 ---
-title: Welcome!
+title: The Vineheart Realm
 tags:
+  - index
 ---
 
-# The Vineheart Realm
+# An Introduction
 
 ## World
 

@@ -1,3 +1,8 @@
+---
+title: Rule Change
+tags:
+  - Rules
+---
 
 ## Rest:
 
