@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
+                "file": "Sessions/Session 0/A Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mistlin Inn"
+              "title": "A Notes"
             }
           }
         ]
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md"
+                "file": "Sessions/Session 0/A Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mistlin Inn"
+              "title": "Outline of A Notes"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
+                "file": "Sessions/Session 0/A Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mistlin Inn"
+              "title": "Backlinks for A Notes"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
+                "file": "Sessions/Session 0/A Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mistlin Inn"
+              "title": "Outgoing links from A Notes"
             }
           },
           {
@@ -199,17 +199,19 @@
   },
   "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
+    "Sessions/Session 0/DM Notes.md",
+    "Sessions/Session 0/K Notes.md",
+    "Sessions/Session 0/A Notes.md",
+    "House Rules.md",
+    "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
     "Maps/Arcanum/Mistlin/Mistlin.md",
     "Maps/Arcanum/Arcanum.md",
-    "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
-    "Sessions/Session 0 (Mistlin Inn)/DM Notes.md",
-    "House Rules.md",
     "Untitled.md",
     "Index.md",
     "Maps/World/The Vineheart Realm V0.6.jpg",
     "Maps/World/The Vineheart Realm V0.2.jpg",
     "Assets/VineHeart.png",
-    "Sessions/Session 0 (Mistlin Inn)",
+    "Sessions/Session 0",
     "Sessions",
     "Maps/World",
     "Maps/Arcanum/Mistlin/Inn/Inn.webp",
@@ -242,8 +244,6 @@
     "docs/plugins/HardLineBreaks.md",
     "docs/plugins/GitHubFlavoredMarkdown.md",
     "docs/plugins/Frontmatter.md",
-    "docs/plugins/FolderPage.md",
-    "docs/plugins/ExplicitPublish.md",
-    "docs/plugins/Description.md"
+    "docs/plugins/FolderPage.md"
   ]
 }
