@@ -199,8 +199,9 @@
   },
   "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
-    "House Rules/Gameplay Changes.md",
+    "Assets/VineHeart.png",
     "Index.md",
+    "House Rules/Gameplay Changes.md",
     "House Rules/Bastions Changes.md",
     "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
     "House Rules",
@@ -212,7 +213,6 @@
     "Untitled.md",
     "Maps/World/The Vineheart Realm V0.6.jpg",
     "Maps/World/The Vineheart Realm V0.2.jpg",
-    "Assets/VineHeart.png",
     "Sessions/Session 0",
     "Sessions",
     "Maps/World",
@@ -243,7 +243,6 @@
     "docs/plugins/index.md",
     "docs/plugins/Latex.md",
     "docs/plugins/HardLineBreaks.md",
-    "docs/plugins/GitHubFlavoredMarkdown.md",
-    "docs/plugins/Frontmatter.md"
+    "docs/plugins/GitHubFlavoredMarkdown.md"
   ]
 }
