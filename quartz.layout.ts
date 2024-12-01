@@ -39,8 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta()
+    Component.ArticleTitle()
   ],
   left: [
     Component.PageTitle(),
@@ -48,5 +47,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.DesktopOnly(Component.Explorer())
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+    Component.ContentMeta(),
+    Component.TagList()
+  ],
 }
