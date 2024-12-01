@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Maps/Arcanum/Arcanum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Arcanum"
             }
           }
         ]
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Maps/Arcanum/Arcanum.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of Arcanum"
             }
           },
           {
@@ -199,6 +199,11 @@
   },
   "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
+    "Maps/Arcanum/Arcanum-V1.png",
+    "index.md",
+    "Maps/Arcanum/Arcanum.md",
+    "Maps/World/The Vineheart Realm V0.6.jpg",
+    "Maps/World/The Vineheart Realm V0.2.jpg",
     "Assets/VineHeart.png",
     "Index.md",
     "House Rules/Gameplay Changes.md",
@@ -209,10 +214,7 @@
     "Sessions/Session 0/A Notes.md",
     "Sessions/Session 0/DM Notes.md",
     "Maps/Arcanum/Mistlin/Mistlin.md",
-    "Maps/Arcanum/Arcanum.md",
     "Untitled.md",
-    "Maps/World/The Vineheart Realm V0.6.jpg",
-    "Maps/World/The Vineheart Realm V0.2.jpg",
     "Sessions/Session 0",
     "Sessions",
     "Maps/World",
@@ -228,7 +230,6 @@
     "quartz/static/icon.png",
     "quartz/static/icon (2).png",
     "quartz/static/VineHeart.png",
-    "content/Maps/World/The Vineheart Realm V0.6.jpg",
     "docs/plugins/TagPage.md",
     "docs/plugins/TableOfContents.md",
     "docs/tags/plugin.md",
@@ -242,7 +243,6 @@
     "docs/plugins/NotFoundPage.md",
     "docs/plugins/index.md",
     "docs/plugins/Latex.md",
-    "docs/plugins/HardLineBreaks.md",
-    "docs/plugins/GitHubFlavoredMarkdown.md"
+    "docs/plugins/HardLineBreaks.md"
   ]
 }
