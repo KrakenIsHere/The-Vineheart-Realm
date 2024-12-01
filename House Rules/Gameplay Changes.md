@@ -1,5 +1,5 @@
 ---
-title: Rule Change
+title: Gameplay
 tags:
   - Rules
 ---

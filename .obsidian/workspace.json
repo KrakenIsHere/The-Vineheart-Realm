@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 0/DM Notes.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DM Notes"
+              "title": "Index"
             }
           }
         ]
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 0/DM Notes.md"
+                "file": "Index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DM Notes"
+              "title": "Outline of Index"
             }
           },
           {
@@ -143,12 +143,45 @@
               "icon": "dice-roller-icon",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "98aa70ce597b45b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Index"
+            }
+          },
+          {
+            "id": "3cd8d9f934b4998b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,20 +191,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "15619512660efef4",
+  "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
-    "Sessions/Session 0/A Notes.md",
-    "Sessions/Session 0/K Notes.md",
-    "Sessions/Session 0/DM Notes.md",
-    "House Rules.md",
+    "House Rules/Gameplay Changes.md",
     "Index.md",
+    "House Rules/Bastions Changes.md",
     "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
+    "House Rules",
+    "Sessions/Session 0/K Notes.md",
+    "Sessions/Session 0/A Notes.md",
+    "Sessions/Session 0/DM Notes.md",
     "Maps/Arcanum/Mistlin/Mistlin.md",
     "Maps/Arcanum/Arcanum.md",
     "Untitled.md",
@@ -190,7 +225,6 @@
     "Maps/Arcanum/Mistlin/Inn/Inn 2nd.dd2vtt",
     "Maps/Arcanum/Mistlin/Inn",
     "Maps/Arcanum/Arcanum.wonderdraft_map",
-    "Maps/Arcanum/Mistlin",
     "quartz/static/icon.png",
     "quartz/static/icon (2).png",
     "quartz/static/VineHeart.png",
@@ -210,7 +244,6 @@
     "docs/plugins/Latex.md",
     "docs/plugins/HardLineBreaks.md",
     "docs/plugins/GitHubFlavoredMarkdown.md",
-    "docs/plugins/Frontmatter.md",
-    "docs/plugins/FolderPage.md"
+    "docs/plugins/Frontmatter.md"
   ]
 }
