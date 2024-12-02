@@ -75,6 +75,7 @@ Duration: 6 Hours
 
 ### Actions:
 - Mounting another character is an action.
+- Having your action ready at the beginning of the turn can add a +1 modifier a roll
 
 ### Stats:
 - Individual stats simply represent their modifier, and holds no specific traits
