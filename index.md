@@ -23,3 +23,8 @@ Some changes have been adjusted to either limit or remove limits for players, su
 - Limiting touch-based spells
 	Extending touch through other spells
 
+## Gameplay
+
+As with the rules the general gameplay is based on **Dungeons & Dragons 5e**. However, as with most things, NERDS tend to over complicate shit.
+
+So some aspects of the game will be simplified, depending on the situation. And some elements will be loosely based (or a straight up ripoff) off of **Baulder's Gate 3** in the name of having fun, and not being lame rule sticklers.

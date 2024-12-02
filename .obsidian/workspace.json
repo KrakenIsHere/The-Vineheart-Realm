@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Arcanum/Arcanum.md",
+                "file": "Sessions/Session 0/DM Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcanum"
+              "title": "DM Notes"
             }
           }
         ]
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/Arcanum/Arcanum.md"
+                "file": "Sessions/Session 0/DM Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arcanum"
+              "title": "Outline of DM Notes"
             }
           },
           {
@@ -199,37 +199,38 @@
   },
   "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
-    "Maps/Arcanum/Arcanum-V1.png",
-    "index.md",
-    "Maps/Arcanum/Arcanum.md",
-    "Maps/World/The Vineheart Realm V0.6.jpg",
-    "Maps/World/The Vineheart Realm V0.2.jpg",
-    "Assets/VineHeart.png",
-    "Index.md",
+    "Sessions/Session 0/K Notes.md",
+    "Sessions/Session 0/DM Notes.md",
     "House Rules/Gameplay Changes.md",
     "House Rules/Bastions Changes.md",
-    "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
-    "House Rules",
-    "Sessions/Session 0/K Notes.md",
-    "Sessions/Session 0/A Notes.md",
-    "Sessions/Session 0/DM Notes.md",
+    "Assets/VineHeart.png",
+    "Maps/Information.md",
+    "Maps/Arcanum/Arcanum.md",
     "Maps/Arcanum/Mistlin/Mistlin.md",
+    "Maps/Arcanum/Mistlin/Mistlin.webp",
+    "Maps/Arcanum/Mistlin/Mistlin.dd2vtt",
+    "Maps/Arcanum/Mistlin/Inn/Mistlin Inn.md",
+    "Maps/Arcanum/Mistlin/Mistlin.temporary",
+    "Maps/Arcanum/Mistlin/Inn/Inn 2nd.webp",
+    "Maps/Arcanum/Mistlin/Mistlin.dungeondraft_map",
+    "Maps/Arcanum/Mistlin/Inn/Inn.webp",
+    "index.md",
+    "Maps/Arcanum/Mistlin/Mistlin-v2.wonderdraft_map",
+    "Maps/Arcanum/Mistlin/Mistlin.wonderdraft_map",
+    "Maps/Arcanum/Arcanum-V1.png",
+    "Maps/World/The Vineheart Realm V0.6.jpg",
+    "Maps/World/The Vineheart Realm V0.2.jpg",
+    "Index.md",
+    "House Rules",
+    "Sessions/Session 0/A Notes.md",
     "Untitled.md",
     "Sessions/Session 0",
     "Sessions",
     "Maps/World",
-    "Maps/Arcanum/Mistlin/Inn/Inn.webp",
     "Maps/Arcanum/Mistlin/Inn/Inn.dungeondraft_map",
-    "Maps/Arcanum/Mistlin/Inn/Inn.dd2vtt",
     "Maps/Arcanum/Mistlin/Inn/Inn Basement.webp",
-    "Maps/Arcanum/Mistlin/Inn/Inn Basement.dd2vtt",
-    "Maps/Arcanum/Mistlin/Inn/Inn 2nd.webp",
-    "Maps/Arcanum/Mistlin/Inn/Inn 2nd.dd2vtt",
-    "Maps/Arcanum/Mistlin/Inn",
-    "Maps/Arcanum/Arcanum.wonderdraft_map",
     "quartz/static/icon.png",
     "quartz/static/icon (2).png",
-    "quartz/static/VineHeart.png",
     "docs/plugins/TagPage.md",
     "docs/plugins/TableOfContents.md",
     "docs/tags/plugin.md",
@@ -242,7 +243,6 @@
     "docs/plugins/ObsidianFlavoredMarkdown.md",
     "docs/plugins/NotFoundPage.md",
     "docs/plugins/index.md",
-    "docs/plugins/Latex.md",
-    "docs/plugins/HardLineBreaks.md"
+    "docs/plugins/Latex.md"
   ]
 }
