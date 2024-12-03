@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PCs/Kronk (Druid).md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kronk (Druid)"
+              "title": "index"
             }
           }
         ]
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PCs/Kronk (Druid).md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kronk (Druid)"
+              "title": "Outline of index"
             }
           },
           {
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +199,14 @@
   },
   "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
+    "House Rules/Gameplay Changes.md",
     "House Rules/Bastions Changes.md",
-    "Characters/PCs/Kronk (Druid).md",
+    "Maps/Information.md",
     "index.md",
+    "Assets/Books/DnD 5e Players Handbook (BnW OCR).pdf",
+    "Characters/PCs/Kronk (Druid).md",
     "Characters/PCs",
     "Characters",
-    "House Rules/Gameplay Changes.md",
     "Assets/Tools/Building.md",
     "Assets/Tools/AI.md",
     "Assets/Tools/General.md",
@@ -215,7 +217,6 @@
     "Assets/Tools",
     "Assets/Untitled.md",
     "().md",
-    "Assets/Books/DnD 5e Players Handbook (BnW OCR).pdf",
     "Assets/Character Sheets/MPMB's Character Record Sheet (v13.1.12) [Printer Friendly].pdf",
     "Assets/Character Sheets/MPMB's Character Record Sheet (v13.1.12) [Printer Friendly - Redesign].pdf",
     "Assets/Character Sheets/MPMB's Character Record Sheet (v13.1.12) [Colorful - Letter].pdf",
@@ -225,7 +226,6 @@
     "Assets/Images/Vineheart Logo/VineHeart.png",
     "Assets/Images/VineHeart.png",
     "Assets/VineHeart.png",
-    "Maps/Information.md",
     "Maps/Arcanum/Arcanum.md",
     "Maps/Arcanum/Mistlin/Mistlin.md",
     "Maps/Arcanum/Mistlin/Mistlin.webp",
@@ -243,7 +243,6 @@
     "docs/tags/plugin.md",
     "docs/tags/component.md",
     "docs/plugins/SyntaxHighlighting.md",
-    "docs/plugins/Static.md",
-    "docs/plugins/RoamFlavoredMarkdown.md"
+    "docs/plugins/Static.md"
   ]
 }

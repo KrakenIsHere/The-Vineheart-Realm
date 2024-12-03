@@ -19,11 +19,12 @@ Here the rules and general concept follows **Dungeons & Dragons 5e** with a few 
 - [[Gameplay Changes]] 
 - [[Bastions Changes]]
 
-Some changes have been adjusted to either limit or remove limits for players, such as:
-- Lowering money made from Bastions
-- Expanding on EXP & Rest mechanics
-- Limiting touch-based spells
-	Extending touch through other spells
+> [!Note] Notable Changes
+> Some changes have been adjusted to either limit or remove limits for players, such as:
+>- Lowering money made from Bastions
+>- Expanding on EXP & Rest mechanics
+>- Limiting touch-based spells
+>	- Extending touch through other spells
 
 
 ## Gameplay

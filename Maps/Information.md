@@ -9,8 +9,6 @@ These outline the default details that maps should commonly adhere to, so these 
 Do keep in mind, that the maps are more for a sense of direction and location.
 Rather than, absolute scale and positioning.
 
-
-
 # World
 
 - Scale: None
@@ -23,6 +21,7 @@ Rather than, absolute scale and positioning.
 
 - Scale: None
 
+
 ### Village
 
 - Scale: 10 Meter Tiles
@@ -30,6 +29,7 @@ Rather than, absolute scale and positioning.
 #### Buildings
 
 - Scale: 1 Meter Tiles
+
 
 ### Dungeons
 
