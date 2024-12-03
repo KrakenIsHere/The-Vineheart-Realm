@@ -38,12 +38,12 @@ So some aspects of the game will be simplified, depending on the situation. And 
 
 ### Dungeons & Dragons
 
-- [5e Players' Handbook]([[DnD 5e Players Handbook (BnW OCR).pdf]])
-- [DM Guide]([[Dungeon Master's Guide.pdf]])
-- [Monster Manual]([[Monster Manual.pdf]])
+- [[DnD 5e Players Handbook (BnW OCR).pdf|5e Players' Handbook]]
+- [[Dungeon Master's Guide.pdf|DM Guide]]
+- [[Monster Manual.pdf|Monster Manual]]
 
 ### Tools
 
-- [General DnD Tools]([[General]])
-- [World Building Tools]([[Building]])
-- [AI Tools]([[AI]])
+- [[General|General DnD Tools]]
+- [[Building|World Building Tools]]
+- [[AI|AI Tools]]

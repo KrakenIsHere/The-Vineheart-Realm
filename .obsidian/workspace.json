@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "House Rules/Bastions Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Bastions Changes"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "House Rules/Bastions Changes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Bastions Changes"
             }
           },
           {
@@ -197,12 +197,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "85af6bb7e48212f5",
+  "active": "15619512660efef4",
   "lastOpenFiles": [
     "House Rules/Gameplay Changes.md",
+    "House Rules/DM Secret Rules.md",
+    "index.md",
+    "[[DM.md",
+    "Sessions/Session 0/DM Notes.md",
     "House Rules/Bastions Changes.md",
     "Maps/Information.md",
-    "index.md",
     "Assets/Books/DnD 5e Players Handbook (BnW OCR).pdf",
     "Characters/PCs/Kronk (Druid).md",
     "Characters/PCs",
@@ -211,7 +214,6 @@
     "Assets/Tools/AI.md",
     "Assets/Tools/General.md",
     "Assets/Tools/DM Stats.md",
-    "Sessions/Session 0/DM Notes.md",
     "Sessions/Session 0/K Notes.md",
     "Sessions/Session 0/A Notes.md",
     "Assets/Tools",
@@ -242,7 +244,6 @@
     "docs/plugins/TableOfContents.md",
     "docs/tags/plugin.md",
     "docs/tags/component.md",
-    "docs/plugins/SyntaxHighlighting.md",
-    "docs/plugins/Static.md"
+    "docs/plugins/SyntaxHighlighting.md"
   ]
 }
