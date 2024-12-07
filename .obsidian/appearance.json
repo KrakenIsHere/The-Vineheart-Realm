@@ -2,5 +2,9 @@
   "accentColor": "",
   "cssTheme": "ITS Theme",
   "theme": "system",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "iframe",
+    "Vineheart"
+  ]
 }
