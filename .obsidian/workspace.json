@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules/Bastions Changes.md",
+                "file": "Sessions/Session 0/DM Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bastions Changes"
+              "title": "DM Notes"
             }
           }
         ]
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "House Rules/Bastions Changes.md"
+                "file": "Sessions/Session 0/DM Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bastions Changes"
+              "title": "Outline of DM Notes"
             }
           },
           {
@@ -197,14 +197,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "15619512660efef4",
+  "active": "85af6bb7e48212f5",
   "lastOpenFiles": [
-    "House Rules/Gameplay Changes.md",
-    "House Rules/DM Secret Rules.md",
+    "Sessions/Session 0/K Notes.md",
     "index.md",
-    "[[DM.md",
+    "Assets/Quests/DM Quests.md",
+    "Assets/Quests/Quests.md",
+    "Assets/Quests",
     "Sessions/Session 0/DM Notes.md",
+    "table in the dark corner.md",
+    "House Rules/DM Secret Rules.md",
+    "Assets/Breakdowns/Combat.md",
     "House Rules/Bastions Changes.md",
+    "Assets/Breakdowns",
+    "Combat.md",
+    "House Rules/Gameplay Changes.md",
+    "[[DM.md",
     "Maps/Information.md",
     "Assets/Books/DnD 5e Players Handbook (BnW OCR).pdf",
     "Characters/PCs/Kronk (Druid).md",
@@ -214,17 +222,13 @@
     "Assets/Tools/AI.md",
     "Assets/Tools/General.md",
     "Assets/Tools/DM Stats.md",
-    "Sessions/Session 0/K Notes.md",
     "Sessions/Session 0/A Notes.md",
     "Assets/Tools",
-    "Assets/Untitled.md",
     "().md",
     "Assets/Character Sheets/MPMB's Character Record Sheet (v13.1.12) [Printer Friendly].pdf",
     "Assets/Character Sheets/MPMB's Character Record Sheet (v13.1.12) [Printer Friendly - Redesign].pdf",
     "Assets/Character Sheets/MPMB's Character Record Sheet (v13.1.12) [Colorful - Letter].pdf",
     "Assets/Character Sheets/Character Sheet.pdf",
-    "Assets/Character Sheets/MPMB's Character Record Sheet (v13.1.12) [Colorful - A4].pdf",
-    "Assets/Character Sheets",
     "Assets/Images/Vineheart Logo/VineHeart.png",
     "Assets/Images/VineHeart.png",
     "Assets/VineHeart.png",
@@ -239,11 +243,6 @@
     "Maps/World/The Vineheart Realm V0.2.jpg",
     "Index.md",
     "Untitled.md",
-    "Maps/Arcanum/Mistlin/Inn/Inn Basement.webp",
-    "docs/plugins/TagPage.md",
-    "docs/plugins/TableOfContents.md",
-    "docs/tags/plugin.md",
-    "docs/tags/component.md",
-    "docs/plugins/SyntaxHighlighting.md"
+    "Maps/Arcanum/Mistlin/Inn/Inn Basement.webp"
   ]
 }
