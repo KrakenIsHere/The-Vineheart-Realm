@@ -59,7 +59,7 @@ const config: QuartzConfig = {
       Plugin.MultiColumnPlugin({
         defaultColumnCount: 2,
         defaultGap: "2em"
-      })
+      }),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
