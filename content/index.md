@@ -12,9 +12,10 @@ tags:
 The realm consists of 4 main continents, and many islands.
 ![[The Vineheart Realm V0.6.jpg]]
 ## Story
-A Divine War erupted when the gods split into two factions. Their devastating conflict nearly destroyed the world, culminating in the creation of the Godwound - a tear in reality that forced both sides to cease fighting.
 
-The Vineheart Party emerged as mortal heroes during this conflict, protecting people and minimizing casualties. Their actions were so significant that the post-war era became known as The Vineheart Realm, marking a new age of mortal self-determination.
+[[The Devine War]] erupted when the [[Gods]] split into two factions. Their devastating conflict nearly destroyed the world, culminating in the creation of the Godwound - a tear in reality that forced both sides to cease fighting.
+
+The Vineheart Party emerged as mortal heroes during this conflict, protecting people and minimizing casualties. Their actions were so significant that the post-war era became known as The Vineheart Realm, marking the [[Dawn of the new age]] of mortal self-determination.
 
 The Godwound's power physically split the main continent into four distinct regions - the Northern Reach, Eastern Shores, Western Wilds, and Southern Realm - each developing their own unique cultures and societies over the following centuries.
 
@@ -43,14 +44,22 @@ As with the rules the general gameplay is based on **Dungeons & Dragons 5e**. Ho
 
 So some aspects of the game will be simplified, depending on the situation. And some elements will be loosely based (or a straight up ripoff) off of **Baulder's Gate 3** in the name of having fun, and not being lame rule sticklers.
 
+Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **Dungeons & Dragons 2024** rules.
 
 ## Resources
 
 ### Dungeons & Dragons
 
-- [[DnD 5e Players Handbook (BnW OCR).pdf|5e Players' Handbook]]
+#### 5e
+- [[DnD 5e Players Handbook (BnW OCR).pdf|Players' Handbook]]
 - [[Dungeon Master's Guide.pdf|DM Guide]]
 - [[Monster Manual.pdf|Monster Manual]]
+
+#### 2024
+- Players' Handbook
+- DM Guide
+- Monster Manual
+
 
 ### Tools
 
