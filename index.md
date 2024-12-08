@@ -10,7 +10,19 @@ tags:
 ## World
 
 The realm consists of 4 main continents, and many islands.
-![[The Vineheart Realm V0.6.jpg]]
+```leaflet
+id: "Vineheart"
+image: [The Vineheart Realm V0.6.jpg]
+height: 600px
+minZoom: 18
+maxZoom: 20
+defaultZoom: 18
+unit: m
+scale: 3
+darkMode: false
+
+```
+
 ## Story
 
 [[The Devine War]] erupted when the [[Gods]] split into two factions. Their devastating conflict nearly destroyed the world, culminating in the creation of the Godwound - a tear in reality that forced both sides to cease fighting.
@@ -57,7 +69,7 @@ Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **D
 
 #### 2024
 - Players' Handbook
-- DM Guide
+- [[Dungeon Master's Guide|DM Guide]]
 - Monster Manual
 
 
