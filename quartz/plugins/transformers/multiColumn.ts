@@ -22,7 +22,7 @@ function parseColumnSettings(text: string): Record<string, string> {
     const key = match[1].replace(/\s+/g, '_')
     settings[key] = match[2].trim()
   }
-
+  console.log("Parsed settings:", settings)
   return settings
 }
 
@@ -43,11 +43,13 @@ export const MultiColumn: QuartzTransformerPlugin<Partial<Options>> = (userOptio
             if (!parent || index === null) return
 
             const content = node.children?.[0]?.value || ""
+            console.log("Processing node:", content.substring(0, 50))
 
             // Start of multi-column section
             if (content.trim().startsWith("--- start-multi-column:")) {
+              console.log("Found start of multi-column")
               inMultiColumn = true
-              currentColumns = [""] // Initialize first column
+              currentColumns = [""]
               toRemove.push(index)
 
               // Find and parse settings
@@ -61,13 +63,15 @@ export const MultiColumn: QuartzTransformerPlugin<Partial<Options>> = (userOptio
 
             // Column separator
             if (content.trim() === "--- end-column ---" && inMultiColumn) {
-              currentColumns.push("") // Start new column
+              console.log("Found column separator")
+              currentColumns.push("")
               toRemove.push(index)
               return
             }
 
             // End of multi-column section
             if (content.trim() === "--- end-multi-column" && inMultiColumn) {
+              console.log("Found end of multi-column")
               inMultiColumn = false
               toRemove.push(index)
 
@@ -84,6 +88,14 @@ export const MultiColumn: QuartzTransformerPlugin<Partial<Options>> = (userOptio
                         grid-template-columns: repeat(${columnCount}, 1fr);
                         gap: ${options.defaultGap};
                         margin: 1em 0;
+                        padding: 1em;
+                        border: 2px solid #ff0000; /* Debug border */
+                      }
+                      
+                      .multi-column-wrapper .column {
+                        background: rgba(0,0,0,0.05); /* Debug background */
+                        padding: 1em;
+                        border-radius: 4px;
                       }
                       
                       .multi-column-wrapper[data-largest="left"] .column:first-child {
@@ -103,12 +115,13 @@ export const MultiColumn: QuartzTransformerPlugin<Partial<Options>> = (userOptio
                         }
                       }
                     </style>
-                    ${currentColumns.map(col => `<div class="column">${col}</div>`).join("\n")}
+                    ${currentColumns.map((col, idx) => `<div class="column"><!-- Column ${idx + 1} -->${col}</div>`).join("\n")}
                   </div>
                 `
               }
 
               parent.children.splice(index, 1, wrapperHtml)
+              console.log("Generated columns:", currentColumns.length)
               return
             }
 
