@@ -26,7 +26,7 @@ function parseColumnSettings(text: string): Record<string, string> {
   return settings
 }
 
-export default function MultiColumn(userOptions: Partial<MultiColumnOptions> = {}): QuartzTransformerPlugin {
+export const function MultiColumn(userOptions: Partial<MultiColumnOptions> = {}): QuartzTransformerPlugin {
   const options = { ...defaultOptions, ...userOptions }
 
   return {
