@@ -281,7 +281,7 @@ The bulk of a typical D&D session consists of a series of encounters, similar to
 
 As the DM, you decide how much to tell the players and when. All the information the players need to make choices comes from you. Within the rules of the game and the limits of the characters’ knowledge and senses, tell players everything they need to know.
 
-Published adventures often include text in a box like this, which is meant to be read aloud to the players when their characters first arrive at a location or under a specific circumstance, as described in the text. It usually describes locations so the players know what’s happening and have a sense of what their characters’ options are.
+>Published adventures often include text in a box like this, which is meant to be read aloud to the players when their characters first arrive at a location or under a specific circumstance, as described in the text. It usually describes locations so the players know what’s happening and have a sense of what their characters’ options are.
 
 Whether you’re running a published adventure or one of your own creation, your initial description of a room or situation should focus on what the characters can perceive. You don’t have to reveal every detail at once. Most players begin to lose focus after about three sentences of descriptive text. As characters search rooms, open drawers and chests, and examine things more closely, give players more details about what their characters find.
 
@@ -324,9 +324,8 @@ The game has a rhythm and flow that includes periods of action and excitement in
 
 Expect players to discuss the events of the game, spend time planning, and engage in long conversations in character. You don’t need to be involved in those discussions unless they have questions for you. Learn to recognize the times when you can take a break as the DM, and then resume the action as soon as everyone’s ready.
 
-Taking Breaks
-
-When you finish a lengthy combat encounter or a tension-filled scene, or if you need time to think, take a quick break. Give your brain a few moments to refocus, relax, or prepare for the next encounter. It’s OK to leave the players in suspense during a break while you figure out the consequences of their actions.
+> [!Note] Taking Breaks
+> When you finish a lengthy combat encounter or a tension-filled scene, or if you need time to think, take a quick break. Give your brain a few moments to refocus, relax, or prepare for the next encounter. It’s OK to leave the players in suspense during a break while you figure out the consequences of their actions.
 
 ### Ending a Session
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#EndingaSession)
@@ -343,7 +342,6 @@ Allow a few minutes at the end of play for everyone to discuss the events of the
 These pages present a short example of play, similar to the ones in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024), to illustrate how everything outlined in the “How to Run a Session” section works in practice. In this example, the Dungeon Master is running an adventure (“[The Fouled Stream](https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-adventures#TheFouledStream)”) from [chapter 4](https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-adventures). The four players are Amy (playing Auro, a Halfling Rogue), Maeve (playing Mirabella, an Elf Wizard), Phillip (playing Gareth, a Human Cleric), and Russell (playing Shreeve, a Goliath Fighter).
 
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
-
 --- start-multi-column:  
 ```column-settings  
 number of columns: 2  
@@ -503,11 +501,10 @@ Sinister shapes lurk near the cave entrance as the adventurers approach
 
 The preceding example of play shows how one Dungeon Master might run an encounter, but no two DMs run the game in exactly the same way—and that’s how it should be! You’ll be most successful as a DM if you choose a play style that works best for you and your players.
 
-The Rule of Fun
-
-D&D is a game, and everyone should have fun playing it. Everyone shares equal responsibility in moving the game along, and everyone contributes to the fun when they treat each other with respect and consideration: talking through disagreements among players or their characters, and remembering that arguments or mean-spirited squabbles can get in the way of the fun.
-
-People have many different ideas about what makes D&D fun. The “right way” to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.
+> [!Note] The Rule of Fun
+> D&D is a game, and everyone should have fun playing it. Everyone shares equal responsibility in moving the game along, and everyone contributes to the fun when they treat each other with respect and consideration: talking through disagreements among players or their characters, and remembering that arguments or mean-spirited squabbles can get in the way of the fun.
+>
+> People have many different ideas about what makes D&D fun. The “right way” to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.
 
 ### Play Style
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#PlayStyle)
@@ -543,17 +540,20 @@ If you’re confident that the answer to both questions is yes, give the new rul
 
 If a question about the interpretation of a rule comes up in your game, record how you decide to interpret it. Add that to your collection of house rules so you and the players can reference it when the rule comes up again later.
 
-### [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#Atmosphere)Atmosphere
+### Atmosphere
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#Atmosphere)
 
 Some DMs use music to create an appropriate atmosphere for their game sessions. They might use soundtracks from adventure movies or video games, although classical, ambient, or other music styles can also work well.
 
 Some DMs adjust lighting or use sound effects. Miniatures and dioramas can contribute to the game’s atmosphere and help players visualize events. Check with your players, though: some might find music, lighting, or sound effects distracting; might prefer not to be startled by loud noises; or might need to avoid certain lighting effects.
 
-### [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#Delegation)Delegation
+### Delegation
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#Delegation)
 
 If there are parts of the game you prefer not to handle yourself, assign them to players who enjoy them. If you don’t want to break your narrative stride by looking up a rule, designate another player to be the rulebook reference expert. If you don’t like tracking Initiative, ask another player to do so.
 
-### [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#LearningbyObserving)Learning by Observing
+### Learning by Observing
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#LearningbyObserving)
 
 One of the best ways to learn how to run a D&D game is to observe other DMs in action. Another DM can give you a solid foundation for understanding the role—as well as inspire you with cool things you can do in your games.
 
@@ -577,17 +577,20 @@ You can use these questions to help you reflect on a game you observe:
 
 **World-building.** What elements of the DM’s world or the adventure grabbed your attention?
 
-## [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)Ensuring Fun for All
+## Ensuring Fun for All
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)
 
 Ahead of the game, if you haven’t done so already, discuss with your players the experience you’re all hoping for, as well as topics, themes, and behavior that might spoil someone’s enjoyment of the game.
 
-### [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#MutualRespect)Mutual Respect
+### Mutual Respect
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#MutualRespect)
 
 Whether you’re playing with long-time friends or strangers, it’s important to create a foundation of mutual trust. The best games happen when everyone at the table feels safe enough to be themselves, speak up, and get into character.
 
 It’s up to everyone to uphold the principles of respect. Difficult conversations often fall on the DM to lead, but they don’t have to. If one player’s behavior is interfering with everyone else’s enjoyment, everyone has a stake in helping to resolve the issue.
 
-#### [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#SettingExpectations)Setting Expectations
+#### Setting Expectations
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#SettingExpectations)
 
 Before you assemble a group around a game table, pitch the adventures you’re thinking about running to your prospective players. Note the in-world conflicts that might arise, the setting’s overall tone, and the themes you’d like to explore. (The “[Every DM Is Unique](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#EveryDMIsUnique)” section earlier in this chapter can help you describe your game to others.)
 
@@ -598,23 +601,23 @@ Being clear about your expectations and making sure you understand your players�
 ![Expectations](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-005.game-expectations-sheet.jpg)
 [Downloadable PDF](https://media.dndbeyond.com/compendium-images/free-rules/dmg/game-expectations-sheet.pdf)
 
-Using the Game Expectations Sheet
-
-The [Game Expectations](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#GameExpectationsSheet) tracking sheet is a tool you can use to set expectations at the start of a game and ensure the game is fun for everyone.
-
-Before distributing the sheet to players, fill in the two topmost boxes:
-
-**Game Theme and Flavor.** In this box, broadly describe the direction you envision for your game. See the “Setting Expectations” section for the kinds of information to include here.
-
-**Potentially Sensitive Elements.** If you know that some elements of the game might run up against some players’ limits, list those elements in this box. See the “Hard and Soft Limits” section for examples.
-
-Once the above information is added, give a copy of the sheet to each player. Players can fill out their sheets anonymously, but ask each of them to add the following information:
-
-**Limits.** Using an **X** for a hard limit or a question mark for a soft limit, indicate any potentially sensitive elements that are problematic. Add any other elements to avoid.
-
-**Hopes, Expectations, and Concerns.** In the last two boxes, share any hopes and expectations for the game, and list any concerns about behavior at the table.
-
-Collect all the sheets, and gather your players’ limits into a separate, anonymous document the whole group can access.
+> [!Note] Using the Game Expectations Sheet
+> 
+> The [Game Expectations](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#GameExpectationsSheet) tracking sheet is a tool you can use to set expectations at the start of a game and ensure the game is fun for everyone.
+> 
+> Before distributing the sheet to players, fill in the two topmost boxes:
+> 
+> **Game Theme and Flavor.** In this box, broadly describe the direction you envision for your game. See the “Setting Expectations” section for the kinds of information to include here.
+> 
+> **Potentially Sensitive Elements.** If you know that some elements of the game might run up against some players’ limits, list those elements in this box. See the “Hard and Soft Limits” section for examples.
+> 
+> Once the above information is added, give a copy of the sheet to each player. Players can fill out their sheets anonymously, but ask each of them to add the following information:
+> 
+> **Limits.** Using an **X** for a hard limit or a question mark for a soft limit, indicate any potentially sensitive elements that are problematic. Add any other elements to avoid.
+> 
+> **Hopes, Expectations, and Concerns.** In the last two boxes, share any hopes and expectations for the game, and list any concerns about behavior at the table.
+> 
+> Collect all the sheets, and gather your players’ limits into a separate, anonymous document the whole group can access.
 
 #### Hard and Soft Limits
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#HardandSoftLimits)
@@ -664,13 +667,13 @@ If you can’t tell which of these dynamics is in play, have a conversation with
 
 Your players need to know from the start that you’ll run a game that is fun, fair, and tailored for them; that you’ll allow each of them to contribute to the story; and that you’ll pay attention to them when they take their turns. Your players also count on you to make sure an adventure’s threats don’t target them personally. Never make players feel uncomfortable or threatened.
 
-Do You Really Do That?
-
-Can players retract what they just said their characters did? Some DMs take a hard-line position: “If you said it, your character did it.” Such a strict position tends to make players much more careful about what they say, which can dampen the atmosphere and discourage humor.
-
-Other DMs let players change their minds freely. This creates a more relaxed mood at the table, which might slow the pace of the game.
-
-A common compromise is to rule that players can retract or change anything their characters did up until the point they learn the consequences of their actions. Once you describe what happens as a result, it’s too late for the players to change their minds.
+> [!Note] Do You Really Do That?
+> 
+> Can players retract what they just said their characters did? Some DMs take a hard-line position: “If you said it, your character did it.” Such a strict position tends to make players much more careful about what they say, which can dampen the atmosphere and discourage humor.
+> 
+> Other DMs let players change their minds freely. This creates a more relaxed mood at the table, which might slow the pace of the game.
+> 
+> A common compromise is to rule that players can retract or change anything their characters did up until the point they learn the consequences of their actions. Once you describe what happens as a result, it’s too late for the players to change their minds.
 
 #### Sharing the Spotlight
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#SharingtheSpotlight)
@@ -777,11 +780,10 @@ Setting clear expectations is essential when dealing with this kind of rules exp
 
 Outlining these principles can help hold players’ exploits at bay. If a player persistently tries to twist the rules of the game, have a conversation with that player outside the game and ask them to stop.
 
-Knowing the Rules
-
-You don’t have to be an expert on the rules to be a good DM. Of course it’s helpful to be familiar with the rules, especially the ones in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024), but facilitating fun is more important than implementing the rules perfectly. If you’re not sure how to apply the rules in a situation, you can always ask the opinion of the players as a group. It might take a few minutes, but it’s usually possible to reach an answer that feels fair to everyone, and that’s more important than a “correct” answer.
-
-You don’t need to know every spell in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) or the features of every class. Set the expectation that players are responsible for telling you what their abilities and spells do.
+> [!Note] Knowing the Rules
+> You don’t have to be an expert on the rules to be a good DM. Of course it’s helpful to be familiar with the rules, especially the ones in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024), but facilitating fun is more important than implementing the rules perfectly. If you’re not sure how to apply the rules in a situation, you can always ask the opinion of the players as a group. It might take a few minutes, but it’s usually possible to reach an answer that feels fair to everyone, and that’s more important than a “correct” answer.
+>
+>You don’t need to know every spell in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) or the features of every class. Set the expectation that players are responsible for telling you what their abilities and spells do.
 
 ###  Rules for the Virtual Table
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#RulesfortheVirtualTable)
