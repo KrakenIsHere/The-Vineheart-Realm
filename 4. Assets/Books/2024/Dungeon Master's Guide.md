@@ -326,8 +326,9 @@ These pages present a short example of play, similar to the ones in the [Player
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
 
 > [!multi-column] Example
- >  
+>  
 > > [!example]+ Events
+> > 
 > > **Jared (as DM):** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?
 > > 
 > > **Amy:** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.
@@ -447,6 +448,7 @@ The DM starts by asking the players to recap the action of the previous session,
 > > **Jared:** Yeah, the last shrub is incinerated. Well done!
 >
 > > [!Important]+ Art by Brian Valeza
+> > 
 > > ![Brian Valeza](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-004.cave-entrance.png)
 > > Sinister shapes lurk near the cave entrance as the adventurers approach
 > > 
