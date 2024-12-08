@@ -1,14 +1,14 @@
-// plugins/multiColumn.ts
+// quartz/plugins/transformers/multi-column.ts
 import { QuartzTransformerPlugin } from "../types"
 import { Root } from "mdast"
 import { visit } from "unist-util-visit"
 
-interface MultiColumnOptions {
+interface Options {
   defaultColumnCount?: number
   defaultGap?: string
 }
 
-const defaultOptions: MultiColumnOptions = {
+const defaultOptions: Options = {
   defaultColumnCount: 2,
   defaultGap: "2em"
 }
@@ -26,7 +26,7 @@ function parseColumnSettings(text: string): Record<string, string> {
   return settings
 }
 
-export default function MultiColumn(userOptions: Partial<MultiColumnOptions> = {}): QuartzTransformerPlugin {
+export const MultiColumn: QuartzTransformerPlugin<Partial<Options>> = (userOptions: Partial<Options> = {}) => {
   const options = { ...defaultOptions, ...userOptions }
 
   return {
@@ -71,7 +71,6 @@ export default function MultiColumn(userOptions: Partial<MultiColumnOptions> = {
               inMultiColumn = false
               toRemove.push(index)
 
-              // Create wrapper element
               const columnCount = parseInt(currentSettings.number_of_columns) || options.defaultColumnCount
               const largestColumn = currentSettings.largest_column || "left"
 
