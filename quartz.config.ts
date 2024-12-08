@@ -56,7 +56,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
-      Plugin.MultiColumnPlugin({
+      Plugin.MultiColumn({
         defaultColumnCount: 2,
         defaultGap: "2em"
       }),
