@@ -26,11 +26,11 @@ function parseColumnSettings(text: string): Record<string, string> {
   return settings
 }
 
-export default function MultiColumnPlugin(userOptions: Partial<MultiColumnOptions> = {}): QuartzTransformerPlugin {
+export default function MultiColumn(userOptions: Partial<MultiColumnOptions> = {}): QuartzTransformerPlugin {
   const options = { ...defaultOptions, ...userOptions }
 
   return {
-    name: "MultiColumnPlugin",
+    name: "MultiColumn",
     markdownPlugins() {
       return [
         () => (tree: Root) => {
