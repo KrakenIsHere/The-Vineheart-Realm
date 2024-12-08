@@ -1,5 +1,6 @@
 # Chapter 1: The Basics
 
+Art by Luca Bancone
 ![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-001.magic-game-table.png)
 
 
@@ -155,63 +156,44 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 #### Battle Grid and Miniatures
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#BattleGridandMiniatures)
 
---- start-multi-column:  
-```column-settings  
-number of columns: 2  
-largest column: left  
-```
-
-Some DMs use a battle grid and miniatures to run combat encounters, which helps players visualize scenes when playing in person. A vinyl wet-erase mat with a printed grid, a gridded whiteboard, a cutting mat, a large sheet of gridded paper, or a printed poster map—any of these can serve as a battle grid. The grid should be marked in 1-inch squares.
-
-You also need plastic or metal miniatures to represent characters and monsters in the game, but you can use coins, extra dice, paper counters, or even pieces of candy if miniatures are unavailable.
-
-Many software tools designed to facilitate online D&D play provide a battle grid. Even without such tools, though, many online D&D games use screen sharing in combination with drawing programs, shared whiteboards, or similar tools as simple battle grids. Some DMs are comfortable with software that allows them to control lighting and show the players exactly what they can see; others find that complex software gets in the way of the game. Use whatever works for you and your group.
-
-> [!Info] Card Accessories [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#CardAccessories)
-> Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference.
-
---- end-column ---
-
-![Art by Coupleofkooks](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-002.cocked-die-roll.png)
-
-What do you do when a die lands cocked?
-See the end of this chapter for advice
-
---- end-multi-column
+> [!multi-column] Example
+> > [!Example]+
+> > Some DMs use a battle grid and miniatures to run combat encounters, which helps players visualize scenes when playing in person. A vinyl wet-erase mat with a printed grid, a gridded whiteboard, a cutting mat, a large sheet of gridded paper, or a printed poster map—any of these can serve as a battle grid. The grid should be marked in 1-inch squares.
+> > 
+> > You also need plastic or metal miniatures to represent characters and monsters in the game, but you can use coins, extra dice, paper counters, or even pieces of candy if miniatures are unavailable.
+> > 
+> > Many software tools designed to facilitate online D&D play provide a battle grid. Even without such tools, though, many online D&D games use screen sharing in combination with drawing programs, shared whiteboards, or similar tools as simple battle grids. Some DMs are comfortable with software that allows them to control lighting and show the players exactly what they can see; others find that complex software gets in the way of the game. Use whatever works for you and your group.
+> > 
+> > > [!Info] Card Accessories [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#CardAccessories)
+> > > Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference.
+> 
+> > [!Important]+ Art by Coupleofkooks
+> > ![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-002.cocked-die-roll.png)
+> > 
+> > What do you do when a die lands cocked? See the end of this chapter for advice
 
 ## Preparing a Session
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#PreparingaSession)
 
---- start-multi-column
-```column-settings  
-number of columns: 2  
-largest column: left  
-```
-
-
-The more you prepare before your game, the more smoothly the game will go—to a certain point. To avoid being either under- or overprepared, use the one-hour guideline below and prioritize what to prepare depending on the time you have available.
-
-### The One-Hour Guideline
-[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#TheOneHourGuideline)
-
-A D&D game session usually starts with some out-of-game chatter as everyone settles down to play. Once the session gets underway, most groups can accomplish at least three things during one hour of play, where each “thing” might be any of the following:
-
-- Explore a location such as a chamber in a castle or a cave
-- Converse with an intelligent creature
-- Reach consensus on a divisive issue
-- Solve a tricky riddle or puzzle
-- Survive a deadly trap
-- Fight a low-difficulty combat encounter
-
-A more difficult combat encounter might count as two or three things, and a tense negotiation can use most or all of an hour of play on its own.
-
---- end-column ---
-
-![Dawn Carlos](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-003.zuggtmoy.png)
-
-Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!
-
---- end-multi-column
+> [!multi-column] Prep
+> >The more you prepare before your game, the more smoothly the game will go—to a certain point. To avoid being either under- or overprepared, use the one-hour guideline below and prioritize what to prepare depending on the time you have available.
+> > > [!guide]+
+> > > ### The One-Hour Guideline
+> > > [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#TheOneHourGuideline)
+> > > A D&D game session usually starts with some out-of-game chatter as everyone settles down to play. Once the session gets underway, most groups can accomplish at least three things during one hour of play, where each “thing” might be any of the following:
+> > > 
+> > > - Explore a location such as a chamber in a castle or a cave
+> > > - Converse with an intelligent creature
+> > > - Reach consensus on a divisive issue
+> > > - Solve a tricky riddle or puzzle
+> > > - Survive a deadly trap
+> > > - Fight a low-difficulty combat encounter
+> > > 
+> > > A more difficult combat encounter might count as two or three things, and a tense negotiation can use most or all of an hour of play on its own.
+> 
+> > [!important]+ Art by Dawn Carlos
+> > ![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-003.zuggtmoy.png)
+> > Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!
 
 ### Preparation Time
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#PreparationTime)
@@ -342,159 +324,152 @@ Allow a few minutes at the end of play for everyone to discuss the events of the
 These pages present a short example of play, similar to the ones in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024), to illustrate how everything outlined in the “How to Run a Session” section works in practice. In this example, the Dungeon Master is running an adventure (“[The Fouled Stream](https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-adventures#TheFouledStream)”) from [chapter 4](https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-adventures). The four players are Amy (playing Auro, a Halfling Rogue), Maeve (playing Mirabella, an Elf Wizard), Phillip (playing Gareth, a Human Cleric), and Russell (playing Shreeve, a Goliath Fighter).
 
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
---- start-multi-column:  
-```column-settings  
-number of columns: 2  
-largest column: left  
-```
 
-**Jared (as DM):** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?
-
-**Amy:** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.
-
-**Russell:** So we set out and followed the river upstream. At the first fork, we met a treant named Borogrove who pointed us to a cave that was the source of the polluted stream.
-
-**Amy:** Before he wandered off, he gave us a magic acorn, and that’s where we ended last week.
-
-**Jared:** So now you’re in this gloomy forest. Dry leaves rustle under your feet. You’re still beside the stream, which looks murky and unwholesome beneath the shadowy trees. What do you want to do now?
-
-**Russell (as Shreeve):** We continue upstream? _(The others nod.)_
-
-**Jared:** OK, you make your way upstream for about another hour. The farther you go, the murkier and stinkier the water becomes. Rounding a bend, you can see a cave in the hillside ahead of you. The stream tumbles from the cave mouth. There are withered shrubs clumped around the cave, apparently poisoned by this nasty water.
-
-**Phillip (as Gareth):** Into the cave!
-
-> [!Info] 1
-
-**Jared:** Who’s leading the way?
-
-**Russell:** I’ll go first.
-
-
-> [!Info] 2
-
-**Jared:** The cave entrance is ten feet wide, with the stream running right down the middle. Do you want to go single file or two abreast?
-
-**Phillip:** I don’t love the idea of stepping across the stream. Let’s go single file, staying on this side of the water. _(Everyone else agrees.)_
-
-**Jared:** OK, who’s second?
-
-**Phillip:** Gareth will go second.
-
-**Maeve (as Mirabella):** I’ll be third in line.
-
-**Amy (as Auro):** I’ll make sure nothing’s following us.
-
-**Jared:** OK, Shreeve, as you reach the cave mouth, you hear the shrubs rustling.
-
-**Russell:** Oh, I should’ve checked to make sure nothing was hiding in the shrubs!
-
-> [!Info] 3
-
-**Jared:** In fact, the shrubs themselves are moving. They’re not rooted at all—each one has two little legs and sharp claws! Everyone, roll Initiative.
-
-**Russell:** How many shrubs are attacking?
-
-**Jared:** Six. Auro, what’s your Initiative?
-
-**Amy:** I got a 14.
-
-**Russell:** Shreeve goes on 5.
-
-**Maeve:** A natural 20 gives me a 21!
-
-**Phillip:** 19 for Gareth.
-
-**Jared:** Mirabella, you’re first. What do you do?
-
-**Maeve:** How many of these walking bundles of kindling can I get in a 15-foot Cone?
-
-> [!Info] 4
-
-**Jared:** There are three on your side of the stream and three on the other side. You can get either group in your Cone.
-
-**Maeve:** Mirabella puts her thumbs together and wiggles her fingertips. _(Maeve mimics this action.)_ Fire shoots out from her fingers, catching the ones on our side of the stream. _Burning Hands_!
-
-> [!Info] 5
-
-**Jared:** OK, what do I need to do?
-
-**Maeve:** The shrub things need to make Dexterity saving throws. The DC is 14.
-
-> [!Info] 6
-
-**Jared:** And how much damage do they take?
-
-**Maeve:** _(Maeve rolls 3d6 for the spell’s damage.)_ 13 Fire damage if they fail the save, 6 if they succeed.
-
-**Jared:** Magical fire tears through them and leaves smears of ash behind! Anything else, Mirabella?
-
-**Maeve:** My work here is done. _(She mimes blowing smoke away from her fingertips.)_
-
-**Jared:** Gareth, you’re up next.
-
-**Phillip:** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting _Toll the Dead_. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.
-
-**Jared:** Well, I rolled a 1.
-
-**Phillip:** It takes 7 Necrotic damage!
-
-**Jared:** Whatever moisture was in this “bundle of kindling” seems to dry up, and the thing keels over dead. Anything else, Gareth?
-
-**Phillip:** He glares menacingly at the other shrubs.
-
-**Jared:** OK, their turn. One skitters toward Mirabella!
-
-> [!Info] 7
-
-**Russell:** Can I interject myself between it and Mirabella?
-
-**Jared:** Sure, I’ll allow it. You step into the monster’s path and... _(The DM makes an attack roll for the monster but rolls a 7, which isn’t going to hit.)_ It tears at your cloak but fails to wound you. The other one has lost any interest in fighting, and it starts running away. Now it’s Auro’s turn.
-
-**Amy:** Auro looks at the one that just attacked Shreeve and pulls out his dagger. I get a 23 to hit!
-
-**Jared:** That hits! What’s your damage?
-
-**Amy:** Since Shreeve is next to it, I can use my Sneak Attack! The shrub takes 12 Piercing damage.
-
-**Jared:** It’s felled! Mirabella, the last one is running away. Will you let it escape?
-
-**Maeve:** I think Borogrove would be disappointed in us if we let it escape into the woods. I’ll cast _Fire Bolt_, getting a 14 to hit.
-
-**Jared:** You nailed it.
-
-**Maeve:** It takes 10 Fire damage!
-
-**Jared:** Yeah, the last shrub is incinerated. Well done!
-
---- end-column ---
-
-![Brian Valeza](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-004.cave-entrance.png)
-Sinister shapes lurk near the cave entrance as the adventurers approach
-
-> [!Info] 1
->The DM knows something the players don’t: the withered shrubs are actually monsters. It’s important to establish which characters are closest to the hidden monsters.
-
-> [!Info] 2
-> By asking the players to choose their characters’ marching order, the DM cleverly pivots away from the withered shrubs. The players don’t realize their characters are in danger, and the DM is waiting for the right time to reveal the hidden monsters.
-
-> [!Info] 3
-> The DM rolls [Initiative](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Initiative) just once for all six monsters and writes down that they’ll go on Initiative count 17. The DM then goes around the table to get each player’s Initiative roll. See the “[Running Combat](https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game#RunningCombat)” section in [chapter 2](https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game) for advice about rolling and tracking Initiative.
-
-> [!Info] 4
-> The DM doesn’t have the exact positions of the monsters mapped out on a grid, but it’s fair to assume that they’re clumped close together as they move to attack the characters.
-
-> [!Info] 5
-> It’s always fair for the DM to expect players to explain what their spells and abilities do. The DM has enough to keep track of!
-
-> [!Info] 6
-> Asking for the spell’s damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [Vulnerability](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Vulnerability) to Fire damage (because they’re just dry shrubs) and so few [Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HitPoints) that they’ll die no matter what they roll.
-
-
-> [!Info] 7
-> It’s not Shreeve’s turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster’s attack because it gives Shreeve a fun heroic moment. The DM changes the monster’s target to Shreeve and makes an attack roll.
-
---- end-multi-column
+> [!multi-column] Example
+ >  
+> > [!example]+ Events
+> > **Jared (as DM):** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?
+> > 
+> > **Amy:** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.
+> > 
+> > **Russell:** So we set out and followed the river upstream. At the first fork, we met a treant named Borogrove who pointed us to a cave that was the source of the polluted stream.
+> > 
+> > **Amy:** Before he wandered off, he gave us a magic acorn, and that’s where we ended last week.
+> > 
+> > **Jared:** So now you’re in this gloomy forest. Dry leaves rustle under your feet. You’re still beside the stream, which looks murky and unwholesome beneath the shadowy trees. What do you want to do now?
+> > 
+> > **Russell (as Shreeve):** We continue upstream? _(The others nod.)_
+> > 
+> > **Jared:** OK, you make your way upstream for about another hour. The farther you go, the murkier and stinkier the water becomes. Rounding a bend, you can see a cave in the hillside ahead of you. The stream tumbles from the cave mouth. There are withered shrubs clumped around the cave, apparently poisoned by this nasty water.
+> > 
+> > **Phillip (as Gareth):** Into the cave!
+> > 
+> > > [!Info] 1
+> >
+> > **Jared:** Who’s leading the way?
+> >
+> > **Russell:** I’ll go first.
+> > 
+> > > [!Info] 2
+> >
+> > **Jared:** The cave entrance is ten feet wide, with the stream running right down the middle. Do you want to go single file or two abreast?
+> > 
+> > **Phillip:** I don’t love the idea of stepping across the stream. Let’s go single file, staying on this side of the water. _(Everyone else agrees.)_
+> > 
+> > **Jared:** OK, who’s second?
+> > 
+> > **Phillip:** Gareth will go second.
+> > 
+> > **Maeve (as Mirabella):** I’ll be third in line.
+> > 
+> > **Amy (as Auro):** I’ll make sure nothing’s following us.
+> > 
+> > **Jared:** OK, Shreeve, as you reach the cave mouth, you hear the shrubs rustling.
+> > 
+> > **Russell:** Oh, I should’ve checked to make sure nothing was hiding in the shrubs!
+> > 
+> > > [!Info] 3
+> >
+> > **Jared:** In fact, the shrubs themselves are moving. They’re not rooted at all—each one has two little legs and sharp claws! Everyone, roll Initiative.
+> > 
+> > **Russell:** How many shrubs are attacking?
+> > 
+> > **Jared:** Six. Auro, what’s your Initiative?
+> > 
+> > **Amy:** I got a 14.
+> > 
+> > **Russell:** Shreeve goes on 5.
+> > 
+> > **Maeve:** A natural 20 gives me a 21!
+> > 
+> > **Phillip:** 19 for Gareth.
+> > 
+> > **Jared:** Mirabella, you’re first. What do you do?
+> > 
+> > **Maeve:** How many of these walking bundles of kindling can I get in a 15-foot Cone?
+> > 
+> > > [!Info] 4
+> > 
+> >**Jared:** There are three on your side of the stream and three on the other side. You can get either group in your Cone.
+> > 
+> > **Maeve:** Mirabella puts her thumbs together and wiggles her fingertips. _(Maeve mimics this action.)_ Fire shoots out from her fingers, catching the ones on our side of the stream. _Burning Hands_!
+> > 
+> > > [!Info] 5
+> > 
+> > **Jared:** OK, what do I need to do?
+> > 
+> > **Maeve:** The shrub things need to make Dexterity saving throws. The DC is 14.
+> > 
+> > > [!Info] 6
+> > 
+> > **Jared:** And how much damage do they take?
+> > 
+> > **Maeve:** _(Maeve rolls 3d6 for the spell’s damage.)_ 13 Fire damage if they fail the save, 6 if they succeed.
+> > 
+> > **Jared:** Magical fire tears through them and leaves smears of ash behind! Anything else, Mirabella?
+> > 
+> > **Maeve:** My work here is done. _(She mimes blowing smoke away from her fingertips.)_
+> > 
+> > **Jared:** Gareth, you’re up next.
+> > 
+> > **Phillip:** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting _Toll the Dead_. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.
+> > 
+> > **Jared:** Well, I rolled a 1.
+> > 
+> > **Phillip:** It takes 7 Necrotic damage!
+> > 
+> > **Jared:** Whatever moisture was in this “bundle of kindling” seems to dry up, and the thing keels over dead. Anything else, Gareth?
+> > 
+> > **Phillip:** He glares menacingly at the other shrubs.
+> > 
+> > **Jared:** OK, their turn. One skitters toward Mirabella!
+> > 
+> > > [!Info] 7
+> > 
+> > **Russell:** Can I interject myself between it and Mirabella?
+> > 
+> > **Jared:** Sure, I’ll allow it. You step into the monster’s path and... _(The DM makes an attack roll for the monster but rolls a 7, which isn’t going to hit.)_ It tears at your cloak but fails to wound you. The other one has lost any interest in fighting, and it starts running away. Now it’s Auro’s turn.
+> > 
+> > **Amy:** Auro looks at the one that just attacked Shreeve and pulls out his dagger. I get a 23 to hit!
+> > 
+> > **Jared:** That hits! What’s your damage?
+> > 
+> > **Amy:** Since Shreeve is next to it, I can use my Sneak Attack! The shrub takes 12 Piercing damage.
+> > 
+> > **Jared:** It’s felled! Mirabella, the last one is running away. Will you let it escape?
+> > 
+> > **Maeve:** I think Borogrove would be disappointed in us if we let it escape into the woods. I’ll cast _Fire Bolt_, getting a 14 to hit.
+> > 
+> > **Jared:** You nailed it.
+> > 
+> > **Maeve:** It takes 10 Fire damage!
+> > 
+> > **Jared:** Yeah, the last shrub is incinerated. Well done!
+>
+> > [!Important]+ Art by Brian Valeza
+> > ![Brian Valeza](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-004.cave-entrance.png)
+> > Sinister shapes lurk near the cave entrance as the adventurers approach
+> > 
+> > > [!Info] 1
+> > > The DM knows something the players don’t: the withered shrubs are actually monsters. It’s important to establish which characters are closest to the hidden monsters.
+> > 
+> > > [!Info] 2
+> > > By asking the players to choose their characters’ marching order, the DM cleverly pivots away from the withered shrubs. The players don’t realize their characters are in danger, and the DM is waiting for the right time to reveal the hidden monsters.
+> > 
+> > > [!Info] 3
+> > > The DM rolls [Initiative](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Initiative) just once for all six monsters and writes down that they’ll go on Initiative count 17. The DM then goes around the table to get each player’s Initiative roll. See the “[Running Combat](https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game#RunningCombat)” section in [chapter 2](https://www.dndbeyond.com/sources/dnd/dmg-2024/running-the-game) for advice about rolling and tracking Initiative.
+> > 
+> > > [!Info] 4
+> > > The DM doesn’t have the exact positions of the monsters mapped out on a grid, but it’s fair to assume that they’re clumped close together as they move to attack the characters.
+> > 
+> > > [!Info] 5
+> > > It’s always fair for the DM to expect players to explain what their spells and abilities do. The DM has enough to keep track of!
+> > 
+> > > [!Info] 6
+> > > Asking for the spell’s damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [Vulnerability](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Vulnerability) to Fire damage (because they’re just dry shrubs) and so few [Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HitPoints) that they’ll die no matter what they roll.
+> > 
+> > > [!Info] 7
+> > > It’s not Shreeve’s turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster’s attack because it gives Shreeve a fun heroic moment. The DM changes the monster’s target to Shreeve and makes an attack roll.
 
 ## Every DM Is Unique
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#EveryDMIsUnique)
