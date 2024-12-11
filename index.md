@@ -10,18 +10,7 @@ tags:
 ## World
 
 The realm consists of 4 main continents, and many islands.
-```leaflet
-id: "Vineheart"
-image: [The Vineheart Realm V0.6.jpg]
-height: 600px
-minZoom: 18
-maxZoom: 20
-defaultZoom: 18
-unit: m
-scale: 3
-darkMode: false
-
-```
+![[The Vineheart Realm V0.6.jpg]]
 
 ## Story
 
