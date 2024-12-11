@@ -156,21 +156,7 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 #### Battle Grid and Miniatures
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#BattleGridandMiniatures)
 
-> [!multi-column] Example
-> > [!Example]+
-> > Some DMs use a battle grid and miniatures to run combat encounters, which helps players visualize scenes when playing in person. A vinyl wet-erase mat with a printed grid, a gridded whiteboard, a cutting mat, a large sheet of gridded paper, or a printed poster map—any of these can serve as a battle grid. The grid should be marked in 1-inch squares.
-> > 
-> > You also need plastic or metal miniatures to represent characters and monsters in the game, but you can use coins, extra dice, paper counters, or even pieces of candy if miniatures are unavailable.
-> > 
-> > Many software tools designed to facilitate online D&D play provide a battle grid. Even without such tools, though, many online D&D games use screen sharing in combination with drawing programs, shared whiteboards, or similar tools as simple battle grids. Some DMs are comfortable with software that allows them to control lighting and show the players exactly what they can see; others find that complex software gets in the way of the game. Use whatever works for you and your group.
-> > 
-> > > [!Info] Card Accessories [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#CardAccessories)
-> > > Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference.
-> 
-> > [!Important]+ Art by Coupleofkooks
-> > ![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-002.cocked-die-roll.png)
-> > 
-> > What do you do when a die lands cocked? See the end of this chapter for advice
+<div class="container"> <div class="content"> <div class="example-header"> ≡ Example <span class="chevron">›</span> </div> <p> Some DMs use a battle grid and miniatures to run combat encounters, which helps players visualize scenes when playing in person. A vinyl wet-erase mat with a printed grid, a gridded whiteboard, a cutting mat, a large sheet of gridded paper, or a printed poster map—any of these can serve as a battle grid. The grid should be marked in 1-inch squares. </p> <p> You also need plastic or metal miniatures to represent characters and monsters in the game, but you can use coins, extra dice, paper counters, or even pieces of candy if miniatures are unavailable. </p> <p> Many software tools designed to facilitate online D&D play provide a battle grid. Even without such tools, though, many online D&D games use screen sharing in combination with drawing programs, shared whiteboards, or similar tools as simple battle grids. Some DMs are comfortable with software that allows them to control lighting and show the players exactly what they can see; others find that complex software gets in the way of the game. Use whatever works for you and your group. </p> <div class="card-accessories"> <span class="link-text"> Card Accessories <a href="https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#CardAccessories">LINK</a></span> <p> Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference. </p> </div> </div> <div class="artwork"> <div class="artwork-header">Art by Coupleofkooks <span class="chevron">›</span> </div> <img src="https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-002.cocked-die-roll.png" alt="Dragon-like creature with a d20 die"> <p class="caption"> What do you do when a die lands cocked? See the end of this chapter for advice </p> </div> </div>
 
 ## Preparing a Session
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#PreparingaSession)
@@ -327,7 +313,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 > [!multi-column] Example
 >  
-> > [!example]+ Events
+> > [!example|wide-6]+ Events
 > > 
 > > **Jared (as DM):** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?
 > > 
@@ -447,7 +433,7 @@ The DM starts by asking the players to recap the action of the previous session,
 > > 
 > > **Jared:** Yeah, the last shrub is incinerated. Well done!
 >
-> > [!Important]+ Art by Brian Valeza
+> > [!Important|min-0]+ Art by Brian Valeza
 > > 
 > > ![Brian Valeza](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-004.cave-entrance.png)
 > > Sinister shapes lurk near the cave entrance as the adventurers approach
