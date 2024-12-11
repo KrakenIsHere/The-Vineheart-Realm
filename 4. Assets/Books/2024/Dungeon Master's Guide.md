@@ -184,9 +184,9 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 
 <div class="container">
 	<div class="">
-			<p>The more you prepare before your game, the more smoothly the game will go—to a certain point. To avoid being either under- or overprepared, use the one-hour guideline below and prioritize what to prepare depending on the time you have available.</p>
-			<br/>
-			<div class="card-inner">
+		<p>The more you prepare before your game, the more smoothly the game will go—to a certain point. To avoid being either under- or overprepared, use the one-hour guideline below and prioritize what to prepare depending on the time you have available.</p>
+		<br/>
+		<div class="card-inner">
 			<span class="header-inner"> The One-Hour Guideline
 				<a class="text-link" href="https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#TheOneHourGuideline">LINK</a>
 			</span>
@@ -200,7 +200,13 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 				<li>Fight a low-difficulty combat encounter</li> 
 			</ul>
 			<p>A more difficult combat encounter might count as two or three things, and a tense negotiation can use most or all of an hour of play on its own. </p>
-		</div> 
+		</div>
+		<br/>
+		<br/>
+		<div class="header-left">TLDR</div>
+		<p> plan for about three significant events or encounters per hour of play time, adjusting for complexity.</p>
+		 <p>Combat encounters, puzzles, exploration, social interactions, and problem-solving can each count as one "event," though particularly challenging situations may take longer.</p>
+		 <p>This guideline helps you pace your game session effectively without over- or under-preparing content.</p>
 	</div>
 	
 	 <div class="card-right">
