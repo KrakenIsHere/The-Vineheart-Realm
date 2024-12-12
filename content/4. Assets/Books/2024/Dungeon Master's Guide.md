@@ -175,6 +175,8 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 		 <p class="caption"> What do you do when a die lands cocked?</p>
 		 <p class="caption2"> See the end of this chapter for advice </p>
 	 </div>
+	 <br/>
+	 <br/>
  </div>
 
 ## Preparing a Session
@@ -204,12 +206,13 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 		 <p>Combat encounters, puzzles, exploration, social interactions, and problem-solving can each count as one "event," though particularly challenging situations may take longer.</p>
 		 <p>This guideline helps you pace your game session effectively without over- or under-preparing content.</p>
 	</div>
-
 	 <div class="card-right">
 		 <div class="header-right">Art by Dawn Carlos</div>
 		 <img src="https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-003.zuggtmoy.png">
 		 <p class="caption">Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!</p>
 	 </div>
+	 <br/>
+	 <br/>
  </div>
 
 ### Preparation Time
@@ -347,21 +350,13 @@ The DM starts by asking the players to recap the action of the previous session,
 		<div class="header-left">Example</div>
 			<br/>
 			<p><b>Jared (as DM):</b> Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?</p>
-			
 			<p><b>Amy:</b> We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.<p>
-			
 			<p><b>Russell:</b> So we set out and followed the river upstream. At the first fork, we met a treant named Borogrove who pointed us to a cave that was the source of the polluted stream.</p>
-			
 			<p><b>Amy:</b> Before he wandered off, he gave us a magic acorn, and that’s where we ended last week.</p>
-			
 			<p><b>Jared:</b> So now you’re in this gloomy forest. Dry leaves rustle under your feet. You’re still beside the stream, which looks murky and unwholesome beneath the shadowy trees. What do you want to do now?</p>
-			
 			<p><b>Russell (as Shreeve):</b> We continue upstream? <i>(The others nod.)</i></p>
-			
 			<p><b>Jared:</b> OK, you make your way upstream for about another hour. The farther you go, the murkier and stinkier the water becomes. Rounding a bend, you can see a cave in the hillside ahead of you. The stream tumbles from the cave mouth. There are withered shrubs clumped around the cave, apparently poisoned by this nasty water.</p>
-			
 			<p><b>Phillip (as Gareth):</b> Into the cave!</p>
-			
 			<br/>
 			<br/>
 			<br/>
@@ -371,31 +366,21 @@ The DM starts by asking the players to recap the action of the previous session,
 				<span class="header-inner">1</span>
 			</div>
 			<br/>
-			
 			<p><b>Jared:</b> Who’s leading the way?</p>
 			<p><b>Russell:</b> I’ll go first.</p>
-			
 			<br/>
 			<div class="card-inner">
 				<span class="header-inner">2</span>
 			</div>
 			<br/>
-			
 			<p><b>Jared:</b> The cave entrance is ten feet wide, with the stream running right down the middle. Do you want to go single file or two abreast?</p>
 			<p><b>Phillip:</b> I don’t love the idea of stepping across the stream. Let’s go single file, staying on this side of the water. <i>(Everyone else agrees.)</i></p>
-			
 			<p><b>Jared:</b> OK, who’s second?</p>
-			
 			<p><b>Phillip:</b> Gareth will go second.</p>
-			
 			<p><b>Maeve (as Mirabella):</b> I’ll be third in line.</p>
-			 
 			<p><b>Amy (as Auro):</b> I’ll make sure nothing’s following us.</p>
-			 
 			<p><b>Jared:</b> OK, Shreeve, as you reach the cave mouth, you hear the shrubs rustling.</p>
-			 
 			<p><b>Russell:</b> Oh, I should’ve checked to make sure nothing was hiding in the shrubs!</p>
-			
 			<br/>
 			<br/>
 			<div class="card-inner">
@@ -403,109 +388,69 @@ The DM starts by asking the players to recap the action of the previous session,
 			</div>
 			<br/>
 			<br/>
-			
 			<p><b>Jared:</b> In fact, the shrubs themselves are moving. They’re not rooted at all—each one has two little legs and sharp claws! Everyone, roll Initiative.</p>
-			 
 			<p><b>Russell:</b> How many shrubs are attacking?</p>
-			 
 			<p><b>Jared:</b> Six. Auro, what’s your Initiative?</p>
-			 
 			<p><b>Amy:</b> I got a 14.</p>
-			 
 			<p><b>Russell:</b> Shreeve goes on 5.</p>
-			 
 			<p><b>Maeve:</b> A natural 20 gives me a 21!</p>
-			 
 			<p><b>Phillip:</b> 19 for Gareth.</p>
-			 
 			<p><b>Jared:</b> Mirabella, you’re first. What do you do?</p>
-			 
 			<p><b>Maeve:</b> How many of these walking bundles of kindling can I get in a 15-foot Cone?</p>
-			
 			 <br/>
 			<div class="card-inner">
 				<span class="header-inner">4</span>
 			</div>
 			 <br/>
-			 
 			<p><b>Jared:</b> There are three on your side of the stream and three on the other side. You can get either group in your Cone.</p>
-			 
 			<p><b>Maeve:</b> Mirabella puts her thumbs together and wiggles her fingertips. _(Maeve mimics this action.)_ Fire shoots out from her fingers, catching the ones on our side of the stream. <i>Burning Hands</i>!</p>
-			
 			 <br/>
 			<div class="card-inner">
 				<span class="header-inner">5</span>
 			</div>
 			 <br/>
-			 
 			<p><b>Jared:</b> OK, what do I need to do?</p>
-			 
 			<p><b>Maeve:</b> The shrub things need to make Dexterity saving throws. The DC is 14.</p>
-			
 			 <br/>
 			<div class="card-inner">
 				<span class="header-inner">6</span>
 			</div>
 			 <br/>
-			 
 			<p><b>Jared:</b> And how much damage do they take?</p>
-			 
 			<p><b>Maeve:</b> <i>(Maeve rolls 3d6 for the spell’s damage.)</i> 13 Fire damage if they fail the save, 6 if they succeed.</p>
-			 
 			<p><b>Jared:</b> Magical fire tears through them and leaves smears of ash behind! Anything else, Mirabella?</p>
-			 
 			<p><b>Maeve:</b> My work here is done. <i>(She mimes blowing smoke away from her fingertips.)</i></p>
-			 
 			<p><b>Jared:</b> Gareth, you’re up next.</p>
-			 
 			<p><b>Phillip:</b> Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting <i>Toll the Dead</i>. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.</p>
-			 
 			<p><b>Jared:</b> Well, I rolled a 1.</p>
-			 
 			<p><b>Phillip:</b> It takes 7 Necrotic damage!</p>
-			 
 			<p><b>Jared:</b> Whatever moisture was in this “bundle of kindling” seems to dry up, and the thing keels over dead. Anything else, Gareth?</p>
-			 
 			<p><b>Phillip:</b> He glares menacingly at the other shrubs.</p>
-			 
 			<p><b>Jared:</b> OK, their turn. One skitters toward Mirabella!</p>
-			
 			 <br/>
 			<div class="card-inner">
 				<span class="header-inner">7</span>
 			</div>
 			 <br/>
-			 
 			<p><b>Russell:</b> Can I interject myself between it and Mirabella?</p>
-			 
 			<p><b>Jared:</b> Sure, I’ll allow it. You step into the monster’s path and... <i>(The DM makes an attack roll for the monster but rolls a 7, which isn’t going to hit.)</i> It tears at your cloak but fails to wound you. The other one has lost any interest in fighting, and it starts running away. Now it’s Auro’s turn.</p>
-			 
 			<p><b>Amy:</b> Auro looks at the one that just attacked Shreeve and pulls out his dagger. I get a 23 to hit!</p>
-			 
 			<p><b>Jared:</b> That hits! What’s your damage?</p>
-			 
 			<p><b>Amy:</b> Since Shreeve is next to it, I can use my Sneak Attack! The shrub takes 12 Piercing damage.</p>
-			 
 			<p><b>Jared:</b> It’s felled! Mirabella, the last one is running away. Will you let it escape?</p>
-			 
 			<p><b>Maeve:</b> I think Borogrove would be disappointed in us if we let it escape into the woods. I’ll cast <i>Fire Bolt</i>, getting a 14 to hit.</p>
-			 
 			<p><b>Jared:</b> You nailed it.</p>
-			 
 			<p><b>Maeve:</b> It takes 10 Fire damage!</p>
-			 
 			<p><b>Jared:</b> Yeah, the last shrub is incinerated. Well done!</p>
 		</div>
 		<div class="card-right">
 			 <div class="header-right">Art by Brian Valeza</div>
 			 <img src="https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-004.cave-entrance.png">
 			 <p class="caption"> Sinister shapes lurk near the cave entrance as the adventurers approach</p>
-			
 			<div class="card-inner">
 				<span class="header-inner">1</span> 
 				<p>The DM knows something the players don’t: the withered shrubs are actually monsters. It’s important to establish which characters are closest to the hidden monsters.</p>
 			</div>
-			
 			<div class="card-inner">
 				<span class="header-inner">2</span>
 				<p>By asking the players to choose their characters’ marching order, the DM cleverly pivots away from the withered shrubs. The players don’t realize their characters are in danger, and the DM is waiting for the right time to reveal the hidden monsters.</p>
@@ -576,6 +521,8 @@ The DM starts by asking the players to recap the action of the previous session,
 				 <p>It’s not Shreeve’s turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster’s attack because it gives Shreeve a fun heroic moment. The DM changes the monster’s target to Shreeve and makes an attack roll.</p>
 			 </div>
 	 </div>
+	 <br/>
+	 <br/>
  </div>
 
 
