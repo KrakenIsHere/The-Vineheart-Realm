@@ -164,13 +164,11 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 			<p> Many software tools designed to facilitate online D&D play provide a battle grid. Even without such tools, though, many online D&D games use screen sharing in combination with drawing programs, shared whiteboards, or similar tools as simple battle grids. Some DMs are comfortable with software that allows them to control lighting and show the players exactly what they can see; others find that complex software gets in the way of the game. Use whatever works for you and your group. </p> 
 			<br/>
 			<div class="card-inner">
-			<span class="header-inner"> Card Accessories 
-				<a class="text-link" href="https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#CardAccessories">LINK</a>
-			</span>
+			<h5> Card Accessories </h5>
+			<a class="text-link" href="https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#CardAccessories">LINK</a>
 			<p> Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference. </p>
 		</div> 
 	</div>
-	
 	 <div class="card-right">
 		 <div class="header-right">Art by Coupleofkooks</div>
 		 <img src="https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-002.cocked-die-roll.png" alt="Dragon-like creature with a d20 die">
@@ -187,9 +185,8 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 		<p>The more you prepare before your game, the more smoothly the game will go—to a certain point. To avoid being either under- or overprepared, use the one-hour guideline below and prioritize what to prepare depending on the time you have available.</p>
 		<br/>
 		<div class="card-inner">
-			<span class="header-inner"> The One-Hour Guideline
-				<a class="text-link" href="https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#TheOneHourGuideline">LINK</a>
-			</span>
+			<h3>The One-Hour Guideline</h3>
+			<a class="text-link" href="https://www.dndbeyond.com/sources/dnd/dmg-2024/the-basics#TheOneHourGuideline">LINK</a>
 			<p> A D&D game session usually starts with some out-of-game chatter as everyone settles down to play. Once the session gets underway, most groups can accomplish at least three things during one hour of play, where each “thing” might be any of the following: </p> 
 			<ul>
 				<li>Explore a location such as a chamber in a castle or a cave</li> 
@@ -203,7 +200,6 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 		</div>
 		<br/>
 		<br/>
-		<div class="header-left">TLDR</div>
 		<p> plan for about three significant events or encounters per hour of play time, adjusting for complexity.</p>
 		 <p>Combat encounters, puzzles, exploration, social interactions, and problem-solving can each count as one "event," though particularly challenging situations may take longer.</p>
 		 <p>This guideline helps you pace your game session effectively without over- or under-preparing content.</p>
