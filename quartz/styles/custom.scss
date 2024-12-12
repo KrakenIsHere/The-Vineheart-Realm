@@ -9,56 +9,76 @@ iframe {
 }
 
 .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-  }
-  .content {
-    padding: 20px;
-  }
-  .example-header {
-    color: #bb9af7;
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  .chevron {
-    display: inline-block;
-    transform: rotate(90deg);
-  }
-  .card-accessories {
-    background-color: rgba(41, 46, 66, 0.7);
-    padding: 20px;
-    border-radius: 8px;
-    margin-top: 20px;
-  }
-  .link-text {
-    color: #7aa2f7;
-    text-decoration: none;
-  }
-  .artwork {
-    background-color: #1f2335;
-    padding: 20px;
-    border-radius: 8px;
-  }
-  .artwork-header {
-    color: #73daca;
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  .artwork img {
-    max-width: 100%;
-    height: auto;
-  }
-  .caption {
-    color: #a9b1d6;
-    margin-top: 1rem;
-    font-style: italic;
-  }
+	max-width: 1200px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1.2fr 0.80fr;
+	gap: 20px;
+}
+  
+.card-left {
+	background-color: #1f2335;
+	padding: 20px;
+	font-size: 1rem;
+	margin-bottom: 1rem;
+	gap: 0.5rem;
+	padding: 20px;
+	border-radius: 8px;
+	height: 100%;
+}
+
+.header-left {
+	color: #bb9af7;
+	font-size: 1.2rem;
+	margin-bottom: 1rem;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.card-inner {
+	background-color: rgba(41, 53, 66, 0.75);
+	padding: 20px;
+	border-radius: 8px;
+	margin-top: 20px;
+}
+.text-link {
+	text-decoration-line: underline;
+}
+
+.header-inner {
+	color: #7aa2f7;
+}
+
+.card-right {
+	background-color: #1f2335;
+	padding: 20px;
+	border-radius: 8px;
+	height: 100%;
+}
+.header-right {
+	color: #73daca;
+	font-size: 1.2rem;
+	margin-bottom: 1rem;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+.artwork img {
+	max-width: 100%;
+	height: auto;
+}
+.caption {
+	color: #a9b1d6;
+	margin-top: 1rem;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+.caption2 {
+	color: #a9b1d6;
+	margin-top: 1rem;
+	font-style: italic;
+	text-align: center;
+}
