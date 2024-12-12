@@ -204,7 +204,7 @@ Beyond the three core rulebooks, a plethora of additional content is available f
 		 <p>Combat encounters, puzzles, exploration, social interactions, and problem-solving can each count as one "event," though particularly challenging situations may take longer.</p>
 		 <p>This guideline helps you pace your game session effectively without over- or under-preparing content.</p>
 	</div>
-	
+
 	 <div class="card-right">
 		 <div class="header-right">Art by Dawn Carlos</div>
 		 <img src="https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-003.zuggtmoy.png">
@@ -496,8 +496,6 @@ The DM starts by asking the players to recap the action of the previous session,
 			 
 			<p><b>Jared:</b> Yeah, the last shrub is incinerated. Well done!</p>
 		</div>
-			
-			
 		<div class="card-right">
 			 <div class="header-right">Art by Brian Valeza</div>
 			 <img src="https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/00-004.cave-entrance.png">
