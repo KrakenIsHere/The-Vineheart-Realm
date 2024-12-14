@@ -58,7 +58,7 @@ Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **D
 
 #### 2024
 - Players' Handbook
-- [[Dungeon Master's Guide|DM Guide]]
+- [[D.M.G. Chapter 1|DM Guide]]
 - Monster Manual
 
 

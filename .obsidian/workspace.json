@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Assets/Books/2024/Dungeon Master's Guide.md",
+                "file": "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon Master's Guide"
+              "title": "P.H. Chapter 6"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 384.5
   },
   "right": {
     "id": "2266179cb9c35810",
@@ -93,10 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Assets/Books/2024/Dungeon Master's Guide.md"
+                "file": "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 6.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dungeon Master's Guide"
+              "title": "Outline of P.H. Chapter 6"
             }
           },
           {
@@ -177,11 +177,12 @@
               "title": "Outgoing links from Index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +198,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "99d5fe5841e36530",
+  "active": "15619512660efef4",
   "lastOpenFiles": [
+    "4. Assets/Books/2024/Monster Manual",
+    "4. Assets/Books/2024/Player's Handbook/Untitled.md",
+    "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 6.md",
+    "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 5.md",
+    "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 4.md",
+    "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 3.md",
+    "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 2.md",
+    "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 1.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 3.md",
+    "4. Assets/Books/2024/Player's Handbook",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 8.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 7.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 6.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 5.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 2.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 4.md",
     "index.md",
-    "4. Assets/Books/2024/Dungeon Master's Guide.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide",
     "4. Assets/Books/2024",
     "0. World/4. Characters/Non-Playable/DM NPCs Sheet.md",
     "4. Assets/Quests/Quests.md",
@@ -216,25 +234,8 @@
     "0. World/5. Story",
     "0. World/3. Maps/Information.md",
     "0. World/3. Maps/2. Arcanum/Arcanum.md",
-    "0. World/3. Maps/2. Arcanum/1. Villages/Mistlin/Inn/Mistlin Inn (Misty Mug).md",
-    "0. World/2. Sessions/0. Mistlin Inn/DM Notes.md",
-    "0. World/3. Maps/2. Arcanum/1. Villages/Mistlin/Mistlin.md",
     "0. World/4. Characters/Non-Playable",
     "0. World/4. Characters",
-    "0. World",
-    "0. World/3. Maps/2. Arcanum/1. Villages",
-    "0. World/2. Sessions/0. Mistlin Inn/A Notes.md",
-    "0. World/2. Sessions/0. Mistlin Inn/K Notes.md",
-    "table in the dark corner.md",
-    "0. World/1. House Rules/DM Secret Rules.md",
-    "0. World/1. House Rules/Bastions Changes.md",
-    "Combat.md",
-    "0. World/1. House Rules/Gameplay Changes.md",
-    "[[DM.md",
-    "Characters/PCs/Kronk (Druid).md",
-    "4. Assets/Tools/Building.md",
-    "4. Assets/Tools/AI.md",
-    "4. Assets/Tools/General.md",
     "4. Assets/Images/Vineheart Logo/VineHeart.png",
     "Assets/Images/VineHeart.png",
     "Assets/VineHeart.png",
