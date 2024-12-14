@@ -1,3 +1,5 @@
+# Devine War
+
 ## Overview
 The Divine War erupted from a fundamental disagreement over the fate of mortals, splitting the pantheon into two factions. What began as philosophical discourse in divine halls escalated into a catastrophic conflict that reshaped the mortal realm. Cities crumbled, lands were scarred by divine power, and civilization itself teetered on the brink of collapse.
 
@@ -101,6 +103,15 @@ The Divine War reshaped not just the physical world but the relationship between
 - The gods themselves are more distant, humbled by the war's outcome
 - New prophecies speak of the Godwound's eventual healing, though none know when or how
 - Both mortals and gods now understand the terrible price of absolute conviction
+
+### The Godwound
+The Godwound is the lasting scar and magic that lingers at the core of the realm.
+It is the manifestation of the powerful & divine magic that created it.
+It's effects can are felt across the land(s)
+- Forcing the **seas** to **rage** & manifest **monsters**
+- Causing **forests, caves & dungeons** to manifest **monsters** & **magical** properties
+- Creating gates from which monsters appear
+- Enhancement of natural disasters
 
 ## Recovery: Four Centuries Later
 

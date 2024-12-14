@@ -1,3 +1,4 @@
+# The dawn of the new age
 After the calamity that was the **The Devine War**, by the **Dawn of the new age**, came **The Vineheart Realm** named after the hero party who kept damages and casualties to a minimum during the war.
 
 ## The Vineheart Realm
@@ -40,9 +41,63 @@ This period laid the groundwork for civilization's gradual recovery:
 
 The Dawn of the New Age, through the formation of the Vineheart Realm, represented more than just recovery from devastation - it marked a fundamental shift in how mortals viewed themselves and their relationship with the divine. The heroes who inspired this realm proved that even in the face of godly conflict, mortal courage and unity could prevail.
 
+![[The Devine War#The Godwound]]
+
 ### Calendar
 - The realm has since reset their time keeping to be in line for the new age.
 	This was partially done since the last method for keeping time was unreliable.
 - As the oldest texts found after the war were around 100 years old.
 	It was determined to start the new age at the year 100.
-	There has since been found what is said to be older texts.
+	There has since been found what is thought to be older texts.
+
+#### Days
+- Moonday
+- Tinsday
+- Whensday
+- Thiesday
+- Fireday
+- Surtday
+- Sinsday
+
+#### Months
+- Janbuary
+- Marpril
+- Mune
+- Jugust
+- Septober
+- Nocember
+
+## The divided land
+After **The Devine War** the Godwound ripped the continent into several pieces.
+The landmass that was once whole, had become 4 continents and several islands
+
+### Continents
+
+
+#### [[Arcanum]]
+
+![[Arcanum#History]]
+
+
+#### [[Memberia]]
+
+![[Memberia#History]]
+
+#### [[Luminia]]
+
+![[Lumina#History]]
+
+#### [[Onyxia]]
+
+![[Onyxia#History]]
+
+
+### Islands
+
+#### [[Cat's Eye]]
+
+
+#### [[Rubylande]]
+
+
+#### [[]]

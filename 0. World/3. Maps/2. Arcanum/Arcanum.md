@@ -3,12 +3,38 @@
 ![[Arcanum-V1.png]]
 
 ## History
+Named after the house of [[Arcanum#The house of Arca|Arca]] the capital of [[Mystara]] lies at the center if this continent.
+Connected to Memberia via the city of Ironshore and Onyxia via the city of Riverport
 
 ### Royalty
+Once ruled by the royal house of **Minli** the results of the [[The Devine War]] caused the deaths of several royal branches to go extinct, either in battle or as collateral from the devastation.
+
+Many houses were left to lead this new continent, the new Monarch was picked by finding the one next in line. Many didn't favor this approach but were out numbered by the ones favoring tradition.
+
+With the dust settled the **Arca** family took the mantle of leading.
+
+#### The house of Arca
+Having been deemed the rightful heir of the kingdom the head of the **Arca** (Rondli Arca) whom deemed it to be that this new continent should be named [[Arcanum]] and that by this the kingdom of Arcanum would be born.
+
+##### Relation
+The former King of the **Kingdom of Mysta** (Xon Minli) had 3 children.
+His youngest had another 2 the oldest of which then had 3 of her own.
+Where the middle child married into the "peasant" merchant line of **Arca** and had 2 children, the oldest of which was the head of **house Arca** (Rondli Arca)
+
+##### History
+The Arca used to be a peasant family with no last name, it was only once the first Arca decided to become a traveling merchant that (after many years) relations and trades were made with the then King of **Mysta** that a last name for distinction was needed, the merchant decided to take the name of his company (Arca trading co) and thusly became the first of house **Arca**
 
 ### Nature
+This continent consists of several environments:
+- Plentiful Forests
+- A Desert to the north
+- Mountain ranges
+- The poorer west lands
+- The richer east land
+
 
 ### Settlement
+
 
 ## Environment
 

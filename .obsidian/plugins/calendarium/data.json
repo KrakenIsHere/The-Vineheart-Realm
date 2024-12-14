@@ -2,8 +2,8 @@
   "addToDefaultIfMissing": true,
   "calendars": [
     {
-      "name": "Thornheart Calendar",
-      "description": "A calendar for the Thornhear realm.",
+      "name": "Vineheart Calendar",
+      "description": "A calendar for the Vineheart realm.",
       "autoParse": false,
       "path": [
         "/"
