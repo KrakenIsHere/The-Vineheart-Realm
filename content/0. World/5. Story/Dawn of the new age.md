@@ -85,7 +85,7 @@ The landmass that was once whole, had become 4 continents and several islands
 
 #### [[Luminia]]
 
-![[Lumina#History]]
+![[Luminia#History]]
 
 #### [[Onyxia]]
 
