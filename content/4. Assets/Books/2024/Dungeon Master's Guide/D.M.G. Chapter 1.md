@@ -522,7 +522,6 @@ The DM starts by asking the players to recap the action of the previous session,
 			 </div>
 	 </div>
 	 <br/>
-	 <br/>
  </div>
 
 
