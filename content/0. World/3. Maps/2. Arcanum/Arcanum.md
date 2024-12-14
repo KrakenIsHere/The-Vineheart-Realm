@@ -33,8 +33,12 @@ This continent consists of several environments:
 - The richer east land
 
 
-### Settlement
+### Re-Settlement
+The early settlements of what was now Arcanum, were focused on getting the coast operational for easier access to food such as fish, while farmland was being recultivated.
 
+Trade ports were quickly established with [[Memberia]] via [[Ironshore]] and [[Raven's Watch]]
+Trade with [[Onyxia]] however took a while to establish via [[Riverport]] and [[Bayshore]]
+Trade with [[Luminia]] Goes through [[Onyxia]]
 
 ## Environment
 
