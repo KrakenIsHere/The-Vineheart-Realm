@@ -24,7 +24,9 @@ Where the middle child married into the "peasant" merchant line of **Arca** and 
 ##### History
 The Arca used to be a peasant family with no last name, it was only once the first Arca decided to become a traveling merchant that (after many years) relations and trades were made with the then King of **Mysta** that a last name for distinction was needed, the merchant decided to take the name of his company (Arca trading co) and thusly became the first of house **Arca**
 
-### Nature
+## Nature
+
+### Environments
 This continent consists of several environments:
 - Plentiful Forests
 - A Desert to the north

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/3. Maps/2. Arcanum/Arcanum.md",
+                "file": "0. World/3. Maps/3. Onyxia/Onyxia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcanum"
+              "title": "Onyxia"
             }
           }
         ]
@@ -115,10 +115,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/3. Maps/2. Arcanum/Arcanum.md"
+                "file": "0. World/3. Maps/3. Onyxia/Onyxia.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arcanum"
+              "title": "Outline of Onyxia"
             }
           },
           {
@@ -147,7 +147,7 @@
                     "month": 2,
                     "year": 569
                   },
-                  "viewState": 0,
+                  "viewState": 1,
                   "displaying": {
                     "day": 15,
                     "month": 2,
@@ -227,9 +227,12 @@
   },
   "active": "99d5fe5841e36530",
   "lastOpenFiles": [
-    "0. World/5. Story/The Devine War.md",
+    "0. World/3. Maps/4. Memberia/Memberia.md",
+    "0. World/3. Maps/5. Luminia/Luminia.md",
     "0. World/5. Story/Dawn of the new age.md",
+    "0. World/3. Maps/3. Onyxia/Onyxia.md",
     "0. World/3. Maps/2. Arcanum/Arcanum.md",
+    "0. World/5. Story/The Devine War.md",
     "index.md",
     "0. World/3. Maps/2. Arcanum/0. Cities/Ironshgore/Ironshore.md",
     "0. World/3. Maps/2. Arcanum/0. Cities/Riverport",
@@ -256,8 +259,6 @@
     "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 3.md",
     "4. Assets/Books/2024/Player's Handbook",
     "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 8.md",
-    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 7.md",
-    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 6.md",
     "4. Assets/Books/2024/Dungeon Master's Guide",
     "4. Assets/Books/2024",
     "4. Assets/Books/5e/Monster Manual.pdf",
