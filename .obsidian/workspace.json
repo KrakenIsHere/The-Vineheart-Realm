@@ -6,7 +6,7 @@
       {
         "id": "b734b27ac3fe5ecc",
         "type": "tabs",
-        "dimension": 66.7987321711569,
+        "dimension": 61.41045958795562,
         "children": [
           {
             "id": "99d5fe5841e36530",
@@ -27,7 +27,7 @@
       {
         "id": "903293af06011da2",
         "type": "tabs",
-        "dimension": 33.20126782884311,
+        "dimension": 38.58954041204438,
         "children": [
           {
             "id": "93ff8d1f07063b02",
@@ -142,7 +142,12 @@
               "state": {
                 "calendar": "ID_6ac80ab98aab",
                 "ephemeral": {
-                  "viewState": 1,
+                  "viewing": {
+                    "day": 15,
+                    "month": 2,
+                    "year": 569
+                  },
+                  "viewState": 0,
                   "displaying": {
                     "day": 15,
                     "month": 2,
