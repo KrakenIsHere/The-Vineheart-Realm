@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b734b27ac3fe5ecc",
+        "id": "903293af06011da2",
         "type": "tabs",
-        "dimension": 61.41045958795562,
+        "dimension": 49.920760697305866,
         "children": [
           {
             "id": "99d5fe5841e36530",
@@ -14,33 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/3. Maps/3. Onyxia/Onyxia.md",
+                "file": "0. World/5. Story/The Godwound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onyxia"
+              "title": "The Godwound"
             }
           }
         ]
       },
       {
-        "id": "903293af06011da2",
+        "id": "5b1e37fd0a1abc99",
         "type": "tabs",
-        "dimension": 38.58954041204438,
+        "dimension": 50.079239302694134,
         "children": [
           {
-            "id": "93ff8d1f07063b02",
+            "id": "ec9c7f3b589363ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/5. Story/Dawn of the new age.md",
+                "file": "0. World/5. Story/The Devine War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dawn of the new age"
+              "title": "The Devine War"
             }
           }
         ]
@@ -115,10 +115,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/3. Maps/3. Onyxia/Onyxia.md"
+                "file": "0. World/5. Story/The Godwound.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Onyxia"
+              "title": "Outline of The Godwound"
             }
           },
           {
@@ -142,11 +142,6 @@
               "state": {
                 "calendar": "ID_6ac80ab98aab",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 15,
-                    "month": 2,
-                    "year": 569
-                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 15,
@@ -204,8 +199,7 @@
               "title": "Outgoing links from Index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +213,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Copilot Chat": false,
       "calendarium:Open Calendarium": false
@@ -227,13 +220,16 @@
   },
   "active": "99d5fe5841e36530",
   "lastOpenFiles": [
-    "0. World/3. Maps/4. Memberia/Memberia.md",
     "0. World/3. Maps/5. Luminia/Luminia.md",
-    "0. World/5. Story/Dawn of the new age.md",
-    "0. World/3. Maps/3. Onyxia/Onyxia.md",
-    "0. World/3. Maps/2. Arcanum/Arcanum.md",
+    "0. World/5. Story/The Godwound.md",
     "0. World/5. Story/The Devine War.md",
+    "0. World/5. Story/Gods.md",
+    "0. World/5. Story/Dawn of the new age.md",
     "index.md",
+    "0. World/3. Maps/3. Onyxia/Onyxia.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Chapter 1.md",
+    "0. World/3. Maps/4. Memberia/Memberia.md",
+    "0. World/3. Maps/2. Arcanum/Arcanum.md",
     "0. World/3. Maps/2. Arcanum/0. Cities/Ironshgore/Ironshore.md",
     "0. World/3. Maps/2. Arcanum/0. Cities/Riverport",
     "0. World/3. Maps/2. Arcanum/0. Cities/Ironshgore",
@@ -242,7 +238,6 @@
     "0. World/3. Maps/2. Arcanum/0. Cities/Riverport/Riverport.md",
     "0. World/3. Maps/2. Arcanum/0. Cities",
     "0. World/3. Maps/2. Arcanum/Untitled.md",
-    "0. World/5. Story/Gods.md",
     "0. World/4. Characters/Non-Playable/DM NPCs Sheet.md",
     "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 6.md",
     "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 1.md",
@@ -256,9 +251,7 @@
     "4. Assets/Tools/General.md",
     "4. Assets/Books/2024/Monster Manual",
     "4. Assets/Books/2024/Player's Handbook/Untitled.md",
-    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 3.md",
     "4. Assets/Books/2024/Player's Handbook",
-    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 8.md",
     "4. Assets/Books/2024/Dungeon Master's Guide",
     "4. Assets/Books/2024",
     "4. Assets/Books/5e/Monster Manual.pdf",
