@@ -18,7 +18,7 @@ The realm consists of 4 main continents, and many islands.
 
 The Vineheart Party emerged as mortal heroes during this conflict, protecting people and minimizing casualties. Their actions were so significant that the post-war era became known as The Vineheart Realm, marking the [[Dawn of the new age]] of mortal self-determination.
 
-The Godwound's power physically split the main continent into four distinct regions - the Northern Reach, Eastern Shores, Western Wilds, and Southern Realm - each developing their own unique cultures and societies over the following centuries.
+[[The Devine War#The Godwound|The Godwound's]] power physically split the main continent into four distinct regions - the Northern Reach, Eastern Shores, Western Wilds, and Southern Realm - each developing their own unique cultures and societies over the following centuries.
 
 Now, the world exists in a changed state. The gods are diminished but still worshipped, the Godwound remains a constant threat, and the four continents maintain their independence while dealing with new forms of conflict centered around naval power and trade routes. The Vineheart Realm's influence created a foundation for civilization to recover, though tensions between nations persist.
 
@@ -57,9 +57,9 @@ Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **D
 - [[Monster Manual.pdf|Monster Manual]]
 
 #### 2024
-- Players' Handbook
-- [[D.M.G. Chapter 1|DM Guide]]
-- Monster Manual
+- [[P.H. Chapter 1|Players' Handbook]]
+- [[D.M.G. Chapter 1|Dungeon Master's Guide]]
+- [[M.M. Chapter 1|Monster Manual]]
 
 
 ### Tools

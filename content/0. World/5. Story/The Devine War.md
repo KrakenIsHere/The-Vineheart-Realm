@@ -105,13 +105,16 @@ The Divine War reshaped not just the physical world but the relationship between
 - Both mortals and gods now understand the terrible price of absolute conviction
 
 ### The Godwound
-The Godwound is the lasting scar and magic that lingers at the core of the realm.
+The [[The Godwound]] is the lasting scar and magic that lingers at the core of the realm.
 It is the manifestation of the powerful & divine magic that created it.
 It's effects can are felt across the land(s)
 - Forcing the **seas** to **rage** & manifest **monsters**
 - Causing **forests, caves & dungeons** to manifest **monsters** & **magical** properties
 - Creating gates from which monsters appear
 - Enhancement of natural disasters
+
+A testament to the cataclysmic forces that shaped this world.
+
 
 ## Recovery: Four Centuries Later
 
@@ -160,4 +163,4 @@ The Sundering, while catastrophic, brought some unexpected benefits:
 - Separated populations developed unique solutions to shared problems
 - New forms of cooperation emerged between distant lands
 
-The world may be physically divided, but the challenges of this new age have created connections that span the Sundering Seas, proving that even in separation, the peoples of these lands find ways to reach across the divine divide.
+The world may be physically divided, but the challenges of the [[Dawn of the new age]] have created connections that span the Sundering Seas, proving that even in separation, the peoples of these lands find ways to reach across the raging divide.
