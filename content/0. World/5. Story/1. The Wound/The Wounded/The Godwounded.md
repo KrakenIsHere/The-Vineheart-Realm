@@ -4,6 +4,7 @@
 ## Overview
 The Wounded is an organization dedicated to maintaining the balance of [[The Godwound]]'s chaos. While the Wounded Priestesses are their most visible members, they are supported by a complex hierarchy of devoted individuals who dedicate their lives to understanding, containing [[The Godwound]]'s power.
 
+They emerged between 5 to 20 years after the appearance of the Godwound, quickly becoming the primary source of knowledge and authority for [[The Godwound]] 
 
 ## Organizational Structure
 

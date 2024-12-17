@@ -1,11 +1,5 @@
 # The Scar
-(WIP)
-
 At the core of the realm lies [[The Godwound]], an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
-
-
-## Nature
-[[The Godwound]] is not merely a physical location, but a metaphysical tear in reality's tapestry. It pulses with the residual power of creation itself, a reminder of the violent birth of this realm.
 
 
 ## Manifestations
@@ -48,6 +42,9 @@ At the core of the realm lies [[The Godwound]], an eternal scar upon reality its
 - Artifacts and resources created by its influence are highly valued
 - Some seek to harness its power, while others work to contain it
 - Prophecies speak of both doom and salvation tied to its existence
+
+### The Wounded
+[[The Godwounded|The Wounded]] emerged to study the Godwound, and have since evolved to become the authority of it. Managing the [[Wounded Priestesses|Priestesses]] and [[Wound Containment|rituals]] to keep it's power at bay & protect the realm.
 
 
 ## The Cycles
