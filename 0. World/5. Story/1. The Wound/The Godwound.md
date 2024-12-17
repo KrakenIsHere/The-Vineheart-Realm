@@ -1,10 +1,12 @@
 # The Scar
 (WIP)
 
-At the core of the realm lies the Godwound, an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
+At the core of the realm lies [[The Godwound]], an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
+
 
 ## Nature
-The Godwound is not merely a physical location, but a metaphysical tear in reality's tapestry. It pulses with the residual power of creation itself, a reminder of the violent birth of this realm.
+[[The Godwound]] is not merely a physical location, but a metaphysical tear in reality's tapestry. It pulses with the residual power of creation itself, a reminder of the violent birth of this realm.
+
 
 ## Manifestations
 
@@ -31,36 +33,44 @@ The Godwound is not merely a physical location, but a metaphysical tear in reali
 - Earthquakes reveal long-buried ruins and artifacts
 - Lightning strikes leave behind deposits of magical crystals
 
+
 ## Effects on Society
 
 ### Adaptation
 - Communities have developed complex warning systems and evacuation protocols
-- Specialized guilds of monster hunters and gate wardens protect settlements
-- Scholars study the Godwound's patterns, attempting to predict its manifestations
+- Scholars & [[The Godwounded|The Wounded]] study [[The Godwound]]'s patterns, attempting to predict its manifestations
 - Trading routes are regularly redrawn to account for shifting dangers
 - Architecture has evolved to withstand supernatural disasters
 
 ### Cultural Impact
-- Religious orders debate the meaning and purpose of the Godwound
+- Religious orders debate the meaning and purpose of [[The Godwound]]
 - Different cultures interpret and worship its power in various ways
 - Artifacts and resources created by its influence are highly valued
 - Some seek to harness its power, while others work to contain it
 - Prophecies speak of both doom and salvation tied to its existence
 
+
 ## The Cycles
-The wound's influence waxes and wanes according to mysterious patterns. Having periods of heightened activity:
+[[The Godwound]]'s influence waxes and wanes according to mysterious patterns. Having periods of heightened activity:
 - Magic becomes more potent but unstable
 - Monsters appear with greater frequency
 - Natural disasters increase in intensity
-- Ancient prophecies begin to fulfill themselves
+- Prophets get more frequent visions
+- Prophecies get fulfilled faster than anticipated
 
 
 ## The Politics of Protection
-- The continents must cooperate despite potential conflicts
-- Resource gathering for rituals can cause diplomatic tensions
+- The continents must cooperate with [[The Godwounded|The Wounded]] despite potential conflicts
+- Resource gathering for rituals can cause diplomatic tensions between kingdoms
 - Knowledge of ritual procedures are closely guarded
 - Debates rage about modernizing or changing ritual procedures
 - Some claim the rituals are of no use
 
+
 ## Containment
-Containment of the Godwound is maintained by [[The Godwounded|The Wounded]] and their [[Wounded Priestesses|Priestesses]]. Each continent has since the Godwound's creation developed [[Wound Containment|rituals]] to calm the chaos.
+Containment of [[The Godwound]] is maintained by [[The Godwounded|The Wounded]] and their [[Wounded Priestesses|Priestesses]]. Each continent has since [[The Godwound]]'s creation developed [[Wound Containment|rituals]] to calm the chaos.
+
+## Further Details
+- The [[The Godwounded]]
+- The [[Wounded Priestesses]]
+- The [[Wound Containment]]

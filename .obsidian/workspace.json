@@ -6,7 +6,7 @@
       {
         "id": "903293af06011da2",
         "type": "tabs",
-        "dimension": 47.85229841748305,
+        "dimension": 47.17407686510927,
         "children": [
           {
             "id": "99d5fe5841e36530",
@@ -27,7 +27,7 @@
       {
         "id": "5b1e37fd0a1abc99",
         "type": "tabs",
-        "dimension": 52.14770158251696,
+        "dimension": 52.82592313489073,
         "children": [
           {
             "id": "ec9c7f3b589363ed",
@@ -63,16 +63,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "0. World/5. Story/1. The Wound/The Godwound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "The Godwound"
+            }
+          },
+          {
+            "id": "e7c3355a97e8763e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. World/5. Story/1. The Wound/The Wounded/The Godwounded.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Godwounded"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "0. World/5. Story/1. The Wound/The Wounded/The Godwounded.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of The Godwounded"
             }
           },
           {
@@ -247,15 +261,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "27ef5352495a5f84",
+  "active": "e7c3355a97e8763e",
   "lastOpenFiles": [
-    "0. World/5. Story/1. The Wound/The Godwound.md",
-    "index.md",
-    "0. World/5. Story/0. The God War/The Devine War.md",
-    "0. World/5. Story/1. The Wound/The Wounded/The Godwounded.md",
-    "0. World/5. Story/0. The God War",
-    "0. World/5. Story/1. The Wound/The Wounded/Wounded Priestesses.md",
     "0. World/5. Story/1. The Wound/The Wounded/Wound Containment.md",
+    "0. World/5. Story/1. The Wound/The Wounded/The Godwounded.md",
+    "0. World/5. Story/1. The Wound/The Godwound.md",
+    "0. World/5. Story/0. The God War/The Devine War.md",
+    "0. World/5. Story/1. The Wound/The Wounded/Wounded Priestesses.md",
+    "index.md",
+    "0. World/5. Story/0. The God War",
     "0. World/5. Story/1. The Wound/The Wounded",
     "0. World/5. Story/The Wound/Untitled.md",
     "0. World/5. Story/1. The Wound",

@@ -1,5 +1,6 @@
 # The Rituals
-Each of the four continents must perform a sacred ritual [[The Godwounded#Ritual Coordination|twice a year]]. These rituals (collectively known as the Binding of the Four) serve to maintain the delicate balance of power that prevents the wound from overwhelming the realm.
+Each of the four continents must perform a sacred ritual [[The Godwounded#Ritual Coordination|twice a year]]. These rituals (collectively known as the Binding) serve to maintain the delicate balance of power that prevents the wound from overwhelming the realm.
+
 
 ## The Memberian Ritual
 ### Frost Tethering
@@ -29,6 +30,7 @@ Each of the four continents must perform a sacred ritual [[The Godwounded#Ritual
 
 ![[Wounded Priestesses#The Onyxian Priestess]]
 
+
 ## The Arcanian Ritual
 ### Tide Sealing
 - Performed at the edge of their deepest ocean trench
@@ -38,17 +40,18 @@ Each of the four continents must perform a sacred ritual [[The Godwounded#Ritual
 
 ![[Wounded Priestesses#The Arcanian Priestess]]
 
+
 ## Ritual Coordination
 - All four rituals must be completed within the same 48-hour period
 - Rituals are set to be done at the months of Janbuary-Marpril & Jugust-Septober at the first full moon of the months
-- Each continent sends observers to the others to ensure proper execution
 - The success or failure of each ritual affects the others
-- Political tensions must be set aside for the greater good
+
 
 ## Cultural Impact of the Rituals
 - Major festivals and celebrations surround the ritual period
 - Some see the rituals as a burden, others as a sacred duty
 - Each continent has developed unique traditions around their role
+
 
 ## When Rituals Fail
 - Historical records tell of catastrophic failures

@@ -12,6 +12,7 @@ tags:
 The realm consists of 4 main continents, and many islands.
 ![[The Vineheart Realm V0.6.jpg]]
 
+
 ## Story
 
 [[The Devine War]] erupted when the [[Gods]] split into two factions. Their devastating conflict nearly destroyed the world, culminating in the creation of [[The Godwound]] - a tear in reality that forced both sides to cease fighting.
@@ -24,7 +25,8 @@ Now, the world exists in a changed state. The gods are diminished but still wors
 
 Through all this, mortals have learned to rely more on themselves than divine intervention, developing new forms of magic, technology, and governance to thrive in this transformed world.
 
-While the effects of [[The Godwound|The Godwound]] appears to increase in frequency and organization known as [[The Godwounded|The Wounded]] has emerged to quell this immense magic surge. The [[Wounded Priestesses]] and their [[Wound Containment|rituals]] do appear to be successful, though the populace doesn't realize the impact.
+While the effects of [[The Godwound|The Godwound]] appears to increase in frequency and organization known as [[The Godwounded|The Wounded]] has emerged to quell this immense magic surge. The [[Wounded Priestesses]] and their [[Wound Containment|rituals]] do appear to be successful, with the growth halted for centuries, the populace doesn't realize the impact.
+
 
 ## Rules
 
@@ -48,6 +50,7 @@ So some aspects of the game will be simplified, depending on the situation. And 
 
 Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **Dungeons & Dragons 2024** rules.
 
+
 ## Resources
 
 ### Dungeons & Dragons
@@ -61,7 +64,6 @@ Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **D
 - [[P.H. Chapter 1|Players' Handbook]]
 - [[D.M.G. Chapter 1|Dungeon Master's Guide]]
 - [[M.M. Chapter 1|Monster Manual]]
-
 
 ### Tools
 
