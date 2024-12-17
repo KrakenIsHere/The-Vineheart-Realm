@@ -4,6 +4,7 @@
 ## Overview
 The Wounded is an organization dedicated to maintaining the balance of [[The Godwound]]'s chaos. While the Wounded Priestesses are their most visible members, they are supported by a complex hierarchy of devoted individuals who dedicate their lives to understanding, containing [[The Godwound]]'s power.
 
+
 ## Organizational Structure
 
 ### The Inner Circle
@@ -17,7 +18,7 @@ The Wounded is an organization dedicated to maintaining the balance of [[The God
 - **Guardians** - Protect priestesses and sacred sites
 - **Ritualists** - Support staff for the containment rituals
 - **Gatherers** - Collect necessary materials for rituals
-- **Observers** - Monitor Godwound activity across the realms
+- **Observers** - Monitor the Godwound's activity across the realms
 
 ### Support Roles
 - Each position has specific training requirements
@@ -25,6 +26,7 @@ The Wounded is an organization dedicated to maintaining the balance of [[The God
 - Some roles are hereditary
 - Cross-training is encouraged for flexibility
 - Advancement is based on merit and dedication
+
 
 ## Sacred Sites
 
@@ -40,6 +42,7 @@ The Wounded is an organization dedicated to maintaining the balance of [[The God
 - Serves as training ground for advanced members
 - Considered politically neutral territory
 
+
 ## Traditions and Customs
 
 ### Ceremonial Practices
@@ -47,15 +50,16 @@ The Wounded is an organization dedicated to maintaining the balance of [[The God
 - Ritualistic scarification marks rank and achievement
 - Silent meditation periods are strictly observed
 - Knowledge is passed through oral tradition
+- Secrecy is maintained through magical bindings
 
 ### Code of Conduct
 - Absolute loyalty to the organization's mission
-- Political neutrality is mandatory
+- Political neutrality
 - Knowledge must be protected at all costs
 - Personal relationships are carefully regulated
-- Secrecy is maintained through magical bindings
 
-## Challenges and Controversies
+
+## Challenges & Controversies
 
 ### Internal Struggles
 - Debates over modernizing traditional practices
@@ -67,6 +71,7 @@ The Wounded is an organization dedicated to maintaining the balance of [[The God
 - Competing religious interpretations
 - Resource conflicts with local authorities
 - Threats from those seeking to exploit [[The Godwound]]
+
 
 ## Current State
 
@@ -84,7 +89,3 @@ The Wounded is an organization dedicated to maintaining the balance of [[The God
 - Adapting to new manifestations from [[The Godwound]]
 - Balancing secrecy with necessary cooperation between kingdoms
 
-## Further Details
-- The [[Wounded Priestesses]]
-- The [[Wound Containment]]
-- The [[The Godwound]]

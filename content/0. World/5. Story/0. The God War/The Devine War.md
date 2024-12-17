@@ -1,7 +1,9 @@
 # Devine War
 
+
 ## Overview
 The Divine War erupted from a fundamental disagreement over the fate of mortals, splitting the pantheon into two factions. What began as philosophical discourse in divine halls escalated into a catastrophic conflict that reshaped the mortal realm. Cities crumbled, lands were scarred by divine power, and civilization itself teetered on the brink of collapse.
+
 
 ## The Factions
 
@@ -10,6 +12,7 @@ This faction believes that mortals require divine guidance and protection throug
 
 ### The Unfettered
 These deities champion mortal free will and self-determination. They believe that struggle and choice are essential to existence, and that mortals must be free to forge their own destinies, even if it means enduring hardship and making mistakes.
+
 
 ## The Gods
 
@@ -35,6 +38,7 @@ As keeper of mortal stories, Ilara has seen the beauty and meaning in mortal cho
 
 #### Rhenox, The Wild Hunter
 Rhenox embodies the untamed and unpredictable. He sees the Grand Design as a cage that would destroy the beautiful chaos of free will.
+
 
 ## The Conflict
 

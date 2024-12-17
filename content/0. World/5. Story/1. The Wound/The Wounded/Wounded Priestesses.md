@@ -24,6 +24,7 @@ At the heart of each continent's ritual stands a Godwound Priestess - women chos
 - Their tears have powerful purifying properties
 - Communicates with sea creatures
 
+
 ## Selection and Training
 - Potential priestesses show signs at birth (birthmarks, unusual red eyes, and high magical sensitivity)
 - Only one can serve at a time for each continent
@@ -32,12 +33,14 @@ At the heart of each continent's ritual stands a Godwound Priestess - women chos
 - The training process involves both scholarly study and magical attunement
 In the event that a candidate cannot be 
 
+
 ## The Priestess's Role
 - Acts as a living conduit between [[The Godwound]] and the ritual
 - Carries the complete knowledge of ritual procedures in their memory
 - Can sense disturbances in [[The Godwound]]'s energy
 - Their blood contains properties necessary for certain ritual components
 - Maintains mental connections with other continental priestesses
+
 
 ## The Burden of Knowledge
 - Each priestess carries a portion of the original ritual knowledge
@@ -46,12 +49,14 @@ In the event that a candidate cannot be
 - Their dreams are often prophetic, showing potential futures
 - The role takes a physical toll, often shortening their lifespan
 
+
 ## Succession
 - Current priestesses help identify their potential successors
 - The transfer of knowledge occurs through a dangerous mystical ceremony
 - If a priestess dies before passing on their knowledge, emergency measures exist
 - Some knowledge can only be transferred at specific celestial alignments
 - Failed transfers have led to lost knowledge and ritual adaptations
+
 
 ## The Priestesses' Council
 - Meets once a year before the ritual
@@ -60,9 +65,10 @@ In the event that a candidate cannot be
 - Resolves disputes between continents
 - Makes decisions about sharing or withholding knowledge
 
+
 ## Political Implications
-- Priestesses must remain politically neutral
+- All branches & Priestesses must remain politically neutral
 - Some nations try to influence priestess selection
 - Protection of priestesses can be used as political leverage
-- Assassination attempts have occurred in the past
+- Assassination (& kidnapping) attempts have occurred in the past
 - Marriage proposals to priestesses often cause diplomatic incidents
