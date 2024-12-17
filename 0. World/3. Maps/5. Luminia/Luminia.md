@@ -14,3 +14,7 @@ Unlike other continents, Luminia's ruling house remained relatively stable throu
 
 ##### History
 The Dawnweaver name originated from their ancestor's ability to manipulate the aurora lights during the continent's founding. Originally priests of the sun temple, they gradually transformed into a ruling dynasty as their prophetic abilities and celestial magic became crucial to the continent's survival.
+
+### Godwound Ritual
+
+![[Wound Containment#Wind Weaving]]

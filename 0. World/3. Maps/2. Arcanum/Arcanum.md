@@ -24,6 +24,18 @@ Where the middle child married into the "peasant" merchant line of **Arca** and 
 ##### History
 The Arca used to be a peasant family with no last name, it was only once the first Arca decided to become a traveling merchant that (after many years) relations and trades were made with the then King of **Mysta** that a last name for distinction was needed, the merchant decided to take the name of his company (Arca trading co) and thusly became the first of house **Arca**
 
+### Re-Settlement
+The early settlements of what was now Arcanum, were focused on getting the coast operational for easier access to food such as fish, while farmland was being recultivated.
+
+Trade ports were quickly established with [[Memberia]] via [[Ironshore]] and [[Raven's Watch]]
+Trade with [[Onyxia]] however took a while to establish via [[Riverport]] and [[Bayshore]]
+Trade with [[Luminia]] Goes through [[Onyxia]]
+
+### Godwound Ritual
+
+![[Wound Containment#Tide Sealing]]
+
+
 ## Nature
 
 ### Environments
@@ -34,13 +46,6 @@ This continent consists of several environments:
 - The poorer west lands
 - The richer east land
 
-
-### Re-Settlement
-The early settlements of what was now Arcanum, were focused on getting the coast operational for easier access to food such as fish, while farmland was being recultivated.
-
-Trade ports were quickly established with [[Memberia]] via [[Ironshore]] and [[Raven's Watch]]
-Trade with [[Onyxia]] however took a while to establish via [[Riverport]] and [[Bayshore]]
-Trade with [[Luminia]] Goes through [[Onyxia]]
 
 ## Environment
 

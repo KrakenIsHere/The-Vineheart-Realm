@@ -14,3 +14,7 @@ The current ruling branch of house Sapient gained legitimacy through their mater
 
 ##### History
 The Sapient family began as a guild of scholars and mages who founded the first magical university in Memberia. Their transformation from academics to rulers came gradually as their influence over magical education made them indispensable to the previous monarchy.
+
+### Godwound Ritual
+
+![[Wound Containment#Frost Tethering]]
