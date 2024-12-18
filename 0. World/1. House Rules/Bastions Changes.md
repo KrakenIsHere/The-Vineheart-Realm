@@ -34,10 +34,10 @@ The DM can help in the actual drawing of the map if so desired
 
 ## Basic Costs
 
-![[D.M.G. Chapter 8#[](https //www.dndbeyond.com/sources/dnd/dmg-2024/bastions AddingBasicFacilities)Adding Basic Facilities]]
+![[D.M.G. Chapter 8#Adding Basic Facilities]]
 
 
-![[D.M.G. Chapter 8#[](https //www.dndbeyond.com/sources/dnd/dmg-2024/bastions EnlargingBasicFacilities)Enlarging Basic Facilities]]
+![[D.M.G. Chapter 8#Enlarging Basic Facilities]]
 
 
 ## States
@@ -64,7 +64,7 @@ The DM can help in the actual drawing of the map if so desired
 
 ## Events
 
-![[D.M.G. Chapter 8#[](https //www.dndbeyond.com/sources/dnd/dmg-2024/bastions BastionEventsTable)Bastion Events]]
+![[D.M.G. Chapter 8#Bastion Events]]
 
 
 ## Tracking the Bastion

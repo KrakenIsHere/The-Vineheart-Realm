@@ -93,7 +93,8 @@ Basic facilities don’t have any game effects, but they can inspire roleplaying
 
 A character can add new basic facilities or enlarge existing ones by spending money and time, as discussed in the sections that follow. Any number of basic facilities can be added or enlarged at the same time. A character doesn’t need to be in their Bastion while basic facilities are being added or enlarged.
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#AddingBasicFacilities)Adding Basic Facilities
+### Adding Basic Facilities
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#AddingBasicFacilities)
 
 A character can add a basic facility to their Bastion by spending money and time. The cost of adding a basic facility and the time required depend on the facility’s space, as shown on the table below.
 
@@ -103,7 +104,8 @@ A character can add a basic facility to their Bastion by spending money and time
 |Roomy|1,000 GP|45 days|
 |Vast|3,000 GP|125 days|
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#EnlargingBasicFacilities)Enlarging Basic Facilities
+### Enlarging Basic Facilities
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#EnlargingBasicFacilities)
 
 There is no in-game benefit to enlarging a basic facility, but a character might enlarge a facility for cosmetic reasons or to increase the Bastion’s size.
 
@@ -1002,7 +1004,9 @@ Immediately after a character issues the [Maintain](https://www.dndbeyond.com/s
 
 Bastion events occur only when a Bastion is operating under the Maintain order, which often means that the Bastion’s owner isn’t present in the Bastion at the time. That means these events can be opportunities for the player to take on the role of the Bastion’s hirelings and roleplay their reactions to these events. The DM can even turn a Bastion event into a cutscene where each player takes on the role of one of the Bastion’s hirelings (under the guidance of the player whose character owns the Bastion).
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionEventsTable)Bastion Events
+### Bastion Events
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionEventsTable)
+
 |1d100|Event|
 |---|---|
 |01–50|[All Is Well](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#AllIsWell)|
