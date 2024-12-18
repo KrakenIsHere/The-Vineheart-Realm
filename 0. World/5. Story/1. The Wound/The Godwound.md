@@ -1,6 +1,14 @@
 # The Scar
-At the core of the realm lies [[The Godwound]], an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
+At the core of the realm lies **The Godwound**, an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
 
+## The Wound
+**The Godwound** is the eternal imprint & lingering reminder of [[The Devine War]]
+It is the manifestation of the powerful & divine magic that created it.
+It's effects can are felt across the land(s)
+- Forcing the **seas** to **rage** & manifest **monsters**
+- Causing **forests, caves & dungeons** to manifest **monsters** & **magical** properties
+- Creating gates from which monsters appear
+- Enhancement of natural disasters
 
 ## Manifestations
 

@@ -1,3 +1,10 @@
+---
+title: Devine War
+tags:
+  - TheGodWar
+---
+
+
 # Devine War
 The Divine War erupted from a fundamental disagreement over the fate of mortals, splitting the pantheon into two factions. What began as philosophical discourse in divine halls escalated into a catastrophic conflict that reshaped the mortal realm. Cities crumbled, lands were scarred by divine power, and civilization itself teetered on the brink of collapse.
 
@@ -15,26 +22,24 @@ These deities champion mortal free will and self-determination. They believe tha
 
 ### The Eternal Crown
 
-#### Aurea, The Dawn Mother
-- As a mother goddess, Aurea believes absolute protection is the highest form of love. She has witnessed countless mortal tragedies that she believes could have been prevented through divine intervention. Her desire to shelter mortals from all harm led her to support the Grand Design.
-- Her temples traditionally served as hospitals and orphanages, and her clergy were known for their healing arts before the war.
+![[Gods#Aurea, The Dawn Mother]]
 
-#### Morlith, The Mountain Lord
-Morlith's perfectionistic nature and desire to forge a flawless world drew him to the Grand Design. He sees mortals as raw materials that need shaping into their ideal forms.
 
-#### Verdana, The River Queen
-Verdana's experience with oaths and contracts convinced her that binding all souls to a divine agreement would ensure universal justice and fairness.
+![[Gods#Morlith, The Mountain Lord]]
+
+
+![[Gods#Verdana, The River Queen]]
+
 
 ### The Unfettered
 
-#### Kyroth, The Storm Lord
-Kyroth has witnessed countless mortals achieve victory against impossible odds. These displays of mortal potential convinced him they deserve the freedom to chart their own course.
+![[Gods#Kyroth, The Ocean Lord]]
 
-#### Ilara, The Starweaver
-As keeper of mortal stories, Ilara has seen the beauty and meaning in mortal choice - even in tragedy. She believes predetermined fates would rob existence of its meaning.
+![[Gods#Ilara, The Starweaver]]
 
-#### Rhenox, The Wild Hunter
-Rhenox embodies the untamed and unpredictable. He sees the Grand Design as a cage that would destroy the beautiful chaos of free will.
+
+![[Gods#Rhenox, The Wild Hunter]]
+
 
 
 ## The Conflict
@@ -106,62 +111,10 @@ The Divine War reshaped not just the physical world but the relationship between
 - Both mortals and gods now understand the terrible price of absolute conviction
 
 ### The Godwound
-The [[The Godwound]] is the lasting scar and magic that lingers at the core of the realm.
-It is the manifestation of the powerful & divine magic that created it.
-It's effects can are felt across the land(s)
-- Forcing the **seas** to **rage** & manifest **monsters**
-- Causing **forests, caves & dungeons** to manifest **monsters** & **magical** properties
-- Creating gates from which monsters appear
-- Enhancement of natural disasters
 
-A testament to the cataclysmic forces that shaped this world.
+![[The Godwound#The Wound]]
 
 
-## Recovery: Four Centuries Later
+## Recovery
 
-### The Sundering of Lands
-When the Godwound first manifested, its power didn't just tear the fabric of reality—it physically ripped the continent apart. The once-unified landmass known as **Magnica** was split into four distinct continents, separated by great waters born from divine chaos. Each being named after the closest surviving royal family of their respective areas.
-
-### The Waters
-- The Godwound's energy created the Sundering Seas
-- New island chains formed from fragments of the original continent
-- Some islands hold powerful concentrations of divine energy
-- Maritime trade routes have become crucial for inter-continental commerce
-
-### Modern Political Landscape
-The Sundering brought an end to ancient territorial disputes but gave rise to new forms of conflict:
-- Naval supremacy became the new measure of power
-- Trade routes and island control drive modern politics
-- Each continent developed distinct cultural identities
-- Inter-continental alliances are both vital and fragile
-
-### Technological and Magical Evolution
-The post-Sundering world saw unique developments:
-- Navigation magic evolved to cope with the Godwound's interference
-- New forms of communication developed to bridge the continental divide
-- Each region developed specialized magic based on their environment
-- Trade in unique regional resources drives innovation
-
-### Cultural Transformation
-Four centuries of separation have led to:
-- Distinct regional interpretations of the old gods
-- New traditions born from adaptation to changed environments
-- Unique architectural styles influenced by local conditions
-- Regional variations in magical practices and beliefs
-
-### Modern Challenges
-Despite centuries of recovery, the world faces ongoing issues:
-- Periodic expansions of the Godwound require constant vigilance
-- Pirates exploit the dangerous waters between continents
-- Religious conflicts persist over interpretations of divine intent
-- Resource competition drives inter-continental tensions
-- Some dream of reunification while others defend independence
-
-### Legacy of Division
-The Sundering, while catastrophic, brought some unexpected benefits:
-- Clearer borders reduced traditional territorial warfare
-- Diverse environments promoted cultural and technological specialization
-- Separated populations developed unique solutions to shared problems
-- New forms of cooperation emerged between distant lands
-
-The world may be physically divided, but the challenges of the [[Dawn of the new age]] have created connections that span the Sundering Seas, proving that even in separation, the peoples of these lands find ways to reach across the raging divide.
+![[Dawn of The New Age#Four Centuries Later]]

@@ -1,3 +1,11 @@
+---
+title: Kingdom of Onyxia
+tags:
+  - Continent
+  - Kingdom
+---
+
+
 ## History
 Named after the onyx that form in the northern mountain range, Onyxia stands as a testament to natural wealth and architectural grandeur. Connected to [[Arcanum]] through the bustling port city of [[Bayshore]], and to [[Luminia]] via [[Sapphire Bay]] & [[Coral Bay]].
 
@@ -12,13 +20,13 @@ The ruling family gained prominence through their control of the continent's val
 The Shadowrest line traces their noble legitimacy through marriage to the youngest daughter of the former ruling house of **Obsidia**. When the Obsidia line ended during [[The Devine War]], the Shadowrests' combination of economic power and royal blood made them the clear successors.
 
 ### Re-Settlement
-The early settlements of what was now Onyxia, were focused on getting the mines and raw material resources operational for trading and tool creation. this was in hopes of gaining the favor of the other kingdoms & islands.
+The early settlements of what was now Onyxia, were focused on getting the mines and raw material resources operational for trading and tool creation. This was in hopes of gaining the favor of the other kingdoms & islands.
 With the farmland being neglected by the new king, a famine quickly set in, and the recultivation of food access got implemented. It was however, too late. As most skilled farmers & fishermen had either gotten too old to continue working or died with their knowledge.
-The new era would have Onyxia trade for food & knowledge. not quite what the new king had envisioned
+The new era would have Onyxia trade for food & knowledge. Not quite what the new king had envisioned
 
 Trade ports were quickly established with [[Luminia]] via [[Coral Bay]] and [[Sapphire Bay]]
 Trade with [[Arcanum]] however took a while to establish via [[Bayshore]] and [[Riverport]]
-Trade with [[Memberia]] Goes through [[Luminia]]
+Trade with [[Memberia]] goes through [[Luminia]]
 
 ### Godwound Ritual
 
@@ -44,7 +52,7 @@ This continent consists of several environments:
 #### Forests
 | Roll (d20) | Encounter                           |
 | ---------- | ----------------------------------- |
-| 1-2        | 1d4 Dire Wolves hunting             |
+| 1-2        | 1d4 Dire Wolves, hunting            |
 | 3-4        | A Dryad tending to plants           |
 | 5-6        | 2d6 Goblins setting up an ambush    |
 | 7-8        | A Displacer Beast stalking prey     |

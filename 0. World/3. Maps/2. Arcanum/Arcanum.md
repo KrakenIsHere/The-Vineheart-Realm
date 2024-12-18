@@ -1,10 +1,17 @@
+---
+title: Kingdom of Arcanum
+tags:
+  - Continent
+  - Kingdom
+---
+
 ## Map
 
 ![[Arcanum-V1.png]]
 
 ## History
 Named after the house of [[Arcanum#The house of Arca|Arca]] the capital of [[Mystara]] lies at the center if this continent.
-Connected to Memberia via the city of Ironshore and Onyxia via the city of Riverport
+Connected to [[Memberia]] via the city of [[Ironshore]] and [[Onyxia]] via the city of [[Riverport]]
 
 ### Royalty
 Once ruled by the royal house of **Minli** the results of the [[The Devine War]] caused the deaths of several royal branches to go extinct, either in battle or as collateral from the devastation.
@@ -29,7 +36,7 @@ The early settlements of what was now Arcanum, were focused on getting the coast
 
 Trade ports were quickly established with [[Memberia]] via [[Ironshore]] and [[Raven's Watch]]
 Trade with [[Onyxia]] however took a while to establish via [[Riverport]] and [[Bayshore]]
-Trade with [[Luminia]] Goes through [[Onyxia]]
+Trade with [[Luminia]] goes through [[Onyxia]]
 
 ### Godwound Ritual
 

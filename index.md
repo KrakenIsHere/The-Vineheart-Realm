@@ -1,5 +1,5 @@
 ---
-title: The Vineheart Realm
+title: The Realm of Vineheart
 tags:
   - index
   - Details
@@ -17,7 +17,7 @@ The realm consists of 4 main continents, and many islands.
 
 [[The Devine War]] erupted when the [[Gods]] split into two factions. Their devastating conflict nearly destroyed the world, culminating in the creation of [[The Godwound]] - a tear in reality that forced both sides to cease fighting.
 
-The Vineheart Party emerged as mortal heroes during this conflict, protecting people and minimizing casualties. Their actions were so significant that the post-war era became known as The Vineheart Realm, marking the [[Dawn of the new age]] of mortal self-determination.
+The Vineheart Party emerged as mortal heroes during this conflict, protecting people and minimizing casualties. Their actions were so significant that the post-war era became known as The Vineheart Realm, marking the [[Dawn of The New Age]] of mortal self-determination.
 
 [[The Devine War#The Godwound|The Godwound's]] power physically split the main continent into four distinct regions each developing their own unique cultures and societies over the following centuries.
 
