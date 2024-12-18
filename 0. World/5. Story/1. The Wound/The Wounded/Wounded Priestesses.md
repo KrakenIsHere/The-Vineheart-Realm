@@ -6,7 +6,6 @@ tags:
   - Godwound
 ---
 
-
 # Sacred Priestesses
 At the heart of each continent's [[Wound Containment|ritual]] stands a Godwound Priestess - women chosen from birth and trained to become living repositories of ancient knowledge. These priestesses are both guides and catalysts, their very beings attuned to [[The Godwound]].
 
