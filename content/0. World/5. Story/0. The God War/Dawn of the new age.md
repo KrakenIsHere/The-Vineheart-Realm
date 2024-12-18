@@ -4,7 +4,6 @@ tags:
   - TheGodWar
 ---
 
-
 # The Dawn of The New Age
 After the calamity that was the **The Devine War**, by the **Dawn of The New Age**, came **The Vineheart Realm** named after the hero party who kept damages and casualties to a minimum during the war.
 

@@ -4,7 +4,6 @@ tags:
   - TheGodWar
 ---
 
-
 # Devine War
 The Divine War erupted from a fundamental disagreement over the fate of mortals, splitting the pantheon into two factions. What began as philosophical discourse in divine halls escalated into a catastrophic conflict that reshaped the mortal realm. Cities crumbled, lands were scarred by divine power, and civilization itself teetered on the brink of collapse.
 

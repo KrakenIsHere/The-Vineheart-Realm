@@ -6,7 +6,6 @@ tags:
   - Inn
 ---
 
-
 ## The Misty Mug
 
 ![[Inn 2nd.webp]]
