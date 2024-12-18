@@ -1004,7 +1004,7 @@ Immediately after a character issues the [Maintain](https://www.dndbeyond.com/s
 
 Bastion events occur only when a Bastion is operating under the Maintain order, which often means that the Bastion’s owner isn’t present in the Bastion at the time. That means these events can be opportunities for the player to take on the role of the Bastion’s hirelings and roleplay their reactions to these events. The DM can even turn a Bastion event into a cutscene where each player takes on the role of one of the Bastion’s hirelings (under the guidance of the player whose character owns the Bastion).
 
-### Bastion Events
+### Bastion Events Table
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionEventsTable)
 
 |1d100|Event|

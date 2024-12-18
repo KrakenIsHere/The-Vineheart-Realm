@@ -64,7 +64,7 @@ The DM can help in the actual drawing of the map if so desired
 
 ## Events
 
-![[D.M.G. Chapter 8#Bastion Events]]
+![[D.M.G. Chapter 8#Bastion Events Table]]
 
 
 ## Tracking the Bastion
