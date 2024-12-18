@@ -3,6 +3,7 @@ title: Gameplay
 tags:
   - Rules
 ---
+Rules take inspiration from both the [[Dungeon Master's Guide.pdf|5e]] and [[D.M.G. Chapter 1|2024]] versions
 
 ## Rest:
 
@@ -72,6 +73,7 @@ Provides a -1 penalty to 1 of a character’s 3 highest stats
 Duration: 6 Hours
 
 ## Characters:
+Generally changed from [[DnD 5e Players Handbook (BnW OCR).pdf#page=8|5e]]
 
 ### Actions:
 - Mounting another character is an action.
