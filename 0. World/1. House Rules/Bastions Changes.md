@@ -26,30 +26,31 @@ A bastion can be rewarded by Royalty
 A bastion can also be granted by a local head of an area.
 - This means the structure is heavily falling apart or is near total ruin
 
-
-## Sizes
-
-
-### Layout
+## Layout
 It is for the player to draw out the layout of the building after getting specifications from the DM.
 
 The DM can help in the actual drawing of the map if so desired
 
-## Locations
 
+## Basic Costs
 
-## Cost
-
-### Adding Facilities
 ![[D.M.G. Chapter 8#[](https //www.dndbeyond.com/sources/dnd/dmg-2024/bastions AddingBasicFacilities)Adding Basic Facilities]]
 
-### Expansion
+
 ![[D.M.G. Chapter 8#[](https //www.dndbeyond.com/sources/dnd/dmg-2024/bastions EnlargingBasicFacilities)Enlarging Basic Facilities]]
 
 
 ## States
 
 ### Fully Functional
+
+#### Size
+
+#### General cost
+
+#### Facilities
+
+#### 
 
 ### Semi Functional
 
@@ -60,3 +61,14 @@ The DM can help in the actual drawing of the map if so desired
 ### Barely standing
 
 ### Actual Ruin
+
+## Events
+
+![[D.M.G. Chapter 8#[](https //www.dndbeyond.com/sources/dnd/dmg-2024/bastions BastionEventsTable)Bastion Events]]
+
+
+## Tracking the Bastion
+To track a bastion WotC has provided this handy sheet:
+
+![[D.M.G. Chapter 8#Tracking]]
+

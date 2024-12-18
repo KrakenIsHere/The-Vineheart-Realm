@@ -1121,6 +1121,10 @@ A player character can lose their Bastion in the following ways:
 
 Regardless of how the Bastion falls, the player can work with the DM to establish a new Bastion and determine how it comes into being. Use the [Special Facility Acquisition](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilityAcquisition) table to determine how many special facilities come with it. The new Bastion also starts with two basic facilities (one Cramped and one Roomy) of the player’s choice.
 
-[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-010.bastion-tracker-sheet.jpg)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-010.bastion-tracker-sheet.jpg)
-
+## Tracking
 [Downloadable PDF](https://media.dndbeyond.com/compendium-images/free-rules/dmg/bastion-sheet.pdf)
+
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-010.bastion-tracker-sheet.jpg)
+
+
+
