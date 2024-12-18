@@ -1,3 +1,10 @@
+---
+title: The Wound of Devine arrogance
+tags:
+  - Godwound
+  - TheGodWar
+---
+
 # The Scar
 At the core of the realm lies **The Godwound**, an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
 

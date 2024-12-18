@@ -1,3 +1,12 @@
+---
+title: Containment of the wound
+tags:
+  - Godwound
+  - Godwounded
+  - TheGodWar
+  - Containment
+---
+
 # The Rituals
 Each of the four continents must perform a sacred ritual [[The Godwounded#Ritual Coordination|twice a year]]. These rituals (collectively known as the Binding) serve to maintain the delicate balance of power that prevents the wound from overwhelming the realm.
 
