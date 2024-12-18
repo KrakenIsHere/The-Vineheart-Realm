@@ -1,3 +1,11 @@
+---
+title: The Godwounded
+tags:
+  - Godwound
+  - Godwounded
+  - TheGodWar
+---
+
 # Keepers of the Godwound
 *"To quell the wound is to bear the world"* - First Doctrine of The Wounded
 

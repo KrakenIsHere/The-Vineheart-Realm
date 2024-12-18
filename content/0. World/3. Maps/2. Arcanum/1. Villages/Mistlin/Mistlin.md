@@ -1,3 +1,12 @@
+---
+title: The village of Mistlin
+tags:
+  - Arcanum
+  - Villages
+  - Mistlin
+---
+
+
 ## Map
 
 ![[Mistlin.webp]]
