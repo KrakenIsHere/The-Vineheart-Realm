@@ -1,6 +1,7 @@
 # Chapter 8: Bastions
 
-Noor Rahman[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-001.bastion-by-the-sea.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-001.bastion-by-the-sea.png)
+Art by Noor Rahman
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-001.bastion-by-the-sea.png)
 
 A Bastion by the sea is more than just an adventurer’s getaway  
 A lot can happen here to fuel stories in the campaign
@@ -13,7 +14,8 @@ There’s no need to choose between going on adventures and commanding a Bastion
 
 Most importantly, a Bastion is a creative playground for a player and a shared storytelling space in the campaign. Be as permissive as you can with the stories players tell in their Bastions, but players should know their control might be limited by the campaign’s larger story, which you strive to make fun for everyone.
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#GainingaBastion)Gaining a Bastion
+## Gaining a Bastion
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#GainingaBastion)
 
 If you allow Bastions in your campaign, characters acquire their Bastions when they reach level 5. You and the players can decide together how these Bastions come into being. A character might inherit or receive a parcel of land on which to build their Bastion (see “[Marks of Prestige](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)), or they might take a preexisting structure and refurbish it. It’s fair to assume that work has been going on behind the scenes of the campaign during a character’s early adventuring career, so the Bastion is ready when the character reaches level 5.
 
@@ -21,11 +23,13 @@ The shape, style, and function of a character’s Bastion are up to the player t
 
 Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see “[Basic Facilities](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BasicFacilities)” and “[Special Facilities](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilities)”).
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionTurns)Bastion Turns
+## Bastion Turns
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionTurns)
 
 As time passes in the campaign, players take Bastion turns to reflect the activity occurring in their Bastions, whether or not the characters are present. On a Bastion turn, a character can issue orders to the special facilities in their Bastion or issue the [Maintain](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Maintain) order to the entire Bastion (see “[Orders](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Orders)”).
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FrequencyofBastionTurns)Frequency of Bastion Turns
+### Frequency of Bastion Turns
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FrequencyofBastionTurns)
 
 By default, a Bastion turn occurs every 7 days of in-game time. Here are common examples of players taking one or more Bastion turns:
 
@@ -36,11 +40,13 @@ By default, a Bastion turn occurs every 7 days of in-game time. Here are common 
 
 You can slow the frequency of Bastion turns to better serve the needs of your players and your campaign. For example, if the characters have months between adventures, you can call for a Bastion turn every month instead of every 7 days, so the characters aren’t issuing so many orders or reaping too many benefits at once.
 
-Noor Rahman[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-002.rogue-bastion.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-002.rogue-bastion.png)
+Art by Noor Rahman
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-002.rogue-bastion.png)
 
 A Rogue’s Bastion on the outskirts of town contains a Guildhall, a Pub, and more!
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionMap)Bastion Map
+## Bastion Map
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionMap)
 
 Encourage players to create floor plans of their characters’ Bastions, configuring its facilities as they see fit and using the same techniques you use to create dungeon maps (see “[Dungeons](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Dungeons)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox) and “[Adventure Maps](https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-adventures#AdventureMaps)” in [chapter 4](https://www.dndbeyond.com/sources/dnd/dmg-2024/creating-adventures)).
 
@@ -54,38 +60,37 @@ In addition to [basicfacilities](https://www.dndbeyond.com/sources/dnd/dmg-2024
 
 **Doors and Windows.** Each facility comes with one or more doors and shuttered windows, placed wherever the player sees fit. See “[Doors](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Doors)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox) for kinds of doors to choose from, including locked doors, secret doors, and portcullises. These features are free.
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#CombiningBastions)Combining Bastions
+### Combining Bastions
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#CombiningBastions)
 
 Two or more players can combine their characters’ Bastions into a single structure. Doing so doesn’t change the number of special facilities each Bastion can have, how those special facilities work, or who issues orders to each Bastion. Each Bastion retains its own hirelings, which can’t be sent to or shared with another Bastion. Bastion Defenders are handled differently: if some event deprives one character’s Bastion of defenders, another character can apply all or some of those losses to their Bastion instead, provided the two Bastions are combined.
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FacilitySpace)Facility Space
+### Facility Space
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FacilitySpace)
 
 The amount of space in a basic or special facility determines its maximum area in 5-foot squares, as shown in the Facility Space table. A player can configure the squares of a facility as they please on their Bastion’s map. The squares can be stacked so that a facility’s area is distributed over multiple levels or stories.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FacilitySpaceTable)Facility Space
-|Space|Maximum Area|
-|---|---|
-|Cramped|4 squares|
-|Roomy|16 squares|
-|Vast|36 squares|
+#### Facility Space
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FacilitySpaceTable)
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BasicFacilities)Basic Facilities
+| Space   | Maximum Area |
+| ------- | ------------ |
+| Cramped | 4 squares    |
+| Roomy   | 16 squares   |
+| Vast    | 36 squares   |
+
+## Basic Facilities
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BasicFacilities)
 
 A character’s Bastion starts with two free basic facilities, which the character’s player chooses from the Basic Facilities list below. One of the chosen facilities is Cramped, and the other is Roomy (see the [Facility Space](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FacilitySpace) table). A Bastion can have more than one of each basic facility.
 
-**Basic Facilities**
-
-Bedroom
-
-Dining Room
-
-Parlor
-
-Courtyard
-
-Kitchen
-
-Storage
+> [!Info] **Basic Facilities**
+> - Bedroom
+> - Dining Room
+> - Parlor
+> - Courtyard
+> - Kitchen
+> - Storage
 
 A basic facility comes with nonmagical furnishings and decor appropriate for that facility.
 
@@ -98,11 +103,11 @@ A character can add new basic facilities or enlarge existing ones by spending mo
 
 A character can add a basic facility to their Bastion by spending money and time. The cost of adding a basic facility and the time required depend on the facility’s space, as shown on the table below.
 
-|Facility Space|Cost|Time Required|
-|---|---|---|
-|Cramped|500 GP|20 days|
-|Roomy|1,000 GP|45 days|
-|Vast|3,000 GP|125 days|
+| Facility Space | Cost     | Time Required |
+| -------------- | -------- | ------------- |
+| Cramped        | 500 GP   | 20 days       |
+| Roomy          | 1,000 GP | 45 days       |
+| Vast           | 3,000 GP | 125 days      |
 
 ### Enlarging Basic Facilities
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#EnlargingBasicFacilities)
@@ -116,7 +121,8 @@ A character can spend money and time to increase the space of a basic facility i
 |Cramped to Roomy|500 GP|25 days|
 |Roomy to Vast|2,000 GP|80 days|
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilities)Special Facilities
+## Special Facilities
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilities)
 
 Special facilities are Bastion locations where certain activities yield game benefits. A character’s Bastion initially has two special facilities of the character’s choice for which they qualify. Each special facility can be chosen only once unless its description says otherwise.
 
@@ -124,29 +130,35 @@ Unlike basic facilities, special facilities can’t be bought; a character gains
 
 Each time a character gains a level, that character can replace one of their Bastion’s special facilities with another for which the character qualifies.
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilityAcquisition)Special Facility Acquisition
-|Level|Special Facilities|
-|---|---|
-|5|2|
-|9|4|
-|13|5|
-|17|6|
+### Special Facility Acquisition
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilityAcquisition)
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Requirements)Requirements
+| Level | Special Facilities |
+| ----- | ------------------ |
+| 5     | 2                  |
+| 9     | 4                  |
+| 13    | 5                  |
+| 17    | 6                  |
+
+### Requirements
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Requirements)
 
 Each special facility has a level. A character must be that level or higher to gain that facility. A special facility might also have a prerequisite the character must meet to gain that facility. For example, only a character who can use an Arcane Focus or a tool as a [Spellcasting Focus](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SpellcastingFocus) can have an [Arcane Study](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ArcaneStudy).
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Space)Space
+### Space
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Space)
 
 A special facility occupies a certain amount of space (see “[Facility Space](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FacilitySpace)”). A player can configure the squares of a special facility as desired on the Bastion’s map. A special facility can be enlarged to grant additional benefits if its description says so.
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Hirelings)Hirelings
+### Hirelings
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Hirelings)
 
 A special facility comes with one or more hirelings who work in the facility, maintain it, and execute Bastion orders there, as described in the next section. A player can assign names and personalities to hirelings in their character’s Bastion using the same tools DMs use to [create NPCs](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters) (see [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)).
 
 Each special facility in a Bastion generates enough income to pay the salary of its hirelings. Hirelings follow the orders they’re given and are loyal to the Bastion’s owner.
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Orders)Orders
+### Orders
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Orders)
 
 On a Bastion turn, a character in their Bastion can issue special orders—called Bastion orders—to one or more of their Bastion’s special facilities. A character needn’t issue orders to all the special facilities in their Bastion on a given Bastion turn.
 
@@ -154,43 +166,54 @@ The Maintain order is unusual; it is issued to the whole Bastion rather than to 
 
 The orders are as follows:
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft)Craft
+#### Craft
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft)
 
 Hirelings in the special facility craft an item that can be made in that facility. During the time required to craft an item, the facility can’t be used to craft anything else, even if a special ability allows the facility to carry out two orders at once. The hirelings have proficiencies with Artisan’s Tools as specified in the facility’s description.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower)Empower
+#### Empower
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower)
 
 The special facility confers a temporary empowerment to you or someone else.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Harvest)Harvest
+#### Harvest
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Harvest)
 
 Hirelings gather a resource produced in the special facility. During the time required to harvest a resource, the facility can’t be used to harvest anything else, even if a special ability allows the facility to carry out two orders at once.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Maintain)Maintain
+#### Maintain
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Maintain)
 
-Noor Rahman[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-004.bastions-over-time.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-004.bastions-over-time.png)
+Art by Noor Rahman
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-004.bastions-over-time.png)
 
 A Bastion grows over time
 
 All the Bastion’s hirelings focus on maintaining the Bastion rather than executing orders in special facilities. Issuing this order prohibits other orders from being issued to the Bastion on the current Bastion turn. Each time the Maintain order is issued, the DM rolls once on the [Bastion Events](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionEvents) table at the end of this chapter. Bastion events are resolved before the next Bastion turn.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Recruit)Recruit
+#### Recruit
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Recruit)
 
 Hirelings recruit creatures to the Bastion. These creatures might include one or more Bastion Defenders, whose main purpose is to defend the Bastion if it is attacked (see “[Bastion Events](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionEvents)” at the end of this chapter). The Bastion generates enough income to provide for the needs of its Bastion Defenders.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research)Research
+#### Research
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research)
 
 Hirelings in the special facility gather information.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade)Trade
+#### Trade
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade)
 
 Hirelings buy and sell goods or services stored or produced in this special facility.
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilityDescriptions)Special Facility Descriptions
+## Special Facility Descriptions
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilityDescriptions)
 
 Special facilities are presented in alphabetical order. The Special Facilities table lists all the special facilities presented in this section, along with their prerequisites and orders. Some facilities confer additional benefits, specified in their descriptions.
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilitiesTable)Special Facilities
+### Special Facilities
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilitiesTable)
+
 |Level|Special Facility|Prerequisite|Order|
 |---|---|---|---|
 |5|[Arcane Study](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ArcaneStudy)|Ability to use an [Arcane Focus](https://www.dndbeyond.com/equipment/544-arcane-focus) or a tool as a [Spellcasting Focus](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SpellcastingFocus)|Craft|
@@ -224,11 +247,14 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 |17|[War Room](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#WarRoom)|Fighting Style feature or Unarmored Defense feature|Recruit|
 |*Certain orders that can be issued to these facilities have additional prerequisites.|   |   |   |
 
-Irina Nordsol[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-003.key.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-003.key.png)
+Art by Irina Nordsol
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-003.key.png)
+
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ArcaneStudy)Arcane Study
+### Arcane Study
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ArcaneStudy)
 
 _Level 5 Bastion Facility_
 
@@ -254,7 +280,8 @@ An Arcane Study is a place of quiet research that contains one or more desks and
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Archive)Archive
+### Archive
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Archive)
 
 _Level 13 Bastion Facility_
 
@@ -286,7 +313,8 @@ An Archive is a repository of valuable books, maps, and scrolls. It is usually a
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Armory)Armory
+### Armory
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Armory)
 
 _Level 5 Bastion Facility_
 
@@ -306,7 +334,8 @@ While your Armory is stocked, your Bastion Defenders are harder to kill. When an
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Barrack)Barrack
+### Barrack
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Barrack)
 
 _Level 5 Bastion Facility_
 
@@ -328,7 +357,8 @@ Keep track of the Bastion Defenders housed in each of your Barracks. If you lose
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Demiplane)Demiplane
+### Demiplane
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Demiplane)
 
 _Level 17 Bastion Facility_
 
@@ -350,7 +380,8 @@ Only you and your Bastion’s hirelings can open the door, which leads to a Demi
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#GamingHall)Gaming Hall
+### Gaming Hall
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#GamingHall)
 
 _Level 9 Bastion Facility_
 
@@ -375,7 +406,8 @@ A Gaming Hall offers recreational activities like chess and games of darts, card
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Garden)Garden
+### Garden
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Garden)
 
 _Level 5 Bastion Facility_
 
@@ -395,7 +427,9 @@ While in your Bastion, you can instruct the facility’s hireling to change the 
 
 **_Enlarging the Facility._** You can enlarge your Garden to a Vast facility by spending 2,000 GP. A Vast Garden is equivalent to two Roomy Gardens and can include two of the same type of Garden or two different types. When you issue the Harvest order to a Vast Garden, each component garden produces its own harvest. A Vast Garden gains one additional hireling.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#GardenTypes)Garden Types
+#### Garden Types
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#GardenTypes)
+
 |Garden Type|Description|Harvest|
 |---|---|---|
 |Decorative|Aesthetically pleasing garden full of flowers and topiaries.|Ten exquisite floral bouquets (worth 5 GP each), ten vials of [Perfume](https://www.dndbeyond.com/equipment/396-perfume), or ten [Candles](https://www.dndbeyond.com/equipment/501-candle)|
@@ -405,7 +439,8 @@ While in your Bastion, you can instruct the facility’s hireling to change the 
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Greenhouse)Greenhouse
+### Greenhouse
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Greenhouse)
 
 _Level 9 Bastion Facility_
 
@@ -429,7 +464,8 @@ A Greenhouse is an enclosure where rare plants and fungi are nurtured in a contr
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Guildhall)Guildhall
+### Guildhall
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Guildhall)
 
 _Level 17 Bastion Facility_
 
@@ -447,19 +483,22 @@ Your guild has roughly fifty members made up of skilled folk who live and work o
 
 **_Recruit: Guild Assignment._** Each time you issue the [Recruit](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Recruit) order to this facility, you commission the facility’s hireling to recruit guild members to perform a special assignment. Each guild in the Sample Guilds table specifies the nature of that assignment. With your DM’s permission and help, you can create new assignments for guild members to complete.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SampleGuilds)Sample Guilds
-|Guild|Symbol|Assignment|
-|---|---|---|
-|Adventurers’ Guild|Lit torch|You send adventurers to track down a Beast that has a Challenge Rating of 2 or lower and is known to lair within 50 miles of your Bastion. The adventurers slay or capture the creature (your choice) in 1d6 + 1 days. If the creature is slain and your Bastion has a Trophy Room, you can add a trophy taken from the creature to that facility. If the creature is captured and your Bastion has a Menagerie, you can add the creature to that facility, provided the facility has space to house it.|
-|Bakers’ Guild|Pastry|You assign bakers to create baked goods for a prestigious event that occurs within the next 7 days. You can receive payment in coin (500 GP) or in the form of a favor owed to you by the event’s host, the details of which are left to you and the DM.|
-|Brewers’ Guild|Foaming mug|You assign brewers to deliver fifty 40-gallon barrels of ale (worth 10 GP each) to your Bastion in 7 days.|
-|Masons’ Guild|Stone mask|You assign masons to add a defensive wall to your Bastion at no cost. Alternatively, you can have the masons perform this work for another character’s Bastion, provided their Bastion is within 1 mile of yours. Each 5-foot square of defensive wall takes 1 day to build instead of 10 (see “[Bastion Map](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionMap)”).|
-|Shipbuilders’ Guild|Crossed oars|You assign shipbuilders to build one of the vehicles in the [Airborne and Waterborne Vehicles](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#AirborneandWaterborneVehicles) table of the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024). You pay the full cost of the vehicle, and the work takes 1 day per 1,000 GP of the vehicle’s cost (a [Rowboat](https://www.dndbeyond.com/equipment/479-rowboat) can be made in 1 day).|
-|Thieves’ Guild|White key|You assign thieves to infiltrate a location within 50 miles of your Bastion and steal a nonmagical object from it. The object can be no bigger than 5 feet in any dimension and is delivered to your Bastion in 1d6 + 1 days. The DM may decide this activity leaves you at risk of retaliation from law enforcement or the victim.|
+#### Sample Guilds
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SampleGuilds)
+
+| Guild               | Symbol       | Assignment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adventurers’ Guild  | Lit torch    | You send adventurers to track down a Beast that has a Challenge Rating of 2 or lower and is known to lair within 50 miles of your Bastion. The adventurers slay or capture the creature (your choice) in 1d6 + 1 days. If the creature is slain and your Bastion has a Trophy Room, you can add a trophy taken from the creature to that facility. If the creature is captured and your Bastion has a Menagerie, you can add the creature to that facility, provided the facility has space to house it. |
+| Bakers’ Guild       | Pastry       | You assign bakers to create baked goods for a prestigious event that occurs within the next 7 days. You can receive payment in coin (500 GP) or in the form of a favor owed to you by the event’s host, the details of which are left to you and the DM.                                                                                                                                                                                                                                                 |
+| Brewers’ Guild      | Foaming mug  | You assign brewers to deliver fifty 40-gallon barrels of ale (worth 10 GP each) to your Bastion in 7 days.                                                                                                                                                                                                                                                                                                                                                                                               |
+| Masons’ Guild       | Stone mask   | You assign masons to add a defensive wall to your Bastion at no cost. Alternatively, you can have the masons perform this work for another character’s Bastion, provided their Bastion is within 1 mile of yours. Each 5-foot square of defensive wall takes 1 day to build instead of 10 (see “[Bastion Map](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionMap)”).                                                                                                                     |
+| Shipbuilders’ Guild | Crossed oars | You assign shipbuilders to build one of the vehicles in the [Airborne and Waterborne Vehicles](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#AirborneandWaterborneVehicles) table of the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024). You pay the full cost of the vehicle, and the work takes 1 day per 1,000 GP of the vehicle’s cost (a [Rowboat](https://www.dndbeyond.com/equipment/479-rowboat) can be made in 1 day).                                          |
+| Thieves’ Guild      | White key    | You assign thieves to infiltrate a location within 50 miles of your Bastion and steal a nonmagical object from it. The object can be no bigger than 5 feet in any dimension and is delivered to your Bastion in 1d6 + 1 days. The DM may decide this activity leaves you at risk of retaliation from law enforcement or the victim.                                                                                                                                                                      |
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Laboratory)Laboratory
+### Laboratory
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Laboratory)
 
 _Level 9 Bastion Facility_
 
@@ -479,13 +518,15 @@ A Laboratory contains storage space for alchemical supplies and workspaces for c
 
 **Craft: Poison.** You commission the facility’s hireling to craft a vial containing one application of a poison. The poison must be one of the following: [Burnt Othur Fumes](https://www.dndbeyond.com/equipment/554-burnt-othur-fumes), [Essence of Ether](https://www.dndbeyond.com/equipment/556-essence-of-ether), or [Torpor](https://www.dndbeyond.com/equipment/564-torpor). This work takes 7 days, and you must pay half the poison’s cost. See “[Poison](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Poison)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox) for descriptions and costs of poisons.
 
-Mark Behm[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-005.cauldron.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-005.cauldron.png)
+Art by Mark Behm
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-005.cauldron.png)
 
 A cauldron is standard equipment in a potion brewer’s Laboratory
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Library)Library
+### Library
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Library)
 
 _Level 5 Bastion Facility_
 
@@ -503,7 +544,8 @@ This Library contains a collection of books plus one or more desks and reading c
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MeditationChamber)Meditation Chamber
+### Meditation Chamber
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MeditationChamber)
 
 _Level 13 Bastion Facility_
 
@@ -530,14 +572,16 @@ A Meditation Chamber is a relaxing space that helps align one’s mind, body, an
 |5|Wisdom|
 |6|Charisma|
 
-Olga Drebas[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-006.mouse-of-reading.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-006.mouse-of-reading.png)
+Art by Olga Drebas
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-006.mouse-of-reading.png)
 
 The books in your Library hold a wealth of  
 lore that you or a hireling can research
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Menagerie)Menagerie
+### Menagerie
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Menagerie)
 
 _Level 13 Bastion Facility_
 
@@ -555,7 +599,9 @@ A Menagerie has enclosures big enough to contain up to four Large creatures. Fou
 
 Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from your Bastion Defenders roster. You can choose not to count one or more of these creatures as Bastion Defenders, in which case they can’t be called on to defend the Bastion. Instead, they act in accordance with their nature and use their stat blocks in the _Monster Manual_.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MenagerieCreatures)Menagerie Creatures
+#### Menagerie Creatures
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MenagerieCreatures)
+
 |Creature|Size|Cost|
 |---|---|---|
 |[Ape](https://www.dndbeyond.com/monsters/4775801-ape)|Medium|500 GP|
@@ -574,7 +620,9 @@ Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from
 
 With the DM’s consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its Challenge Rating, as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#CreatureCostsbyChallengeRating)Creature Costs by Challenge Rating
+#### Creature Costs by Challenge Rating
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#CreatureCostsbyChallengeRating)
+
 |Challenge Rating|Cost|
 |---|---|
 |0 or 1/8|50 GP|
@@ -586,7 +634,8 @@ With the DM’s consent, you can add different creatures than those shown in the
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Observatory)Observatory
+### Observatory
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Observatory)
 
 _Level 13 Bastion Facility_
 
@@ -606,7 +655,8 @@ Situated atop your Bastion, your Observatory contains a telescope aimed at the n
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Pub)Pub
+### Pub
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Pub)
 
 _Level 13 Bastion Facility_
 
@@ -640,7 +690,8 @@ At the start of a Bastion turn, you can switch to one of the other options. Your
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Reliquary)Reliquary
+### Reliquary
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Reliquary)
 
 _Level 13 Bastion Facility_
 
@@ -660,7 +711,8 @@ This vault holds sacred objects.
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sacristy)Sacristy
+### Sacristy
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sacristy)
 
 _Level 9 Bastion Facility_
 
@@ -684,7 +736,8 @@ A Sacristy serves as a preparation and storage room for the sacred items and rel
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sanctuary)Sanctuary
+### Sanctuary
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sanctuary)
 
 _Level 5 Bastion Facility_
 
@@ -702,13 +755,15 @@ Icons of your religion are displayed in this facility, which includes a quiet pl
 
 **_Craft: Sacred Focus._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, you commission the facility’s hireling to craft a [Druidic Focus](https://www.dndbeyond.com/equipment/532-druidic-focus) ([wooden staff](https://www.dndbeyond.com/equipment/530-wooden-staff)) or a [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol). The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
-Noor Rahman[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-007.observatory-addition.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-007.observatory-addition.png)
+Art by Noor Rahman
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-007.observatory-addition.png)
 
 The addition of an Observatory can lead to the discovery of eldritch secrets lost among the stars
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sanctum)Sanctum
+### Sanctum
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sanctum)
 
 _Level 17 Bastion Facility_
 
@@ -730,7 +785,8 @@ A Sanctum is a place of solace and healing.
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Scriptorium)Scriptorium
+### Scriptorium
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Scriptorium)
 
 _Level 9 Bastion Facility_
 
@@ -752,14 +808,16 @@ A Scriptorium contains desks and writing supplies.
 
 **Craft: Paperwork.** You commission the facility’s hireling to create up to fifty copies of a broadsheet, a pamphlet, or another loose-leaf paper product. The work takes 7 days and costs you 1 GP per copy. At no additional cost in time or money, the facility’s hireling can distribute the paperwork to one or more locations within 50 miles of your Bastion.
 
-Nikki Dawes[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-008.desk-and-supplies.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-008.desk-and-supplies.png)
+Art by Nikki Dawes
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-008.desk-and-supplies.png)
 
 A Scriptorium has desks and supplies for  
 crafting books, scrolls, and other paperwork
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Smithy)Smithy
+### Smithy
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Smithy)
 
 _Level 5 Bastion Facility_
 
@@ -781,7 +839,8 @@ This Smithy contains a forge, an anvil, and other tools needed to craft weapons,
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Stable)Stable
+### Stable
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Stable)
 
 _Level 9 Bastion Facility_
 
@@ -805,7 +864,8 @@ When you sell a mount from your Stable, the buyer pays you 20 percent more than 
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Storehouse)Storehouse
+### Storehouse
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Storehouse)
 
 _Level 5 Bastion Facility_
 
@@ -825,7 +885,8 @@ When you sell goods from your Storehouse, the buyer pays you 10 percent more tha
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TeleportationCircle)Teleportation Circle
+### Teleportation Circle
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TeleportationCircle)
 
 _Level 9 Bastion Facility_
 
@@ -847,7 +908,8 @@ The spellcaster stays for 14 days or until they cast a spell for you. The spellc
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Theater)Theater
+### Theater
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Theater)
 
 _Level 9 Bastion Facility_
 
@@ -875,7 +937,8 @@ At the end of a rehearsal period, each character who contributed to the concert 
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea)Training Area
+### Training Area
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea)
 
 _Level 9 Bastion Facility_
 
@@ -891,7 +954,9 @@ A Bastion can have more than one Training Area. A Training Area might be an open
 
 When a Training Area becomes part of your Bastion, choose one trainer from the [Expert Trainers](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ExpertTrainers) table. On each Bastion turn, you can replace that trainer with another one from the table.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ExpertTrainers)Expert Trainers
+#### Expert Trainers
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ExpertTrainers)
+
 |Trainer Type|Empower Effect|
 |---|---|
 |Battle Expert|When you take damage from an attack made with an [Unarmed Strike](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnarmedStrike) or a weapon, you can take a Reaction to reduce this damage by 1d4.|
@@ -904,7 +969,8 @@ When a Training Area becomes part of your Bastion, choose one trainer from the 
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrophyRoom)Trophy Room
+### Trophy Room
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrophyRoom)
 
 _Level 9 Bastion Facility_
 
@@ -926,7 +992,8 @@ This room houses a collection of mementos, such as weapons from old battles, the
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#WarRoom)War Room
+### War Room
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#WarRoom)
 
 _Level 17 Bastion Facility_
 
@@ -950,7 +1017,8 @@ The War Room contains war memorabilia plus a large table surrounded by enough ch
 
 ---
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Workshop)Workshop
+### Workshop
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Workshop)
 
 _Level 5 Bastion Facility_
 
@@ -966,27 +1034,18 @@ This Workshop is a creative space where useful items can be crafted.
 
 **_Artisan’s Tools._** The Workshop comes equipped with six different kinds of Artisan’s Tools, chosen from the following list:
 
-[Carpenter’s Tools](https://www.dndbeyond.com/equipment/409-carpenters-tools)
-
-[Cobbler’s Tools](https://www.dndbeyond.com/equipment/416-cobblers-tools)
-
-[Glassblower’s Tools](https://www.dndbeyond.com/equipment/421-glassblowers-tools)
-
-[Jeweler’s Tools](https://www.dndbeyond.com/equipment/423-jewelers-tools)
-
-[Leatherworker’s Tools](https://www.dndbeyond.com/equipment/425-leatherworkers-tools)
-
-[Mason’s Tools](https://www.dndbeyond.com/equipment/428-masons-tools)
-
-[Painter’s Tools](https://www.dndbeyond.com/equipment/432-painters-supplies)
-
-[Potter’s Tools](https://www.dndbeyond.com/equipment/436-potters-tools)
-
-[Tinker’s Tools](https://www.dndbeyond.com/equipment/441-tinkers-tools)
-
-[Weaver’s Tools](https://www.dndbeyond.com/equipment/443-weavers-tools)
-
-[Woodcarver’s Tools](https://www.dndbeyond.com/equipment/445-woodcarvers-tools)
+> [!Info] Tools
+> - [Carpenter’s Tools](https://www.dndbeyond.com/equipment/409-carpenters-tools)
+> - [Cobbler’s Tools](https://www.dndbeyond.com/equipment/416-cobblers-tools)
+> - [Glassblower’s Tools](https://www.dndbeyond.com/equipment/421-glassblowers-tools)
+> - [Jeweler’s Tools](https://www.dndbeyond.com/equipment/423-jewelers-tools)
+> - [Leatherworker’s Tools](https://www.dndbeyond.com/equipment/425-leatherworkers-tools)
+> - [Mason’s Tools](https://www.dndbeyond.com/equipment/428-masons-tools)
+> - [Painter’s Tools](https://www.dndbeyond.com/equipment/432-painters-supplies)
+> - [Potter’s Tools](https://www.dndbeyond.com/equipment/436-potters-tools)
+> - [Tinker’s Tools](https://www.dndbeyond.com/equipment/441-tinkers-tools)
+> - [Weaver’s Tools](https://www.dndbeyond.com/equipment/443-weavers-tools)
+> - [Woodcarver’s Tools](https://www.dndbeyond.com/equipment/445-woodcarvers-tools)
 
 **_Craft Options._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, choose one of the following options:
 
@@ -998,7 +1057,9 @@ This Workshop is a creative space where useful items can be crafted.
 
 **_Enlarging the Facility._** You can enlarge your Workshop to a Vast facility by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional Artisan’s Tools (chosen from the list above).
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionEvents)Bastion Events
+
+## Bastion Events
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionEvents)
 
 Immediately after a character issues the [Maintain](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Maintain) order to their Bastion, the DM rolls once on the Bastion Events table to determine what event, if any, befalls the Bastion before the next Bastion Turn. If an event occurs, the DM reads the event aloud to the player whose character controls that Bastion. (All the events are described in the sections following the table.) The event is resolved immediately, with the player and DM working together to expand story details as needed. If multiple characters issue the Maintain order on the same Bastion turn, roll once on the table for each of them, resolving each event separately even if the Bastions are combined.
 
@@ -1021,11 +1082,13 @@ Bastion events occur only when a Bastion is operating under the Maintain order, 
 |92–98|[Request for Aid](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#RequestforAid)|
 |99–00|[Treasure](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Treasure)|
 
-### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#EventDescriptions)Event Descriptions
+### Event Descriptions
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#EventDescriptions)
 
 The events from the Bastion Events table are detailed here in alphabetical order.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#AllIsWell)All Is Well
+#### All Is Well
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#AllIsWell)
 
 Nothing significant happens. Roll on the following table, fleshing out the details as you see fit.
 
@@ -1040,11 +1103,12 @@ Nothing significant happens. Roll on the following table, fleshing out the detai
 |7|Some practical joker has been putting rotten eggs in people’s boots.|
 |8|Someone thought they saw a ghost.|
 
-Bastion Tracker
+[[D.M.G. Chapter 8#Tracking|Bastion Tracker]]
 
 Players can use the [Bastion Tracker](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionTrackerSheet) sheet as a record of the facilities and other characteristics of their Bastions. Encourage your players to list their hirelings on this sheet and develop them more fully as NPCs on separate sheets (perhaps using the [NPC Tracker](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#NPCTracker) in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)). Similarly, the Bastion Tracker provides space to indicate the space of each special facility, but encourage players to draw maps of their Bastions (see “[Bastion Map](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionMap)” earlier in this chapter).
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Attack)Attack
+#### Attack
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Attack)
 
 A hostile force attacks your Bastion but is defeated.
 
@@ -1052,13 +1116,16 @@ Roll 6d6; for each die that rolls a 1, one Bastion Defender dies. Remove these B
 
 A special facility that shuts down can’t be used on your next Bastion turn, after which it is repaired and made operational again at no cost to you.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#CriminalHireling)Criminal Hireling
+#### Criminal Hireling
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#CriminalHireling)
 
 One of your Bastion’s hirelings has a criminal past that comes to light when officials or bounty hunters visit your Bastion with a warrant for the hireling’s arrest. You can retain the hireling by paying a bribe of 1d6 × 100 GP. Otherwise, the hireling is arrested and taken away. If this loss leaves one of your facilities without any hirelings, that facility can’t be used on your next Bastion turn. The hireling is then replaced at no cost to you.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ExtraordinaryOpportunity)Extraordinary Opportunity
+#### Extraordinary Opportunity
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#ExtraordinaryOpportunity)
 
-Ralph Horsley[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-009.spring-festival.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-009.spring-festival.png)
+Art by Ralph Horsley
+![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/10-009.spring-festival.png)
 
 A hero’s Bastion hosts a spring festival to which everyone is invited
 
@@ -1068,38 +1135,45 @@ If you seize the opportunity, you must pay 500 GP to cover costs. In return, you
 
 If you decline the opportunity, you don’t pay the money and nothing else happens.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FriendlyVisitors)Friendly Visitors
+#### Friendly Visitors
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FriendlyVisitors)
 
 Friendly visitors come to your Bastion, seeking to use one of your special facilities. They offer 1d6 × 100 GP for the brief use of that facility. For example, a knight might want your [Smithy](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Smithy) to replace a horseshoe or repair a damaged weapon or suit of armor, or sages might need your Arcane Study to help them settle a dispute. Their use of the facility doesn’t interrupt any orders you’ve issued to it.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Guest)Guest
+#### Guest
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Guest)
 
 A Friendly guest comes to stay at your Bastion. Determine the guest by rolling on the following table, and work with your DM to flesh out the details.
 
-|1d4|Guest|
-|---|---|
-|1|The guest is an individual of great renown who stays for 7 days. At the end of their stay, the guest gives you a letter of recommendation (see “[Marks of Prestige](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)).|
-|2|The guest requests sanctuary while avoiding persecution for their beliefs or crimes. They depart 7 days later, but not before offering you a gift of 1d6 × 100 GP.|
-|3|The guest is a mercenary, giving you one additional Bastion Defender. The guest doesn’t require a facility to house them, and they stay until you send them away or they’re killed.|
-|4|The guest is a [Friendly](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FriendlyAttitude) monster, such as a brass dragon or a treant. If your Bastion is attacked while this monster is your guest, it defends your Bastion, and you lose no Bastion Defenders. The monster leaves after it defends your Bastion once or when you send it away.|
+| 1d4 | Guest                                                                                                                                                                                                                                                                                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | The guest is an individual of great renown who stays for 7 days. At the end of their stay, the guest gives you a letter of recommendation (see “[Marks of Prestige](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)).                                      |
+| 2   | The guest requests sanctuary while avoiding persecution for their beliefs or crimes. They depart 7 days later, but not before offering you a gift of 1d6 × 100 GP.                                                                                                                                                                                                 |
+| 3   | The guest is a mercenary, giving you one additional Bastion Defender. The guest doesn’t require a facility to house them, and they stay until you send them away or they’re killed.                                                                                                                                                                                |
+| 4   | The guest is a [Friendly](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FriendlyAttitude) monster, such as a brass dragon or a treant. If your Bastion is attacked while this monster is your guest, it defends your Bastion, and you lose no Bastion Defenders. The monster leaves after it defends your Bastion once or when you send it away. |
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#LostHirelings)Lost Hirelings
+#### Lost Hirelings
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#LostHirelings)
 
 One of your Bastion’s special facilities (determined randomly) loses its hirelings. The cause of their departure is up to you. The facility can’t be used on your next Bastion turn, but the hirelings are replaced at no cost to you at that point.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MagicalDiscovery)Magical Discovery
+#### Magical Discovery
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MagicalDiscovery)
 
 Your hirelings discover or accidentally create an Uncommon magic item of your choice at no cost to you. The magic item must be a Potion or Scroll.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Refugees)Refugees
+#### Refugees
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Refugees)
 
 A group of 2d4 refugees fleeing from a monster attack, a natural disaster, or some other calamity seeks refuge in your Bastion. If your Bastion lacks a basic facility large enough to house them, the refugees camp right outside the Bastion. The refugees offer you 1d6 × 100 GP as payment for your hospitality and protection. They stay until you find them a new home or a hostile force attacks your Bastion.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#RequestforAid)Request for Aid
+#### Request for Aid
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#RequestforAid)
 
 Your Bastion is called on to help a local leader. Perhaps there’s a search on for a missing person, or brigands are plaguing the area. If you help, you must dispatch one or more Bastion Defenders. Roll 1d6 for each Bastion Defender you send. If the total is 10 or higher, the problem is solved and you earn a reward of 1d6 × 100 GP. If the total is less than 10, the problem is still solved, but the reward is halved and one of your Bastion Defenders is killed. Remove that Bastion Defender from your Bastion’s roster.
 
-#### [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Treasure)Treasure
+#### Treasure
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Treasure)
 
 Your Bastion acquires an art object or a magic item determined by rolling on the table below and then rolling on the specified table in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure). How the Bastion acquires this treasure is up to you. It might represent an inheritance, a gift from a guest or an admirer, a theft, or a fortunate discovery. If you’re in the Bastion, you can claim the treasure immediately; otherwise, it is placed in storage until you can claim it.
 
@@ -1113,7 +1187,8 @@ Your Bastion acquires an art object or a magic item determined by rolling on the
 |91–98|Roll on an Uncommon Magic Items table of your choice ([Arcana](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArcanaUncommon), [Armaments](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArmamentsUncommon), [Implements](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ImplementsUncommon), or [Relics](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#RelicsUncommon)).|
 |99–00|Roll on a Rare Magic Items table of your choice ([Arcana](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArcanaRare), [Armaments](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArmamentsRare), [Implements](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ImplementsRare), or [Relics](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#RelicsRare)).|
 
-## [](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FallofaBastion)Fall of a Bastion
+## Fall of a Bastion
+[LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#FallofaBastion)
 
 A player character can lose their Bastion in the following ways:
 
