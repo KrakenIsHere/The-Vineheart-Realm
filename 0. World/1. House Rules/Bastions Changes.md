@@ -32,7 +32,7 @@ It is for the player to draw out the layout of the building after getting specif
 The DM can help in the actual drawing of the map if so desired
 
 
-## Basic Costs
+## Facilities
 
 ![[D.M.G. Chapter 8#Adding Basic Facilities]]
 
@@ -40,17 +40,22 @@ The DM can help in the actual drawing of the map if so desired
 ![[D.M.G. Chapter 8#Enlarging Basic Facilities]]
 
 
+![[D.M.G. Chapter 8#Facility Space]]
+
 ## States
 
 ### Fully Functional
+The best state a bastion can be in, existing facilities are running at full capacity and hirelings are hard at work.
+
+#### Criteria
+Once the maximum of the last stage has been reached and the land expansion has been paid to the royal overseer (6,000 GP)
 
 #### Size
+There are little to no limitations once a bastion reaches this level
 
-#### General cost
+#### Facility limits
+ At this state there are little to no limitations on which facilities that can be used or unlocked.
 
-#### Facilities
-
-#### 
 
 ### Semi Functional
 
