@@ -36,6 +36,8 @@ In order to co-own bastions as 2 characters the "Combination" goes towards the p
 ![[D.M.G. Chapter 8#Frequency of Bastion Turns]]
 
 
+![[D.M.G. Chapter 8#Orders]]
+
 ## Layout
 It is for the player to draw out the layout of the building after getting specifications from the DM.
 
