@@ -6,7 +6,7 @@
       {
         "id": "5b1e37fd0a1abc99",
         "type": "tabs",
-        "dimension": 49.736247174076865,
+        "dimension": 49.17798427448177,
         "children": [
           {
             "id": "27ef5352495a5f84",
@@ -42,7 +42,7 @@
       {
         "id": "63ef45b84b6e2518",
         "type": "tabs",
-        "dimension": 50.263752825923135,
+        "dimension": 50.822015725518234,
         "children": [
           {
             "id": "3d5ce34bf3039231",
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 210.5
   },
   "right": {
     "id": "2266179cb9c35810",
@@ -236,7 +236,8 @@
               "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -259,6 +260,8 @@
   "lastOpenFiles": [
     "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 8.md",
     "0. World/1. House Rules/Bastions Changes.md",
+    "0. World/1. House Rules/DM Secret.md",
+    "0. World/2. Sessions/0. Mistlin Inn/DM Notes.md",
     "index.md",
     "0. World/1. House Rules/Gameplay Changes.md",
     "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
@@ -270,7 +273,6 @@
     "0. World/5. Story/0. The God War/The Devine War.md",
     "0. World/5. Story/0. The God War/Gods.md",
     "0. World/5. Story/0. The God War/Dawn of The New Age.md",
-    "0. World/1. House Rules/DM Secret Rules.md",
     "0. World/4. Characters/Non-Playable/DM NPCs Sheet.md",
     "0. World/3. Maps/2. Arcanum/1. Villages/Mistlin/Inn/Mistlin Inn (Misty Mug).md",
     "0. World/3. Maps/Information.md",

@@ -23,6 +23,7 @@ The shape, style, and function of a character’s Bastion are up to the player t
 
 Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see “[Basic Facilities](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BasicFacilities)” and “[Special Facilities](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilities)”).
 
+
 ## Bastion Turns
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionTurns)
 
