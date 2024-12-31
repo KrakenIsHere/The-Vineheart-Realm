@@ -212,7 +212,7 @@ Hirelings buy and sell goods or services stored or produced in this special faci
 
 Special facilities are presented in alphabetical order. The Special Facilities table lists all the special facilities presented in this section, along with their prerequisites and orders. Some facilities confer additional benefits, specified in their descriptions.
 
-### Special Facilities
+### Special Facilities Table
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilitiesTable)
 
 |Level|Special Facility|Prerequisite|Order|

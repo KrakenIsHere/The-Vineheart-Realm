@@ -44,14 +44,25 @@ The DM can help in the actual drawing of the map if so desired.
 
 ## Facilities
 
+### General
+
+![[D.M.G. Chapter 8#Facility Space]]
+
+
+### Basic
+
 ![[D.M.G. Chapter 8#Adding Basic Facilities]]
 
 
 ![[D.M.G. Chapter 8#Enlarging Basic Facilities]]
 
 
-![[D.M.G. Chapter 8#Facility Space]]
+### Special
 
+![[D.M.G. Chapter 8#Special Facility Acquisition]]
+
+
+![[D.M.G. Chapter 8#Special Facilities Table]]
 
 ## States
 
@@ -74,7 +85,6 @@ At this state the bastion can contain up to the following
 ##### Basic Facilities
 At this state there's no limitations on which basic facilities that can be added to the bastion.
 
-
 ### Semi Functional
 The next best state a bastion can be in, existing facilities are running at half capacity and hirelings are hard at work.
 
@@ -92,7 +102,6 @@ At this state the bastion can contain up to the following
 
 ##### Basic Facilities
 There's no limitations on which basic facilities that can be added to the bastion.
-
 
 ### Barely Functional
 The state where a bastion starts to run, existing facilities are running but barely and hirelings are sticking around due to the "free" workspace.
@@ -137,7 +146,6 @@ This state of bastion has access to the following basic facilities
 - Kitchen
 - Bedroom
 
-
 ### Falling apart
 The state where a bastion is turning to rubble, there are no existing facilities and hirelings will be hard to acquire.
 
@@ -176,6 +184,7 @@ At this state the bastion can contain up to the following
 ##### Basic Facilities
 This state of bastion has access to the following basic facilities
 - Storage
+
 
 ## Events
 
