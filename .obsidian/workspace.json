@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/1. House Rules/Bastions Changes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bastions Changes"
+              "title": "index"
             }
           }
         ],
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/1. House Rules/Bastions Changes.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bastions Changes"
+              "title": "Outline of index"
             }
           },
           {
@@ -236,8 +236,7 @@
               "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,12 +257,12 @@
   },
   "active": "ab061ffab328b29a",
   "lastOpenFiles": [
-    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 8.md",
-    "0. World/1. House Rules/Bastions Changes.md",
-    "0. World/1. House Rules/DM Secret.md",
-    "0. World/2. Sessions/0. Mistlin Inn/DM Notes.md",
-    "index.md",
     "0. World/1. House Rules/Gameplay Changes.md",
+    "0. World/1. House Rules/Bastions Changes.md",
+    "index.md",
+    "0. World/1. House Rules/DM Secret.md",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 8.md",
+    "0. World/2. Sessions/0. Mistlin Inn/DM Notes.md",
     "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
     "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
     "0. World/5. Story/1. The Wound/The Godwound.md",
