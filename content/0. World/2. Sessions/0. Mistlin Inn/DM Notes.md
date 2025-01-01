@@ -84,3 +84,9 @@ They are however, pre-occupied with throwing vegetables at LaFou on stage
 ##### Talking
 
 ##### Fighting
+
+# Characters
+
+## Yzma
+
+Has [[DM Secret#Plot Armor|Plot Armor]] now

@@ -23,6 +23,7 @@ The shape, style, and function of a character’s Bastion are up to the player t
 
 Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see “[Basic Facilities](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BasicFacilities)” and “[Special Facilities](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilities)”).
 
+
 ## Bastion Turns
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#BastionTurns)
 
@@ -211,7 +212,7 @@ Hirelings buy and sell goods or services stored or produced in this special faci
 
 Special facilities are presented in alphabetical order. The Special Facilities table lists all the special facilities presented in this section, along with their prerequisites and orders. Some facilities confer additional benefits, specified in their descriptions.
 
-### Special Facilities
+### Special Facilities Table
 [LINK](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#SpecialFacilitiesTable)
 
 |Level|Special Facility|Prerequisite|Order|
