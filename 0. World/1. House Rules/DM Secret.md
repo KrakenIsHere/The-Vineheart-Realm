@@ -55,17 +55,19 @@ In my DnD homebrew game I have Gods that might grant wishes and I need help to m
 My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
 
 #### Devils & Demons
-In my DnD homebrew game I have Gods that might grant wishes and I need help to make realize my player's wishes, I'll give you the wishes later.
+
+##### Init Prompt
+In my DnD homebrew game I have Devils/Demons that might grant wishes (interpret wishes literally and maliciously) and I need help to make realize my player's wishes but with some serious consequences attached, I'll give you the wishes later.
 
 My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
 
-##### Init Prompt
+The results of the wishes should preferably have some immoral twist/effect on the world.
 
 #### Genies
 [Claud Generations](https://claude.ai/chat/bd750053-cf86-42c8-aef7-954bbf180bd7)
 
 ##### Init Prompt
-In my DnD homebrew game I have a Genie and I need help to make sure that my player's wishes have a really bad twist, I'll give you the wishes later.
+In my DnD homebrew game I have a Genie and I need help to make sure that my player's wishes (look for loopholes to exploit) have a really bad twist, I'll give you the wishes later.
 
 My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
 
@@ -74,6 +76,11 @@ It is preferred that the wishes can remain useful but most importantly that my p
 #### Fey
 
 ##### Init Prompt
+In my DnD homebrew game I have Fey and I need help to realize my player's wishes (add whimsical or chaotic elements to the wish's fulfillment) I'll give you the wishes later.
+
+My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
+
+It is preferred that the wishes can remain useful.
 
 ## PvP Scenarios
 
