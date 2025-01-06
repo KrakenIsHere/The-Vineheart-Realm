@@ -6,7 +6,7 @@
       {
         "id": "5b1e37fd0a1abc99",
         "type": "tabs",
-        "dimension": 49.17798427448177,
+        "dimension": 49.177984274481766,
         "children": [
           {
             "id": "27ef5352495a5f84",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "0. World/1. House Rules/DM Secret.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "DM Secret"
             }
           }
         ],
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "0. World/1. House Rules/DM Secret.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of DM Secret"
             }
           },
           {
@@ -257,10 +257,10 @@
   },
   "active": "ab061ffab328b29a",
   "lastOpenFiles": [
-    "0. World/1. House Rules/Gameplay Changes.md",
     "0. World/1. House Rules/Bastions Changes.md",
-    "index.md",
     "0. World/1. House Rules/DM Secret.md",
+    "0. World/1. House Rules/Gameplay Changes.md",
+    "index.md",
     "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 8.md",
     "0. World/2. Sessions/0. Mistlin Inn/DM Notes.md",
     "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
