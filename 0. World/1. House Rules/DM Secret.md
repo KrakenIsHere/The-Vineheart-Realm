@@ -39,19 +39,41 @@ However, more powerful wishes like changing the past, killing powerful beings, o
 
 The entity granting the wish greatly influences how it's interpreted:
 
-- Gods tend to grant wishes fairly but within their domain
-- Devils and demons interpret wishes literally and maliciously
+- [[DM Secret#Gods|Gods]] tend to grant wishes fairly but within their domain
+- [[DM Secret#Devils & Demons|Devils & Demons]] interpret wishes literally and maliciously
 - [[DM Secret#Genies|Genies]] look for loopholes to exploit
 - Magic items like the Ring of Three Wishes tend to be more straightforward
-- Fey might add whimsical or chaotic elements to the wish's fulfillment
+- [[DM Secret#Fey|Fey]] might add whimsical or chaotic elements to the wish's fulfillment
 
 ### Generation
+
+#### Gods
+
+##### Init Prompt
+In my DnD homebrew game I have Gods that might grant wishes and I need help to make realize my player's wishes, I'll give you the wishes later.
+
+My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
+
+#### Devils & Demons
+In my DnD homebrew game I have Gods that might grant wishes and I need help to make realize my player's wishes, I'll give you the wishes later.
+
+My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
+
+##### Init Prompt
 
 #### Genies
 [Claud Generations](https://claude.ai/chat/bd750053-cf86-42c8-aef7-954bbf180bd7)
 
 ##### Init Prompt
-In my DnD homebrew game I have a Genie and I need help to make sure that my player's wishes have a really bad twist, I'll give you the wishes later. My world is in a medieval like setting in a world recovering from a near world ending catastrophe. It is preferred that the wishes can remain useful but most importantly that my players wish they hadn't made the wish in the first place.
+In my DnD homebrew game I have a Genie and I need help to make sure that my player's wishes have a really bad twist, I'll give you the wishes later.
+
+My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
+
+It is preferred that the wishes can remain useful but most importantly that my players wish they hadn't made the wish in the first place.
+
+#### Fey
+
+##### Init Prompt
 
 ## PvP Scenarios
 
