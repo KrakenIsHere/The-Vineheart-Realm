@@ -89,4 +89,4 @@ They are however, pre-occupied with throwing vegetables at LaFou on stage
 
 ## Yzma
 
-Has [[DM Secret#Plot Armor|Plot Armor]] now
+Has [[DM Custom Rules#Plot Armor|Plot Armor]] now

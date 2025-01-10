@@ -80,7 +80,7 @@ Generally changed from [[DnD 5e Players Handbook (BnW OCR).pdf#page=8|5e]]
 - Having your action ready at the beginning of the turn can add a +1 modifier a roll
 
 #### PvP
-Should an action, result in a fellow player taking damage, the DM will determine whether said damage will trigger a [[DM Secret#PvP Scenarios|PvP]] scenario.
+Should an action, result in a fellow player taking damage, the DM will determine whether said damage will trigger a [[DM Custom Rules#PvP Scenarios|PvP]] scenario.
 
 ### Stats:
 - Individual stats simply represent their modifier, and holds no specific traits
