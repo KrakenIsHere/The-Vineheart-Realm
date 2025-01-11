@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "tvr.krakeenia.com",
-    ignorePatterns: ["**/DM*", "private", "templates", ".obsidian"],
+    ignorePatterns: ["**/DM*", "private", "templates", ".obsidian" "/Chats"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
