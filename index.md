@@ -4,7 +4,6 @@ tags:
   - index
   - Details
 ---
-
 # An Introduction
 
 ## World

@@ -4,11 +4,11 @@ tags:
   - private
   - Rules
 ---
-## PvP Scenarios
+# PvP Scenarios
 
 If a PvP scenario is determined the DM shall give the player(s) affected, a temporary & limited taste of the godhood the DM possess.
 
-### Divine Victim's Right
+## Divine Victim's Right
 
 When a player betrays the sacred bonds of fellowship by raising arms against their companion, the gods take notice. The wronged soul is temporarily blessed with a fragment of divine authority - a sacred gift meant to restore balance and remind all that treachery carries consequences.
 
@@ -18,7 +18,7 @@ However, wielding even a fraction of divine power requires great responsibility.
 
 Let this serve as a reminder: The bonds between adventurers are sacred, and those who break them face not just mortal consequences, but divine judgment.
 
-### Activation
+## Activation
 
 > [!attention] Requirements:
 >- Must be a direct attack (not indirect like stealing or sabotage)
@@ -26,9 +26,9 @@ Let this serve as a reminder: The bonds between adventurers are sacred, and thos
 >- Cannot be saved for later use
 
 
-### Powers
+## Powers
 
-#### Limitations
+### Limitations
 
 > [!note] Limitations of Powers (Include, but not limited to)
 > - It is not allowed to kill anyone in this state

@@ -34,7 +34,7 @@ Each of the four continents must perform a sacred ritual [[The Godwounded#Ritual
 ### Flame Binding
 - Conducted within their deepest castle dungeon
 - Uses sacred flames that have burned for thousands of years
-- Failure causes volcanic eruptions and fire elementals to run rampant
+- Failure causes volcanic formations & eruptions and fire elementals to run rampant
 - The ritual requires rare combustible materials gathered throughout the year
 
 ![[Wounded Priestesses#The Onyxian Priestess]]

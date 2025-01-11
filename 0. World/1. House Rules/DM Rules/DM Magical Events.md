@@ -4,21 +4,14 @@ tags:
   - private
   - Rules
 ---
-## Wishes
+# Wishes
 
-### Divine Sources:
+## Divine Sources:
 
 - **Gods** can grant wishes, typically to devoted followers or as rewards for completing important quests. These wishes tend to be more reliable and less likely to have negative consequences, especially if aligned with the deity's domain and values.
 - **Solar angels**, being direct servants of gods, can cast the Wish spell and may grant wishes to mortals who serve divine purposes.
 
-### Magical Items:
-
-- Ring of Three Wishes is the most straightforward source, containing exactly three wishes
-- Luck Blade contains 1-4 wishes
-- **Efreeti** Bottles can grant three wishes, but the **Efreeti** will try to twist the wording
-- Well of Many Worlds might occasionally grant wish-like effects
-
-### Powerful Beings:
+## Powerful Beings:
 
 - **Genies** (particularly Efreet) are famous wish-granters, but are notorious for twisting wishes
 - **Ancient dragons**, especially gold and red dragons, might grant wishes as rewards or bargaining chips
@@ -79,3 +72,11 @@ The entity granting the wish greatly influences how it's interpreted:
 > My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
 > 
 > It is preferred that the wishes can remain useful.
+
+
+## Magical Items:
+
+- Ring of Three Wishes is the most straightforward source, containing exactly three wishes
+- Luck Blade contains 1-4 wishes
+- **Efreeti** Bottles can grant three wishes, but the **Efreeti** will try to twist the wording
+- Well of Many Worlds might occasionally grant wish-like effects

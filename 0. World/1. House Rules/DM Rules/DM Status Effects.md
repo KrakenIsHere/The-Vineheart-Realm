@@ -4,11 +4,9 @@ tags:
   - Rules
   - private
 ---
+# Custom Effects
 
-
-## Custom Effects
-
-### Plot Armor
+## Plot Armor
 *A mystical protection that bends fate itself*
 
 **Duration:** Permanent
@@ -30,11 +28,11 @@ tags:
 > 
 > The effect can be used X times. After all uses are expended, the character becomes vulnerable to death as normal.
 
-#### Narrative Description
+### Narrative Description
 Your very existence seems to defy fate. Death itself appears reluctant to claim you, as if you have some greater purpose yet unfulfilled. While others might perish from a fatal blow, you find yourself barely clinging to life, saved by improbable circumstances.
 
 
-#### Dramatic Consequences (roll 1d6)
+### Dramatic Consequences (roll 1d6)
 1. **Lasting Scar** - Disadvantage on Charisma checks for **1d4** days
 2. **Haunting Visions** - Disadvantage on Wisdom saves for **1d4** days
 3. **Weakened Spirit** - Maximum HP reduced by 10 until next long rest

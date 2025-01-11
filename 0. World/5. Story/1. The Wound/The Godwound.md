@@ -11,7 +11,7 @@ At the core of the realm lies **The Godwound**, an eternal scar upon reality its
 ## The Wound
 **The Godwound** is the eternal imprint & lingering reminder of [[The Devine War]]
 It is the manifestation of the powerful & divine magic that created it.
-It's effects can are felt across the land(s)
+It's effects are felt across all the land(s)
 - Forcing the **seas** to **rage** & manifest **monsters**
 - Causing **forests, caves & dungeons** to manifest **monsters** & **magical** properties
 - Creating gates from which monsters appear

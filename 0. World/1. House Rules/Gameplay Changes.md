@@ -5,21 +5,21 @@ tags:
 ---
 Rules take inspiration from both the [[Dungeon Master's Guide.pdf|5e]] and [[D.M.G. Chapter 1|2024]] versions
 
-## Rest:
+# Rest:
 
-### Types:
+## Types:
 
-#### Short rest:
+### Short rest:
 - can be taken 2 times every day and consumes 1 Hour of said day
 
-#### Long Rest:
+### Long Rest:
 - Can be taken at any point of the day and consumes 8 Hours of said day
 - Provides FULL recovery
 > [!Note] Long Rest Conditions
 > - 1 Short rest must have been used before a long rest can be initiated 
 > 	- Unless 16 hours or more have passed since the last long rest
 
-#### Partial Long Rest:
+### Partial Long Rest:
 - Can be taken at any point of the day and consumes 4 Hours
 - Half of a character’s missing spell slots will be restored
 - Healing goes up to 50% of a character’s HP
@@ -27,7 +27,7 @@ Rules take inspiration from both the [[Dungeon Master's Guide.pdf|5e]] and [[D.M
 >- 1 Short rest must have been used before a partial long rest can be initiated
 >- Unless 16 hours or more have passed since the last Partial Long Rest or Long Rest
 
-#### Interrupted Rest:
+### Interrupted Rest:
 - can happen in the event of an ambush or other unexpected visitors during a long rest.
 - Depending on the event, statuses can be applied (Such as Poorly Rested)
 - Depending on the event the DM must decide:
@@ -41,48 +41,48 @@ Rules take inspiration from both the [[Dungeon Master's Guide.pdf|5e]] and [[D.M
 > **Night event:** 1d20 roll higher than a 2d12 roll
 > - (27.08% Chance)
 
-### Rest Conditions:
+## Rest Conditions:
 If a rest passes into a new day a status of “Well Rested” may apply based on a counter roll with a **1d10** by the player for the DM’s roll of a **1d12**
 > [!Warning] Sleep amount
 > Too little or too much sleep can result in the “Poorly Rested” status
 
-#### Keeping watch:
+### Keeping watch:
 During a Long Rest, party members can “keep watch” The members keeping said watch will only get a partial long rest. In the event of an interrupted rest, the members keeping watch will not have the status “surprised” applied, and will be ready for potential combat.
 
 A rotation can be applied, resulting in all members only getting a partial long rest while passing the full 8 hours
 
-#### Catchup:
+### Catchup:
 An individual short rest can be taken during travel, provided conditions allow.
 > [!Note] Effect
 > This has the chance to remove the **Poorly rested** status **1d20**
 
-## Custom Status:
+# Custom Status:
 
-### Well Rested:
+## Well Rested:
 Provides a +1 bonus to 1 of a character’s 3 highest stats
 - This can either be selected by the player or rolled with a 1d6
 - If rolled 1 & 4 are for the Top, 2 & 5 are for the second, and 3 & 6 are for the third.
 - If stats are even the player can pick which takes what place if the DM allows it, and doesn’t decide in advance.
 Duration: 6 Hours
 
-### Poorly Rested:
+## Poorly Rested:
 Provides a -1 penalty to 1 of a character’s 3 highest stats
 - This can either be selected by the player or rolled with a 1d6
 - If rolled 1 & 4 are for the Top, 2 & 5 are for the second, and 3 & 6 are for the third.
 - If stats are even the player can pick which takes what place if the DM allows it, and doesn’t decide in advance.
 Duration: 6 Hours
 
-## Characters:
+# Characters:
 Generally changed from [[DnD 5e Players Handbook (BnW OCR).pdf#page=8|5e]]
 
-### Actions:
+## Actions:
 - Mounting another character is an action.
 - Having your action ready at the beginning of the turn can add a +1 modifier a roll
 
-#### PvP
+### PvP
 Should an action, result in a fellow player taking damage, the DM will determine whether said damage will trigger a [[DM Custom Rules#PvP Scenarios|PvP]] scenario.
 
-### Stats:
+## Stats:
 - Individual stats simply represent their modifier, and holds no specific traits
 > [!Summary] Delegation of stat points:
 > - All characters start with 3 in all stats
@@ -98,20 +98,20 @@ Should an action, result in a fellow player taking damage, the DM will determine
 > All points coming from Classes, Races, etc. are added after the point delegation.
 > These don’t have extra cost.
 
-### Levels:
+## Levels:
 - All characters start at level 4
 > [!Warning] EXP
 >- Is given during a long rest
 >- Has a 2x multiplier
 - Feats are allowed
 
-#### Hitpoints
+### Hitpoints
 > [!Note] Level Up
 > When leveling up and rolling for hitpoints the minimum is a gain of 1
 
-## Spells
+# Spells
 
-### Changes:
+## Changes:
 - Touch-based spells cannot be extended
 > [!Note] Exceptions
 >- Mage hand can convey touch-based spells
