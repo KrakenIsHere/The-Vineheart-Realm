@@ -4,8 +4,6 @@ tags:
   - Continent
   - Kingdom
 ---
-
-
 ## History
 Named after the onyx that form in the northern mountain range, Onyxia stands as a testament to natural wealth and architectural grandeur. Connected to [[Arcanum]] through the bustling port city of [[Bayshore]], and to [[Luminia]] via [[Sapphire Bay]] & [[Coral Bay]].
 
@@ -22,7 +20,9 @@ The Shadowrest line traces their noble legitimacy through marriage to the younge
 ### Re-Settlement
 The early settlements of what was now Onyxia, were focused on getting the mines and raw material resources operational for trading and tool creation. This was in hopes of gaining the favor of the other kingdoms & islands.
 With the farmland being neglected by the new king, a famine quickly set in, and the recultivation of food access got implemented. It was however, too late. As most skilled farmers & fishermen had either gotten too old to continue working or died with their knowledge.
-The new era would have Onyxia trade for food & knowledge. Not quite what the new king had envisioned
+
+This new era would have Onyxia trade for food & knowledge, heavily supported via trade with the island of [[Rubylande]].
+Not quite what the new king had envisioned.
 
 Trade ports were quickly established with [[Luminia]] via [[Coral Bay]] and [[Sapphire Bay]]
 Trade with [[Arcanum]] however took a while to establish via [[Bayshore]] and [[Riverport]]

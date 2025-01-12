@@ -25,59 +25,75 @@ The Wounded maintains its authority through a careful balance of scholarly pursu
 
 ### The Inner Circle
 
-- **The Four Priestesses** - The living conduits of ritual knowledge.
+#### The Priestesses
+- The living conduits of ritual knowledge.
+
 The Four Priestesses stand as living conduits of ritual knowledge, their very beings attuned to [[The Godwound]]'s energies through ancient ceremonies and lifelong training. Each priestess carries within them the ritual knowledge.
 
 Their bodies bear the physical marks of their connection to [[The Godwound]].
 
 
-- **The Echo Chamber** - A council of former priestess candidates who serve as advisors.
+#### The Echo Chamber
+- A council of former priestess candidates who serve as advisors.
+
 The Echo Chamber serves as both council and safeguard, composed of former priestess candidates who came close to ascending but ultimately did not.
 
 Their incomplete attunement to [[The Godwound]] grants them unique insights into its workings without the full burden borne by a priestesses. They serve as advisors, caretakers, and emergency vessels of knowledge should a priestess fall before passing on their wisdom.
 
 
-- **The Wound Scribes** - Scholars who document [[The Godwound]]'s manifestations.
+#### The Wound Scribes
+- Scholars who document [[The Godwound]]'s manifestations.
+
 Wound Scribes devote their lives to documenting every manifestation of [[The Godwound]]'s influence.
 Their libraries contain countless volumes of carefully recorded observations, theoretical works, and predictive models.
 
 These scholars often bear ritual scarification that enhances their ability to sense and interpret the wound's emanations, their bodies becoming living records of their studies.
 
 
-- **The Memory Keepers** - Responsible for preserving non-ritual knowledge and history.
+#### The Memory Keepers
+- Responsible for preserving non-ritual knowledge and history.
+
 Memory Keepers preserve the broader context of history and non-ritual knowledge, understanding that [[The Godwound]]'s effects ripple through every aspect of society.
 
 They maintain oral traditions, written records, and magical memory crystals that capture not just events, but the very essence of experiences related to the wound's influence.
 
 ### The Outer Circle
 
-- **Seekers** - Identify and evaluate potential priestess candidates.
+#### Seekers
+- Identify and evaluate potential priestess candidates.
+
 Seekers typically operate in pairs, traveling their continent in search of potential priestess candidates.
 Attempting to identify children who bear the marks of a potential Priestess.
 
 
-- **Guardians** - Protect priestesses and sacred sites.
-Guardians serve no lord nor deity, and operate like a private military, with the sole purpose of protecting the priestesses.
+#### Guardians
+- Protect priestesses and sacred sites.
+
+Guardians serve no lord nor deity, and operate like a private military, with the sole purpose of protecting the priestesses and the temples that the wounded occupy.
 They are the only branch, that continuously operates between kingdoms & continents seamlessly.
 
 It is recognized that Guardians is a singular unit across the branches ensuring the complete protection of ALL priestesses.
 
-![[Rubylande#Protection]] 
 
+#### Ritualists
+- Support staff for the containment rituals.
 
-- **Ritualists** - Support staff for the containment rituals.
 Ritualists help priestesses during rituals where needed, such as with the ritual itself for preparations and as mana batteries or with chants.
 
 They're responsible for updating the Gatherers if changes of what is required for the ritual to ensure that all resources are gathered for the [[Wound Containment]] rituals for their respective regions.
 
 
-- **Gatherers** - Collect necessary materials for rituals.
+#### Gatherers
+- Collect necessary materials for rituals.
+
 Gatherers ensure the required recourses, for the [[Wound Containment|rituals]] are available when the ritual begins.
 
 They travel the realm for recourses and sometimes find new way to procure rare materials or even manages to farm resources that were previously considered impossible.
 
 
-- **Observers** - Monitor the Godwound's activity across the realms.
+#### Observers
+- Monitor the Godwound's activity across the realms.
+
 Observers provide the necessary information to help contain the effects of [[The Godwound]] and to evolve the effectiveness of the rituals performed by the [[Wounded Priestesses]].
 
 Their observations are crucial for ensuring that the rituals are timely and effective, helping to maintain the delicate balance of power that presumably prevents [[The Godwound]] from overwhelming the realm.
@@ -121,7 +137,8 @@ The common ground for the branches serves the following purposes:
 - Serves as training ground for advanced members.
 - Considered politically neutral territory.
 
-Located in militarily neutral [[Rubylande]]. The heavily guarded facility helps to ensure the safety of the island in return for the land it occupies and to ensure the mutual neutrality that both uphold.
+#### The Neutral Island
+Located in militarily neutral [[Rubylande]]. The heavily guarded facility and the [[The Godwounded#The Outer Circle|Guardians]] help to ensure the safety of the island from invasions and corruption, in return for the land it occupies and to ensure the mutual neutrality that both uphold.
 
 ## Traditions and Customs
 
