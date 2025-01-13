@@ -112,7 +112,7 @@ The landmass that was once whole, had become 4 continents and several islands
 #### [[Cat's Eye]]
 
 
-#### [[Rubylande]]
+#### [[Rubilande]]
 
 
 #### [[Dragon's Roost]]

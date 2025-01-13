@@ -131,14 +131,14 @@ Each continental temple has evolved to reflect both its environment and the uniq
 - Neutral to the kingdoms.
 
 ### The Neutral Ground
-The common ground for the branches serves the following purposes:
+[[The Common Temple]] for the branches serves the following purposes:
 - Central meeting place for all branches.
 - Houses the organization's main archives.
 - Serves as training ground for advanced members.
 - Considered politically neutral territory.
 
 #### The Neutral Island
-Located in the militarily neutral [[Rubylande]]. The heavily guarded facility and the [[The Godwounded#The Outer Circle|Guardians]] help to ensure the safety of the island from invasions and corruption, in return for the land it occupies and to ensure the mutual neutrality that both uphold.
+Located in the militarily neutral [[Rubilande]]. The heavily guarded facility and the [[The Godwounded#The Outer Circle|Guardians]] help to ensure the safety of the island from invasions and corruption, in return for the land it occupies and to ensure the mutual neutrality that both uphold.
 
 ## Traditions and Customs
 
