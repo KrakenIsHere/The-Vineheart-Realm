@@ -138,7 +138,7 @@ The common ground for the branches serves the following purposes:
 - Considered politically neutral territory.
 
 #### The Neutral Island
-Located in militarily neutral [[Rubylande]]. The heavily guarded facility and the [[The Godwounded#The Outer Circle|Guardians]] help to ensure the safety of the island from invasions and corruption, in return for the land it occupies and to ensure the mutual neutrality that both uphold.
+Located in the militarily neutral [[Rubylande]]. The heavily guarded facility and the [[The Godwounded#The Outer Circle|Guardians]] help to ensure the safety of the island from invasions and corruption, in return for the land it occupies and to ensure the mutual neutrality that both uphold.
 
 ## Traditions and Customs
 

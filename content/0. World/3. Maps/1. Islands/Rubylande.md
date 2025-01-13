@@ -17,3 +17,4 @@ The [[The Godwounded#The Neutral Ground|Common Temple]], located on the far west
 Helps to ensure mutual neutrality to the surrounding kingdoms, and their powerful influences.
 
 ![[The Godwounded#The Neutral Island]]
+
