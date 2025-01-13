@@ -66,10 +66,9 @@ In the event that a candidate cannot be
 
 
 ## The Priestesses' Council
-- Meets once a year before the ritual
+- Meets once a year before the rituals
 - Shares vital information about [[The Godwound]]'s state
 - Coordinates ritual timing and preparations
-- Resolves disputes between continents
 - Makes decisions about sharing or withholding knowledge
 
 
