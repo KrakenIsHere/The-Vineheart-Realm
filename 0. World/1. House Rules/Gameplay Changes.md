@@ -116,3 +116,13 @@ Should an action, result in a fellow player taking damage, the DM will determine
 > [!Note] Exceptions
 >- Mage hand can convey touch-based spells
 - Mage hand is a concentration spell
+
+# Random Event Types
+
+| Event Type                                | Description                             | Rarity       | Primary Impact        |
+| ----------------------------------------- | --------------------------------------- | ------------ | --------------------- |
+| [[DM Custom Rules#Luck Events\|Luck]]     | Reality "bends" in fortunate ways       | Rare         | Circumstantial/Social |
+| [[DM Custom Rules#Chaos Events\|Chaos]]   | Magic goes "wild" in unpredictable ways | Uncommon     | Magical/Environmental |
+| [[DM Custom Rules#Doom Events\|Doom]]     | Dark omens and consequences             | Very Rare    | Combat/Story          |
+| [[DM Custom Rules#Divine Events\|Divine]] | The gods take "direct" interest         | "Impossible" | Character/Plot        |
+| [[DM Custom Rules#NatureEvents\|Nature]]  | The natural world "responds" to events  | Common       | Environmental/Travel  |
