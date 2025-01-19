@@ -56,6 +56,7 @@ An individual short rest can be taken during travel, provided conditions allow.
 > [!Note] Effect
 > This has the chance to remove the **Poorly rested** status **1d20**
 
+
 # Custom Status:
 
 ## Well Rested:
@@ -71,6 +72,7 @@ Provides a -1 penalty to 1 of a character’s 3 highest stats
 - If rolled 1 & 4 are for the Top, 2 & 5 are for the second, and 3 & 6 are for the third.
 - If stats are even the player can pick which takes what place if the DM allows it, and doesn’t decide in advance.
 Duration: 6 Hours
+
 
 # Characters:
 Generally changed from [[DnD 5e Players Handbook (BnW OCR).pdf#page=8|5e]]
@@ -109,6 +111,7 @@ Should an action, result in a fellow player taking damage, the DM will determine
 > [!Note] Level Up
 > When leveling up and rolling for hitpoints the minimum is a gain of 1
 
+
 # Spells
 
 ## Changes:
@@ -116,3 +119,14 @@ Should an action, result in a fellow player taking damage, the DM will determine
 > [!Note] Exceptions
 >- Mage hand can convey touch-based spells
 - Mage hand is a concentration spell
+
+
+# Random Event Types
+
+| Event Type                                | Description                             | Rarity       | Primary Impact        |
+| ----------------------------------------- | --------------------------------------- | ------------ | --------------------- |
+| [[DM Custom Rules#Luck Events\|Luck]]     | Reality "bends" in fortunate ways       | Rare         | Circumstantial/Social |
+| [[DM Custom Rules#Chaos Events\|Chaos]]   | Magic goes "wild" in unpredictable ways | Uncommon     | Magical/Environmental |
+| [[DM Custom Rules#Doom Events\|Doom]]     | Dark omens and consequences             | Very Rare    | Combat/Story          |
+| [[DM Custom Rules#Divine Events\|Divine]] | The gods take "direct" interest         | "Impossible" | Character/Plot        |
+| [[DM Custom Rules#NatureEvents\|Nature]]  | The natural world "responds" to events  | Common       | Environmental/Travel  |

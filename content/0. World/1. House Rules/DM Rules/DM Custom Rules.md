@@ -83,3 +83,142 @@ When a Luck Event is triggered, the DM can use these rolls to determine the natu
 |4-6|Minor inconvenience later|
 |7-9|Someone becomes suspicious|
 |10-12|The universe balances itself (DM's choice)|
+
+
+# Chaos Events
+A surge of wild magic that causes reality to hiccup and strange effects to manifest.
+
+## Examples
+
+### Ex 1
+During a heated argument in a tavern, all the liquid in everyone's cups suddenly floats upward, forming dancing shapes in the air before returning to their vessels - but now each drink has changed to a different beverage.
+
+### Ex 2
+A wizard casting a simple light spell suddenly finds their magic transformed, causing all shadows in a 30-foot radius to become solid and begin dancing.
+
+### Ex 3
+Mid-conversation, everyone within 20 feet suddenly speaks in rhyming verse for one minute, unable to communicate any other way.
+
+## Usage
+
+### Trigger
+- When multiple spells are cast in the same area
+- On critical failure of a spell check
+- Near places of high magical concentration
+- During heightened emotional states of spellcasters
+
+### Rolls
+- Volatility Roll (d20): How powerful the chaos manifestation is
+- Spread Roll (d8): How far the effect reaches
+- Transformation Roll (d10): What kind of change occurs
+
+#### Table
+
+|d20 (Volatility)|Effect Level|
+|---|---|
+|1-5|Harmless Oddity|
+|6-10|Minor Disruption|
+|11-15|Major Transformation|
+|16-20|Reality Breach|
+
+
+# Doom Events
+Dark portents and grim occurrences that herald significant threats or changes.
+
+## Examples
+
+### Ex 1
+As a character makes an important decision, their shadow briefly shows them meeting a tragic end - providing a warning of possible consequences.
+
+### Ex 2
+Blood drips upward from a freshly forged sword, and all who see it know a great battle approaches.
+
+## Usage
+
+### Trigger
+- When characters make decisions that could have far-reaching consequences
+- Near places of great tragedy
+- During moments of significant story importance
+- When powerful evil forces are near
+
+### Rolls
+- Severity Roll (d20): How dire the portent is
+- Clarity Roll (d6): How clear the warning is
+- Timeframe Roll (d8): How soon the consequences might manifest
+
+#### Table
+
+|d20 (Severity)|Warning Level|
+|---|---|
+|1-5|Subtle Hint|
+|6-10|Clear Warning|
+|11-15|Dire Portent|
+|16-20|Unavoidable Fate|
+
+
+# Divine Events
+Moments when the gods themselves take notice and interact with mortal affairs.
+
+## Examples
+
+### Ex 1
+A paladin's holy symbol suddenly glows with divine light, and their next statement carries the weight of divine law, compelling even the most stubborn opponent to listen.
+
+### Ex 2
+During a crucial moment, time briefly stops as a divine messenger appears to offer guidance or warning.
+
+## Usage
+
+### Trigger
+- At places of worship during significant moments
+- When divine classes use their abilities in meaningful ways
+- During acts of great faith or betrayal
+- In moments of desperate prayer
+
+### Rolls
+- Magnitude Roll (d20): The scale of divine intervention
+- Favor Roll (d12): The disposition of the divine response
+- Manifestation Roll (d10): How the divine presence shows itself
+
+#### Table
+
+|d20 (Magnitude)|Divine Response|
+|---|---|
+|1-5|Subtle Sign|
+|6-10|Minor Miracle|
+|11-15|Divine Touch|
+|16-20|God's Hand|
+
+
+# Nature Events
+The natural world responds to significant events or emotions, creating atmospheric and environmental effects.
+
+## Examples
+
+### Ex 1
+As a druid makes a passionate speech about protecting the forest, the trees around them begin to sway without wind, and flowers suddenly bloom out of season.
+
+### Ex 2
+During a moment of great triumph, a perfectly circular rainbow appears overhead, or animals gather to witness the event.
+
+## Usage
+
+### Trigger
+- During strong emotional moments in natural settings
+- When nature-based magic is used
+- At sites of natural significance
+- During environmental threats
+
+### Rolls
+- Intensity Roll (d20): How strongly nature responds
+- Scope Roll (d8): The area affected
+- Element Roll (d6): Which natural elements respond
+
+#### Table
+
+|d20 (Intensity)|Nature's Response|
+|---|---|
+|1-5|Subtle Shift|
+|6-10|Clear Sign|
+|11-15|Major Response|
+|16-20|Primal Power|
