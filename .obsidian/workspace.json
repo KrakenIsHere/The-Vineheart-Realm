@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/1. House Rules/Gameplay Changes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay Changes"
+              "title": "index"
             }
           },
           {
@@ -144,10 +144,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/1. House Rules/Gameplay Changes.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gameplay Changes"
+              "title": "Outline of index"
             }
           },
           {
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. World/1. House Rules/Gameplay Changes.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gameplay Changes"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -219,12 +219,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. World/1. House Rules/Gameplay Changes.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gameplay Changes"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -261,6 +261,7 @@
   },
   "active": "27ef5352495a5f84",
   "lastOpenFiles": [
+    "0. World/1. House Rules/Gameplay Changes.md",
     "0. World/1. House Rules/DM Rules/DM Custom Rules.md",
     "0. World/3. Maps/1. Islands/Cat's Eye/Cat's Eye.md",
     "0. World/1. House Rules/DM Rules/DM Status Effects.md",
@@ -296,7 +297,6 @@
     "0. World/3. Maps/4. Memberia/0. Cities/Shadowbrook/Shadowbrook.md",
     "0. World/3. Maps/4. Memberia/0. Cities/Shieldhaven/Shieldhaven.md",
     "0. World/3. Maps/3. Onyxia/0. Cities/Sapphire Bay/Sapphire Bay.md",
-    "0. World/3. Maps/3. Onyxia/0. Cities/Falconreach/Falconreach.md",
     "4. Assets/Images/Vineheart Logo/VineHeart.png",
     "Assets/Images/VineHeart.png",
     "Assets/VineHeart.png",
