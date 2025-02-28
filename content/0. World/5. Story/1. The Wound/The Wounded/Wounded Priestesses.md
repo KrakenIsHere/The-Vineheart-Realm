@@ -12,8 +12,8 @@ At the heart of each continent's [[Wound Containment|ritual]] stands a Godwound 
 ## The Priestesses
 ### The Memberian Priestess
 #### The Frost Speaker
-- Wears ceremonial armor made from eternal ice
-- Maintains the longest lifespan of all priestesses due to the preserving cold
+- Wears ceremonial armor made from blue titanium called eternal ice
+- Has the longest lifespan of all priestesses due to the preserving cold
 
 ### The Luminian Priestess
 #### The Wind Whisperer

@@ -1,5 +1,5 @@
 ---
-title: Gameplay
+title: "Gameplay: changes, extra & info"
 tags:
   - Rules
 ---
@@ -76,6 +76,86 @@ Duration: 6 Hours
 
 # Characters:
 Generally changed from [[DnD 5e Players Handbook (BnW OCR).pdf#page=8|5e]]
+
+## Inspiration
+Inspiration is a powerful tool that represents moments when characters rise above their normal capabilities, drawing upon inner reserves of heroism, willpower, or dramatic flair. This expanded system transforms inspiration from a simple binary state into a dynamic resource that grows with character development and meaningful role-playing.
+
+### Earning Inspiration
+
+Characters can earn inspiration points in several ways:
+
+#### Role-Playing Excellence
+
+- **Character Values**: Acting according to your character's beliefs, flaws, bonds, or ideals, especially when doing so creates complications.
+- **Memorable Moments**: Creating standout moments through vivid descriptions, emotional depth, or creative problem-solving.
+- **Character Growth**: Demonstrating significant character development or confronting personal demons.
+
+#### Game Contributions
+
+- **Recap Bonus**: A player who volunteers to recap the previous session can earn 1 inspiration point.
+- **Group Support**: Helping another player shine or supporting the table dynamics in a positive way.
+- **Creative Solutions**: Devising approaches to challenges that surprise and entertain the table.
+
+#### Milestone Achievements
+
+- **Personal Quest Progress**: Advancing a character's personal storyline.
+- **Critical Discoveries**: Uncovering vital information that propels the campaign forward.
+- **Heroic Sacrifices**: Taking significant risks for the good of the party or NPCs.
+
+### Capacity
+
+Unlike the standard rules where inspiration is simply held or not held, this system allows accumulation:
+
+| Character Level | Maximum Inspiration Points |
+| --------------- | -------------------------- |
+| 1-4             | 1 points                   |
+| 5-10            | 2 points                   |
+| 11-16           | 3 points                   |
+| 17-20           | 5 points                   |
+
+### Usage
+
+Inspiration points can be spent in various ways, with more powerful effects requiring more points:
+
+#### Basic Uses (1 Point)
+
+- **Advantage**: Gain advantage on any d20 roll.
+- **Assist Ally**: Grant advantage to another player's roll.
+- **Flashback**: Establish a minor previously unmentioned preparation or connection.
+- **Second Wind**: Regain hit points equal to your level + Constitution modifier (once per short rest).
+
+#### Advanced Uses (2 Points)
+
+- **Decisive Moment**: Add your proficiency bonus to any d20 roll after seeing the result.
+- **Narrative Control**: Introduce a minor environmental detail or NPC connection that aids the current situation.
+- **Resilience**: Automatically succeed on a saving throw to maintain concentration.
+- **Heroic Effort**: Take an additional bonus action on your turn.
+
+#### Heroic Uses (3 Points)
+
+- **Turning Point**: Turn a failure into a success on any d20 roll.
+- **Critical Moment**: Convert a hit into a critical hit.
+- **Defiance**: Ignore the effects of one condition until the end of your next turn.
+- **Inspiration Surge**: Immediately regain and use a spent feature, spell slot of 3rd level or lower, or class resource.
+
+#### Legendary Acts (All Inspiration Points)
+
+- **Fate's Hand**: Automatically succeed on a death saving throw and regain 1 hit point.
+- **Heroic Intervention**: Take a full turn out of initiative order.
+- **Miraculous Escape**: Avoid all damage and effects from one attack or event that would reduce you to 0 hit points.
+- **Narrative Twist**: Work with the DM to introduce a significant plot development or unexpected aid in a dire situation.
+
+### Decay
+
+To encourage the use of inspiration:
+- At the end of each session, characters lose their accumulated inspiration points.
+
+### Tracking
+
+Players track inspiration points on their character sheets. The DM may provide physical tokens (coins, glass beads, etc.) to represent inspiration points for a tactile reminder of this resource.
+
+>[!NOTE] DM Note:
+>_Remember that inspiration is meant to reward and encourage the kind of play that makes the game more enjoyable for everyone._
 
 ## Actions:
 - Mounting another character is an action.
