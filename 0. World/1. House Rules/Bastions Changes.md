@@ -1,5 +1,5 @@
 ---
-title: Bastions
+title: "Bastions: changes, extra & info"
 tags:
   - Rules
 ---

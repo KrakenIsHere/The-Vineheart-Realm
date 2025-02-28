@@ -33,10 +33,10 @@ Your very existence seems to defy fate. Death itself appears reluctant to claim 
 
 
 ### Dramatic Consequences (roll 1d6)
-1. **Lasting Scar** - Disadvantage on Charisma checks for **1d4** days
-2. **Haunting Visions** - Disadvantage on Wisdom saves for **1d4** days
-3. **Weakened Spirit** - Maximum HP reduced by 10 until next long rest
-4. **Death's Mark** - Healing received is halved for **1d4** days
+1. **Lasting Scar** - Disadvantage on Charisma checks for **1d6** days
+2. **Haunting Visions** - Disadvantage on Wisdom saves for **1d6** days
+3. **Weakened Spirit** - Maximum HP reduced by **1d12** until next long rest
+4. **Death's Mark** - Healing received is halved for **1d6** days
 5. **Fate's Debt** - Next death saving throw is made with disadvantage
 6. **Soul Drain** - Lose one unused Hit Die
 

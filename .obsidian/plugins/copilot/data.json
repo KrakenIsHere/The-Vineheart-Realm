@@ -1,6 +1,6 @@
 {
   "plusLicenseKey": "",
-  "openAIApiKey": "",
+  "openAIApiKey": "enc_desk_djEwGj+OPukFzv7egJjDdjlt6II5PXbkEG4qIZrND1HQZYLzfbRBMYxdU3bZdaIMJldSvm1CAq2P+Enh+zNgRaOgMEMvl5D5UaKIgJZpti4f7S1UMCVyqxFaImrpMm6wyutrXDibUHTvfb/t4WAUifI5p9QO90FeLiA+53M7ZrrV1yGPnSYB2VNwwzPUh4ApjcudPhaQG/6PExU3EaEQmb9aIhgHaBnRN1J/kF/aADz9atrRlksmzkGgWeEu1kyxHi8r",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
@@ -22,19 +22,20 @@
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
-  "defaultSaveFolder": "copilot-conversations",
-  "defaultConversationTag": "copilot-conversation",
+  "defaultSaveFolder": "",
+  "defaultConversationTag": "",
   "autosaveChat": false,
   "defaultOpenArea": "view",
-  "customPromptsFolder": "copilot-custom-prompts",
+  "customPromptsFolder": "",
   "indexVaultToVectorStore": "ON MODE SWITCH",
   "qaExclusions": "",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
+  "enableIndexSync": true,
   "debug": false,
   "enableEncryption": true,
-  "maxSourceChunks": 3,
+  "maxSourceChunks": 5,
   "groqApiKey": "",
   "activeModels": [
     {
@@ -42,65 +43,120 @@
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
-      "core": true
+      "core": true,
+      "apiKey": ""
     },
     {
       "name": "gpt-4o-mini",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
-      "core": true
+      "core": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-3-5-sonnet-latest",
+      "provider": "anthropic",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "apiKey": ""
     },
     {
       "name": "gpt-4-turbo",
       "provider": "openai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "claude-3-5-sonnet-20240620",
       "provider": "anthropic",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "claude-3-haiku-20240307",
       "provider": "anthropic",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "command-r",
       "provider": "cohereai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "command-r-plus",
       "provider": "cohereai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "gemini-1.5-pro",
       "provider": "google",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "gemini-1.5-flash",
       "provider": "google",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
+    },
+    {
+      "name": "deepseek-chat",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "temperature": 0.1,
+      "context": 1000,
+      "stream": true,
+      "enableCors": false
     }
   ],
   "activeEmbeddingModels": [
+    {
+      "name": "copilot-plus-small",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "copilot-plus-large",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "copilot-plus-multilingual",
+      "provider": "copilot-plus-jina",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
     {
       "name": "text-embedding-3-small",
       "provider": "openai",
@@ -132,7 +188,7 @@
     },
     {
       "name": "azure-openai",
-      "provider": "azure_openai",
+      "provider": "azure openai",
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true
@@ -140,6 +196,9 @@
   ],
   "embeddingRequestsPerSecond": 10,
   "disableIndexOnMobile": true,
+  "showSuggestedPrompts": true,
+  "showRelevantNotes": true,
+  "numPartitions": 1,
   "enabledCommands": {
     "fix-grammar-prompt": {
       "enabled": true,
@@ -202,5 +261,6 @@
       "name": "Change tone of selection"
     }
   },
-  "promptUsageTimestamps": {}
+  "promptUsageTimestamps": {},
+  "defaultConversationNoteName": "{$topic}@{$date}_{$time}"
 }
