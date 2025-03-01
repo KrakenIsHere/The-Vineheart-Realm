@@ -1,5 +1,5 @@
 ---
-title: World Rules (WIP) (Example)
+title: "World: extra & info (WIP) (Example)"
 tags:
   - Rules
   - Details
