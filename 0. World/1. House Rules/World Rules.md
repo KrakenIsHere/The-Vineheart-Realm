@@ -87,7 +87,8 @@ These sites are sought after by travelers, defended by local populations, and so
 ### Time Distortion Fields
 
 - **Location:** Ancient ruins with temporal magic, areas near portals to the Astral Plane
-- **Effects:** Time passes differently within these fields. For every hour spent inside, only minutes or days pass outside. Aging effects may be accelerated or slowed. - **Lore:** The normal flow of time is warped, creating pockets where travelers might emerge to find the world significantly changed.
+- **Effects:** Time passes differently within these fields. For every hour spent inside, only minutes or days pass outside. Aging effects may be accelerated or slowed.
+- **Lore:** The normal flow of time is warped, creating pockets where travelers might emerge to find the world significantly changed.
 - **Adventure Hook:** A scholar has gone missing in a time distortion field and must be rescued before they age to death or return as an infant.
 
 ### Gravity Wells
