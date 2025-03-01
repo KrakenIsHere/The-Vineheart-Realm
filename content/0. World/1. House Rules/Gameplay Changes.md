@@ -54,8 +54,14 @@ A rotation can be applied, resulting in all members only getting a partial long 
 ### Catchup:
 An individual short rest can be taken during travel, provided conditions allow.
 > [!Note] Effect
-> This has the chance to remove the **Poorly rested** status **1d20**
+> This has the chance to remove the **Poorly rested** status **1d20** _(Roll against DM's 1d10)_
 
+#### Meditation
+Meditation can refill HP & Spell slots, depending on conditions & duration.
+
+Instead of a short rest, meditation can be utilized at any point, at points where conditions allow.
+> [!Note] Effect
+> This has the chance to remove the **Poorly rested** status **1d20** with advantage _(Roll against DM's 1d20)_
 
 # Custom Status:
 
