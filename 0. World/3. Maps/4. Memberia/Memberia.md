@@ -24,3 +24,13 @@ The Sapient family began as a guild of scholars and mages who founded the first 
 ### Godwound Ritual
 
 ![[Wound Containment#Frost Tethering]]
+
+## Reputation
+
+- **Reviled (-2):** Banned from cities, magical detection wards alert authorities to your presence
+- **Distrusted (-1):** Followed by scrying sensors, denied service from official establishments
+- **Neutral (0):** Allowed entry to public areas, no special treatment
+- **Acknowledged (+1):** Access to basic facilities and public workshops
+- **Respected (+2):** Ability to purchase rare magic items
+- **Esteemed (+3):** Access to advanced facilities, rare spell components at cost, teleportation circle access
+- **King's Call (+4):** Personal crystal communication device, partial access to restricted knowledge

@@ -1,5 +1,5 @@
 ---
-title: "World: extra & info (WIP) (Example)"
+title: "World: add-ons & info (WIP) (Example)"
 tags:
   - Rules
   - Details
@@ -299,6 +299,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - Create sites that specifically challenge or benefit your party's composition
 - Develop unique sites tied to the backstories of player characters
 
+
 # Faction Reputation
 
 > [!Note] DM Notes (Benefits of the System)
@@ -310,106 +311,37 @@ These sites are sought after by travelers, defended by local populations, and so
 
 ## Kingdoms
 
-### The Ironheart Imperium
+### [[Memberia]] 
 
-**Capital:** Drakkenhall **Government:** Military meritocracy led by the Iron Council **Notable Features:** Sophisticated metallurgy, disciplined military, expansionist policies
+![[Memberia#Reputation]]
 
-**Reputation Tiers:**
+### [[Arcanum]]
 
-- **Suspicious (-2):** +10% prices in Imperium territories, military patrols may detain you for questioning
-- **Neutral (0):** Standard treatment
-- **Recognized (+1):** Access to standard military equipment shops, basic mercenary contracts available
-- **Respected (+2):** 5% discount on goods, access to military training grounds, minor garrison quests
-- **Honored (+3):** Permission to bear Ironheart insignia, access to specialized military equipment, officer-level contracts
-- **Exalted (+4):** Personal audience with an Iron Council member, access to rare metal alloys, command opportunities
+![[Arcanum#Reputation]]
 
-**Special Mechanic:** Characters with positive Ironheart reputation gain advantage on Intimidation checks against enemies of the Imperium.
+### [[Luminia]]
 
-### The Verdant Conclave
+![[Luminia#Reputation]]
 
-**Capital:** Leafspire (a city built into massive trees) **Government:** Council of Elders representing various forest communities **Notable Features:** Living architecture, plant magic, isolationist but protective of nature
+### [[Onyxia]]
 
-**Reputation Tiers:**
+![[Onyxia#Reputation]]
 
-- **Hostile (-2):** Denied entry to Conclave territories, attacked on sight in sacred groves
-- **Suspicious (-1):** Closely watched, limited access to settlements, high prices
-- **Neutral (0):** Allowed passage through territories but not welcome to stay
-- **Friendly (+1):** Provided with guides through difficult forest terrain, access to basic natural remedies
-- **Respected (+2):** Given temporary living quarters in settlements, access to druids for healing
-- **Revered (+3):** Taught secret plant-based recipes, granted seedlings of rare plants, access to treant paths
-- **Legendary (+4):** Granted a living home within a major settlement, access to ancient nature magic
+## Independent Nations
 
-**Special Mechanic:** Characters with positive Verdant Conclave reputation can request aid from forest creatures once per week (DM determines the type of creature based on the area).
+### [[Rubilande]]
 
-### The Crystalline Dominion
+![[Rubilande#Reputation]]
 
-**Capital:** Prismatica **Government:** Arcanocracy ruled by the most powerful mages **Notable Features:** Crystal technology, magical research, elitist society based on magical aptitude
+### [[Cat's Eye]]
 
-**Reputation Tiers:**
+![[Cat's Eye#Reputation]]
 
-- **Reviled (-2):** Banned from cities, magical detection wards alert authorities to your presence
-- **Distrusted (-1):** Followed by scrying sensors, denied service from official establishments
-- **Neutral (0):** Allowed entry to public areas, no special treatment
-- **Acknowledged (+1):** Access to basic arcane libraries and public magical workshops
-- **Respected (+2):** Invitation to minor magical symposiums, ability to purchase uncommon magic items
-- **Esteemed (+3):** Access to advanced research facilities, rare spell components at cost, teleportation circle access
-- **Archmage's Peer (+4):** Personal crystal communication device, access to restricted spell knowledge, voting rights in minor arcane matters
+### The Abyssal
 
-**Special Mechanic:** Characters with positive Crystalline Dominion reputation can attune to one additional magic item if it was crafted within the Dominion.
-
-### The Sundered Realms
-
-**Capital:** None (collection of city-states) **Government:** Varied (democracies, oligarchies, and autocracies) **Notable Features:** Trade hubs, cultural melting pots, political intrigue
-
-**Reputation Tiers:**
-
-- **Blacklisted (-2):** Bounty on your head, merchants refuse to deal with you
-- **Suspicious (-1):** Guards keep watch, higher bribes required, some establishments refuse service
-- **Neutral (0):** Standard treatment
-- **Connected (+1):** Information from local informants, invitations to minor social events
-- **Respected (+2):** Loans available from local banks, access to black markets, legal representation if needed
-- **Influential (+3):** Property ownership rights, introductions to powerful merchants, ability to influence minor laws
-- **Power Broker (+4):** Ability to call in political favors, ownership of businesses, immunity from minor crimes
-
-**Special Mechanic:** Characters with positive Sundered Realms reputation gain a +2 bonus on Persuasion checks when negotiating prices or contracts within these territories.
-
-## Islands
-
-### The Stormwrack Archipelago
-
-**Capital:** Tempest Haven **Government:** Council of Ship Captains led by the Storm Admiral **Notable Features:** Naval supremacy, weather magic, trading empire
-
-**Reputation Tiers:**
-
-- **Enemy of the Fleet (-2):** Ships attack on sight, coastal settlements sound alarms upon your arrival
-- **Untrustworthy (-1):** No ship will grant passage, charged double for all goods and services
-- **Neutral (0):** Basic passage available at standard rates
-- **Seafarer (+1):** Discounted ship passage, basic maritime information, access to common naval equipment
-- **Trusted (+2):** Access to detailed sea charts, storm warnings, permission to dock at restricted ports
-- **Fleet Friend (+3):** Command of a small vessel, access to weather-control magic items, trading partnership opportunities
-- **Admiral's Confidant (+4):** Access to legendary navigation tools, a crew of skilled sailors at your disposal, voice in trade agreements
-
-**Special Mechanic:** Characters with positive Stormwrack reputation gain advantage on saves against stormy weather conditions and natural maritime hazards within archipelago waters.
-
-### The Emberhold Isles
-
-**Capital:** Cinderforge **Government:** Council of Forge Masters **Notable Features:** Volcanic landscapes, fire magic, legendary blacksmiths
-
-**Reputation Tiers:**
-
-- **Ash-Cursed (-2):** Denied entry to settlements, fire elementals attack on sight
-- **Cooled (-1):** Limited access to public areas, no access to forges, high prices
-- **Neutral (0):** Standard treatment
-- **Spark (+1):** Access to basic forging facilities, standard prices for smithing services
-- **Flame (+2):** Training in specialized forging techniques, access to quality ore, fire resistance rituals
-- **Blaze (+3):** Permission to use master forges, access to fire elemental assistants, volcanic glass harvesting rights
-- **Inferno (+4):** Knowledge of legendary forging secrets, personal forge in the capital, ability to enchant items with fire properties
-
-**Special Mechanic:** Characters with positive Emberhold reputation can add fire damage equal to their reputation tier to one weapon per long rest for 1 hour.
-
-### The Abyssal Dynasty
-
-**Capital:** Deepcoral (underwater) **Government:** Ancient bloodline of sea elves and tritons **Notable Features:** Underwater cities, sea magic, mysterious and secretive
+**Capital:** Deepcoral (Underwater) 
+**Government:** Ancient bloodline of sea elves and tritons 
+**Notable Features:** Underwater cities, sea magic, mysterious and secretive
 
 **Reputation Tiers:**
 
@@ -421,105 +353,25 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Depth Blessed (+3):** Permanent water breathing pendant, citizenship in a minor underwater settlement, sea creature allies
 - **Ocean's Chosen (+4):** Ability to speak with sea creatures naturally, access to abyssal magic, underwater property rights
 
-**Special Mechanic:** Characters with positive Abyssal Dynasty reputation can hold their breath for additional minutes equal to their reputation tier × their Constitution modifier.
+**Special Mechanic:** Characters with positive reputation can hold their breath for additional minutes equal to their reputation tier × their Constitution modifier.
 
 ## Guilds
 
-### The Wayfinder's Guild
+### The [[Wayfinder's Guild]]
 
-**Headquarters:** Multiple chapter houses in major cities **Purpose:** Exploration, mapping, and the discovery of lost knowledge and locations **Notable Features:** Extensive map archives, teleportation network, expert guides
+![[Wayfinder's Guild#Reputation]]
 
-**Reputation Tiers:**
+### The [[Ethereal Consortium]]
 
-- **Blacklisted (-2):** Guild members refuse to share information, may mislead you intentionally
-- **Untrusted (-1):** Denied access to guild facilities, no assistance provided
-- **Neutral (0):** Access to basic, publicly available maps
-- **Pathfinder (+1):** Access to detailed maps of common regions, discounted travel supplies
-- **Explorer (+2):** Access to maps of uncommon regions, guild safehouses, emergency teleportation scrolls
-- **Trailblazer (+3):** Access to partial maps of uncharted regions, senior guide assistance, portal key use
-- **Legendary Navigator (+4):** Access to all known maps, guild transportation network, expedition funding
+![[Ethereal Consortium#Reputation]]
 
-**Special Mechanic:** Characters with positive Wayfinder's Guild reputation can call upon a guild guide once per month for assistance with navigation or translations.
+### The [[Crimson Cloud]]
 
-### The Ethereal Consortium
+![[Crimson Cloud#Reputation]]
 
-**Headquarters:** A shifting headquarters that exists partially in the Ethereal Plane **Purpose:** Research into planar travel, dimensional magic, and the collection of extraplanar artifacts **Notable Features:** Portal technology, dimensional pockets, ethereal sight
+### The [[Verdant Network]]
 
-**Reputation Tiers:**
-
-- **Planar Threat (-2):** Hunted by guild enforcers, planar travel attempts are sabotaged
-- **Dimensional Risk (-1):** Denied access to guild facilities, planar knowledge withheld
-- **Neutral (0):** Basic knowledge of the planes shared upon request
-- **Planar Novice (+1):** Access to minor planar guides, basic training in planar survival
-- **Rift Walker (+2):** Limited access to planar portal network, protective amulets against planar hazards
-- **Void Traveler (+3):** Access to planar maps, ethereal sight potions, dimensional pocket enchantments
-- **Reality Shaper (+4):** Ability to create temporary planar portals, access to artifacts from other dimensions
-
-**Special Mechanic:** Characters with positive Ethereal Consortium reputation gain advantage on saving throws against planar effects and can see ethereal creatures for minutes equal to their reputation tier per long rest.
-
-### The Crimson Shroud
-
-**Headquarters:** Unknown (operates through hidden cells) **Purpose:** Assassination, espionage, information brokering **Notable Features:** Shadow magic, poison craft, disguise mastery
-
-**Reputation Tiers:**
-
-- **Marked (-2):** Targeted by guild assassins, rumors spread to destroy your reputation
-- **Watched (-1):** Under surveillance, information about you is sold to enemies
-- **Neutral (0):** Guild operatives neither help nor hinder you
-- **Contact (+1):** Access to basic information networking, minor rumor collection
-- **Asset (+2):** Access to basic disguise and infiltration training, poison resistance techniques
-- **Operative (+3):** Access to shadow magic techniques, network of informants, contract negotiation
-- **Silencer (+4):** High-level assassination contracts, legendary disguise methods, blackmail material on powerful figures
-
-**Special Mechanic:** Characters with positive Crimson Shroud reputation can request a rumor or piece of secret information once per week, the accuracy and detail depending on their reputation tier.
-
-### The Golden Balance
-
-**Headquarters:** The Grand Scale (a massive temple complex in a neutral territory) **Purpose:** Maintaining balance between nations, mediating conflicts, protecting cosmic equilibrium **Notable Features:** Divination magic, diplomatic immunity, cosmic awareness
-
-**Reputation Tiers:**
-
-- **Anathema (-2):** Hunted by guild justiciars, denied aid by anyone fearing guild reprisals
-- **Disruptor (-1):** Under constant divination surveillance, diplomatic efforts hindered
-- **Neutral (0):** Basic diplomatic assistance available upon request
-- **Balancer (+1):** Minor diplomatic credentials, access to basic mediation services
-- **Arbiter (+2):** Diplomatic immunity in participating nations, truth detection training
-- **Justiciar (+3):** Authority to mediate minor conflicts, cosmic balance sensing abilities
-- **Hand of Balance (+4):** Authority recognized by most major powers, limited access to fate-altering magic
-
-**Special Mechanic:** Characters with positive Golden Balance reputation can detect lies once per day for minutes equal to their reputation tier.
-
-### The Verdant Network
-
-**Headquarters:** Hidden groves that shift location seasonally **Purpose:** Protection of natural areas, preservation of endangered species, balance between civilization and wilderness **Notable Features:** Plant magic, animal bonds, natural remedies
-
-**Reputation Tiers:**
-
-- **Blight (-2):** Animals and plants become hostile, natural hazards intensify around you
-- **Nature's Enemy (-1):** Denied aid from druids and rangers, animals refuse to cooperate
-- **Neutral (0):** Basic guidance through natural hazards when requested
-- **Seed Friend (+1):** Ability to identify safe plants and water sources, animal calming techniques
-- **Grove Tender (+2):** Access to natural healing remedies, safe passage through dangerous natural regions
-- **Earth Guardian (+3):** Ability to temporarily awaken plants, animal messengers, weather sensing
-- **Nature's Voice (+4):** Speak with plants and animals at will, influence natural growth, call upon nature spirits
-
-**Special Mechanic:** Characters with positive Verdant Network reputation can forage with advantage and find twice the normal amount of food and supplies in wilderness areas.
-
-### The Clockwork Collective
-
-**Headquarters:** The Grand Workshop (a massive complex of forges, laboratories, and testing grounds) **Purpose:** Innovation, invention, and the advancement of mechanical and magical technology **Notable Features:** Constructs, magitech devices, mechanical augmentation
-
-**Reputation Tiers:**
-
-- **Saboteur (-2):** Guild constructs attack on sight, inventions malfunction around you
-- **Distrusted (-1):** Denied access to guild facilities, no technical assistance provided
-- **Neutral (0):** Access to publicly available schematics and common tools
-- **Tinkerer (+1):** Access to basic workshops, discounted tools and materials, repair guides
-- **Artificer (+2):** Access to advanced schematics, construct assistant loans, experimental material access
-- **Inventor (+3):** Personal workshop space, construct creation rights, magitech experimental licenses
-- **Master Builder (+4):** Resources for major projects, access to legendary schematics, voice in determining research priorities
-
-**Special Mechanic:** Characters with positive Clockwork Collective reputation gain proficiency with tinker's tools if they don't already have it, and add their reputation tier to checks made with them if they do.
+![[Verdant Network#Reputation]]
 
 ## Reputation Management
 
