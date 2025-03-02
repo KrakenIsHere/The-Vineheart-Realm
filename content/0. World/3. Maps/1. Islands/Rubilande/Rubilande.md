@@ -40,3 +40,15 @@ Assistance provided typically includes:
 - Logistics and supply chain security consulting.
 - Infrastructure security consulting
 - Maritime security & coastal patrol services
+
+## Reputation
+
+- **Rubless (-2):** Attacked on sight, settlements sound alarms upon your arrival
+- **Rublack (-1):** No port will grant passage, charged double for all goods and services
+- **Neutral (0):** Basic passage available at standard rates
+- **Friend (+1):** Discounted ship passage, basic maritime information, access to common equipment
+- **Rubler (+2):** Access to detailed sea charts, storm warnings, permission to dock at some restricted ports
+- **Rubleer (+3):** Command of a small vessel, access to weather-control magic items, trading partnership opportunities
+- **Rublegend (+4):** Access to legendary navigation tools, a crew of skilled sailors at your disposal, voice in trade agreements
+
+**Special Mechanic:** Characters with positive reputation gain advantage on saves against stormy weather conditions and natural maritime hazards within archipelago waters.
