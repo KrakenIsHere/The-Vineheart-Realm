@@ -63,7 +63,7 @@ Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **D
 #### 2024
 - [[P.H. Chapter 1|Players' Handbook]]
 - [[D.M.G. Chapter 1|Dungeon Master's Guide]]
-- [[M.M. Chapter 1|Monster Manual]]
+- [[M.M. How to|Monster Manual]]
 
 ### Tools
 

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/1. House Rules/World Rules.md",
+                "file": "4. Assets/Books/2024/Monster Manual/M.M. Appendix A (Monster Lists).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Rules"
+              "title": "M.M. Appendix A (Monster Lists)"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 251.5
   },
   "right": {
     "id": "2266179cb9c35810",
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/1. House Rules/World Rules.md",
+                "file": "4. Assets/Books/2024/Monster Manual/M.M. Appendix A (Monster Lists).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of World Rules"
+              "title": "Outline of M.M. Appendix A (Monster Lists)"
             }
           },
           {
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,43 +241,43 @@
   },
   "active": "de18ac4c296ed83f",
   "lastOpenFiles": [
-    "0. World/1. House Rules/Gameplay Changes.md",
-    "0. World/1. House Rules/World Rules.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Appendix A (Animals).md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Appendix A (Monster Lists).md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters Z.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters Y.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters X.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters W.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters V.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters U.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters T.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters S.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters R.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters Q.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters P.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters O.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters N.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters M.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters L.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters K.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters J.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters I.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters H.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters G.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters F.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters E.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters D.md",
+    "4. Assets/Books/2024/Monster Manual/M.M. Monsters C.md",
     "0. World/3. Maps/2. Arcanum/Arcanum-V1.png",
-    "0. World/3. Maps/2. Arcanum/Arcanum.md",
-    "0. World/3. Maps/Information.md",
-    "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rublade/Common Temple/The Common Temple.md",
-    "0. World/1. House Rules/DM Rules/DM Custom Rules.md",
-    "0. World/1. House Rules/Bastions Changes.md",
-    "0. World/1. House Rules/DM Rules/DM Status Effects.md",
-    "0. World/1. House Rules/DM Rules/DM Magical Events.md",
-    "index.md",
-    "4. Assets/Books/2024/Monster Manual/M.M. Chapter 1.md",
-    "copilot-conversations/index_vault@20250131_174752.md",
-    "0. World/5. Story/1. The Wound/The Wounded/Wounded Priestesses.md",
     "copilot-conversations",
-    "0. World/3. Maps/1. Islands/Cat's Eye/Cat's Eye.md",
-    "0. World/3. Maps/1. Islands/Rubilande/Rubilande.md",
-    "0. World/5. Story/1. The Wound/The Wounded/The Godwounded.md",
-    "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rublade/Rublade.md",
-    "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rubliss/Rubliss.md",
     "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rublade/Common Temple",
-    "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rufale/Rufale.md",
     "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rubliss",
-    "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rudale/Rudale.md",
     "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rufale",
     "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rudale",
     "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rublade",
     "0. World/3. Maps/1. Islands/Rubilande/0. Villages",
-    "0. World/3. Maps/1. Islands/Rubylande/0..md",
     "0. World/3. Maps/1. Islands/Cat's Eye",
     "0. World/3. Maps/1. Islands/Rubilande",
-    "0. World/3. Maps/3. Onyxia/0. Cities/Shadowvale/Shadowvale.md",
-    "0. World/3. Maps/1. Islands/Starfall Isle.md",
-    "0. World/3. Maps/5. Luminia/0. Cities/Shorehaven/Shorehaven.md",
-    "0. World/3. Maps/5. Luminia/0. Cities/Emberhold/Emberhold.md",
     "0. World/3. Maps/5. Luminia/0. Cities/Shorehaven",
-    "0. World/3. Maps/5. Luminia/0. Cities/Silverhold/Silverhold.md",
     "4. Assets/Images/Vineheart Logo/VineHeart.png",
     "Assets/Images/VineHeart.png",
     "Assets/VineHeart.png",
