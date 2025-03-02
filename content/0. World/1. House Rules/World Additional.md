@@ -10,6 +10,25 @@ tags:
 ![[Special Sites#Overview]]
 
 
+# Guilds
+
+## Crimson Cloud
+
+![[Crimson Cloud]]
+
+## Ethereal Consortium
+
+![[Ethereal Consortium]]
+
+## Verdant Network
+
+![[Verdant Network]]
+
+## Wayfinder's Guild
+
+![[Wayfinder's Guild]]
+
+
 # Reputation
 
 ![[Faction Reputation#Overview]]
