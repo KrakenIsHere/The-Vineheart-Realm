@@ -26,6 +26,14 @@ Through all this, mortals have learned to rely more on themselves than divine in
 
 While the effects of [[The Godwound|The Godwound]] appears to increase in frequency and organization known as [[The Godwounded|The Wounded]] has emerged to quell this immense magic surge. The [[Wounded Priestesses]] and their [[Wound Containment|rituals]] do appear to be successful, with the growth halted for centuries, the populace doesn't realize the impact.
 
+## Additions
+There are some add-ons within **The Vineheart Realm** that doesn't natively exist in **Dungeons & Dragons 5e** or **2024**
+- [[World Additional|World Additions]]
+
+> [!Note] Notable add-ons
+>- Reputation
+>	- Factions
+>- Environmental Sites
 
 ## Rules
 Here the rules and general concept follows **Dungeons & Dragons 5e** with a few exceptions and additions all listed within the following documents:
