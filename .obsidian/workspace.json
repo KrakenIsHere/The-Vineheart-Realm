@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/1. House Rules/Gameplay Changes.md",
+                "file": "0. World/1. House Rules/World Extras/Faction Reputation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay Changes"
+              "title": "Faction Reputation"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/1. House Rules/Gameplay Changes.md",
+                "file": "0. World/1. House Rules/World Extras/Faction Reputation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gameplay Changes"
+              "title": "Outline of Faction Reputation"
             }
           },
           {
@@ -213,7 +213,8 @@
               "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,13 +235,15 @@
   },
   "active": "7d89b8ee935831e9",
   "lastOpenFiles": [
-    "0. World/1. House Rules/Levels Breakdown.md",
+    "0. World/1. House Rules/World Extras/Special Sites.md",
+    "0. World/1. House Rules/Bastions Changes.md",
     "0. World/1. House Rules/Gameplay Changes.md",
+    "0. World/1. House Rules/World Additional.md",
+    "0. World/1. House Rules/Levels Breakdown.md",
+    "0. World/4. Characters/Non-Playable/DM NPCs Sheet.md",
     "0. World/1. House Rules/DM Rules/DM Status Effects.md",
     "0. World/1. House Rules/DM Rules/DM Magical Events.md",
     "0. World/1. House Rules/DM Rules/DM Custom Rules.md",
-    "0. World/1. House Rules/World Extras/Special Sites.md",
-    "0. World/1. House Rules/World Additional.md",
     "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
     "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
     "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/DM SoV Notes 0.md",
@@ -262,8 +265,6 @@
     "0. World/3. Maps/2. Arcanum/Arcanum.md",
     "0. World/5. Story/2. Guilds",
     "4. Assets/Books/2024/Monster Manual/M.M. Appendix A (Monster Lists).md",
-    "4. Assets/Books/2024/Monster Manual/M.M. Appendix A (Animals).md",
-    "4. Assets/Books/2024/Monster Manual/M.M. Monsters Z.md",
     "0. World/3. Maps/2. Arcanum/Arcanum-V1.png",
     "copilot-conversations",
     "0. World/3. Maps/1. Islands/Rubilande/0. Villages/Rublade/Common Temple",

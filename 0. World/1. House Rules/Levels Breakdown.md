@@ -1,3 +1,10 @@
+---
+title: Level & What they mean
+tags:
+  - Notes
+---
+
+
 # Character Level Descriptions
 
 ## Overview
