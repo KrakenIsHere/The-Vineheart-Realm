@@ -187,6 +187,8 @@ Should an action, result in a fellow player taking damage, the DM will determine
 > These don’t have extra cost.
 
 ## Levels:
+[[Levels Breakdown]]
+
 - All characters start at level 4
 > [!Warning] EXP
 >- Is given during a long rest
@@ -206,6 +208,32 @@ Should an action, result in a fellow player taking damage, the DM will determine
 >- Mage hand can convey touch-based spells
 - Mage hand is a concentration spell
 
+
+# Status Effects
+
+## Cosmic Awareness
+(Level 17 Handicap)
+
+As your character's power approaches divine thresholds, they begin perceiving fragments of cosmic truth beyond mortal comprehension. This awareness manifests as:
+
+> [!WARNING] **Otherworldly Visions**:
+> At the start of a long rest, roll **1d20**.
+> On 1-5, you're plagued by disturbing visions of cosmic truths.
+> You gain no benefits from that long rest and start the day [[Gameplay Changes#Poorly Rested|Poorly Rested]].
+
+> [!INFO] **Reality Distortion**:
+> Your growing power warps reality around you.
+> Small objects occasionally levitate, shadows move incorrectly, and your voice sometimes echoes unnaturally.
+> NPCs with a passive Wisdom (Perception) of 15 or higher feel instinctively unsettled in your presence, imposing disadvantage on Charisma (Persuasion) checks with them.
+
+> [!WARNING] **Attraction of the Wound**:
+> Your power acts as a beacon to entities beyond the veil.
+> Once per week, the DM can have a random cosmic horror creature become aware of you and potentially seek you out.
+
+> [!NOTE] **Knowledge Burden**:
+> You occasionally receive unbidden insights into cosmic truths.
+> Whenever you roll a natural 20 on an Intelligence check, you might also learn something you were never meant to know.
+> The DM may provide a disturbing revelation that offers useful information but might require a DC 16 Wisdom saving throw to avoid being frightened for 1 minute.
 
 # Random Event Types
 
