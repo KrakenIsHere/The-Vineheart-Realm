@@ -1,9 +1,9 @@
 ---
-title: DM's Session 0 Notes
+title: DM's Session 0 Secrets of Villainy Notes
 tags:
   - private
   - Notes
-  - Mistlin-Inn
+  - SecrestOfVillainy
 ---
 # Events
 
