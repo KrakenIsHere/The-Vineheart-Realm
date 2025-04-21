@@ -159,7 +159,56 @@
         "month": 2,
         "year": 569
       },
-      "events": [],
+      "events": [
+        {
+          "name": "Secrets Of Villany Start",
+          "description": "The party fights their way out of the Mistlin Inn",
+          "date": {
+            "day": 15,
+            "month": 2,
+            "year": 569
+          },
+          "id": "ID_28fb5a5af97a",
+          "note": "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/Notes.md",
+          "category": "ID_1b5b9938f968",
+          "sort": {
+            "timestamp": 569215,
+            "order": ""
+          }
+        },
+        {
+          "name": "Secrets Of Villainy",
+          "description": "The party fights their way out of The Misty Mug",
+          "date": {
+            "day": 15,
+            "month": 2,
+            "year": 569
+          },
+          "id": "ID_28fb5a5af97a",
+          "note": "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
+          "category": "ID_1b5b9938f968",
+          "sort": {
+            "timestamp": 569215,
+            "order": ""
+          }
+        },
+        {
+          "name": "Secrets Of Villainy Start",
+          "description": "The party fights their way out of The Misty Mug while gathering information about \"nearby\" loot oppertunities.",
+          "date": {
+            "day": 15,
+            "month": 2,
+            "year": 569
+          },
+          "id": "ID_28fb5a5af97a",
+          "note": "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
+          "category": "ID_1b5b9938f968",
+          "sort": {
+            "timestamp": 569215,
+            "order": ""
+          }
+        }
+      ],
       "id": "ID_6ac80ab98aab",
       "categories": [
         {
@@ -176,6 +225,11 @@
           "name": "Royal Birthdays",
           "id": "secular-holidays",
           "color": "#0D47A1"
+        },
+        {
+          "id": "ID_1b5b9938f968",
+          "color": "#940000",
+          "name": "SoV Events"
         }
       ],
       "dateFormat": "DD-MM-YYYY"
