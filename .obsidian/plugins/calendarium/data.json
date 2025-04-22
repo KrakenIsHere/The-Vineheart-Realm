@@ -1,5 +1,5 @@
 {
-  "addToDefaultIfMissing": true,
+  "addToDefaultIfMissing": false,
   "calendars": [
     {
       "name": "Vineheart Calendar",
@@ -8,11 +8,11 @@
       "path": [
         "/"
       ],
-      "supportInlineEvents": false,
-      "inlineEventTag": "inline-events",
+      "supportInlineEvents": true,
+      "inlineEventTag": "hasVineheartEvents",
       "showIntercalarySeparately": true,
       "static": {
-        "displayDayNumber": false,
+        "displayDayNumber": true,
         "incrementDay": true,
         "displayMoons": true,
         "firstWeekDay": 0,
@@ -161,34 +161,18 @@
       },
       "events": [
         {
-          "name": "Secrets Of Villany Start",
-          "description": "The party fights their way out of the Mistlin Inn",
+          "name": "Goblins in the Misty Falls",
+          "description": null,
           "date": {
-            "day": 15,
-            "month": 2,
-            "year": 569
+            "month": 0,
+            "day": 13,
+            "year": -226
           },
-          "id": "ID_28fb5a5af97a",
-          "note": "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/Notes.md",
-          "category": "ID_1b5b9938f968",
+          "id": "ID_eab82a5938d9",
+          "note": "0. World/2. Sessions/Gnomes in the Misty Falls Year 226 PW/GitMF Notes.md",
+          "category": "ID_2af9b8387bd8",
           "sort": {
-            "timestamp": 569215,
-            "order": ""
-          }
-        },
-        {
-          "name": "Secrets Of Villainy",
-          "description": "The party fights their way out of The Misty Mug",
-          "date": {
-            "day": 15,
-            "month": 2,
-            "year": 569
-          },
-          "id": "ID_28fb5a5af97a",
-          "note": "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
-          "category": "ID_1b5b9938f968",
-          "sort": {
-            "timestamp": 569215,
+            "timestamp": -226013,
             "order": ""
           }
         },
@@ -196,11 +180,11 @@
           "name": "Secrets Of Villainy Start",
           "description": "The party fights their way out of The Misty Mug while gathering information about \"nearby\" loot oppertunities.",
           "date": {
-            "day": 15,
             "month": 2,
+            "day": 15,
             "year": 569
           },
-          "id": "ID_28fb5a5af97a",
+          "id": "ID_1b1a6a1b189b",
           "note": "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
           "category": "ID_1b5b9938f968",
           "sort": {
@@ -230,9 +214,19 @@
           "id": "ID_1b5b9938f968",
           "color": "#940000",
           "name": "SoV Events"
+        },
+        {
+          "id": "ID_2af9b8387bd8",
+          "color": "#a35f00",
+          "name": "Pre War Events"
+        },
+        {
+          "id": "ID_caeb6ac83b79",
+          "color": "#ababab",
+          "name": "Other Events"
         }
       ],
-      "dateFormat": "DD-MM-YYYY"
+      "dateFormat": "DD/MM/YYYY"
     }
   ],
   "configDirectory": null,
