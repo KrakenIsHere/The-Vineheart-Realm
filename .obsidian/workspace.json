@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitMF Notes"
+              "title": "index"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GitMF Notes"
+              "title": "Outline of index"
             }
           },
           {
@@ -234,8 +234,8 @@
   },
   "active": "8641d0be384108d7",
   "lastOpenFiles": [
-    "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/DM GitMF Notes.md",
     "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
+    "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/DM GitMF Notes.md",
     "0. World/1. House Rules/Gameplay Changes.md",
     "0. World/1. House Rules/Levels Breakdown.md",
     "0. World/2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/DM SoV Notes 0.md",

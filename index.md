@@ -58,6 +58,10 @@ So some aspects of the game will be simplified, depending on the situation. And 
 
 Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **Dungeons & Dragons 2024** rules.
 
+## Campaigns
+- Y-226 [[GitMF Notes|Goblins in the Misty Falls]]
+- Y569 [[SoV Notes 0|Secrets Of Villainy]]
+
 
 ## Resources
 
