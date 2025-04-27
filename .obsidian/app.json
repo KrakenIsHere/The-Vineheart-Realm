@@ -9,5 +9,5 @@
   },
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "showLineNumber": false
+  "showLineNumber": true
 }

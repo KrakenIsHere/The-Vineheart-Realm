@@ -174,7 +174,7 @@ Should an action, result in a fellow player taking damage, the DM will determine
 - Individual stats simply represent their modifier, and holds no specific traits
 > [!Summary] Delegation of stat points:
 > - All characters start with 3 in all stats
->- The points pool is based on 4d20 with the total divided by 1.5
+>- The points pool is based on 5d20 with the total divided by 1.5
 >- Round down in all cases of decimal numbers
 > - 1 Grace roll (Mulligan) is allowed
 

@@ -161,7 +161,7 @@
       },
       "events": [
         {
-          "name": "Goblins in the Misty Falls",
+          "name": "Goblins in the Misty Falls: Day 1",
           "description": null,
           "date": {
             "month": 0,
@@ -169,10 +169,26 @@
             "year": -226
           },
           "id": "ID_eab82a5938d9",
-          "note": "0. World/2. Sessions/Gnomes in the Misty Falls Year 226 PW/GitMF Notes.md",
+          "note": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
           "category": "ID_2af9b8387bd8",
           "sort": {
             "timestamp": -226013,
+            "order": ""
+          }
+        },
+        {
+          "name": "Goblins in the Misty Falls: Day 2",
+          "description": null,
+          "date": {
+            "month": 0,
+            "day": 14,
+            "year": -226
+          },
+          "id": "ID_48ba2859585a",
+          "note": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
+          "category": "ID_2af9b8387bd8",
+          "sort": {
+            "timestamp": -226014,
             "order": ""
           }
         },
