@@ -157,4 +157,14 @@ End of session 2
 
 # Session 3
 
-## TBD
+## To Death
+
+1) The adventurers find themselves a level further down in the old castle. The room is surrounded with dead bodies that has obviously been there a long long time. Ahead, Tronga can see four armors, they don't look like much for now. Fistor notices that the torches are lit from magic that comes from the end of the hallway. They move down the hallway and notice the armors look towards them.
+
+2) As Tronga reaches further down the long hallway, an armor moves in front of her to block her path. As the armors block the path, Fistor creates a minor illusion of the king they saw on the pictures upstairs. This makes the armors move back again, and they can follow further down the path of the hallway. They reach the end of the hallway and go down some more stairs.
+
+3) After going down another level they get to a small room with a single door. Tonga opens the door slowly and she can see a big room with lots of hey and many skeletons. One of the skeletons is a dragon. That gives Fistor a thought; In the old days kings trapped dragons to store the power of the creature, so some kings locked up dragons. This seems to be one of those cases where the dragon has been locked up and died under captivity.
+
+4) As Tronga steps into the room with the skeletons and down the stairs comes all the armors they avoided in the hallway. Then its battle time. After a brutal and the death of their friend Striker, they win the battle. Fistor who just survived, needed all the rest, and they snuggle up in one of the hay piles.
+
+5) After a long rest in the hay, they look around the room and notice a white dragon egg in the big hay pile. After a lot of looking back and forth they figure out that this is a healthy white dragon egg. After more investigation and looking around, they want to bring the egg with them. Tronga drinks the potion of growth and she takes the egg on her back. After just a few steps she gets attacked by something on her back. The egg transforms into a mimic! Both Tronga and Fistor fights to their best abilities, but in the end they are killed by the happy little mimic. Thus our story of the adventurers Tronga and Fistor ends with them rotting along with the armor in the lowest parts of a forgotten castle.
