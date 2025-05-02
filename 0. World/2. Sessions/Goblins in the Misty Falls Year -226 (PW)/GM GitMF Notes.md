@@ -215,6 +215,22 @@ To the right is a table with cards on it (Ruined Playing Cards: Nature Themed) a
 
 ## Dungeon 2nd Floor
 ![[Misty Falls Dungeon 2.webp|500]]
+### The Hallway
+This is basically a huge fight. 11 Animated Armor
+
+#### The Team
+- Fistor
+- Tronga
+- Striker The Revenant
+
+#### Difficulty
+It would seem that it is necessary to lower calm on the enemies here to help with time.
+
+The Armor is old and therefore
+- Takes 2x damage
+- Deals ½ damage
+- Has Disadvantage on attack rolls
+
 ### Creatures
 - [Animated Armor](https://www.dndbeyond.com/monsters/16786-animated-armor)
 
@@ -224,4 +240,4 @@ To the right is a table with cards on it (Ruined Playing Cards: Nature Themed) a
 - [Mimic](https://www.dndbeyond.com/monsters/5195123-mimic)
 
 ### Loot
-- A dragon egg (that is actually a mimic)
+- A white dragon egg (that is actually a mimic)
