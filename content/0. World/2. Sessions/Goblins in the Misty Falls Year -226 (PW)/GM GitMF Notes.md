@@ -115,6 +115,7 @@ On the mapping table is a parchment with elegant handwriting that reads:
 > _You've mastered every technique I've taught, but wisdom lies beyond mere skill. Solve this final lesson:_
 >
 >> [!NOTE] The Riddle
+>> 
 >> What e'er doth course yet ne'er doth tread,
 >> Oft murmureth, yet speaketh not a word,
 >> Possesseth bower yet slumber hath forsook,
@@ -125,34 +126,35 @@ On the mapping table is a parchment with elegant handwriting that reads:
 >> Nearer than thy wit doth think,
 >> 'Tis harder lest thou chance to blink.
 >>
->> _Silent shaper of the realm,_ 
->> _Curveth, carveth 'neath its helm,_ 
->> _Where it wendeth, life taketh root,_ 
->> _Ancient might, beyond dispute._ 
->> _Kingdoms bow 'fore its fair grace,_ 
->> _As it windeth through time and space._
+>> Silent shaper of the realm,
+>> Curveth, carveth 'neath its helm,
+>> Where it wendeth, life taketh root,
+>> Ancient might, beyond dispute.
+>> Kingdoms bow 'fore its fair grace,
+>> As it windeth through time and space.
 >
->_When you understand what shapes the land more than any king's decree, you'll find my final gift to you._
+> _When you understand what shapes the land more than any king's decree, you'll find my final gift to you._
 >
->_With pride,_ _Master Cornelius"_
+> _With pride,_ _Master Cornelius"_
 
 > [!NOTE] The Translation
-_What always flows but never walks,_ 
-_Often murmurs, never talks,_ 
-_Has a bed but never sleeps,_ 
-_Has a mouth but never eats?_
+> 
+> _What always flows but never walks,_ 
+> _Often murmurs, never talks,_ 
+> _Has a bed but never sleeps,_ 
+> _Has a mouth but never eats?_
 >
 > _Look at the map with clear eyes,_ 
 > _Stare too long, your vision dies,_ 
 > _Closer than you might believe,_ 
 > _It's harder when you don't relieve._
 >
->_Silent sculptor of the land,_ 
->_Curves and carves with patient hand,_ 
->_Where it passes, life takes root,_ 
->_Ancient power, absolute._ 
->_Cities bow before its grace,_ 
->_As it winds through time and space._
+> _Silent sculptor of the land,_ 
+> _Curves and carves with patient hand,_ 
+> _Where it passes, life takes root,_ 
+> _Ancient power, absolute._ 
+> _Cities bow before its grace,_ 
+> _As it winds through time and space._
 
 **The solution:**
 "A river." When the players suggest this, the Revenant's eyes light up with recognition. He slides his hand along the edge of the mapping table where a small river is carved, revealing a hidden drawer.
