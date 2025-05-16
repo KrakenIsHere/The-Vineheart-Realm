@@ -1,9 +1,9 @@
 ---
-title: Gnomes in the Misty Falls Session Notes
+title: Goblins in the Misty Falls Session Notes
 tags:
   - private
   - Notes
-  - GnomesInTheMistyFalls
+  - GoblinsInTheMistyFalls
 ---
 # TL;DR
 
@@ -27,7 +27,16 @@ tags:
 - Fistor nearly falls victim to a mimic disguised as the liquid in a potion
 - They discover stairs leading even deeper into the mysterious structure
 
+## Session 3
 
+- Tronga and Fistor explore deeper into the castle's lower level, encountering more animated armors
+- Fistor uses a clever illusion of the king to make the armors stand down
+- They discover a large room with skeletons, including a dragon skeleton
+- The adventurers battle and defeat the animated armors, but lose their companion Striker
+- After resting, they find what appears to be a white dragon egg in a hay pile
+- Tronga uses a potion of growth to carry the egg
+- The "egg" reveals itself to be a mimic and attacks
+- Despite their best efforts, both Tronga and Fistor are killed by the mimic, ending their adventure
 
 # Session 1
 ## Adventurers enter the cave
