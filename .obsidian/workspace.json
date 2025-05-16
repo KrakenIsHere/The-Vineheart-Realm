@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
+                "file": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GM GitMF Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitMF Notes"
+              "title": "GM GitMF Notes"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
+                "file": "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GM GitMF Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GitMF Notes"
+              "title": "Outline of GM GitMF Notes"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "7d89b8ee935831e9",
   "lastOpenFiles": [
-    "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GM GitMF Notes.md",
     "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GitMF Notes.md",
+    "0. World/2. Sessions/Goblins in the Misty Falls Year -226 (PW)/GM GitMF Notes.md",
     "index.md",
     "0. World/1. House Rules/Gameplay Changes.md",
     "0. World/1. House Rules/Levels Breakdown.md",
