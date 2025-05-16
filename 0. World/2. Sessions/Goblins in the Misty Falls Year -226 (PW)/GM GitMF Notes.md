@@ -3,7 +3,7 @@ title: DM's Session Goblins in the Misty Falls Notes
 tags:
   - private
   - Notes
-  - GnomesInTheMistyFalls
+  - GoblinsInTheMistyFalls
 ---
 # Overview
 ## TL;DR
