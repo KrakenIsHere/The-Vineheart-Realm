@@ -118,6 +118,7 @@ They open the door and find more animated armor.
 
 After following the signs of frustration they find an undead cartographer Revenant, 
 - who gives them a riddle that he is working on and its his life's mission to figure it out. 
+	- [[The Master Cartographer's Riddle.png|The Letter]]
 - After some intuitive thinking Tronga figures out the answer to the riddle might be 'River'. 
 - The Revenant is ecstatic by the answer and finds a hidden drawer with a hidden compass
 - The compass' inscription brings the Revenant to tears. 
