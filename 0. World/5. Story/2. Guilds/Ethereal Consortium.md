@@ -1,3 +1,11 @@
+---
+title: The Ethereal Consortium Guild
+tags:
+  - Vineheart-Realm
+  - Guild
+---
+
+
 **Headquarters:** A shifting headquarters that exists partially in the Ethereal Plane 
 **Purpose:** Research into planar travel, dimensional magic, and the collection of extraplanar artifacts 
 **Notable Features:** Portal technology, dimensional pockets, ethereal sight

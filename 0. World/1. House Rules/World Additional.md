@@ -26,7 +26,7 @@ tags:
 
 ## Wayfinder's Guild
 
-![[Wayfinder's Guild]]
+![[Way-finders]]
 
 
 # Reputation

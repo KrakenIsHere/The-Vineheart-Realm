@@ -1,3 +1,11 @@
+---
+title: The Verdant Network Guild
+tags:
+  - Vineheart-Realm
+  - Guild
+---
+
+
 **Headquarters:** Hidden in groves & forests (Shifts location seasonally)
 **Purpose:** Protection of natural areas, preservation of endangered species, balance between civilization and wilderness 
 **Notable Features:** Plant magic, animal bonds, natural remedies

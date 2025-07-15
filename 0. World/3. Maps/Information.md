@@ -3,6 +3,7 @@ title: Map Information
 tags:
   - Details
   - Maps
+  - Vineheart-Realm
 ---
 
 These outline the default details that maps should commonly adhere to, so these can be assumed. Unless other details are listed on the map itself.
