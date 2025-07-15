@@ -1,3 +1,11 @@
+---
+title: The Crimson Cloud Guild
+tags:
+  - Vineheart-Realm
+  - Guild
+---
+
+
 **Headquarters:** Unknown (Operates through hidden cells) 
 **Purpose:** Assassination, espionage, information brokering 
 **Notable Features:** Shadow magic, poison craft, disguise mastery

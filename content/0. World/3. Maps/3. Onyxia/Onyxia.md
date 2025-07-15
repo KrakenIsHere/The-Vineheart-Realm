@@ -3,6 +3,7 @@ title: Kingdom of Onyxia
 tags:
   - Continent
   - Kingdom
+  - Vineheart-Realm
 ---
 ## History
 Named after the onyx that form in the northern mountain range, Onyxia stands as a testament to natural wealth and architectural grandeur. Connected to [[Arcanum]] through the bustling port city of [[Bayshore]], and to [[Luminia]] via [[Sapphire Bay]] & [[Coral Bay]].

@@ -3,6 +3,7 @@ title: The Wound of Devine arrogance
 tags:
   - Godwound
   - TheGodWar
+  - Vineheart-Realm
 ---
 
 # The Scar

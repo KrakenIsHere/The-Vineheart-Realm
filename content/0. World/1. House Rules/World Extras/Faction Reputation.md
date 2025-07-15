@@ -84,9 +84,9 @@ Some factions are natural enemies. Gaining reputation with one may automatically
 
 ## Guilds
 
-### The [[Wayfinder's Guild]]
+### The [[Way-finders]]
 
-![[Wayfinder's Guild#Reputation]]
+![[Way-finders#Reputation]]
 
 ### The [[Ethereal Consortium]]
 
