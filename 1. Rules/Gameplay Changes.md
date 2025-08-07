@@ -170,21 +170,7 @@ Players track inspiration points on their character sheets. The DM may provide p
 ### PvP
 Should an action, result in a fellow player taking damage, the DM will determine whether said damage will trigger a [[DM Custom Rules#PvP Scenarios|PvP]] scenario.
 
-## Stats:
-- Individual stats simply represent their modifier, and holds no specific traits
-> [!Summary] Delegation of stat points:
-> - All characters start with 3 in all stats
->- The points pool is based on 5d20 with the total divided by 1.5
->- Round down in all cases of decimal numbers
-> - 1 Grace roll (Mulligan) is allowed
-
-> [!Note] Stat costs
->- Once a stat gets to 15 each increase for that stat costs 2 points
->- Once a stat gets to 20 each increase for that stat costs 3 points
-
-> [!Danger] Important
-> All points coming from Classes, Races, etc. are added after the point delegation.
-> These don’t have extra cost.
+![[Character Creation#Stats]]
 
 ## Levels:
 [[Levels Breakdown]]

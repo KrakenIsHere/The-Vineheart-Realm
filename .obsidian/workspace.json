@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "062b0b52eef93019",
+        "id": "1cf1acd2001ab8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "7d89b8ee935831e9",
+            "id": "0cff82c87fc864af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
+                "file": "1. Rules/Character Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SoV Notes 0"
+              "title": "Character Creation"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
+                "file": "1. Rules/Character Creation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SoV Notes 0"
+              "title": "Outline of Character Creation"
             }
           },
           {
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +211,62 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "15619512660efef4",
+  "floating": {
+    "id": "267f03c29ad9b105",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2b2ac6c9445ee82b",
+        "type": "window",
+        "children": [
+          {
+            "id": "9309bbd85b3e1e68",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d89b8ee935831e9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "DnD 5e Players Handbook (BnW OCR)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 691,
+        "y": 63,
+        "width": 807,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0cff82c87fc864af",
   "lastOpenFiles": [
+    "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 10-11.pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 9.pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD 5e Players Handbook (BnW OCR)-183-266.pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD 5e Players Handbook (BnW OCR)-173-182.pdf",
+    "4. Assets/Books/5e/Player's Handbook/ilovepdf_split-range (1).zip",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 2.pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 3.pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 4.pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 5.pdf",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 6.pdf",
+    "1. Rules/Character Creation.md",
+    "1. Rules/Gameplay Changes.md",
+    "1. Rules/Bastions Changes.md",
+    "1. Rules/Levels Breakdown.md",
+    "1. Rules/World Additional.md",
+    "2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
     "2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/DM SoV Notes 0.md",
     "2. Sessions/Goblins in the Misty Falls Year -226 (PW)/The Master Cartographer's Riddle.png",
     "0. World/3. Locations/Information.md",
@@ -232,29 +287,12 @@
     "0. World/2. Guilds/Crimson Cloud.md",
     "0. World/3. Locations/1. Islands/Cat's Eye/Cat's Eye.md",
     "0. World/3. Locations/2. Arcanum/Arcanum.md",
-    "0. World/3. Locations/1. Islands/Rubilande/0. Villages/Rublade/Common Temple/The Common Temple.md",
-    "0. World/3. Locations/1. Islands/Starfall Isle.md",
-    "0. World/3. Locations/1. Islands/Ironcliff Island.md",
-    "0. World/3. Locations/1. Islands/Frostspire.md",
-    "0. World/3. Locations/1. Islands/Euphoria.md",
-    "0. World/3. Locations/1. Islands/Dragon's Roost.md",
-    "0. World/3. Locations/1. Islands/Bloodstone Island.md",
-    "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Dungeon 1.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Camp.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Dungeon 3.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Upper Cave.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Dungeon 2.webp",
-    "2. Sessions/Goblins in the Misty Falls Year -226 (PW)",
-    "2. Sessions/Secrets Of Villany Year 569",
-    "1. Rules/World Extras",
-    "0. World/2. Guilds",
     "0. World/3. Locations/2. Arcanum/Arcanum-V1.png",
-    "copilot-conversations",
-    "0. World/3. Locations/1. Islands/Rubilande/0. Villages/Rublade/Common Temple",
-    "0. World/3. Locations/1. Islands/Rubilande/0. Villages/Rubliss",
-    "0. World/3. Locations/1. Islands/Rubilande/0. Villages/Rufale",
-    "0. World/3. Locations/1. Islands/Rubilande/0. Villages/Rudale",
     "4. Assets/Images/Vineheart Logo/VineHeart.png",
     "Assets/Images/VineHeart.png",
     "Assets/VineHeart.png"
