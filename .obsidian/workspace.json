@@ -15,7 +15,17 @@
               "state": {
                 "file": "1. Rules/Character Creation.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Character Creation"
@@ -195,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,46 +220,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "267f03c29ad9b105",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2b2ac6c9445ee82b",
-        "type": "window",
-        "children": [
-          {
-            "id": "9309bbd85b3e1e68",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7d89b8ee935831e9",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "DnD 5e Players Handbook (BnW OCR)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 691,
-        "y": 63,
-        "width": 807,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0cff82c87fc864af",
   "lastOpenFiles": [
     "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
+    "1. Rules/Character Creation.md",
+    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 4.pdf",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 10-11.pdf",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 9.pdf",
     "4. Assets/Books/5e/Player's Handbook/DnD 5e Players Handbook (BnW OCR)-183-266.pdf",
@@ -258,10 +232,7 @@
     "4. Assets/Books/5e/Player's Handbook/ilovepdf_split-range (1).zip",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 2.pdf",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 3.pdf",
-    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 4.pdf",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 5.pdf",
-    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 6.pdf",
-    "1. Rules/Character Creation.md",
     "1. Rules/Gameplay Changes.md",
     "1. Rules/Bastions Changes.md",
     "1. Rules/Levels Breakdown.md",
