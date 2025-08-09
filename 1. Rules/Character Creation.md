@@ -31,17 +31,165 @@ It's worthwhile to consider why your character is different, as a helpful way to
 
 | Race                   | Size                         | Speed | Ability Score Increases  | Key Traits                     | Special Abilities                                             | Languages                     | Age/Lifespan                             | Description & Notes                                                       |
 | ---------------------- | ---------------------------- | ----- | ------------------------ | ------------------------------ | ------------------------------------------------------------- | ----------------------------- | ---------------------------------------- | ------------------------------------------------------------------------- |
-| **Human**              | Medium                       | 30 ft | +1 to all abilities      | Versatile, ambitious           | Varies by subrace                                             | Common + regional             | Adult at 18, ~80 years                   | Most common race in Vineheart Realm; adaptable and driven                 |
+| **Dragonborn**         | Medium                       | 30 ft | Varies                   | Draconic heritage              | Breath weapon, damage resistance                              | Common + Draconic             | Adult at 15, ~80 years                   | Less common as adventurers                                                |
+| **Drow** (Elf subrace) | Medium                       | 30 ft | +2 DEX + subrace bonus   | Darkvision (superior)          | Sunlight sensitivity, innate spells                           | Common + Elvish + Undercommon | Adult at 100, ~750 years                 | Uncommon elf subrace                                                      |
 | **Dwarf**              | Medium                       | 25 ft | +2 Constitution          | Darkvision, resilient          | Stonecunning, weapon training                                 | Common + Dwarvish             | Adult at 50, ~350 years                  | Tough warriors; skilled craftsmen and miners                              |
 | **Elf**                | Medium                       | 30 ft | +2 Dexterity             | Darkvision, keen senses        | Fey Ancestry, trance                                          | Common + Elvish               | Adult at 100, ~750 years                 | Masters of arcane magic; graceful and long-lived                          |
-| **Halfling**           | Small                        | 25 ft | +2 Dexterity             | Lucky, brave                   | Halfling Nimbleness                                           | Common + Halfling             | Adult at 20, ~150 years                  | Good for sneaky rogues; cheerful and nimble                               |
 | **Forest Gnome**       | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 DEX           | Darkvision, Gnome Cunning      | Natural Illusionist (minor illusion), Speak with Small Beasts | Common + Gnomish              | Adult at 40, ~350-500 years              | Rare and secretive; hidden forest communities using illusions             |
-| **Rock Gnome**         | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Adult at 40, ~350-500 years              | Most common gnomes; natural inventors and tinkerers                       |
 | **Half-Elf**           | Medium (5-6 ft)              | 30 ft | +2 CHA, +1 to two others | Darkvision, Fey Ancestry       | Skill Versatility (2 skills)                                  | Common + Elvish + 1 extra     | Adult at 20, 180+ years                  | Walking between two worlds; excellent diplomats, chaotic nature           |
 | **Half-Orc**           | Medium (6-7 ft, 180-250 lbs) | 30 ft | +2 STR, +1 CON           | Darkvision, Menacing           | Relentless Endurance, Savage Attacks                          | Common + Orc                  | Adult at 14, ~75 years                   | Scarred and Strong; torn between orc fury and human discipline            |
+| **Halfling**           | Small                        | 25 ft | +2 Dexterity             | Lucky, brave                   | Halfling Nimbleness                                           | Common + Halfling             | Adult at 20, ~150 years                  | Good for sneaky rogues; cheerful and nimble                               |
+| **Human**              | Medium                       | 30 ft | +1 to all abilities      | Versatile, ambitious           | Varies by subrace                                             | Common + regional             | Adult at 18, ~80 years                   | Most common race in Vineheart Realm; adaptable and driven                 |
+| **Rock Gnome**         | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Adult at 40, ~350-500 years              | Most common gnomes; natural inventors and tinkerers                       |
 | **Tiefling**           | Medium                       | 30 ft | +1 INT, +2 CHA           | Darkvision, Hellish Resistance | Infernal Legacy (Thaumaturgy, Hellish Rebuke, Darkness)       | Common + Infernal             | Adult at 18, slightly longer than humans | Infernal bloodline; horns, tails, solid eyes; mistrusted but self-reliant |
-| **Dragonborn**         | Medium                       | 30 ft | Varies                   | Draconic heritage              | Breath weapon, damage resistance                              | Common + Draconic             | Adult at 15, ~80 years                   | Less common as adventurers (details not in this chapter)                  |
-| **Drow** (Elf subrace) | Medium                       | 30 ft | +2 DEX + subrace bonus   | Darkvision (superior)          | Sunlight sensitivity, innate spells                           | Common + Elvish + Undercommon | Adult at 100, ~750 years                 | Uncommon elf subrace (details not in this chapter)                        |
+
+### Races Breakdown
+
+#### Dragonborn
+
+**Ability Score Increase:** +2 Strength, +1 Charisma
+**Size:** Medium
+**Speed:** 30 feet
+**Languages:** Common, Draconic
+
+**Racial Traits:**
+- **Draconic Ancestry:** Choose a draconic ancestor that determines your breath weapon and damage resistance
+- **Breath Weapon:** 15-foot cone or 30-foot line, 2d6 damage (increases to 3d6 at 6th, 4d6 at 11th, 5d6 at 16th level), DEX save for half damage, once per short/long rest
+- **Damage Resistance:** Resistance to the damage type of your draconic ancestry
+- **Natural Armor:** 13 + DEX modifier when not wearing armor
+
+**Draconic Ancestry Options:**
+- **Black:** Acid damage, 30-foot line breath weapon
+- **Blue:** Lightning damage, 30-foot line breath weapon  
+- **Brass:** Fire damage, 30-foot line breath weapon
+- **Bronze:** Lightning damage, 30-foot line breath weapon
+- **Copper:** Acid damage, 30-foot line breath weapon
+- **Gold:** Fire damage, 15-foot cone breath weapon
+- **Green:** Poison damage, 15-foot cone breath weapon
+- **Red:** Fire damage, 15-foot cone breath weapon
+- **Silver:** Cold damage, 15-foot cone breath weapon
+- **White:** Cold damage, 15-foot cone breath weapon
+
+#### Dwarf
+
+**Ability Score Increase:** +2 Constitution
+**Size:** Medium  
+**Speed:** 25 feet
+**Languages:** Common, Dwarvish
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Dwarven Resilience:** Advantage on saving throws against poison, resistance to poison damage
+- **Dwarven Combat Training:** Proficiency with battleaxes, Hand axes, light hammers, and Warhammers
+- **Stone cunning:** Add double proficiency bonus to History checks related to stonework
+- **Tool Proficiency:** Proficiency with one set of artisan's tools
+
+**Subraces:**
+- **Hill Dwarf:** +1 Wisdom, +1 hit point per level, proficiency with herbalism kit
+- **Mountain Dwarf:** +2 Strength, proficiency with light and medium armor
+
+#### Elf
+
+**Ability Score Increase:** +2 Dexterity
+**Size:** Medium
+**Speed:** 30 feet  
+**Languages:** Common, Elvish
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Keen Senses:** Proficiency in Perception
+- **Fey Ancestry:** Advantage on saving throws against being charmed, magic can't put you to sleep
+- **Trance:** Don't need to sleep, meditate for 4 hours instead of 8-hour rest
+
+**Subraces:**
+- **High Elf:** +1 Intelligence, proficiency with longswords/short bows/longbows/short bows, one cantrip from wizard spell list, one extra language
+- **Wood Elf:** +1 Wisdom, proficiency with longswords/short bows/longbows/short bows, mask of the wild (hide in natural phenomena), move through difficult terrain without penalty
+- **Dark Elf (Drow):** +1 Charisma, superior Darkvision (120 feet), sunlight sensitivity, dancing lights cantrip, faerie fire and darkness spells
+
+#### Gnome
+
+**Ability Score Increase:** +2 Intelligence
+**Size:** Small
+**Speed:** 25 feet
+**Languages:** Common, Gnomish
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Gnome Cunning:** Advantage on Intelligence, Wisdom, and Charisma saving throws against magic
+
+**Subraces:**
+- **Forest Gnome:** +1 Dexterity, natural illusionist (minor illusion cantrip), speak with small beasts
+- **Rock Gnome:** +1 Constitution, artificer's lore (+2 to History checks on magic items/alchemical objects/technological devices), tinker ability
+
+#### Half-Elf
+
+**Ability Score Increase:** +2 Charisma, +1 to two other abilities of your choice
+**Size:** Medium
+**Speed:** 30 feet
+**Languages:** Common, Elvish, one extra language of your choice
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Fey Ancestry:** Advantage on saving throws against being charmed, magic can't put you to sleep
+- **Skill Versatility:** Proficiency in two skills of your choice
+
+#### Half-Orc
+
+**Ability Score Increase:** +2 Strength, +1 Constitution
+**Size:** Medium
+**Speed:** 30 feet
+**Languages:** Common, Orc
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Menacing:** Proficiency in Intimidation
+- **Relentless Endurance:** When dropped to 0 hit points but not killed, drop to 1 hit point instead (once per long rest)
+- **savage Attacks:** When you score a critical hit with a melee weapon, roll one additional weapon damage die
+
+#### Halfling
+
+**Ability Score Increase:** +2 Dexterity
+**Size:** Small
+**Speed:** 25 feet
+**Languages:** Common, Halfling
+
+**Racial Traits:**
+- **Lucky:** When you roll a 1 on d20 for attack roll, ability check, or saving throw, reroll and use new result
+- **Brave:** Advantage on saving throws against being frightened
+- **Halfling Nimbleness:** Move through space of any creature one size larger than you
+
+**Subraces:**
+- **Lightfoot Halfling:** +1 Charisma, naturally stealthy (hide behind creatures one size larger)
+- **Stout Halfling:** +1 Constitution, resistance to poison damage, advantage on saving throws against poison
+
+#### Human
+
+**Ability Score Increase:** +1 to all ability scores
+**Size:** Medium
+**Speed:** 30 feet
+**Languages:** Common, one extra language of your choice
+
+**Racial Traits:**
+- **Extra Skill:** Proficiency in one skill of your choice
+- **Versatile:** No specific racial traits, but the +1 to all abilities makes them adaptable to any class
+
+**Variant Human (Optional):**
+- **Ability Score Increase:** +1 to two different ability scores
+- **Extra Skill:** Proficiency in one skill of your choice
+- **Feat:** Gain one feat of your choice at 1st level
+
+#### Tiefling
+
+**Ability Score Increase:** +2 Charisma, +1 Intelligence
+**Size:** Medium
+**Speed:** 30 feet
+**Languages:** Common, Infernal
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Hellish Resistance:** Resistance to fire damage
+- **Infernal Legacy:** Know thaumaturgy cantrip, hellish rebuke at 3rd level, darkness at 5th level (once per long rest each, Charisma-based)
+
 ### Race Selection Guide
 
 > [!Info] Race Categories by Role 
@@ -59,12 +207,13 @@ It's worthwhile to consider why your character is different, as a helpful way to
 
 > [!Warning] Subraces Available 
 > Most races have subraces that modify their traits:
-> - **Dwarf:** Hill (+1 WIS, extra HP) or Mountain (+1 STR, armor proficiency)
-> - **Elf:** High (+1 INT, cantrip), Wood (+1 WIS, weapon training), or Drow (+1 CHA, extra spells)
-> - **Gnome:** Forest (+1 DEX, speak with animals) or Rock (+1 CON, tinker ability)
-> - **Halfling:** Lightfoot (+1 CHA, naturally stealthy) or Stout (+1 CON, poison resistance)
+> 
+> **Dwarf:** Hill (+1 WIS, extra HP) or Mountain (+1 STR, armor proficiency)
+> **Elf:** High (+1 INT, cantrip), Wood (+1 WIS, weapon training), or Drow (+1 CHA, extra spells)
+> **Gnome:** Forest (+1 DEX, speak with animals) or Rock (+1 CON, tinker ability)
+> **Halfling:** Lightfoot (+1 CHA, naturally stealthy) or Stout (+1 CON, poison resistance)
 
-> [!Success] Popular Race/Class Combinations 
+> [!Success] Popular Race & Class Combinations 
 > **Classic Combos:** Half-Orc Barbarian, Elf Ranger, Halfling Rogue, Human Fighter 
 > **Optimal Builds:** Tiefling Warlock, Dragonborn Paladin, Gnome Wizard, Half-Elf Bard 
 > **Unconventional Type:** Halfling Barbarian, Half-Orc Wizard (challenging but fun!)
@@ -159,22 +308,22 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|------------------|----------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st | +2 | Spellcasting, Bardic Inspiration (d6) | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | Jack of All Trades, Song of Rest (d6) | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | Bard College, Expertise | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | Bardic Inspiration (d8), Font of Inspiration | 3 | 8 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | Countercharm, Bard College feature | 3 | 9 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7th | +3 | — | 3 | 10 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | Ability Score Improvement | 3 | 11 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | Song of Rest (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | Bardic Inspiration (d10), Expertise, Magical Secrets | 4 | 14 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +4 | — | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | Ability Score Improvement | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | Song of Rest (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Magical Secrets, Bard College feature | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | Bardic Inspiration (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | Ability Score Improvement | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 1st | +2 | Spellcasting, Bardic Inspiration (d6) | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
+| 2nd | +2 | Jack of All Trades, Song of Rest (d6) | 2 | 5 | 3 | - | - | - | - | - | - | - | - |
+| 3rd | +2 | Bard College, Expertise | 2 | 6 | 4 | 2 | - | - | - | - | - | - | - |
+| 4th | +2 | Ability Score Improvement | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 5th | +3 | Bardic Inspiration (d8), Font of Inspiration | 3 | 8 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6th | +3 | Countercharm, Bard College feature | 3 | 9 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7th | +3 | - | 3 | 10 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8th | +3 | Ability Score Improvement | 3 | 11 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9th | +4 | Song of Rest (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10th | +4 | Bardic Inspiration (d10), Expertise, Magical Secrets | 4 | 14 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11th | +4 | - | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12th | +4 | Ability Score Improvement | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13th | +5 | Song of Rest (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14th | +5 | Magical Secrets, Bard College feature | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15th | +5 | Bardic Inspiration (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16th | +5 | Ability Score Improvement | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 17th | +6 | Song of Rest (d12) | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | Magical Secrets | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
@@ -206,28 +355,28 @@ On a new page, can you write me up a level table for each class with their respe
 - Saving Throws: Wisdom, Charisma
 - Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion
 
-| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|------------------|----------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st | +2 | Spellcasting, Divine Domain | 3 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | Channel Divinity (1/rest), Divine Domain feature | 3 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | — | 3 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | Destroy Undead (CR 1/2) | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | Channel Divinity (2/rest), Divine Domain feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | Divine Intervention | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +4 | Destroy Undead (CR 2) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Destroy Undead (CR 3) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17th | +6 | Destroy Undead (CR 4), Divine Domain feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18th | +6 | Channel Divinity (3/rest) | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20th | +6 | Divine Intervention improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | Proficiency Bonus | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ----- | ----------------- | ----------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | +2                | Spellcasting, Divine Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | Channel Divinity (1/rest), Divine Domain feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3rd   | +2                | -                                                                       | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | Ability Score Improvement                                               | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | Destroy Undead (CR 1/2)                                                 | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | Channel Divinity (2/rest), Divine Domain feature                        | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7th   | +3                | -                                                                       | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8th   | +3                | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9th   | +4                | -                                                                       | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10th  | +4                | Divine Intervention                                                     | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | Destroy Undead (CR 2)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13th  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | Destroy Undead (CR 3)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15th  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16th  | +5                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | Destroy Undead (CR 4), Divine Domain feature                            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | Channel Divinity (3/rest)                                               | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | Ability Score Improvement                                               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | Divine Intervention improvement                                         | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 **Class Features:**
 - **Spellcasting:** Wisdom-based, ritual casting, prepare spells equal to WIS mod + cleric level (minimum 1)
@@ -253,23 +402,23 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|------------------|----------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st | +2 | Druidcraft, Spellcasting | 2 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | Wild Shape, Druid Circle | 2 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | — | 2 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | — | 3 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | Druid Circle feature | 3 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7th | +3 | — | 3 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | — | 3 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +4 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17th | +6 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 1st | +2 | Druidcraft, Spellcasting | 2 | 2 | - | - | - | - | - | - | - | - |
+| 2nd | +2 | Wild Shape, Druid Circle | 2 | 3 | - | - | - | - | - | - | - | - |
+| 3rd | +2 | - | 2 | 4 | 2 | - | - | - | - | - | - | - |
+| 4th | +2 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | - | - | - | - | - | - | - |
+| 5th | +3 | - | 3 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6th | +3 | Druid Circle feature | 3 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7th | +3 | - | 3 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8th | +3 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9th | +4 | - | 3 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10th | +4 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11th | +4 | - | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12th | +4 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13th | +5 | - | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14th | +5 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15th | +5 | - | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16th | +5 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17th | +6 | - | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | Timeless Body, Beast Spells | 4 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Archdruid | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
@@ -357,7 +506,7 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | Martial Arts | Ki Points | Unarmored Movement |
 |-------|------------------|----------|--------------|-----------|-------------------|
-| 1st | +2 | Unarmored Defense, Martial Arts | 1d4 | — | — |
+| 1st | +2 | Unarmored Defense, Martial Arts | 1d4 | - | - |
 | 2nd | +2 | Ki, Unarmored Movement | 1d4 | 2 | +10 ft. |
 | 3rd | +2 | Monastic Tradition, Deflect Missiles | 1d4 | 3 | +10 ft. |
 | 4th | +2 | Ability Score Improvement, Slow Fall | 1d4 | 4 | +10 ft. |
@@ -417,23 +566,23 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | 1st | 2nd | 3rd | 4th | 5th |
 |-------|------------------|----------|-----|-----|-----|-----|-----|
-| 1st | +2 | Divine Sense, Lay on Hands | — | — | — | — | — |
-| 2nd | +2 | Fighting Style, Spellcasting, Divine Smite | 2 | — | — | — | — |
-| 3rd | +2 | Divine Health, Sacred Oath | 3 | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 3 | — | — | — | — |
-| 5th | +3 | Extra Attack | 4 | 2 | — | — | — |
-| 6th | +3 | Aura of Protection | 4 | 2 | — | — | — |
-| 7th | +3 | Sacred Oath feature | 4 | 3 | — | — | — |
-| 8th | +3 | Ability Score Improvement | 4 | 3 | — | — | — |
-| 9th | +4 | — | 4 | 3 | 2 | — | — |
-| 10th | +4 | Aura of Courage | 4 | 3 | 2 | — | — |
-| 11th | +4 | Improved Divine Smite | 4 | 3 | 3 | — | — |
-| 12th | +4 | Ability Score Improvement | 4 | 3 | 3 | — | — |
-| 13th | +5 | — | 4 | 3 | 3 | 1 | — |
-| 14th | +5 | Cleansing Touch | 4 | 3 | 3 | 1 | — |
-| 15th | +5 | Sacred Oath feature | 4 | 3 | 3 | 2 | — |
-| 16th | +5 | Ability Score Improvement | 4 | 3 | 3 | 2 | — |
-| 17th | +6 | — | 4 | 3 | 3 | 3 | 1 |
+| 1st | +2 | Divine Sense, Lay on Hands | - | - | - | - | - |
+| 2nd | +2 | Fighting Style, Spellcasting, Divine Smite | 2 | - | - | - | - |
+| 3rd | +2 | Divine Health, Sacred Oath | 3 | - | - | - | - |
+| 4th | +2 | Ability Score Improvement | 3 | - | - | - | - |
+| 5th | +3 | Extra Attack | 4 | 2 | - | - | - |
+| 6th | +3 | Aura of Protection | 4 | 2 | - | - | - |
+| 7th | +3 | Sacred Oath feature | 4 | 3 | - | - | - |
+| 8th | +3 | Ability Score Improvement | 4 | 3 | - | - | - |
+| 9th | +4 | - | 4 | 3 | 2 | - | - |
+| 10th | +4 | Aura of Courage | 4 | 3 | 2 | - | - |
+| 11th | +4 | Improved Divine Smite | 4 | 3 | 3 | - | - |
+| 12th | +4 | Ability Score Improvement | 4 | 3 | 3 | - | - |
+| 13th | +5 | - | 4 | 3 | 3 | 1 | - |
+| 14th | +5 | Cleansing Touch | 4 | 3 | 3 | 1 | - |
+| 15th | +5 | Sacred Oath feature | 4 | 3 | 3 | 2 | - |
+| 16th | +5 | Ability Score Improvement | 4 | 3 | 3 | 2 | - |
+| 17th | +6 | - | 4 | 3 | 3 | 3 | 1 |
 | 18th | +6 | Aura improvements | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Sacred Oath feature | 4 | 3 | 3 | 3 | 2 |
@@ -475,23 +624,23 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 |-------|------------------|----------|--------------|-----|-----|-----|-----|-----|
-| 1st | +2 | Favored Enemy, Natural Explorer | — | — | — | — | — | — |
-| 2nd | +2 | Fighting Style, Spellcasting | 2 | 2 | — | — | — | — |
-| 3rd | +2 | Ranger Archetype, Primeval Awareness | 3 | 3 | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 3 | 3 | — | — | — | — |
-| 5th | +3 | Extra Attack | 4 | 4 | 2 | — | — | — |
-| 6th | +3 | Favored Enemy and Natural Explorer improvements | 4 | 4 | 2 | — | — | — |
-| 7th | +3 | Ranger Archetype feature | 5 | 4 | 3 | — | — | — |
-| 8th | +3 | Ability Score Improvement, Land's Stride | 5 | 4 | 3 | — | — | — |
-| 9th | +4 | — | 6 | 4 | 3 | 2 | — | — |
-| 10th | +4 | Natural Explorer improvement, Hide in Plain Sight | 6 | 4 | 3 | 2 | — | — |
-| 11th | +4 | Ranger Archetype feature | 7 | 4 | 3 | 3 | — | — |
-| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | — | — |
-| 13th | +5 | — | 8 | 4 | 3 | 3 | 1 | — |
-| 14th | +5 | Favored Enemy improvement, Vanish | 8 | 4 | 3 | 3 | 1 | — |
-| 15th | +5 | Ranger Archetype feature | 9 | 4 | 3 | 3 | 2 | — |
-| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | — |
-| 17th | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 |
+| 1st | +2 | Favored Enemy, Natural Explorer | - | - | - | - | - | - |
+| 2nd | +2 | Fighting Style, Spellcasting | 2 | 2 | - | - | - | - |
+| 3rd | +2 | Ranger Archetype, Primeval Awareness | 3 | 3 | - | - | - | - |
+| 4th | +2 | Ability Score Improvement | 3 | 3 | - | - | - | - |
+| 5th | +3 | Extra Attack | 4 | 4 | 2 | - | - | - |
+| 6th | +3 | Favored Enemy and Natural Explorer improvements | 4 | 4 | 2 | - | - | - |
+| 7th | +3 | Ranger Archetype feature | 5 | 4 | 3 | - | - | - |
+| 8th | +3 | Ability Score Improvement, Land's Stride | 5 | 4 | 3 | - | - | - |
+| 9th | +4 | - | 6 | 4 | 3 | 2 | - | - |
+| 10th | +4 | Natural Explorer improvement, Hide in Plain Sight | 6 | 4 | 3 | 2 | - | - |
+| 11th | +4 | Ranger Archetype feature | 7 | 4 | 3 | 3 | - | - |
+| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | - | - |
+| 13th | +5 | - | 8 | 4 | 3 | 3 | 1 | - |
+| 14th | +5 | Favored Enemy improvement, Vanish | 8 | 4 | 3 | 3 | 1 | - |
+| 15th | +5 | Ranger Archetype feature | 9 | 4 | 3 | 3 | 2 | - |
+| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | - |
+| 17th | +6 | - | 10 | 4 | 3 | 3 | 3 | 1 |
 | 18th | +6 | Feral Senses | 10 | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
@@ -586,22 +735,22 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | Sorcery Points | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|------------------|----------|----------------|--------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st | +2 | Spellcasting, Sorcerous Origin | 4 | 2 | — | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | Font of Magic | 4 | 3 | 2 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | Metamagic | 4 | 4 | 3 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 5 | 5 | 4 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | — | 5 | 6 | 5 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | Sorcerous Origin feature | 5 | 7 | 6 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7th | +3 | — | 5 | 8 | 7 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | Ability Score Improvement | 5 | 9 | 8 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | — | 5 | 10 | 9 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | Metamagic | 6 | 11 | 10 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +4 | — | 6 | 12 | 11 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | Ability Score Improvement | 6 | 12 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | — | 6 | 13 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Sorcerous Origin feature | 6 | 13 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | — | 6 | 14 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | Ability Score Improvement | 6 | 14 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 1st | +2 | Spellcasting, Sorcerous Origin | 4 | 2 | - | 2 | - | - | - | - | - | - | - | - |
+| 2nd | +2 | Font of Magic | 4 | 3 | 2 | 3 | - | - | - | - | - | - | - | - |
+| 3rd | +2 | Metamagic | 4 | 4 | 3 | 4 | 2 | - | - | - | - | - | - | - |
+| 4th | +2 | Ability Score Improvement | 5 | 5 | 4 | 4 | 3 | - | - | - | - | - | - | - |
+| 5th | +3 | - | 5 | 6 | 5 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6th | +3 | Sorcerous Origin feature | 5 | 7 | 6 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7th | +3 | - | 5 | 8 | 7 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8th | +3 | Ability Score Improvement | 5 | 9 | 8 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9th | +4 | - | 5 | 10 | 9 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10th | +4 | Metamagic | 6 | 11 | 10 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11th | +4 | - | 6 | 12 | 11 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12th | +4 | Ability Score Improvement | 6 | 12 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13th | +5 | - | 6 | 13 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14th | +5 | Sorcerous Origin feature | 6 | 13 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15th | +5 | - | 6 | 14 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16th | +5 | Ability Score Improvement | 6 | 14 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 17th | +6 | Metamagic | 6 | 15 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | Sorcerous Origin feature | 6 | 15 | 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 6 | 15 | 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
@@ -642,15 +791,15 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
 |-------|------------------|----------|----------------|--------------|-------------|------------|-------------------|
-| 1st | +2 | Otherworldly Patron, Pact Magic | 2 | 2 | 1 | 1st | — |
+| 1st | +2 | Otherworldly Patron, Pact Magic | 2 | 2 | 1 | 1st | - |
 | 2nd | +2 | Eldritch Invocations | 2 | 3 | 2 | 1st | 2 |
 | 3rd | +2 | Pact Boon | 2 | 4 | 2 | 2nd | 2 |
 | 4th | +2 | Ability Score Improvement | 3 | 5 | 2 | 2nd | 2 |
-| 5th | +3 | — | 3 | 6 | 2 | 3rd | 3 |
+| 5th | +3 | - | 3 | 6 | 2 | 3rd | 3 |
 | 6th | +3 | Otherworldly Patron feature | 3 | 7 | 2 | 3rd | 3 |
-| 7th | +3 | — | 3 | 8 | 2 | 4th | 4 |
+| 7th | +3 | - | 3 | 8 | 2 | 4th | 4 |
 | 8th | +3 | Ability Score Improvement | 3 | 9 | 2 | 4th | 4 |
-| 9th | +4 | — | 3 | 10 | 2 | 5th | 5 |
+| 9th | +4 | - | 3 | 10 | 2 | 5th | 5 |
 | 10th | +4 | Otherworldly Patron feature | 4 | 10 | 2 | 5th | 5 |
 | 11th | +4 | Mystic Arcanum (6th level) | 4 | 11 | 3 | 5th | 5 |
 | 12th | +4 | Ability Score Improvement | 4 | 11 | 3 | 5th | 6 |
@@ -659,7 +808,7 @@ On a new page, can you write me up a level table for each class with their respe
 | 15th | +5 | Mystic Arcanum (8th level) | 4 | 13 | 3 | 5th | 7 |
 | 16th | +5 | Ability Score Improvement | 4 | 13 | 3 | 5th | 7 |
 | 17th | +6 | Mystic Arcanum (9th level) | 4 | 14 | 4 | 5th | 7 |
-| 18th | +6 | — | 4 | 14 | 4 | 5th | 8 |
+| 18th | +6 | - | 4 | 14 | 4 | 5th | 8 |
 | 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 5th | 8 |
 | 20th | +6 | Eldritch Master | 4 | 15 | 4 | 5th | 8 |
 
@@ -709,23 +858,23 @@ On a new page, can you write me up a level table for each class with their respe
 
 | Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|------------------|----------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st | +2 | Spellcasting, Arcane Recovery | 3 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | Arcane Tradition | 3 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | — | 3 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | — | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | Arcane Tradition feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | Ability Score Improvement | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +4 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17th | +6 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 1st | +2 | Spellcasting, Arcane Recovery | 3 | 2 | - | - | - | - | - | - | - | - |
+| 2nd | +2 | Arcane Tradition | 3 | 3 | - | - | - | - | - | - | - | - |
+| 3rd | +2 | - | 3 | 4 | 2 | - | - | - | - | - | - | - |
+| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | - | - | - | - | - | - | - |
+| 5th | +3 | - | 4 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6th | +3 | Arcane Tradition feature | 4 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7th | +3 | - | 4 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8th | +3 | Ability Score Improvement | 4 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9th | +4 | - | 4 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10th | +4 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11th | +4 | - | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13th | +5 | - | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14th | +5 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15th | +5 | - | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17th | +6 | - | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | Spell Mastery | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Signature Spells | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
@@ -757,18 +906,20 @@ On a new page, can you write me up a level table for each class with their respe
 
 > [!Note] First Level Hit Points 
 > **Hit Points at 1st Level:** Hit Die maximum + Constitution modifier
-> - Barbarian: 12 + CON modifier
-> - Fighter/Paladin/Ranger: 10 + CON modifier
-> - Bard/Cleric/Druid/Monk/Rogue/Warlock: 8 + CON modifier
-> - Sorcerer/Wizard: 6 + CON modifier
+> 
+> **Barbarian:** 12 + CON modifier
+> **Fighter/Paladin/Ranger:** 10 + CON modifier
+> **Bard/Cleric/Druid/Monk/Rogue/Warlock:** 8 + CON modifier
+> **Sorcerer/Wizard:** 6 + CON modifier
 
 > [!Warning] Spellcasting Classes 
 >Classes marked as spellcasters gain spells at 1st level: 
-> - **Bard, Cleric, Druid, Sorcerer, Wizard:** Full spellcasters from level 1
-> - **Warlock:** Pact magic from level 1
-> - **Paladin, Ranger:** Spellcasting begins at level 2
+>
+>**Bard, Cleric, Druid, Sorcerer, Wizard:** Full spellcasters from level 1
+>**Warlock:** Pact magic from level 1
+>**Paladin, Ranger:** Spellcasting begins at level 2
 
-## Story
+## Character Story
 [[DnD PHB 5e Chapter 4.pdf|Personality & Background]]
 
 ### Personality
@@ -895,21 +1046,169 @@ Your personality is built from four elements that work together to create a uniq
 > - **Starting Equipment Package**
 > - **Special Feature** (unique ability or social connection)
 
-> [!Note] Random Background Selection 
-> Don't know what to choose? 
+> [!Note] Don't know what to choose? 
 > Roll a d12: 
-> - 1-Acolyte 
-> - 2-Charlatan
-> - 3-Criminal
-> - 4-Entertainer
-> - 5-Folk Hero
-> - 6-Guild Artisan
-> - 7-Hermit
-> - 8-Noble
-> - 9-Outlander
-> - 10-Sage
-> - 11-Sailor
-> - 12-Soldier
+> 
+> **1** - Acolyte 
+> **2** - Charlatan
+> **3** - Criminal
+> **4** - Entertainer
+> **5** - Folk Hero
+> **6** - Guild Artisan
+> **7** - Hermit
+> **8** - Noble
+> **9** - Outlander
+> **10** - Sage
+> **11** - Sailor
+> **12** - Soldier
+
+#### Background Breakdown
+
+##### Acolyte
+
+**Skill Proficiencies:** Insight, Religion
+**Languages:** Two of your choice
+**Equipment:** Holy symbol, prayer book/prayer wheel, 5 sticks of incense, vestments, common clothes, belt pouch with 15 GP
+
+**Feature - Shelter of the Faithful:** You and your companions can receive free healing and care at temples, shrines, and other religious establishments of your faith. Faithful of your religion will support you (but only you) at a modest lifestyle.
+
+**Suggested Characteristics:** 
+- **Personality:** Devoted, contemplative, perhaps naive about the world outside religious settings
+- **Ideals:** Faith, tradition, charity, greater good, change, might, aspiration, self-knowledge
+- **Bonds:** Temple/faith, religious mentor, sacred text, fellow religious members
+- **Flaws:** Judges others harshly, puts too much trust in hierarchy, rigid thinking, secret doubt
+
+##### Criminal
+
+**Skill Proficiencies:** Deception, Stealth
+**Tool Proficiencies:** One type of gaming set, thieves' tools
+**Equipment:** Crowbar, dark common clothes with hood, belt pouch with 15 GP
+
+**Feature - Criminal Contact:** You have a reliable contact who acts as your liaison to other criminals. You know how to get messages to your contact over great distances and they can provide information about local criminal activities.
+
+**Criminal Specialties:** Blackmailer, burglar, enforcer, fence, highway robber, hired killer, pickpocket, smuggler
+
+**Suggested Characteristics:**
+- **Personality:** Secretive, distrustful, or surprisingly loyal to criminal code
+- **Ideals:** Honor among thieves, freedom, charity, greed, people-focused, redemption
+- **Bonds:** Criminal mentor, criminal organization, victims of a past crime, family
+- **Flaws:** Quick to violence, enemy from past, addiction, paranoia
+
+##### Folk Hero
+
+**Skill Proficiencies:** Animal Handling, Survival
+**Tool Proficiencies:** One type of artisan's tools, vehicles (land)
+**Equipment:** Artisan's tools, shovel, set of artisan's clothes, belt pouch with 10 GP
+
+**Feature - Rustic Hospitality:** Common folk shelter, hide, and help you as long as you don't show yourself to be a danger. They'll shield you from law or others searching for you, though they won't risk their lives.
+
+**Defining Events:** Stood up to tyrant, saved people during disaster, worked alone against terrible monster, stole from corrupt merchant, built something important, survived natural disaster
+
+**Suggested Characteristics:**
+- **Personality:** Humble origins, practical, straightforward, protective of others
+- **Ideals:** Respect, fairness, freedom, might, sincerity, destiny
+- **Bonds:** Hometown, family, mentor figure, homeland, people you saved
+- **Flaws:** Tyrant who still rules, family troubles, haunted by past, quick temper
+
+##### Noble
+
+**Skill Proficiencies:** History, Persuasion
+**Tool Proficiencies:** One type of gaming set
+**Languages:** One of your choice
+**Equipment:** Signet ring, scroll of pedigree, fine clothes, belt pouch with 25 GP
+
+**Feature - Position of Privilege:** People assume you have the right to be wherever you are. Common folk make efforts to accommodate you, and people of high standing treat you as one of them. You can secure an audience with local nobles.
+
+**Suggested Characteristics:**
+- **Personality:** Haughty, duty-bound, or surprisingly down-to-earth
+- **Ideals:** Respect, responsibility, noble obligation, might, family, power
+- **Bonds:** Family, noble house, people you're responsible for, order/organization
+- **Flaws:** Hidden shameful family fact, deposed from position, ruthlessly ambitious
+
+##### Sage
+
+**Skill Proficiencies:** Arcana, History
+**Languages:** Two of your choice
+**Equipment:** Bottle of black ink, quill, small knife, letter from colleague, common clothes, belt pouch with 10 GP
+
+**Feature - Researcher:** When you don't know information, you know where to find it - libraries, scriptoriums, universities, sages, or other learned persons. Your DM might rule that knowledge is secretive, dangerous, or beyond your reach.
+
+**Specialties:** Alchemist, astronomer, discredited academic, librarian, professor, researcher, wizard's apprentice, scribe
+
+**Suggested Characteristics:**
+- **Personality:** Analytical, absent-minded, speaks in obscure references, pedantic
+- **Ideals:** Knowledge, beauty, logic, self-improvement, greater good, power
+- **Bonds:** Life's work, library/university, mentor, student, research subject
+- **Flaws:** Easily distracted, speaks without thinking, unlocks dangerous secrets
+
+##### Soldier
+
+**Skill Proficiencies:** Athletics, Intimidation
+**Tool Proficiencies:** One type of gaming set, vehicles (land)
+**Equipment:** Insignia of rank, trophy from fallen enemy, deck of cards, common clothes, belt pouch with 10 GP
+
+**Feature - Military Rank:** You have military rank from your career. Soldiers loyal to your former organization still recognize your authority and will defer to you if they're lower rank. You can invoke rank to influence other soldiers and gain access to fortresses, military camps, and fortifications.
+
+**Specialties:** Officer, scout, infantry, cavalry, healer, quartermaster, standard bearer, support staff
+
+**Suggested Characteristics:**
+- **Personality:** Disciplined, direct, protective of others, haunted by war
+- **Ideals:** Greater good, responsibility, might, live and let live, nation, aspiration
+- **Bonds:** Comrades, homeland, mentor, unit/company, fallen comrades
+- **Flaws:** Haunted by horrors of war, rigid thinking, made terrible mistake, enemy
+
+##### Guild Artisan
+
+**Skill Proficiencies:** Insight, Persuasion
+**Tool Proficiencies:** One type of artisan's tools
+**Languages:** One of your choice
+**Equipment:** Artisan's tools, letter of introduction from guild, traveler's clothes, belt pouch with 15 GP
+
+**Feature - Guild Membership:** Your guild will provide lodging and meals as long as you pay guild dues (5 GP per month). Guild has political power and your membership grants certain legal protections. Guild will pay for funeral and support your family if you die.
+
+**Guild Business:** Alchemists, armorers, brewers, calligraphers, carpenters, cartographers, cobblers, cooks, glassblowers, jewelers, leatherworkers, masons, painters, potters, shipwrights, smiths, tinkers, wagon-makers, weavers
+
+##### Hermit
+
+**Skill Proficiencies:** Medicine, Religion
+**Tool Proficiencies:** Herbalism kit
+**Languages:** One of your choice
+**Equipment:** Herbalism kit, scroll case with spiritual writings, winter blanket, common clothes, belt pouch with 5 GP
+
+**Feature - Discovery:** Your isolation gave you access to unique and powerful discovery - great truth about cosmos, nature, gods, powerful beings, or forces of planes. Work with DM to determine details of your discovery and its impact.
+
+**Life of Seclusion:** Searching for spiritual enlightenment, communing with nature, exile for crime, retreat from society due to loss, pilgrimage, caretaker of ancient ruin
+
+##### Entertainer
+
+**Skill Proficiencies:** Acrobatics, Performance
+**Tool Proficiencies:** Disguise kit, one type of musical instrument
+**Equipment:** Musical instrument, letter of admiration, costume, belt pouch with 15 GP
+
+**Feature - By Popular Demand:** You can perform in taverns, inns, circuses, courts, and other venues for lodging and food. Your performances make you well-known in area and strangers recognize you.
+
+**Routines:** Actor, dancer, fire-eater, jester, juggler, instrumentalist, poet, singer, storyteller, tumbler
+
+##### Charlatan
+
+**Skill Proficiencies:** Deception, Sleight of Hand
+**Tool Proficiencies:** Forgery kit, disguise kit
+**Equipment:** Forgery kit, disguise kit, signet ring of imaginary person, 10 stoppered bottles filled with colored liquid, fine clothes, belt pouch with 15 GP
+
+**Feature - False Identity:** You have created a second identity with documentation, established acquaintances, and disguises. You can forge documents including official papers and personal letters if you've seen examples.
+
+**Favorite Schemes:** Cheat at games, shave coins, counterfeit money, forge documents, sell fake magic items, pose as noble
+
+##### Outlander
+
+**Skill Proficiencies:** Athletics, Survival
+**Tool Proficiencies:** One type of musical instrument
+**Languages:** One of your choice
+**Equipment:** Staff, hunting trap, traveler's clothes, belt pouch with 10 GP
+
+**Feature - Wanderer:** You have excellent memory for maps and geography. You can find food and shelter in wilderness for yourself and up to 5 other people each day, provided the land offers berries, small game, water, and so forth.
+
+**Origin:** Forester, trapper, homesteader, guide, exile, bounty hunter, pilgrim, tribal nomad, hunter-gatherer, tribal marauder
 
 ## Equipment
 [[DnD PHB 5e Chapter 5.pdf|Equipment]]
@@ -918,188 +1217,188 @@ Your personality is built from four elements that work together to create a uniq
 
 |**Class**|**Starting Gold**|
 |---|---|
-|Barbarian|2d4 × 10 gp|
-|Bard|5d4 × 10 gp|
-|Cleric|5d4 × 10 gp|
-|Druid|2d4 × 10 gp|
-|Fighter|5d4 × 10 gp|
-|Monk|5d4 gp|
-|Paladin|5d4 × 10 gp|
-|Ranger|5d4 × 10 gp|
-|Rogue|4d4 × 10 gp|
-|Sorcerer|3d4 × 10 gp|
-|Warlock|4d4 × 10 gp|
-|Wizard|4d4 × 10 gp|
+|Barbarian|2d4 × 10 GP|
+|Bard|5d4 × 10 GP|
+|Cleric|5d4 × 10 GP|
+|Druid|2d4 × 10 GP|
+|Fighter|5d4 × 10 GP|
+|Monk|5d4 GP|
+|Paladin|5d4 × 10 GP|
+|Ranger|5d4 × 10 GP|
+|Rogue|4d4 × 10 GP|
+|Sorcerer|3d4 × 10 GP|
+|Warlock|4d4 × 10 GP|
+|Wizard|4d4 × 10 GP|
 
 ### Armor Table
 
 |**Armor**|**Cost**|**Armor Class (AC)**|**Strength**|**Stealth**|**Weight**|
 |---|---|---|---|---|---|
 |**Light Armor**||||||
-|Padded|5 gp|11 + DEX modifier|—|Disadvantage|8 lb.|
-|Leather|10 gp|11 + DEX modifier|—|—|10 lb.|
-|Studded leather|45 gp|12 + DEX modifier|—|—|13 lb.|
+|Padded|5 GP|11 + DEX modifier|-|Disadvantage|8 lb.|
+|Leather|10 GP|11 + DEX modifier|-|-|10 lb.|
+|Studded leather|45 GP|12 + DEX modifier|-|-|13 lb.|
 |**Medium Armor**||||||
-|Hide|10 gp|12 + DEX modifier (max 2)|—|—|12 lb.|
-|Chain shirt|50 gp|13 + DEX modifier (max 2)|—|—|20 lb.|
-|Scale mail|50 gp|14 + DEX modifier (max 2)|—|Disadvantage|45 lb.|
-|Breastplate|400 gp|14 + DEX modifier (max 2)|—|—|20 lb.|
-|Half plate|750 gp|15 + DEX modifier (max 2)|—|Disadvantage|40 lb.|
+|Hide|10 GP|12 + DEX modifier (max 2)|-|-|12 lb.|
+|Chain shirt|50 GP|13 + DEX modifier (max 2)|-|-|20 lb.|
+|Scale mail|50 GP|14 + DEX modifier (max 2)|-|Disadvantage|45 lb.|
+|Breastplate|400 GP|14 + DEX modifier (max 2)|-|-|20 lb.|
+|Half plate|750 GP|15 + DEX modifier (max 2)|-|Disadvantage|40 lb.|
 |**Heavy Armor**||||||
-|Ring mail|30 gp|14|—|Disadvantage|40 lb.|
-|Chain mail|75 gp|16|STR 13|Disadvantage|55 lb.|
-|Splint|200 gp|17|STR 15|Disadvantage|60 lb.|
-|Plate|1,500 gp|18|STR 15|Disadvantage|65 lb.|
+|Ring mail|30 GP|14|-|Disadvantage|40 lb.|
+|Chain mail|75 GP|16|STR 13|Disadvantage|55 lb.|
+|Splint|200 GP|17|STR 15|Disadvantage|60 lb.|
+|Plate|1,500 GP|18|STR 15|Disadvantage|65 lb.|
 |**Shield**||||||
-|Shield|10 gp|+2|—|—|6 lb.|
+|Shield|10 GP|+2|-|-|6 lb.|
 
 ### Weapons Table
 
 #### Simple Melee Weapons
 
-|**Name**|**Cost**|**Damage**|**Weight**|**Properties**|
-|---|---|---|---|---|
-|Club|1 sp|1d4 bludgeoning|2 lb.|Light|
-|Dagger|2 gp|1d4 piercing|1 lb.|Finesse, light, thrown (range 20/60)|
-|Greatclub|2 sp|1d8 bludgeoning|10 lb.|Two-handed|
-|Handaxe|5 gp|1d6 slashing|2 lb.|Light, thrown (range 20/60)|
-|Javelin|5 sp|1d6 piercing|2 lb.|Thrown (range 30/120)|
-|Light hammer|2 gp|1d4 bludgeoning|2 lb.|Light, thrown (range 20/60)|
-|Mace|5 gp|1d6 bludgeoning|4 lb.|—|
-|Quarterstaff|2 sp|1d6 bludgeoning|4 lb.|Versatile (1d8)|
-|Sickle|1 gp|1d4 slashing|2 lb.|Light|
-|Spear|1 gp|1d6 piercing|3 lb.|Thrown (range 20/60), versatile (1d8)|
+| **Name**     | **Cost** | **Damage**      | **Weight** | **Properties**                        |
+| ------------ | -------- | --------------- | ---------- | ------------------------------------- |
+| Club         | 1 SP     | 1d4 bludgeoning | 2 lb.      | Light                                 |
+| Dagger       | 2 GP     | 1d4 piercing    | 1 lb.      | Finesse, light, thrown (range 20/60)  |
+| Greatclub    | 2 SP     | 1d8 bludgeoning | 10 lb.     | Two-handed                            |
+| Handaxe      | 5 GP     | 1d6 slashing    | 2 lb.      | Light, thrown (range 20/60)           |
+| Javelin      | 5 SP     | 1d6 piercing    | 2 lb.      | Thrown (range 30/120)                 |
+| Light hammer | 2 GP     | 1d4 bludgeoning | 2 lb.      | Light, thrown (range 20/60)           |
+| Mace         | 5 GP     | 1d6 bludgeoning | 4 lb.      | -                                     |
+| Quarterstaff | 2 SP     | 1d6 bludgeoning | 4 lb.      | Versatile (1d8)                       |
+| Sickle       | 1 GP     | 1d4 slashing    | 2 lb.      | Light                                 |
+| Spear        | 1 GP     | 1d6 piercing    | 3 lb.      | Thrown (range 20/60), versatile (1d8) |
 
 #### Simple Ranged Weapons
 
 |**Name**|**Cost**|**Damage**|**Weight**|**Properties**|
 |---|---|---|---|---|
-|Crossbow, light|25 gp|1d8 piercing|5 lb.|Ammunition (range 80/320), loading, two-handed|
-|Dart|5 cp|1d4 piercing|1/4 lb.|Finesse, thrown (range 20/60)|
-|Shortbow|25 gp|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed|
-|Sling|1 sp|1d4 bludgeoning|—|Ammunition (range 30/120)|
+|Crossbow, light|25 GP|1d8 piercing|5 lb.|Ammunition (range 80/320), loading, two-handed|
+|Dart|5 CP|1d4 piercing|1/4 lb.|Finesse, thrown (range 20/60)|
+|Shortbow|25 GP|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed|
+|Sling|1 SP|1d4 bludgeoning|-|Ammunition (range 30/120)|
 
 #### Martial Melee Weapons
 
 |**Name**|**Cost**|**Damage**|**Weight**|**Properties**|
 |---|---|---|---|---|
-|Battleaxe|10 gp|1d8 slashing|4 lb.|Versatile (1d10)|
-|Flail|10 gp|1d8 bludgeoning|2 lb.|—|
-|Glaive|20 gp|1d10 slashing|6 lb.|Heavy, reach, two-handed|
-|Greataxe|30 gp|1d12 slashing|7 lb.|Heavy, two-handed|
-|Greatsword|50 gp|2d6 slashing|6 lb.|Heavy, two-handed|
-|Halberd|20 gp|1d10 slashing|6 lb.|Heavy, reach, two-handed|
-|Lance|10 gp|1d12 piercing|6 lb.|Reach, special|
-|Longsword|15 gp|1d8 slashing|3 lb.|Versatile (1d10)|
-|Maul|10 gp|2d6 bludgeoning|10 lb.|Heavy, two-handed|
-|Morningstar|15 gp|1d8 piercing|4 lb.|—|
-|Pike|5 gp|1d10 piercing|18 lb.|Heavy, reach, two-handed|
-|Rapier|25 gp|1d8 piercing|2 lb.|Finesse|
-|Scimitar|25 gp|1d6 slashing|3 lb.|Finesse, light|
-|Shortsword|10 gp|1d6 piercing|2 lb.|Finesse, light|
-|Trident|5 gp|1d6 piercing|4 lb.|Thrown (range 20/60), versatile (1d8)|
-|War pick|5 gp|1d8 piercing|2 lb.|—|
-|Warhammer|15 gp|1d8 bludgeoning|2 lb.|Versatile (1d10)|
-|Whip|2 gp|1d4 slashing|3 lb.|Finesse, reach|
+|Battleaxe|10 GP|1d8 slashing|4 lb.|Versatile (1d10)|
+|Flail|10 GP|1d8 bludgeoning|2 lb.|-|
+|Glaive|20 GP|1d10 slashing|6 lb.|Heavy, reach, two-handed|
+|Greataxe|30 GP|1d12 slashing|7 lb.|Heavy, two-handed|
+|Greatsword|50 GP|2d6 slashing|6 lb.|Heavy, two-handed|
+|Halberd|20 GP|1d10 slashing|6 lb.|Heavy, reach, two-handed|
+|Lance|10 GP|1d12 piercing|6 lb.|Reach, special|
+|Longsword|15 GP|1d8 slashing|3 lb.|Versatile (1d10)|
+|Maul|10 GP|2d6 bludgeoning|10 lb.|Heavy, two-handed|
+|Morningstar|15 GP|1d8 piercing|4 lb.|-|
+|Pike|5 GP|1d10 piercing|18 lb.|Heavy, reach, two-handed|
+|Rapier|25 GP|1d8 piercing|2 lb.|Finesse|
+|Scimitar|25 GP|1d6 slashing|3 lb.|Finesse, light|
+|Shortsword|10 GP|1d6 piercing|2 lb.|Finesse, light|
+|Trident|5 GP|1d6 piercing|4 lb.|Thrown (range 20/60), versatile (1d8)|
+|War pick|5 GP|1d8 piercing|2 lb.|-|
+|Warhammer|15 GP|1d8 bludgeoning|2 lb.|Versatile (1d10)|
+|Whip|2 GP|1d4 slashing|3 lb.|Finesse, reach|
 
 #### Martial Ranged Weapons
 
 |**Name**|**Cost**|**Damage**|**Weight**|**Properties**|
 |---|---|---|---|---|
-|Blowgun|10 gp|1 piercing|1 lb.|Ammunition (range 25/100), loading|
-|Crossbow, hand|75 gp|1d6 piercing|3 lb.|Ammunition (range 30/120), light, loading|
-|Crossbow, heavy|50 gp|1d10 piercing|18 lb.|Ammunition (range 100/400), heavy, loading, two-handed|
-|Longbow|50 gp|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed|
-|Net|1 gp|—|3 lb.|Special, thrown (range 5/15)|
+|Blowgun|10 GP|1 piercing|1 lb.|Ammunition (range 25/100), loading|
+|Crossbow, hand|75 GP|1d6 piercing|3 lb.|Ammunition (range 30/120), light, loading|
+|Crossbow, heavy|50 GP|1d10 piercing|18 lb.|Ammunition (range 100/400), heavy, loading, two-handed|
+|Longbow|50 GP|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed|
+|Net|1 GP|-|3 lb.|Special, thrown (range 5/15)|
 
 ### Adventuring Gear
 
 #### Essential Gear
 
-|**Item**|**Cost**|**Weight**|
-|---|---|---|
-|Backpack|2 gp|5 lb.|
-|Bedroll|1 gp|7 lb.|
-|Bell|1 gp|—|
-|Blanket|5 sp|3 lb.|
-|Candle|1 cp|—|
-|Chain (10 feet)|5 gp|10 lb.|
-|Chalk (1 piece)|1 cp|—|
-|Crowbar|2 gp|5 lb.|
-|Hammer|1 gp|3 lb.|
-|Ink (1 ounce bottle)|10 gp|—|
-|Ink pen|2 cp|—|
-|Lantern, hooded|5 gp|2 lb.|
-|Lock|10 gp|1 lb.|
-|Oil (flask)|1 sp|1 lb.|
-|Pouch|5 sp|1 lb.|
-|Rations (1 day)|5 sp|2 lb.|
-|Rope, hempen (50 feet)|1 gp|10 lb.|
-|Rope, silk (50 feet)|10 gp|5 lb.|
-|Torch|1 cp|1 lb.|
-|Waterskin|2 sp|5 lb. (full)|
+| **Item**               | **Cost** | **Weight**   |
+| ---------------------- | -------- | ------------ |
+| Backpack               | 2 GP     | 5 lb.        |
+| Bedroll                | 1 GP     | 7 lb.        |
+| Bell                   | 1 GP     | -            |
+| Blanket                | 5 SP     | 3 lb.        |
+| Candle                 | 1 CP     | -            |
+| Chain (10 feet)        | 5 GP     | 10 lb.       |
+| Chalk (1 piece)        | 1 CP     | -            |
+| Crowbar                | 2 GP     | 5 lb.        |
+| Hammer                 | 1 GP     | 3 lb.        |
+| Ink (1 ounce bottle)   | 10 GP    | -            |
+| Ink pen                | 2 CP     | -            |
+| Lantern, hooded        | 5 GP     | 2 lb.        |
+| Lock                   | 10 GP    | 1 lb.        |
+| Oil (flask)            | 1 SP     | 1 lb.        |
+| Pouch                  | 5 SP     | 1 lb.        |
+| Rations (1 day)        | 5 SP     | 2 lb.        |
+| Rope, hempen (50 feet) | 1 GP     | 10 lb.       |
+| Rope, silk (50 feet)   | 10 GP    | 5 lb.        |
+| Torch                  | 1 CP     | 1 lb.        |
+| Waterskin              | 2 SP     | 5 lb. (full) |
 
 #### Ammunition
 
 |**Item**|**Cost**|**Weight**|
 |---|---|---|
-|Arrows (20)|1 gp|1 lb.|
-|Blowgun needles (50)|1 gp|1 lb.|
-|Crossbow bolts (20)|1 gp|1½ lb.|
-|Sling bullets (20)|4 cp|1½ lb.|
+|Arrows (20)|1 GP|1 lb.|
+|Blowgun needles (50)|1 GP|1 lb.|
+|Crossbow bolts (20)|1 GP|1½ lb.|
+|Sling bullets (20)|4 CP|1½ lb.|
 
 #### Tools
 
 | **Item**          | **Cost** | **Weight** |
 | ----------------- | -------- | ---------- |
-| Disguise kit      | 25 gp    | 3 lb.      |
-| Forgery kit       | 15 gp    | 5 lb.      |
-| Healer's kit      | 5 gp     | 3 lb.      |
-| Herbalism kit     | 5 gp     | 3 lb.      |
-| Navigator's tools | 25 gp    | 2 lb.      |
-| Poisoner's kit    | 50 gp    | 2 lb.      |
-| Thieves' tools    | 25 gp    | 1 lb.      |
+| Disguise kit      | 25 GP    | 3 lb.      |
+| Forgery kit       | 15 GP    | 5 lb.      |
+| Healer's kit      | 5 GP     | 3 lb.      |
+| Herbalism kit     | 5 GP     | 3 lb.      |
+| Navigator's tools | 25 GP    | 2 lb.      |
+| Poisoner's kit    | 50 GP    | 2 lb.      |
+| Thieves' tools    | 25 GP    | 1 lb.      |
 
 #### Spellcasting Foci
 
 | **Item**           | **Cost** | **Weight** |
 | ------------------ | -------- | ---------- |
 | **Arcane Focus**   |          |            |
-| Crystal            | 10 gp    | 1 lb.      |
-| Orb                | 20 gp    | 3 lb.      |
-| Rod                | 10 gp    | 2 lb.      |
-| Staff              | 5 gp     | 4 lb.      |
-| Wand               | 10 gp    | 1 lb.      |
+| Crystal            | 10 GP    | 1 lb.      |
+| Orb                | 20 GP    | 3 lb.      |
+| Rod                | 10 GP    | 2 lb.      |
+| Staff              | 5 GP     | 4 lb.      |
+| Wand               | 10 GP    | 1 lb.      |
 | **Druidic Focus**  |          |            |
-| Sprig of mistletoe | 1 gp     | —          |
-| Totem              | 1 gp     | —          |
-| Wooden staff       | 5 gp     | 4 lb.      |
-| Yew wand           | 10 gp    | 1 lb.      |
+| Sprig of mistletoe | 1 GP     | -          |
+| Totem              | 1 GP     | -          |
+| Wooden staff       | 5 GP     | 4 lb.      |
+| Yew wand           | 10 GP    | 1 lb.      |
 | **Holy Symbol**    |          |            |
-| Amulet             | 5 gp     | 1 lb.      |
-| Emblem             | 5 gp     | —          |
-| Reliquary          | 5 gp     | 2 lb.      |
+| Amulet             | 5 GP     | 1 lb.      |
+| Emblem             | 5 GP     | -          |
+| Reliquary          | 5 GP     | 2 lb.      |
 
 #### Special Items
 
 |**Item**|**Cost**|**Weight**|**Description**|
 |---|---|---|---|
-|Acid (vial)|25 gp|1 lb.|2d6 acid damage when thrown|
-|Alchemist's fire (flask)|50 gp|1 lb.|1d4 fire damage per turn|
-|Antitoxin (vial)|50 gp|—|Advantage on poison saves for 1 hour|
-|Holy water (flask)|25 gp|1 lb.|2d6 radiant damage to fiends/undead|
-|Potion of healing|50 gp|½ lb.|Regain 2d4 + 2 hit points|
-|Poison, basic (vial)|100 gp|—|1d4 poison damage, DC 10 CON save|
+|Acid (vial)|25 GP|1 lb.|2d6 acid damage when thrown|
+|Alchemist's fire (flask)|50 GP|1 lb.|1d4 fire damage per turn|
+|Antitoxin (vial)|50 GP|-|Advantage on poison saves for 1 hour|
+|Holy water (flask)|25 GP|1 lb.|2d6 radiant damage to fiends/undead|
+|Potion of healing|50 GP|½ lb.|Regain 2d4 + 2 hit points|
+|Poison, basic (vial)|100 GP|-|1d4 poison damage, DC 10 CON save|
 
 ### Equipment Packs
 
 |**Pack**|**Cost**| **Contents**                                                                                                                                                              |
 | --------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|**Burglar's Pack**|16 gp| Backpack, 1,000 ball bearings, String, bell, 5 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 oil flasks, 5 days rations, tinderbox, waterskin, 50 ft hempen rope |
-|**Dungeoneer's Pack**|12 gp| Backpack, crowbar, hammer, 10 pitons, 10 torches, tinderbox, 10 days rations, waterskin, 50 ft hempen rope                                                                |
-|**Explorer's Pack**|10 gp| Backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, 50 ft hempen rope                                                                         |
-|**Priest's Pack**|19 gp| Backpack, blanket, 10 candles, tinderbox, alms box, 2 incense blocks, censer, vestments, 2 days rations, waterskin                                                        |
-|**Scholar's Pack**|40 gp| Backpack, book of lore, ink bottle, ink pen, 10 parchment sheets, sand bag, small knife                                                                                   |
+|**Burglar's Pack**|16 GP| Backpack, 1,000 ball bearings, String, bell, 5 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 oil flasks, 5 days rations, tinderbox, waterskin, 50 ft hempen rope |
+|**Dungeoneer's Pack**|12 GP| Backpack, crowbar, hammer, 10 pitons, 10 torches, tinderbox, 10 days rations, waterskin, 50 ft hempen rope                                                                |
+|**Explorer's Pack**|10 GP| Backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, 50 ft hempen rope                                                                         |
+|**Priest's Pack**|19 GP| Backpack, blanket, 10 candles, tinderbox, alms box, 2 incense blocks, censer, vestments, 2 days rations, waterskin                                                        |
+|**Scholar's Pack**|40 GP| Backpack, book of lore, ink bottle, ink pen, 10 parchment sheets, sand bag, small knife                                                                                   |
 
 > [!Info] Weapon Properties Quick Reference
 > 
@@ -1302,11 +1601,11 @@ This variant specifically supports feat-focused character concepts by providing 
 
 **Build synergies:** Certain feat combinations create powerful synergies (Polearm Master + Sentinel, Crossbow Expert + Sharpshooter), while multiclassing can enable unique combinations like Paladin/Warlock for short rest smite recovery or Fighter/Wizard for Eldritch Knight enhancement.
 
-## Stats:
+## Ability Stats:
 [[DnD PHB 5e Chapter 7.pdf|Ability Scores]]
 
 Individual stats simply represent their modifier, and holds no specific traits
-### The Stats
+### The Attributes
 
 **Strength (STR):** Physical power, melee attacks, carrying capacity, jumping, climbing
 **Dexterity (DEX):** Agility, ranged attacks, AC (light/medium armor), initiative, stealth
@@ -1335,7 +1634,7 @@ Choose one of the following methods for generating your character's ability scor
 #### Method 1: Rolling (Standard)
 Delegation of stat points:
 - All characters start with 5 in all stats (Total: 30 Points)
-- The points pool is based on a 5d20 total (Max: 130 Points)
+- The points pool is based on a 5d20 total (Total Max: 130 Points)
 - 1 Grace roll (Mulligan) is allowed (All dice)
 
 > [!Note] Point Costs
