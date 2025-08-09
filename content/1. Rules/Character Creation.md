@@ -17,7 +17,7 @@ Not every intelligent race is appropriate for a player-controlled adventurer.
 
 Dwarves, elves, halflings, and humans are the most common races to produce the sort of adventurers who make up typical parties.
 
-Dragonborn, gnomes, half-elves, half-orcs, and Tieflings are less common as adventurers. Drow, a subrace of elves, are also uncommon.
+Dragonborn, gnomes, half-elves, half-orcs, and  and Tieflings are less common as adventurers. Drow, a subrace of elves, are also uncommon.
 
 Your choice of race affects many different aspects of your character. It establishes fundamental qualities that exist throughout your character's adventuring career. When making this decision, keep in mind the kind of character you want to play.
 
@@ -107,7 +107,7 @@ On a new page, can you write me up a level table for each class with their respe
 
 #### Ranger
 
-#### Rouge
+#### Rogue
 
 #### Sorcerer
 
@@ -152,28 +152,28 @@ Your personality is built from four elements that work together to create a uniq
 
 ##### Personality Traits (d20)
 
-|d20| Trait                                      |
-|---|---|
-|1| I have a joke for every occasion           |
-|2| I'm always polite and respectful           |
-|3| I idolize a famous hero                    |
-|4| I'm haunted by past mistakes               |
-|5| I collect rumors and gossip                |
-|6| I'm secretly afraid of something common    |
-|7| I have an unusual hobby or interest        |
-|8| I speak in proverbs and old sayings        |
-|9| I'm protective of those weaker than me     |
-|10| I have terrible table manners              |
-|11| I'm always asking questions                |
-|12| I judge people by their actions, not words |
-|13| I'm driven by wanderlust                   |
-|14| I place no stock in wealthy folk           |
-|15| I'm full of inspiring stories              |
-|16| I'm horribly awkward in social situations  |
-|17| I stretch the truth for a good story       |
-|18| I never back down from a challenge         |
-|19| I'm suspicious of strangers                |
-|20| I bluntly say what others are hiding       |
+| d20 | Trait                                      |
+| --- | ------------------------------------------ |
+| 1   | I have a joke for every occasion           |
+| 2   | I'm always polite and respectful           |
+| 3   | I idolize a famous hero                    |
+| 4   | I'm haunted by past mistakes               |
+| 5   | I collect rumors and gossip                |
+| 6   | I'm secretly afraid of something common    |
+| 7   | I have an unusual hobby or interest        |
+| 8   | I speak in proverbs and old sayings        |
+| 9   | I'm protective of those weaker than me     |
+| 10  | I have terrible table manners              |
+| 11  | I'm always asking questions                |
+| 12  | I judge people by their actions, not words |
+| 13  | I'm driven by wanderlust                   |
+| 14  | I place no stock in wealthy folk           |
+| 15  | I'm full of inspiring stories              |
+| 16  | I'm horribly awkward in social situations  |
+| 17  | I stretch the truth for a good story       |
+| 18  | I never back down from a challenge         |
+| 19  | I'm suspicious of strangers                |
+| 20  | I bluntly say what others are hiding       |
 
 ##### Ideals (d12)
 
@@ -673,18 +673,69 @@ This variant specifically supports feat-focused character concepts by providing 
 ## Stats:
 [[DnD PHB 5e Chapter 7.pdf|Ability Scores]]
 
-- Individual stats simply represent their modifier, and holds no specific traits
+Individual stats simply represent their modifier, and holds no specific traits
+### The Stats
 
-> [!Summary] Delegation of stat points:
-> - All characters start with 3 in all stats
->- The points pool is based on 5d20 with the total divided by 1.5
->- Round down in all cases of decimal numbers
-> - 1 Grace roll (Mulligan) is allowed
+**Strength (STR):** Physical power, melee attacks, carrying capacity, jumping, climbing
+**Dexterity (DEX):** Agility, ranged attacks, AC (light/medium armor), initiative, stealth
+**Constitution (CON):** Health, hit points, stamina, poison resistance, concentration saves
+**Intelligence (INT):** Reasoning, memory, investigation, arcane knowledge, language learning
+**Wisdom (WIS):** Awareness, perception, insight, animal handling, divine magic
+**Charisma (CHA):** Force of personality, persuasion, deception, performance, certain magic
 
-> [!Note] Stat costs
->- Once a stat gets to 15 each increase for that stat costs 2 points
->- Once a stat gets to 20 each increase for that stat costs 3 points
+| Score | Modifier | Score | Modifier |
+|-------|----------|-------|----------|
+| 1     | -5       | 16-17 | +3       |
+| 2-3   | -4       | 18-19 | +4       |
+| 4-5   | -3       | 20-21 | +5       |
+| 6-7   | -2       | 22-23 | +6       |
+| 8-9   | -1       | 24-25 | +7       |
+| 10-11 | +0       | 26-27 | +8       |
+| 12-13 | +1       | 28-29 | +9       |
+| 14-15 | +2       | 30    | +10      |
 
-> [!Danger] Important
-> All points coming from Classes, Races, etc. are added after the point delegation.
-> These don’t have extra cost.
+### Ability Score Generation
+Choose one of the following methods for generating your character's ability scores:
+
+> [!Important] Bonuses
+> All bonuses from race, class, class features, magic items, etc. are added **after** initial ability score generation and don't count toward the limit in each method.
+
+#### Method 1: Rolling (Standard)
+Delegation of stat points:
+- All characters start with 5 in all stats (Total: 30 Points)
+- The points pool is based on a 5d20 total (Max: 130 Points)
+- 1 Grace roll (Mulligan) is allowed (All dice)
+
+> [!Note] Point Costs
+>- Score 3-10: 1 point (costs 1 for each increase)
+>- Score 10-15: 2 points (costs 2 for each increase)
+>- Score 15-20: 3 points (costs 3 for each increase)
+>- Score 20+: 4 points (Costs 4 for each increase)
+
+##### Example Rolls: (No Mulligans)
+| 1st d20 | 2nd d20 | 3rd d20 | 4th d20 | 5th d20 | Total Sum |
+| ------- | ------- | ------- | ------- | ------- | --------- |
+| 15      | 20      | 17      | 11      | 18      | 81 (+30)  |
+| 5       | 14      | 17      | 9       | 13      | 58 (+30)  |
+| 16      | 3       | 8       | 18      | 1       | 46 (+30)  |
+| 16      | 5       | 18      | 12      | 10      | 61 (+30)  |
+| 9       | 17      | 10      | 4       | 13      | 53 (+30)  |
+| 6       | 5       | 14      | 8       | 15      | 48 (+30)  |
+| 16      | 7       | 18      | 5       | 9       | 55 (+30)  |
+| 20      | 11      | 9       | 10      | 2       | 52 (+30)  |
+| 15      | 2       | 4       | 2       | 15      | 38 (+30)  |
+| 7       | 18      | 1       | 14      | 1       | 41 (+30)  |
+| 16      | 20      | 3       | 19      | 10      | 68 (+30)  |
+
+#### Method 2: Point Buy
+- All characters start with 6 in all stats (Total: 36 Points)
+- You have **32 points** to spend increasing your abilities (Total: 68 Points)
+- You cannot raise an ability above 15 using this method (before racial bonuses)
+
+> [!Note] Point Costs
+>- Score 6-13: 1 point (costs 1 for each increase)
+>- Score 13-15: 2 points (costs 2 for each increase)
+
+#### Method 3: Array
+Place these scores in any order:
+- **15**, **14**, **11**, **10**, **10**, **8** (Total: 68 Points)
