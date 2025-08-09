@@ -165,12 +165,12 @@ Players track inspiration points on their character sheets. The DM may provide p
 
 ## Actions:
 - Mounting another character is an action.
-- Having your action ready at the beginning of the turn can add a +1 modifier a roll
+- Having your action ready at the beginning of the turn **can** add a +1 modifier a roll
 
 ### PvP
 Should an action, result in a fellow player taking damage, the DM will determine whether said damage will trigger a [[DM Custom Rules#PvP Scenarios|PvP]] scenario.
 
-![[Character Creation#Stats]]
+![[Character Creation#The Stats]]
 
 ## Levels:
 [[Levels Breakdown]]
@@ -178,7 +178,7 @@ Should an action, result in a fellow player taking damage, the DM will determine
 - All characters start at level 4
 > [!Warning] EXP
 >- Is given during a long rest
->- Has a 2x multiplier
+>- Has a 1.25x multiplier
 - Feats are allowed
 
 ### Hitpoints

@@ -93,27 +93,659 @@ On a new page, can you write me up a level table for each class with their respe
 
 #### Barbarian
 
+**Hit Points**
+- Hit Dice: 1d12 per barbarian level
+- Hit Points at 1st Level: 12 + your Constitution modifier
+- Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
+
+**Proficiencies**
+- Armor: Light armor, medium armor, shields
+- Weapons: Simple weapons, martial weapons
+- Tools: None
+- Saving Throws: Strength, Constitution
+- Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+
+| Level | Proficiency Bonus | Features | Rages | Rage Damage |
+|-------|------------------|----------|-------|-------------|
+| 1st | +2 | Rage, Unarmored Defense | 2 | +2 |
+| 2nd | +2 | Reckless Attack, Danger Sense | 2 | +2 |
+| 3rd | +2 | Primal Path | 3 | +2 |
+| 4th | +2 | Ability Score Improvement | 3 | +2 |
+| 5th | +3 | Extra Attack, Fast Movement | 3 | +2 |
+| 6th | +3 | Path feature | 4 | +2 |
+| 7th | +3 | Feral Instinct | 4 | +2 |
+| 8th | +3 | Ability Score Improvement | 4 | +2 |
+| 9th | +4 | Brutal Critical (1 die) | 4 | +3 |
+| 10th | +4 | Path feature | 4 | +3 |
+| 11th | +4 | Relentless Rage | 4 | +3 |
+| 12th | +4 | Ability Score Improvement | 5 | +3 |
+| 13th | +5 | Brutal Critical (2 dice) | 5 | +3 |
+| 14th | +5 | Path feature | 5 | +3 |
+| 15th | +5 | Persistent Rage | 5 | +3 |
+| 16th | +5 | Ability Score Improvement | 5 | +4 |
+| 17th | +6 | Brutal Critical (3 dice) | 6 | +4 |
+| 18th | +6 | Indomitable Might | 6 | +4 |
+| 19th | +6 | Ability Score Improvement | 6 | +4 |
+| 20th | +6 | Primal Champion | Unlimited | +4 |
+
+**Class Features:**
+- **Rage:** Bonus action to enter rage. +damage to STR attacks, resistance to bludgeoning/piercing/slashing damage, advantage on STR checks/saves. Can't cast spells while raging. Ends if you don't attack/take damage on turn, or after 1 minute.
+- **Unarmored Defense:** AC = 10 + DEX modifier + CON modifier (no armor/shield)
+- **Reckless Attack:** Gain advantage on STR melee attacks during turn, but attackers have advantage against you until next turn
+- **Danger Sense:** Advantage on DEX saves against seen effects (not blinded/deafened/incapacitated)
+- **Primal Path:** Choose at 3rd level (Path of the Berserker, Path of the Totem Warrior, etc.)
+- **Extra Attack:** Attack twice when taking Attack action
+- **Fast Movement:** +10 feet speed (when not wearing heavy armor)
+- **Feral Instinct:** Advantage on initiative, can't be surprised if you rage on first turn
+- **Brutal Critical:** Roll additional weapon damage dice on critical hits (1 extra at 9th, 2 at 13th, 3 at 17th)
+- **Relentless Rage:** If you drop to 0 HP while raging, make DC 10 CON save to drop to 1 HP instead (DC increases by 5 each use, resets on long rest)
+- **Persistent Rage:** Rage only ends early if you fall unconscious or choose to end it
+- **Indomitable Might:** If STR check is less than STR score, use STR score instead
+- **Primal Champion:** STR and CON scores increase by 4, maximum increases to 24
+
 #### Bard
+
+**Hit Points**
+- Hit Dice: 1d8 per bard level
+- Hit Points at 1st Level: 8 + your Constitution modifier
+- Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per bard level after 1st
+
+**Proficiencies**
+- Armor: Light armor
+- Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- Tools: Three musical instruments of your choice
+- Saving Throws: Dexterity, Charisma
+- Skills: Choose any three
+
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|------------------|----------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1st | +2 | Spellcasting, Bardic Inspiration (d6) | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Jack of All Trades, Song of Rest (d6) | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | Bard College, Expertise | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | Bardic Inspiration (d8), Font of Inspiration | 3 | 8 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Countercharm, Bard College feature | 3 | 9 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 3 | 10 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement | 3 | 11 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | Song of Rest (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Bardic Inspiration (d10), Expertise, Magical Secrets | 4 | 14 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | — | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | Song of Rest (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Magical Secrets, Bard College feature | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | Bardic Inspiration (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Song of Rest (d12) | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Magical Secrets | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+**Class Features:**
+- **Spellcasting:** Charisma-based, ritual casting, spells known (not prepared), can replace spells when leveling
+- **Bardic Inspiration:** Bonus action, allies add die to attack/ability check/save (CHA mod uses per short rest)
+- **Jack of All Trades:** Add half proficiency to non-proficient ability checks
+- **Song of Rest:** Party gains extra healing during short rest (additional hit die recovery)
+- **Bard College:** Choose at 3rd level (College of Lore, College of Valor, etc.)
+- **Expertise:** Double proficiency bonus on two skills (four more at 10th level)
+- **Font of Inspiration:** Regain Bardic Inspiration on short rest instead of long rest
+- **Countercharm:** Action to give advantage against charm/fear to you and allies within 30 feet
+- **Magical Secrets:** Learn spells from any class (2 at 10th, 2 at 14th, 2 at 18th level)
+- **Superior Inspiration:** Regain Bardic Inspiration if you have no uses when you roll initiative
 
 #### Cleric
 
+**Hit Points**
+- Hit Dice: 1d8 per cleric level
+- Hit Points at 1st Level: 8 + your Constitution modifier
+- Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per cleric level after 1st
+
+**Proficiencies**
+- Armor: Light armor, medium armor, shields
+- Weapons: Simple weapons
+- Tools: None
+- Saving Throws: Wisdom, Charisma
+- Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion
+
+| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|------------------|----------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1st | +2 | Spellcasting, Divine Domain | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Channel Divinity (1/rest), Divine Domain feature | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | — | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | Destroy Undead (CR 1/2) | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Channel Divinity (2/rest), Divine Domain feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Divine Intervention | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | Destroy Undead (CR 2) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Destroy Undead (CR 3) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Destroy Undead (CR 4), Divine Domain feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Channel Divinity (3/rest) | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Divine Intervention improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+**Class Features:**
+- **Spellcasting:** Wisdom-based, ritual casting, prepare spells equal to WIS mod + cleric level (minimum 1)
+- **Divine Domain:** Choose at 1st level (Life, Light, Knowledge, Nature, Tempest, Trickery, War, etc.) - grants bonus spells and features
+- **Channel Divinity:** Sacred energy to fuel magical effects (Turn Undead + domain feature), regain on short rest
+- **Turn Undead:** Force undead within 30 feet to make WIS save or be turned for 1 minute
+- **Destroy Undead:** Instantly destroy low-CR undead when turning them (CR increases with level)
+- **Divine Intervention:** Ask deity for help (d100 ≤ cleric level for success), automatic success at 20th level
+
 #### Druid
+
+**Hit Points**
+- Hit Dice: 1d8 per druid level
+- Hit Points at 1st Level: 8 + your Constitution modifier
+- Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per druid level after 1st
+
+**Proficiencies**
+- Armor: Light armor, medium armor, shields (non-metal only)
+- Weapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+- Tools: Herbalism kit
+- Saving Throws: Intelligence, Wisdom
+- Skills: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
+
+| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|------------------|----------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1st | +2 | Druidcraft, Spellcasting | 2 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Wild Shape, Druid Circle | 2 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | — | 2 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | — | 3 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Druid Circle feature | 3 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 3 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | — | 3 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Timeless Body, Beast Spells | 4 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Archdruid | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+**Class Features:**
+- **Druidcraft:** Know this cantrip automatically (nature-themed prestidigitation)
+- **Spellcasting:** Wisdom-based, ritual casting, prepare spells equal to WIS mod + druid level (minimum 1)
+- **Wild Shape:** Transform into beasts (2 uses per short rest):
+  - 2nd level: CR 1/4, no flying/swimming speed
+  - 4th level: CR 1/2, swimming speed allowed
+  - 8th level: CR 1, flying speed allowed
+- **Druid Circle:** Choose at 2nd level (Circle of the Land, Circle of the Moon, etc.)
+- **Metal Restriction:** Cannot wear or use metal armor/shields
+- **Timeless Body:** Age slowly, require only half food/water
+- **Beast Spells:** Cast spells while in Wild Shape
+- **Archdruid:** Unlimited Wild Shape uses, ignore verbal/somatic components for druid spells
 
 #### Fighter
 
+**Hit Points**
+- Hit Dice: 1d10 per fighter level
+- Hit Points at 1st Level: 10 + your Constitution modifier
+- Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+
+**Proficiencies**
+- Armor: All armor, shields
+- Weapons: Simple weapons, martial weapons
+- Tools: None
+- Saving Throws: Strength, Constitution
+- Skills: Choose two from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+
+| Level | Proficiency Bonus | Features |
+|-------|------------------|----------|
+| 1st | +2 | Fighting Style, Second Wind |
+| 2nd | +2 | Action Surge (one use) |
+| 3rd | +2 | Martial Archetype |
+| 4th | +2 | Ability Score Improvement |
+| 5th | +3 | Extra Attack |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Martial Archetype feature |
+| 8th | +3 | Ability Score Improvement |
+| 9th | +4 | Indomitable (one use) |
+| 10th | +4 | Martial Archetype feature |
+| 11th | +4 | Extra Attack (2) |
+| 12th | +4 | Ability Score Improvement |
+| 13th | +5 | Indomitable (two uses) |
+| 14th | +5 | Ability Score Improvement |
+| 15th | +5 | Martial Archetype feature |
+| 16th | +5 | Ability Score Improvement |
+| 17th | +6 | Action Surge (two uses), Indomitable (three uses) |
+| 18th | +6 | Martial Archetype feature |
+| 19th | +6 | Ability Score Improvement |
+| 20th | +6 | Extra Attack (3) |
+
+**Class Features:**
+- **Fighting Style:** Choose one:
+  - **Archery:** +2 to ranged weapon attacks
+  - **Defense:** +1 AC while wearing armor
+  - **Dueling:** +2 damage with one-handed weapons (no other weapons)
+  - **Great Weapon Fighting:** Reroll 1s and 2s on damage dice for two-handed weapons
+  - **Protection:** Use reaction and shield to impose disadvantage on attack against nearby ally
+  - **Two-Weapon Fighting:** Add ability modifier to second attack when fighting with two weapons
+- **Second Wind:** Bonus action to regain 1d10 + fighter level hit points (once per short rest)
+- **Action Surge:** Take additional action on your turn (once per short rest, twice at 17th level)
+- **Martial Archetype:** Choose at 3rd level:
+  - **Champion:** Expanded critical range, extra fighting style, remarkable athlete
+  - **Battle Master:** Combat maneuvers with superiority dice
+  - **Eldritch Knight:** Spellcasting (1/3 caster), weapon bond, war magic
+- **Extra Attack:** Make additional attacks when taking Attack action (2 at 5th, 3 at 11th, 4 at 20th)
+- **Indomitable:** Reroll a failed saving throw (once per long rest, more uses at higher levels)
+
 #### Monk
+
+**Hit Points**
+- Hit Dice: 1d8 per monk level
+- Hit Points at 1st Level: 8 + your Constitution modifier
+- Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per monk level after 1st
+
+**Proficiencies**
+- Armor: None
+- Weapons: Simple weapons, shortswords
+- Tools: Choose one type of artisan's tools or one musical instrument
+- Saving Throws: Strength, Dexterity
+- Skills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+
+| Level | Proficiency Bonus | Features | Martial Arts | Ki Points | Unarmored Movement |
+|-------|------------------|----------|--------------|-----------|-------------------|
+| 1st | +2 | Unarmored Defense, Martial Arts | 1d4 | — | — |
+| 2nd | +2 | Ki, Unarmored Movement | 1d4 | 2 | +10 ft. |
+| 3rd | +2 | Monastic Tradition, Deflect Missiles | 1d4 | 3 | +10 ft. |
+| 4th | +2 | Ability Score Improvement, Slow Fall | 1d4 | 4 | +10 ft. |
+| 5th | +3 | Extra Attack, Stunning Strike | 1d6 | 5 | +10 ft. |
+| 6th | +3 | Ki-Empowered Strikes, Monastic Tradition feature | 1d6 | 6 | +15 ft. |
+| 7th | +3 | Evasion, Stillness of Mind | 1d6 | 7 | +15 ft. |
+| 8th | +3 | Ability Score Improvement | 1d6 | 8 | +15 ft. |
+| 9th | +4 | Unarmored Movement improvement | 1d6 | 9 | +15 ft. |
+| 10th | +4 | Purity of Body | 1d6 | 10 | +20 ft. |
+| 11th | +4 | Monastic Tradition feature | 1d8 | 11 | +20 ft. |
+| 12th | +4 | Ability Score Improvement | 1d8 | 12 | +20 ft. |
+| 13th | +5 | Tongue of the Sun and Moon | 1d8 | 13 | +20 ft. |
+| 14th | +5 | Diamond Soul | 1d8 | 14 | +25 ft. |
+| 15th | +5 | Timeless Body | 1d8 | 15 | +25 ft. |
+| 16th | +5 | Ability Score Improvement | 1d8 | 16 | +25 ft. |
+| 17th | +6 | Monastic Tradition feature | 1d10 | 17 | +25 ft. |
+| 18th | +6 | Empty Body | 1d10 | 18 | +30 ft. |
+| 19th | +6 | Ability Score Improvement | 1d10 | 19 | +30 ft. |
+| 20th | +6 | Perfect Self | 1d10 | 20 | +30 ft. |
+
+**Class Features:**
+- **Unarmored Defense:** AC = 10 + DEX modifier + WIS modifier (no armor/shield)
+- **Martial Arts:** Use DEX for unarmed strikes, unarmed strikes and monk weapons use martial arts die for damage, bonus action unarmed strike after Attack action with monk weapon/unarmed strike
+- **Ki:** Spend ki points for:
+  - **Flurry of Blows:** Bonus action for 2 unarmed strikes (1 ki)
+  - **Patient Defense:** Bonus action dodge (1 ki)
+  - **Step of the Wind:** Bonus action dash/disengage, jump distance doubled (1 ki)
+- **Unarmored Movement:** Extra speed when not wearing armor/shield, can walk on walls/water at 9th level
+- **Monastic Tradition:** Choose at 3rd level (Way of the Open Hand, Way of Shadow, Way of the Four Elements, etc.)
+- **Deflect Missiles:** Reduce ranged damage, potentially catch and throw back (1 ki to throw)
+- **Slow Fall:** Reduce falling damage by 5 × monk level
+- **Extra Attack:** Make 2 attacks when taking Attack action
+- **Stunning Strike:** Spend 1 ki when hitting to force CON save or be stunned until end of next turn
+- **Ki-Empowered Strikes:** Unarmed strikes count as magical for overcoming resistance
+- **Evasion:** Take no damage on successful DEX saves, half on failures (area effects)
+- **Stillness of Mind:** End charm/fear effect on yourself as an action
+- **Purity of Body:** Immune to disease and poison
+- **Tongue of the Sun and Moon:** Understand all spoken languages
+- **Diamond Soul:** Proficiency in all saves, spend 1 ki to reroll failed save
+- **Timeless Body:** No aging, no food/water required
+- **Empty Body:** Spend 4 ki to become invisible for 1 minute, or 8 ki to cast astral projection
+- **Perfect Self:** Regain 4 ki if you start turn with 0 ki
 
 #### Paladin
 
+**Hit Points**
+- Hit Dice: 1d10 per paladin level
+- Hit Points at 1st Level: 10 + your Constitution modifier
+- Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per paladin level after 1st
+
+**Proficiencies**
+- Armor: All armor, shields
+- Weapons: Simple weapons, martial weapons
+- Tools: None
+- Saving Throws: Wisdom, Charisma
+- Skills: Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+
+| Level | Proficiency Bonus | Features | 1st | 2nd | 3rd | 4th | 5th |
+|-------|------------------|----------|-----|-----|-----|-----|-----|
+| 1st | +2 | Divine Sense, Lay on Hands | — | — | — | — | — |
+| 2nd | +2 | Fighting Style, Spellcasting, Divine Smite | 2 | — | — | — | — |
+| 3rd | +2 | Divine Health, Sacred Oath | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 3 | — | — | — | — |
+| 5th | +3 | Extra Attack | 4 | 2 | — | — | — |
+| 6th | +3 | Aura of Protection | 4 | 2 | — | — | — |
+| 7th | +3 | Sacred Oath feature | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement | 4 | 3 | — | — | — |
+| 9th | +4 | — | 4 | 3 | 2 | — | — |
+| 10th | +4 | Aura of Courage | 4 | 3 | 2 | — | — |
+| 11th | +4 | Improved Divine Smite | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement | 4 | 3 | 3 | — | — |
+| 13th | +5 | — | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Cleansing Touch | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Sacred Oath feature | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | — | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Aura improvements | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Sacred Oath feature | 4 | 3 | 3 | 3 | 2 |
+
+**Class Features:**
+- **Divine Sense:** Detect celestials, fiends, undead within 60 feet (CHA mod + 1 times per long rest)
+- **Lay on Hands:** Heal with touch (5 × paladin level hit points per long rest), can cure disease/poison (5 points each)
+- **Fighting Style:** Choose one:
+  - **Defense:** +1 AC while wearing armor
+  - **Dueling:** +2 damage with one-handed weapons (no other weapons)
+  - **Great Weapon Fighting:** Reroll 1s and 2s on damage dice for two-handed weapons
+  - **Protection:** Use reaction and shield to impose disadvantage on attack against nearby ally
+- **Spellcasting:** Charisma-based, prepare spells equal to CHA mod + half paladin level (minimum 1)
+- **Divine Smite:** Spend spell slot when hitting to deal extra radiant damage (2d8 + 1d8 per slot level above 1st, +1d8 vs undead/fiends, max 5d8)
+- **Divine Health:** Immune to disease
+- **Sacred Oath:** Choose at 3rd level:
+  - **Oath of Devotion:** Protection from evil, turn unholy, holy nimbus
+  - **Oath of the Ancients:** Nature's wrath, turn fey/fiends, elder champion
+  - **Oath of Vengeance:** Hunter's mark, relentless avenger, soul of vengeance
+- **Aura of Protection:** You and allies within 10 feet add your CHA mod to saving throws (30 feet at 18th level)
+- **Extra Attack:** Make 2 attacks when taking Attack action
+- **Aura of Courage:** You and allies within 10 feet can't be frightened (30 feet at 18th level)
+- **Improved Divine Smite:** All melee weapon hits deal +1d8 radiant damage
+- **Cleansing Touch:** Remove spell effects on yourself or others (CHA mod times per long rest)
+
 #### Ranger
+
+**Hit Points**
+- Hit Dice: 1d10 per ranger level
+- Hit Points at 1st Level: 10 + your Constitution modifier
+- Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per ranger level after 1st
+
+**Proficiencies**
+- Armor: Light armor, medium armor, shields
+- Weapons: Simple weapons, martial weapons
+- Tools: None
+- Saving Throws: Strength, Dexterity
+- Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+
+| Level | Proficiency Bonus | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+|-------|------------------|----------|--------------|-----|-----|-----|-----|-----|
+| 1st | +2 | Favored Enemy, Natural Explorer | — | — | — | — | — | — |
+| 2nd | +2 | Fighting Style, Spellcasting | 2 | 2 | — | — | — | — |
+| 3rd | +2 | Ranger Archetype, Primeval Awareness | 3 | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 3 | 3 | — | — | — | — |
+| 5th | +3 | Extra Attack | 4 | 4 | 2 | — | — | — |
+| 6th | +3 | Favored Enemy and Natural Explorer improvements | 4 | 4 | 2 | — | — | — |
+| 7th | +3 | Ranger Archetype feature | 5 | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement, Land's Stride | 5 | 4 | 3 | — | — | — |
+| 9th | +4 | — | 6 | 4 | 3 | 2 | — | — |
+| 10th | +4 | Natural Explorer improvement, Hide in Plain Sight | 6 | 4 | 3 | 2 | — | — |
+| 11th | +4 | Ranger Archetype feature | 7 | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | — | — |
+| 13th | +5 | — | 8 | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Favored Enemy improvement, Vanish | 8 | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Ranger Archetype feature | 9 | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Feral Senses | 10 | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
+
+**Class Features:**
+- **Favored Enemy:** Choose creature type, advantage on Wisdom (Survival) checks and Intelligence checks about them, learn one language. Additional enemy types at 6th and 14th level.
+- **Natural Explorer:** Choose favored terrain, double proficiency on Wisdom (Survival) checks, difficult terrain doesn't slow travel, remain alert while tracking/foraging. Additional terrains at 6th and 10th level.
+- **Fighting Style:** Choose one:
+  - **Archery:** +2 to ranged weapon attacks
+  - **Defense:** +1 AC while wearing armor
+  - **Dueling:** +2 damage with one-handed weapons (no other weapons)
+  - **Two-Weapon Fighting:** Add ability modifier to second attack when fighting with two weapons
+- **Spellcasting:** Wisdom-based, spells known (not prepared), starts at 2nd level
+- **Ranger Archetype:** Choose at 3rd level:
+  - **Hunter:** Favored enemy bonuses, defensive tactics, multiattack options
+  - **Beast Master:** Animal companion that grows with you
+- **Primeval Awareness:** Sense favored enemies within 1-6 miles by expending spell slot
+- **Extra Attack:** Make 2 attacks when taking Attack action
+- **Land's Stride:** Move through nonmagical difficult terrain without penalty, advantage on saves against magical terrain effects
+- **Hide in Plain Sight:** Spend 1 minute to camouflage yourself (+10 to Stealth while motionless)
+- **Vanish:** Hide as bonus action, can't be tracked without magic
+- **Feral Senses:** Not disadvantaged by invisibility, know location of invisible creatures within 30 feet
+- **Foe Slayer:** Once per turn, add WIS modifier to attack or damage against favored enemy
 
 #### Rogue
 
+**Hit Points**
+- Hit Dice: 1d8 per rogue level
+- Hit Points at 1st Level: 8 + your Constitution modifier
+- Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+
+**Proficiencies**
+- Armor: Light armor
+- Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- Tools: Thieves' tools
+- Saving Throws: Dexterity, Intelligence
+- Skills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+
+| Level | Proficiency Bonus | Features | Sneak Attack |
+|-------|------------------|----------|--------------|
+| 1st | +2 | Expertise, Sneak Attack, Thieves' Cant | 1d6 |
+| 2nd | +2 | Cunning Action | 1d6 |
+| 3rd | +2 | Roguish Archetype | 2d6 |
+| 4th | +2 | Ability Score Improvement | 2d6 |
+| 5th | +3 | Uncanny Dodge | 3d6 |
+| 6th | +3 | Expertise | 3d6 |
+| 7th | +3 | Evasion | 4d6 |
+| 8th | +3 | Ability Score Improvement | 4d6 |
+| 9th | +4 | Roguish Archetype feature | 5d6 |
+| 10th | +4 | Ability Score Improvement | 5d6 |
+| 11th | +4 | Reliable Talent | 6d6 |
+| 12th | +4 | Ability Score Improvement | 6d6 |
+| 13th | +5 | Roguish Archetype feature | 7d6 |
+| 14th | +5 | Blindsense | 7d6 |
+| 15th | +5 | Slippery Mind | 8d6 |
+| 16th | +5 | Ability Score Improvement | 8d6 |
+| 17th | +6 | Roguish Archetype feature | 9d6 |
+| 18th | +6 | Elusive | 9d6 |
+| 19th | +6 | Ability Score Improvement | 10d6 |
+| 20th | +6 | Stroke of Luck | 10d6 |
+
+**Class Features:**
+- **Expertise:** Double proficiency bonus on two skills (four more at 6th level)
+- **Sneak Attack:** Deal extra damage once per turn when you have advantage on attack roll or ally is within 5 feet of target (finesse/ranged weapons only)
+- **Thieves' Cant:** Secret language of rogues and criminals
+- **Cunning Action:** Bonus action to Dash, Disengage, or Hide
+- **Roguish Archetype:** Choose at 3rd level:
+  - **Thief:** Fast hands, second-story work, supreme sneak
+  - **Assassin:** Disguise kit/poisoner's kit proficiency, assassinate, infiltration expertise
+  - **Arcane Trickster:** Spellcasting (1/3 caster), mage hand legerdemain, magical ambush
+- **Uncanny Dodge:** Use reaction to halve damage from one attack per turn
+- **Evasion:** Take no damage on successful DEX saves (half damage on failures) for area effects
+- **Reliable Talent:** Treat d20 rolls of 9 or lower as 10 for ability checks with proficiency
+- **Blindsense:** If you can hear, aware of location of hidden/invisible creatures within 10 feet
+- **Slippery Mind:** Proficiency with Wisdom saving throws
+- **Elusive:** No attack roll has advantage against you unless you're incapacitated
+- **Stroke of Luck:** Turn a miss into a hit or failed ability check into a 20 (once per short/long rest)
+
 #### Sorcerer
+
+**Hit Points**
+- Hit Dice: 1d6 per sorcerer level
+- Hit Points at 1st Level: 6 + your Constitution modifier
+- Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
+
+**Proficiencies**
+- Armor: None
+- Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
+- Tools: None
+- Saving Throws: Constitution, Charisma
+- Skills: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | Sorcery Points | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|------------------|----------|----------------|--------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1st | +2 | Spellcasting, Sorcerous Origin | 4 | 2 | — | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Font of Magic | 4 | 3 | 2 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | Metamagic | 4 | 4 | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 5 | 5 | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | — | 5 | 6 | 5 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Sorcerous Origin feature | 5 | 7 | 6 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 5 | 8 | 7 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement | 5 | 9 | 8 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | — | 5 | 10 | 9 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Metamagic | 6 | 11 | 10 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | — | 6 | 12 | 11 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 6 | 12 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | — | 6 | 13 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Sorcerous Origin feature | 6 | 13 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | — | 6 | 14 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 6 | 14 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | Metamagic | 6 | 15 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Sorcerous Origin feature | 6 | 15 | 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 6 | 15 | 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Sorcerous Restoration | 6 | 15 | 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+**Class Features:**
+- **Spellcasting:** Charisma-based, spells known (not prepared), can replace spells when leveling
+- **Sorcerous Origin:** Choose at 1st level:
+  - **Draconic Bloodline:** Extra hit points, natural armor, elemental affinity, dragon wings
+  - **Wild Magic:** Wild magic surge, tides of chaos, controlled chaos
+- **Font of Magic:** Convert sorcery points to spell slots and vice versa:
+  - Create spell slot: 1st=2pts, 2nd=3pts, 3rd=5pts, 4th=6pts, 5th=7pts
+  - Convert slot to points: points = slot level
+- **Metamagic:** Modify spells with sorcery points (choose 2 at 3rd, +1 at 10th/17th):
+  - **Careful Spell:** Protect CHA mod allies from area spells (1 point)
+  - **Distant Spell:** Double spell range (1 point)
+  - **Empowered Spell:** Reroll CHA mod damage dice (1 point)
+  - **Extended Spell:** Double duration (1 point)
+  - **Heightened Spell:** One target has disadvantage on save (3 points)
+  - **Quickened Spell:** Cast as bonus action (2 points)
+  - **Subtle Spell:** No verbal/somatic components (1 point)
+  - **Twinned Spell:** Target second creature (spell level in points)
+- **Sorcerous Restoration:** Regain 4 sorcery points on short rest (once per long rest)
 
 #### Warlock
 
+**Hit Points**
+- Hit Dice: 1d8 per warlock level
+- Hit Points at 1st Level: 8 + your Constitution modifier
+- Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per warlock level after 1st
+
+**Proficiencies**
+- Armor: Light armor
+- Weapons: Simple weapons
+- Tools: None
+- Saving Throws: Wisdom, Charisma
+- Skills: Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
+|-------|------------------|----------|----------------|--------------|-------------|------------|-------------------|
+| 1st | +2 | Otherworldly Patron, Pact Magic | 2 | 2 | 1 | 1st | — |
+| 2nd | +2 | Eldritch Invocations | 2 | 3 | 2 | 1st | 2 |
+| 3rd | +2 | Pact Boon | 2 | 4 | 2 | 2nd | 2 |
+| 4th | +2 | Ability Score Improvement | 3 | 5 | 2 | 2nd | 2 |
+| 5th | +3 | — | 3 | 6 | 2 | 3rd | 3 |
+| 6th | +3 | Otherworldly Patron feature | 3 | 7 | 2 | 3rd | 3 |
+| 7th | +3 | — | 3 | 8 | 2 | 4th | 4 |
+| 8th | +3 | Ability Score Improvement | 3 | 9 | 2 | 4th | 4 |
+| 9th | +4 | — | 3 | 10 | 2 | 5th | 5 |
+| 10th | +4 | Otherworldly Patron feature | 4 | 10 | 2 | 5th | 5 |
+| 11th | +4 | Mystic Arcanum (6th level) | 4 | 11 | 3 | 5th | 5 |
+| 12th | +4 | Ability Score Improvement | 4 | 11 | 3 | 5th | 6 |
+| 13th | +5 | Mystic Arcanum (7th level) | 4 | 12 | 3 | 5th | 6 |
+| 14th | +5 | Otherworldly Patron feature | 4 | 12 | 3 | 5th | 6 |
+| 15th | +5 | Mystic Arcanum (8th level) | 4 | 13 | 3 | 5th | 7 |
+| 16th | +5 | Ability Score Improvement | 4 | 13 | 3 | 5th | 7 |
+| 17th | +6 | Mystic Arcanum (9th level) | 4 | 14 | 4 | 5th | 7 |
+| 18th | +6 | — | 4 | 14 | 4 | 5th | 8 |
+| 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 5th | 8 |
+| 20th | +6 | Eldritch Master | 4 | 15 | 4 | 5th | 8 |
+
+**Class Features:**
+- **Otherworldly Patron:** Choose at 1st level:
+  - **The Archfey:** Fey magic, misty escape, beguiling defenses, dark delirium
+  - **The Fiend:** Dark One's blessing, temporary hit points, fiendish resistance, hurl through hell
+  - **The Great Old One:** Telepathy, entropic ward, thought shield, create thrall
+- **Pact Magic:** Charisma-based, spells known, all spell slots same level, regain on short rest
+- **Eldritch Invocations:** Customize your warlock (choose 2 at 2nd, more as you level):
+  - **Agonizing Blast:** Add CHA to eldritch blast damage
+  - **Armor of Shadows:** Mage armor at will
+  - **Beast Speech:** Speak with animals at will
+  - **Beguiling Influence:** Proficiency in Deception and Persuasion
+  - **Book of Ancient Secrets:** Ritual spells (requires Pact of the Tome)
+  - **Devil's Sight:** See normally in darkness to 120 feet
+  - **Eldritch Sight:** Detect magic at will
+  - **Eyes of the Rune Keeper:** Read all writing
+  - **Fiendish Vigor:** False life at will
+  - **Gaze of Two Minds:** Use humanoid's senses
+  - **Invocation of the Chain Master:** Additional familiar options (requires Pact of the Chain)
+  - **Mask of Many Faces:** Disguise self at will
+  - **Misty Visions:** Silent image at will
+  - **Repelling Blast:** Push creatures with eldritch blast
+  - **Thief of Five Fates:** Bane 1/long rest
+  - **Voice of the Chain Master:** Telepathy with familiar (requires Pact of the Chain)
+- **Pact Boon:** Choose at 3rd level:
+  - **Pact of the Chain:** Familiar with special forms (imp, pseudodragon, quasit, sprite)
+  - **Pact of the Blade:** Summon pact weapon, proficiency with weapon
+  - **Pact of the Tome:** Cantrips from any class, ritual spells via invocation
+- **Mystic Arcanum:** One spell each of 6th, 7th, 8th, and 9th level (1/long rest each)
+- **Eldritch Master:** Regain all expended pact magic spell slots (1/long rest)
+
 #### Wizard
+
+**Hit Points**
+- Hit Dice: 1d6 per wizard level
+- Hit Points at 1st Level: 6 + your Constitution modifier
+- Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st
+
+**Proficiencies**
+- Armor: None
+- Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
+- Tools: None
+- Saving Throws: Intelligence, Wisdom
+- Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+
+| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|-------|------------------|----------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1st | +2 | Spellcasting, Arcane Recovery | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Arcane Tradition | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | — | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | — | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Arcane Tradition feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Spell Mastery | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Signature Spells | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+**Class Features:**
+- **Spellcasting:** Intelligence-based, prepare INT mod + wizard level spells, learn from spellbook
+- **Spellbook:** Start with 6 1st-level spells, learn 2 new spells each level, copy from scrolls/other spellbooks
+- **Ritual Casting:** Cast ritual spells from spellbook without expending slots
+- **Arcane Recovery:** Once per day on short rest, recover spell slots totaling half wizard level (rounded up)
+- **Arcane Tradition:** Choose at 2nd level:
+  - **School of Abjuration:** Ward, projected ward, improved abjuration, damage resistance, spell resistance
+  - **School of Conjuration:** Minor conjuration, benign transposition, focused conjuration, durable summons
+  - **School of Divination:** Portent, expert divination, third eye, greater portent
+  - **School of Enchantment:** Hypnotic gaze, split enchantment, alter memories, mass suggestion
+  - **School of Evocation:** Sculpt spells, potent cantrip, empowered evocation, overchannel
+  - **School of Illusion:** Improved minor illusion, malleable illusions, illusory self, illusory reality
+  - **School of Necromancy:** Grim harvest, undead thralls, inured to undeath, command undead
+  - **School of Transmutation:** Minor alchemy, transmuter's stone, shapechanger, master transmuter
+- **Spell Mastery:** Choose one 1st and one 2nd level spell to cast at will (without expending slots)
+- **Signature Spells:** Choose two 3rd level spells to always have prepared and cast once without slots
 
 
 ### Class Selection Guide
