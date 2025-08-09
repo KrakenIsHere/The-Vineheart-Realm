@@ -1,10 +1,16 @@
+---
+title: Creating a character
+tags:
+  - Rules
+  - Characters
+---
 # Creation
 
 When creating a character the **5e** standards are used (mostly)
 refer to the book when a subject isn't covered/changed by the descriptions below
 
 ## Races
-[[DnD 5e Players Handbook (BnW OCR).pdf#page=13|Races]]
+[[DnD PHB 5e Chapter 2.pdf|Races]]
 
 Humans are the most common people in the Vineheart Realm, but they live and work alongside dwarves, elves, halflings, and countless other fantastic species. 
 Not every intelligent race is appropriate for a player-controlled adventurer. 
@@ -46,7 +52,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 > **Small but Mighty:** Gnome, Halfling (unique advantages, any class)
 
 > [!Note] Size Considerations 
-> **Medium Races:** Can use all weapons and armor without restriction 
+> **Medium Races:** Can use all weapons and armor without restriction (with proficiency)
 > **Small Races:** Cannot use heavy weapons (like great swords, mauls, etc.)
 > - Small races have 25 ft speed instead of 30 ft
 > - Small races can move through larger creatures' spaces
@@ -61,9 +67,10 @@ It's worthwhile to consider why your character is different, as a helpful way to
 > [!Success] Popular Race/Class Combinations 
 > **Classic Combos:** Half-Orc Barbarian, Elf Ranger, Halfling Rogue, Human Fighter 
 > **Optimal Builds:** Tiefling Warlock, Dragonborn Paladin, Gnome Wizard, Half-Elf Bard 
-> **Against Type:** Halfling Barbarian, Half-Orc Wizard (challenging but fun!)
+> **Unconventional Type:** Halfling Barbarian, Half-Orc Wizard (challenging but fun!)
 
 ## Classes
+[[DnD PHB 5e Chapter 3.pdf|Classes]]
 
 |**Class**|**Hit Die**|**Primary Ability**|**Saving Throw Proficiencies**|**Armor & Weapon Proficiencies**|**Skills** (Choose from)|
 |---|---|---|---|---|---|
@@ -79,6 +86,35 @@ It's worthwhile to consider why your character is different, as a helpful way to
 |**Sorcerer**|d6|Charisma|Constitution, Charisma|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, Deception, Insight, Intimidation, Persuasion, Religion (choose 2)|
 |**Warlock**|d8|Charisma|Wisdom, Charisma|Light armor, simple weapons|Arcana, Deception, History, Intimidation, Investigation, Nature, Religion (choose 2)|
 |**Wizard**|d6|Intelligence|Intelligence, Wisdom|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, History, Insight, Investigation, Medicine, Religion (choose 2)|
+
+### Classes Breakdown
+
+On a new page, can you write me up a level table for each class with their respective class features, written out below the table?
+
+#### Barbarian
+
+#### Bard
+
+#### Cleric
+
+#### Druid
+
+#### Fighter
+
+#### Monk
+
+#### Paladin
+
+#### Ranger
+
+#### Rouge
+
+#### Sorcerer
+
+#### Warlock
+
+#### Wizard
+
 
 ### Class Selection Guide
 
@@ -101,6 +137,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 > - **Paladin, Ranger:** Spellcasting begins at level 2
 
 ## Story
+[[DnD PHB 5e Chapter 4.pdf|Personality & Background]]
 
 ### Personality
 
@@ -111,9 +148,9 @@ Your personality is built from four elements that work together to create a uniq
 **Bonds:** What ties you to the world - people, places, or things you care about 
 **Flaws:** Weaknesses that can get you in trouble or be used against you
 
-### Quick Personality Generator
+#### Quick Personality Generator
 
-#### Personality Traits (d20)
+##### Personality Traits (d20)
 
 |d20| Trait                                      |
 |---|---|
@@ -138,7 +175,7 @@ Your personality is built from four elements that work together to create a uniq
 |19| I'm suspicious of strangers                |
 |20| I bluntly say what others are hiding       |
 
-#### Ideals (d12)
+##### Ideals (d12)
 
 |d12| Ideal                                                              |
 |---|---|
@@ -155,7 +192,7 @@ Your personality is built from four elements that work together to create a uniq
 |11| **Nature** - The natural world comes first (Neutral)               |
 |12| **Glory** - I must earn fame and renown (Any)                      |
 
-#### Bonds (d20)
+##### Bonds (d20)
 
 |d20|Bond|
 |---|---|
@@ -180,7 +217,7 @@ Your personality is built from four elements that work together to create a uniq
 |19|I seek to restore a fallen organization|
 |20|I'm connected to a prophecy|
 
-#### Flaws (d12)
+##### Flaws (d12)
 
 |d12|Flaw|
 |---|---|
@@ -199,7 +236,7 @@ Your personality is built from four elements that work together to create a uniq
 
 > [!Warning] Using Personality Elements 
 > These should create interesting roleplay opportunities and drive character decisions, not just be a list of stats.
-> Think about how they'll act, when playing!
+> Think about how the character will act, when playing!
 
 ### Background
 
@@ -243,6 +280,7 @@ Your personality is built from four elements that work together to create a uniq
 > - 12-Soldier
 
 ## Equipment
+[[DnD PHB 5e Chapter 5.pdf|Equipment]]
 
 ### Starting Wealth by Class
 
@@ -453,6 +491,7 @@ Your personality is built from four elements that work together to create a uniq
 > - **Stealth Disadvantage:** Heavy armor gives disadvantage on DEX (Stealth) checks
 
 ## Customization
+[[DnD PHB 5e Chapter 6.pdf|Customization Options]]
 
 ### Multiclassing
 
@@ -632,7 +671,7 @@ This variant specifically supports feat-focused character concepts by providing 
 **Build synergies:** Certain feat combinations create powerful synergies (Polearm Master + Sentinel, Crossbow Expert + Sharpshooter), while multiclassing can enable unique combinations like Paladin/Warlock for short rest smite recovery or Fighter/Wizard for Eldritch Knight enhancement.
 
 ## Stats:
-[[DnD 5e Players Handbook (BnW OCR).pdf#page=160|Ability Scores]]
+[[DnD PHB 5e Chapter 7.pdf|Ability Scores]]
 
 - Individual stats simply represent their modifier, and holds no specific traits
 
