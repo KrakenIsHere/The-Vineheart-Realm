@@ -31,17 +31,17 @@ It's worthwhile to consider why your character is different, as a helpful way to
 
 | Race                   | Size                         | Speed | Ability Score Increases  | Key Traits                     | Special Abilities                                             | Languages                     | Age/Lifespan                             | Description & Notes                                                       |
 | ---------------------- | ---------------------------- | ----- | ------------------------ | ------------------------------ | ------------------------------------------------------------- | ----------------------------- | ---------------------------------------- | ------------------------------------------------------------------------- |
-| **Dragonborn**         | Medium                       | 30 ft | Varies                   | Draconic heritage              | Breath weapon, damage resistance                              | Common + Draconic             | Adult at 15, ~80 years                   | Less common as adventurers                                                |
-| **Drow** (Elf subrace) | Medium                       | 30 ft | +2 DEX + subrace bonus   | Darkvision (superior)          | Sunlight sensitivity, innate spells                           | Common + Elvish + Undercommon | Adult at 100, ~750 years                 | Uncommon elf subrace                                                      |
-| **Dwarf**              | Medium                       | 25 ft | +2 Constitution          | Darkvision, resilient          | Stonecunning, weapon training                                 | Common + Dwarvish             | Adult at 50, ~350 years                  | Tough warriors; skilled craftsmen and miners                              |
-| **Elf**                | Medium                       | 30 ft | +2 Dexterity             | Darkvision, keen senses        | Fey Ancestry, trance                                          | Common + Elvish               | Adult at 100, ~750 years                 | Masters of arcane magic; graceful and long-lived                          |
-| **Forest Gnome**       | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 DEX           | Darkvision, Gnome Cunning      | Natural Illusionist (minor illusion), Speak with Small Beasts | Common + Gnomish              | Adult at 40, ~350-500 years              | Rare and secretive; hidden forest communities using illusions             |
-| **Half-Elf**           | Medium (5-6 ft)              | 30 ft | +2 CHA, +1 to two others | Darkvision, Fey Ancestry       | Skill Versatility (2 skills)                                  | Common + Elvish + 1 extra     | Adult at 20, 180+ years                  | Walking between two worlds; excellent diplomats, chaotic nature           |
-| **Half-Orc**           | Medium (6-7 ft, 180-250 lbs) | 30 ft | +2 STR, +1 CON           | Darkvision, Menacing           | Relentless Endurance, Savage Attacks                          | Common + Orc                  | Adult at 14, ~75 years                   | Scarred and Strong; torn between orc fury and human discipline            |
-| **Halfling**           | Small                        | 25 ft | +2 Dexterity             | Lucky, brave                   | Halfling Nimbleness                                           | Common + Halfling             | Adult at 20, ~150 years                  | Good for sneaky rogues; cheerful and nimble                               |
-| **Human**              | Medium                       | 30 ft | +1 to all abilities      | Versatile, ambitious           | Varies by subrace                                             | Common + regional             | Adult at 18, ~80 years                   | Most common race in Vineheart Realm; adaptable and driven                 |
-| **Rock Gnome**         | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Adult at 40, ~350-500 years              | Most common gnomes; natural inventors and tinkerers                       |
-| **Tiefling**           | Medium                       | 30 ft | +1 INT, +2 CHA           | Darkvision, Hellish Resistance | Infernal Legacy (Thaumaturgy, Hellish Rebuke, Darkness)       | Common + Infernal             | Adult at 18, slightly longer than humans | Infernal bloodline; horns, tails, solid eyes; mistrusted but self-reliant |
+| **[[Character Creation#Dragonborn\|Dragonborn]]**         | Medium                       | 30 ft | Varies                   | Draconic heritage              | Breath weapon, damage resistance                              | Common + Draconic             | Adult at 15, ~80 years                   | Less common as adventurers                                                |
+| **[[Character Creation#Elf\|Drow]]** (Elf subrace) | Medium                       | 30 ft | +2 DEX + subrace bonus   | Darkvision (superior)          | Sunlight sensitivity, innate spells                           | Common + Elvish + Undercommon | Adult at 100, ~750 years                 | Uncommon elf subrace                                                      |
+| **[[Character Creation#Dwarf\|Dwarf]]**              | Medium                       | 25 ft | +2 Constitution          | Darkvision, resilient          | Stonecunning, weapon training                                 | Common + Dwarvish             | Adult at 50, ~350 years                  | Tough warriors; skilled craftsmen and miners                              |
+| **[[Character Creation#Elf\|Elf]]**                | Medium                       | 30 ft | +2 Dexterity             | Darkvision, keen senses        | Fey Ancestry, trance                                          | Common + Elvish               | Adult at 100, ~750 years                 | Masters of arcane magic; graceful and long-lived                          |
+| **[[Character Creation#Gnome\|Forest Gnome]]**       | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 DEX           | Darkvision, Gnome Cunning      | Natural Illusionist (minor illusion), Speak with Small Beasts | Common + Gnomish              | Adult at 40, ~350-500 years              | Rare and secretive; hidden forest communities using illusions             |
+| **[[Character Creation#Half-Elf\|Half-Elf]]**           | Medium (5-6 ft)              | 30 ft | +2 CHA, +1 to two others | Darkvision, Fey Ancestry       | Skill Versatility (2 skills)                                  | Common + Elvish + 1 extra     | Adult at 20, 180+ years                  | Walking between two worlds; excellent diplomats, chaotic nature           |
+| **[[Character Creation#Half-Orc\|Half-Orc]]**           | Medium (6-7 ft, 180-250 lbs) | 30 ft | +2 STR, +1 CON           | Darkvision, Menacing           | Relentless Endurance, Savage Attacks                          | Common + Orc                  | Adult at 14, ~75 years                   | Scarred and Strong; torn between orc fury and human discipline            |
+| **[[Character Creation#Halfling\|Halfling]]**           | Small                        | 25 ft | +2 Dexterity             | Lucky, brave                   | Halfling Nimbleness                                           | Common + Halfling             | Adult at 20, ~150 years                  | Good for sneaky rogues; cheerful and nimble                               |
+| **[[Character Creation#Human\|Human]]**              | Medium                       | 30 ft | +1 to all abilities      | Versatile, ambitious           | Varies by subrace                                             | Common + regional             | Adult at 18, ~80 years                   | Most common race in Vineheart Realm; adaptable and driven                 |
+| **[[Character Creation#Gnome\|Rock Gnome]]**         | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Adult at 40, ~350-500 years              | Most common gnomes; natural inventors and tinkerers                       |
+| **[[Character Creation#Tiefling\|Tiefling]]**           | Medium                       | 30 ft | +1 INT, +2 CHA           | Darkvision, Hellish Resistance | Infernal Legacy (Thaumaturgy, Hellish Rebuke, Darkness)       | Common + Infernal             | Adult at 18, slightly longer than humans | Infernal bloodline; horns, tails, solid eyes; mistrusted but self-reliant |
 
 ### Races Breakdown
 
@@ -223,18 +223,18 @@ It's worthwhile to consider why your character is different, as a helpful way to
 
 |**Class**|**Hit Die**|**Primary Ability**|**Saving Throw Proficiencies**|**Armor & Weapon Proficiencies**|**Skills** (Choose from)|
 |---|---|---|---|---|---|
-|**Barbarian**|d12|Strength|Strength, Constitution|Light armor, medium armor, shields, simple weapons, martial weapons|Animal Handling, Athletics, Intimidation, Nature, Perception, Survival (choose 2)|
-|**Bard**|d8|Charisma|Dexterity, Charisma|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|Any three skills of your choice|
-|**Cleric**|d8|Wisdom|Wisdom, Charisma|Light armor, medium armor, shields, simple weapons|History, Insight, Medicine, Persuasion, Religion (choose 2)|
-|**Druid**|d8|Wisdom|Intelligence, Wisdom|Light armor (non-metal), medium armor (non-metal), shields (non-metal), clubs, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears|Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, Survival (choose 2)|
-|**Fighter**|d10|Strength or Dexterity|Strength, Constitution|All armor, shields, simple weapons, martial weapons|Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival (choose 2)|
-|**Monk**|d8|Dexterity & Wisdom|Strength, Dexterity|Simple weapons, shortswords|Acrobatics, Athletics, History, Insight, Religion, Stealth (choose 2)|
-|**Paladin**|d10|Strength & Charisma|Wisdom, Charisma|All armor, shields, simple weapons, martial weapons|Athletics, Insight, Intimidation, Medicine, Persuasion, Religion (choose 2)|
-|**Ranger**|d10|Dexterity & Wisdom|Strength, Dexterity|Light armor, medium armor, shields, simple weapons, martial weapons|Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival (choose 3)|
-|**Rogue**|d8|Dexterity|Dexterity, Intelligence|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, Stealth (choose 4)|
-|**Sorcerer**|d6|Charisma|Constitution, Charisma|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, Deception, Insight, Intimidation, Persuasion, Religion (choose 2)|
-|**Warlock**|d8|Charisma|Wisdom, Charisma|Light armor, simple weapons|Arcana, Deception, History, Intimidation, Investigation, Nature, Religion (choose 2)|
-|**Wizard**|d6|Intelligence|Intelligence, Wisdom|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, History, Insight, Investigation, Medicine, Religion (choose 2)|
+|**[[Character Creation#Barbarian\|Barbarian]]**|d12|Strength|Strength, Constitution|Light armor, medium armor, shields, simple weapons, martial weapons|Animal Handling, Athletics, Intimidation, Nature, Perception, Survival (choose 2)|
+|**[[Character Creation#Bard\|Bard]]**|d8|Charisma|Dexterity, Charisma|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|Any three skills of your choice|
+|**[[Character Creation#Cleric\|Cleric]]**|d8|Wisdom|Wisdom, Charisma|Light armor, medium armor, shields, simple weapons|History, Insight, Medicine, Persuasion, Religion (choose 2)|
+|**[[Character Creation#Druid\|Druid]]**|d8|Wisdom|Intelligence, Wisdom|Light armor (non-metal), medium armor (non-metal), shields (non-metal), clubs, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears|Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, Survival (choose 2)|
+|**[[Character Creation#Fighter\|Fighter]]**|d10|Strength or Dexterity|Strength, Constitution|All armor, shields, simple weapons, martial weapons|Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival (choose 2)|
+|**[[Character Creation#Monk\|Monk]]**|d8|Dexterity & Wisdom|Strength, Dexterity|Simple weapons, shortswords|Acrobatics, Athletics, History, Insight, Religion, Stealth (choose 2)|
+|**[[Character Creation#Paladin\|Paladin]]**|d10|Strength & Charisma|Wisdom, Charisma|All armor, shields, simple weapons, martial weapons|Athletics, Insight, Intimidation, Medicine, Persuasion, Religion (choose 2)|
+|**[[Character Creation#Ranger\|Ranger]]**|d10|Dexterity & Wisdom|Strength, Dexterity|Light armor, medium armor, shields, simple weapons, martial weapons|Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival (choose 3)|
+|**[[Character Creation#Rogue\|Rogue]]**|d8|Dexterity|Dexterity, Intelligence|Light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords|Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, Stealth (choose 4)|
+|**[[Character Creation#Sorcerer\|Sorcerer]]**|d6|Charisma|Constitution, Charisma|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, Deception, Insight, Intimidation, Persuasion, Religion (choose 2)|
+|**[[Character Creation#Warlock\|Warlock]]**|d8|Charisma|Wisdom, Charisma|Light armor, simple weapons|Arcana, Deception, History, Intimidation, Investigation, Nature, Religion (choose 2)|
+|**[[Character Creation#Wizard\|Wizard]]**|d6|Intelligence|Intelligence, Wisdom|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, History, Insight, Investigation, Medicine, Religion (choose 2)|
 
 ### Classes Breakdown
 
@@ -1023,21 +1023,21 @@ Your personality is built from four elements that work together to create a uniq
 
 ### Background
 
-| **Background**    | **Skills**                 | **Feature**                                     | **Best For**                            |
-| ----------------- | -------------------------- | ----------------------------------------------- | --------------------------------------- |
-| **Acolyte**       | Insight, Religion          | Shelter of the Faithful (temple support)        | Clerics, Paladins, religious characters |
-| **Charlatan**     | Deception, Sleight of Hand | False Identity (fake documentation)             | Rogues, Bards, Con artists              |
-| **Criminal**      | Deception, Stealth         | Criminal Contact (underworld connections)       | Rogues, morally flexible characters     |
-| **Entertainer**   | Acrobatics, Performance    | By Popular Demand (free lodging for performing) | Bards, charismatic performers           |
-| **Folk Hero**     | Animal Handling, Survival  | Rustic Hospitality (common folk support)        | Fighters, humble origins stories        |
-| **Guild Artisan** | Insight, Persuasion        | Guild Membership (trade connections)            | Any class, mercantile characters        |
-| **Hermit**        | Medicine, Religion         | Discovery (unique knowledge/secret)             | Druids, Monks, wise characters          |
-| **Noble**         | History, Persuasion        | Position of Privilege (high society access)     | Any class, wealthy backgrounds          |
-| **Outlander**     | Athletics, Survival        | Wanderer (wilderness navigation/foraging)       | Rangers, Barbarians, nature folk        |
-| **Sage**          | Arcana, History            | Researcher (knows where to find information)    | Wizards, scholarly characters           |
-| **Sailor**        | Athletics, Perception      | Ship's Passage (free sea travel)                | Any class, nautical adventures          |
-| **Soldier**       | Athletics, Intimidation    | Military Rank (military authority/access)       | Fighters, Paladins, war veterans        |
-| **Urchin**        | Sleight of Hand, Stealth   | City Secrets (urban navigation)                 | Rogues, Street-smart characters         |
+| **Background**                              | **Skills**                 | **Feature**                                     | **Best For**                            |
+| ------------------------------------------- | -------------------------- | ----------------------------------------------- | --------------------------------------- |
+| **[[Character Creation#Acolyte\|Acolyte]]** | Insight, Religion          | Shelter of the Faithful (temple support)        | Clerics, Paladins, religious characters |
+| **[[Character Creation#Charlatan\|Charlatan]]**                               | Deception, Sleight of Hand | False Identity (fake documentation)             | Rogues, Bards, Con artists              |
+| **[[Character Creation#Criminal\|Criminal]]**                                | Deception, Stealth         | Criminal Contact (underworld connections)       | Rogues, morally flexible characters     |
+| **[[Character Creation#Entertainer\|Entertainer]]**                             | Acrobatics, Performance    | By Popular Demand (free lodging for performing) | Bards, charismatic performers           |
+| **[[Character Creation#Folk Hero\|Folk Hero]]**                               | Animal Handling, Survival  | Rustic Hospitality (common folk support)        | Fighters, humble origins stories        |
+| **[[Character Creation#Guild Artisan\|Guild Artisan]]**                           | Insight, Persuasion        | Guild Membership (trade connections)            | Any class, mercantile characters        |
+| **[[Character Creation#Hermit\|Hermit]]**                                  | Medicine, Religion         | Discovery (unique knowledge/secret)             | Druids, Monks, wise characters          |
+| **[[Character Creation#Noble\|Noble]]**                                   | History, Persuasion        | Position of Privilege (high society access)     | Any class, wealthy backgrounds          |
+| **[[Character Creation#Outlander\|Outlander]]**                               | Athletics, Survival        | Wanderer (wilderness navigation/foraging)       | Rangers, Barbarians, nature folk        |
+| **[[Character Creation#Sage\|Sage]]**                                    | Arcana, History            | Researcher (knows where to find information)    | Wizards, scholarly characters           |
+| **[[Character Creation#Sailor\|Sailor]]**                                  | Athletics, Perception      | Ship's Passage (free sea travel)                | Any class, nautical adventures          |
+| **[[Character Creation#Soldier\|Soldier]]**                                 | Athletics, Intimidation    | Military Rank (military authority/access)       | Fighters, Paladins, war veterans        |
+| **[[Character Creation#Urchin\|Urchin]]**                                  | Sleight of Hand, Stealth   | City Secrets (urban navigation)                 | Rogues, Street-smart characters         |
 
 > [!Info] Background Benefits Each background provides:
 > 
@@ -1209,6 +1209,34 @@ Your personality is built from four elements that work together to create a uniq
 **Feature - Wanderer:** You have excellent memory for maps and geography. You can find food and shelter in wilderness for yourself and up to 5 other people each day, provided the land offers berries, small game, water, and so forth.
 
 **Origin:** Forester, trapper, homesteader, guide, exile, bounty hunter, pilgrim, tribal nomad, hunter-gatherer, tribal marauder
+
+##### Sailor
+
+**Skill Proficiencies:** Athletics, Perception
+**Tool Proficiencies:** Navigator's tools, vehicles (water)
+**Equipment:** Belaying pin (club), silk rope (50 feet), lucky charm, common clothes, belt pouch with 10 GP
+
+**Feature - Ship's Passage:** When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with. Because you're calling in a favor, you can't be certain of a schedule or route that will meet your every need.
+
+**Suggested Characteristics:**
+- **Personality:** Superstitious about the sea, loves to tell sailing stories, blunt and straightforward
+- **Ideals:** Respect for the sea, freedom, mastery of sailing, fairness, people first
+- **Bonds:** Ship or crew you sailed with, specific sea or coastline, fellow sailors, family back on land
+- **Flaws:** Trouble with drink, quick temper, enemy from sailing days, fear of drowning despite profession
+
+##### Urchin
+
+**Skill Proficiencies:** Sleight of Hand, Stealth
+**Tool Proficiencies:** Disguise kit, thieves' tools
+**Equipment:** Small knife, map of your home city, pet mouse, token of your parents, common clothes, belt pouch with 10 GP
+
+**Feature - City Secrets:** You know the secret patterns and flow of cities and can find passages through urban sprawl that others would miss. When you're not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow.
+
+**Suggested Characteristics:**
+- **Personality:** Street-smart, distrustful of authority, protective of other outcasts, scrappy survivor
+- **Ideals:** Respect for fellow outcasts, freedom from oppression, community among the forgotten
+- **Bonds:** Street family who took you in, specific neighborhood, fellow urchins, person who showed kindness
+- **Flaws:** Steals compulsively, has trouble trusting wealthy people, quick to fight, haunted by past
 
 ## Equipment
 [[DnD PHB 5e Chapter 5.pdf|Equipment]]
@@ -1635,7 +1663,7 @@ Choose one of the following methods for generating your character's ability scor
 Delegation of stat points:
 - All characters start with 5 in all stats (Total: 30 Points)
 - The points pool is based on a 5d20 total (Total Max: 130 Points)
-- 1 Grace roll (Mulligan) is allowed (All dice)
+- 1 Grace roll (Mulligan) of 2 dice is allowed (You must roll 2 dice)
 
 > [!Note] Point Costs
 >- Score 3-10: 1 point (costs 1 for each increase)
