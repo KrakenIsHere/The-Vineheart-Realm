@@ -29,19 +29,19 @@ These details are suggestions to help you think about your character; adventurer
 
 It's worthwhile to consider why your character is different, as a helpful way to think about your character's background and personality.
 
-| Race                   | Size                         | Speed | Ability Score Increases  | Key Traits                     | Special Abilities                                             | Languages                     | Age/Lifespan                             | Description & Notes                                                       |
-| ---------------------- | ---------------------------- | ----- | ------------------------ | ------------------------------ | ------------------------------------------------------------- | ----------------------------- | ---------------------------------------- | ------------------------------------------------------------------------- |
-| **[[Character Creation#Dragonborn\|Dragonborn]]**         | Medium                       | 30 ft | Varies                   | Draconic heritage              | Breath weapon, damage resistance                              | Common + Draconic             | Adult at 15, ~80 years                   | Less common as adventurers                                                |
-| **[[Character Creation#Elf\|Drow]]** (Elf subrace) | Medium                       | 30 ft | +2 DEX + subrace bonus   | Darkvision (superior)          | Sunlight sensitivity, innate spells                           | Common + Elvish + Undercommon | Adult at 100, ~750 years                 | Uncommon elf subrace                                                      |
-| **[[Character Creation#Dwarf\|Dwarf]]**              | Medium                       | 25 ft | +2 Constitution          | Darkvision, resilient          | Stonecunning, weapon training                                 | Common + Dwarvish             | Adult at 50, ~350 years                  | Tough warriors; skilled craftsmen and miners                              |
-| **[[Character Creation#Elf\|Elf]]**                | Medium                       | 30 ft | +2 Dexterity             | Darkvision, keen senses        | Fey Ancestry, trance                                          | Common + Elvish               | Adult at 100, ~750 years                 | Masters of arcane magic; graceful and long-lived                          |
-| **[[Character Creation#Gnome\|Forest Gnome]]**       | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 DEX           | Darkvision, Gnome Cunning      | Natural Illusionist (minor illusion), Speak with Small Beasts | Common + Gnomish              | Adult at 40, ~350-500 years              | Rare and secretive; hidden forest communities using illusions             |
-| **[[Character Creation#Half-Elf\|Half-Elf]]**           | Medium (5-6 ft)              | 30 ft | +2 CHA, +1 to two others | Darkvision, Fey Ancestry       | Skill Versatility (2 skills)                                  | Common + Elvish + 1 extra     | Adult at 20, 180+ years                  | Walking between two worlds; excellent diplomats, chaotic nature           |
-| **[[Character Creation#Half-Orc\|Half-Orc]]**           | Medium (6-7 ft, 180-250 lbs) | 30 ft | +2 STR, +1 CON           | Darkvision, Menacing           | Relentless Endurance, Savage Attacks                          | Common + Orc                  | Adult at 14, ~75 years                   | Scarred and Strong; torn between orc fury and human discipline            |
-| **[[Character Creation#Halfling\|Halfling]]**           | Small                        | 25 ft | +2 Dexterity             | Lucky, brave                   | Halfling Nimbleness                                           | Common + Halfling             | Adult at 20, ~150 years                  | Good for sneaky rogues; cheerful and nimble                               |
-| **[[Character Creation#Human\|Human]]**              | Medium                       | 30 ft | +1 to all abilities      | Versatile, ambitious           | Varies by subrace                                             | Common + regional             | Adult at 18, ~80 years                   | Most common race in Vineheart Realm; adaptable and driven                 |
-| **[[Character Creation#Gnome\|Rock Gnome]]**         | Small (3-4 ft, ~40 lbs)      | 25 ft | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Adult at 40, ~350-500 years              | Most common gnomes; natural inventors and tinkerers                       |
-| **[[Character Creation#Tiefling\|Tiefling]]**           | Medium                       | 30 ft | +1 INT, +2 CHA           | Darkvision, Hellish Resistance | Infernal Legacy (Thaumaturgy, Hellish Rebuke, Darkness)       | Common + Infernal             | Adult at 18, slightly longer than humans | Infernal bloodline; horns, tails, solid eyes; mistrusted but self-reliant |
+| Race                                                  | Size                         | Ability Score Increases  | Key Traits                     | Special Abilities                                             | Languages                     | Description & Notes                                                       |
+| ----------------------------------------------------- | ---------------------------- | ------------------------ | ------------------------------ | ------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------- |
+| **[[Character Creation#Dragonborn\|Dragonborn]]**     | Medium                       | Varies                   | Draconic heritage              | Breath weapon, damage resistance                              | Common + Draconic             | Less common as adventurers                                                |
+| **[[Character Creation#Elf\|Drow]]**<br>(Elf subrace) | Medium                       | +2 DEX + subrace bonus   | Darkvision (superior)          | Sunlight sensitivity, innate spells                           | Common + Elvish + Undercommon | Uncommon elf subrace                                                      |
+| **[[Character Creation#Dwarf\|Dwarf]]**               | Medium                       | +2 Constitution          | Darkvision, resilient          | Stonecunning, weapon training                                 | Common + Dwarvish             | Tough warriors; skilled craftsmen and miners                              |
+| **[[Character Creation#Elf\|Elf]]**                   | Medium                       | +2 Dexterity             | Darkvision, keen senses        | Fey Ancestry, trance                                          | Common + Elvish               | Masters of arcane magic; graceful and long-lived                          |
+| **[[Character Creation#Gnome\|Forest Gnome]]**        | Small (3-4 ft, ~40 lbs)      | +2 INT, +1 DEX           | Darkvision, Gnome Cunning      | Natural Illusionist (minor illusion), Speak with Small Beasts | Common + Gnomish              | Rare and secretive; hidden forest communities using illusions             |
+| **[[Character Creation#Half-Elf\|Half-Elf]]**         | Medium (5-6 ft)              | +2 CHA, +1 to two others | Darkvision, Fey Ancestry       | Skill Versatility (2 skills)                                  | Common + Elvish + 1 extra     | Walking between two worlds; excellent diplomats, chaotic nature           |
+| **[[Character Creation#Half-Orc\|Half-Orc]]**         | Medium (6-7 ft, 180-250 lbs) | +2 STR, +1 CON           | Darkvision, Menacing           | Relentless Endurance, Savage Attacks                          | Common + Orc                  | Scarred and Strong; torn between orc fury and human discipline            |
+| **[[Character Creation#Halfling\|Halfling]]**         | Small                        | +2 Dexterity             | Lucky, brave                   | Halfling Nimbleness                                           | Common + Halfling             | Good for sneaky rogues; cheerful and nimble                               |
+| **[[Character Creation#Human\|Human]]**               | Medium                       | +1 to all abilities      | Versatile, ambitious           | Varies by subrace                                             | Common + regional             | Most common race in Vineheart Realm; adaptable and driven                 |
+| **[[Character Creation#Gnome\|Rock Gnome]]**          | Small (3-4 ft, ~40 lbs)      | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Most common gnomes; natural inventors and tinkerers                       |
+| **[[Character Creation#Tiefling\|Tiefling]]**         | Medium                       | +1 INT, +2 CHA           | Darkvision, Hellish Resistance | Infernal Legacy (Thaumaturgy, Hellish Rebuke, Darkness)       | Common + Infernal             | Infernal bloodline; horns, tails, solid eyes; mistrusted but self-reliant |
 
 ### Races Breakdown
 
@@ -51,6 +51,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Medium
 **Speed:** 30 feet
 **Languages:** Common, Draconic
+**Life Span:** Adult at 15, ~80 years
 
 **Racial Traits:**
 - **Draconic Ancestry:** Choose a draconic ancestor that determines your breath weapon and damage resistance
@@ -76,6 +77,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Medium  
 **Speed:** 25 feet
 **Languages:** Common, Dwarvish
+**Life Span:** Adult at 50, ~350 years
 
 **Racial Traits:**
 - **Darkvision:** 60 feet
@@ -94,6 +96,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Medium
 **Speed:** 30 feet  
 **Languages:** Common, Elvish
+**Life Span:** Adult at 100, ~750 years
 
 **Racial Traits:**
 - **Darkvision:** 60 feet
@@ -112,6 +115,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Small
 **Speed:** 25 feet
 **Languages:** Common, Gnomish
+**Life Span:** Adult at 40, ~350-500 years
 
 **Racial Traits:**
 - **Darkvision:** 60 feet
@@ -127,6 +131,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Medium
 **Speed:** 30 feet
 **Languages:** Common, Elvish, one extra language of your choice
+**Life Span:** Adult at 20, 180+ years
 
 **Racial Traits:**
 - **Darkvision:** 60 feet
@@ -139,6 +144,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Medium
 **Speed:** 30 feet
 **Languages:** Common, Orc
+**Life Span:** Adult at 14, ~75 years
 
 **Racial Traits:**
 - **Darkvision:** 60 feet
@@ -152,6 +158,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Small
 **Speed:** 25 feet
 **Languages:** Common, Halfling
+**Life Span:** Adult at 20, ~150 years
 
 **Racial Traits:**
 - **Lucky:** When you roll a 1 on d20 for attack roll, ability check, or saving throw, reroll and use new result
@@ -168,6 +175,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Medium
 **Speed:** 30 feet
 **Languages:** Common, one extra language of your choice
+**Life Span:** Adult at 18, ~80 years
 
 **Racial Traits:**
 - **Extra Skill:** Proficiency in one skill of your choice
@@ -184,6 +192,7 @@ It's worthwhile to consider why your character is different, as a helpful way to
 **Size:** Medium
 **Speed:** 30 feet
 **Languages:** Common, Infernal
+**Life Span:** Adult at 18, slightly longer than humans
 
 **Racial Traits:**
 - **Darkvision:** 60 feet
