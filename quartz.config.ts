@@ -67,7 +67,12 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({
+        enableInHtmlEmbed: true,
+        enableCheckbox: true,
+        enableTables: true,
+        wikilinks: true, // Enable wikilink processing
+      }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents({
         maxDepth: 10, // Include headers up to h6
