@@ -6,8 +6,9 @@ tags:
 ---
 # Creation
 
-When creating a character the **5e** standards are used (mostly)
-refer to the book when a subject isn't covered/changed by the descriptions below
+When creating a character the **5e** standards are used (mostly) refer to the book when a subject isn't covered/changed by the descriptions below
+
+- [[Dice|Need Help Coming up with a Character?]]
 
 ## Races
 [[DnD PHB 5e Chapter 2.pdf|Races]]
