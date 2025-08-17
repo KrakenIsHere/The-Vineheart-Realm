@@ -81,13 +81,13 @@ It is recognized that Guardians is a singular unit across the branches ensuring 
 
 Ritualists help priestesses during rituals where needed, such as with the ritual itself for preparations and as mana batteries or with chants.
 
-They're responsible for updating the Gatherers if changes of what is required for the ritual to ensure that all resources are gathered for the [[Wound Containment]] rituals for their respective regions.
+They're responsible for updating the Gatherers if changes of what is required for the ritual to ensure that all resources are gathered for the [[Godwound Containment]] rituals for their respective regions.
 
 
 #### Gatherers
 - Collect necessary materials for rituals.
 
-Gatherers ensure the required recourses, for the [[Wound Containment|rituals]] are available when the ritual begins.
+Gatherers ensure the required recourses, for the [[Godwound Containment|rituals]] are available when the ritual begins.
 
 They travel the realm for recourses and sometimes find new way to procure rare materials or even manages to farm resources that were previously considered impossible.
 
@@ -115,7 +115,7 @@ The structured approach to training and advancement ensures that the organizatio
 
 Each continental temple has evolved to reflect both its environment and the unique rituals they perform.
 
-> [!INFO] [[Wound Containment#The Rituals|Temples]]
+> [!INFO] [[Godwound Containment#The Rituals|Temples]]
 > The [[Memberia#Godwound Ritual|Memberian Temple]] rises from eternal ice, its walls embedded with frost-forged runes that supposedly quells [[The Godwound]]'s energy.
 > 
 > The [[Luminia#Godwound Ritual|Luminian Temple]] spirals upward through mountain peaks, its wind-carved chambers naturally amplifying ritual energies.

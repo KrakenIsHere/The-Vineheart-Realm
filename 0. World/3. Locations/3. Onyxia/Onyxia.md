@@ -31,7 +31,7 @@ Trade with [[Memberia]] goes through [[Luminia]]
 
 ### Godwound Ritual
 
-![[Wound Containment#Flame Binding]]
+![[Godwound Containment#Flame Binding]]
 
 
 ## Reputation

@@ -24,7 +24,7 @@ Originally priests of the ancient sun temple, they gradually transformed into a 
 
 ### Godwound Ritual
 
-![[Wound Containment#Wind Weaving]]
+![[Godwound Containment#Wind Weaving]]
 
 ## Reputation
 

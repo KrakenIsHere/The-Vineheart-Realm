@@ -8,7 +8,7 @@ tags:
 ---
 
 # Sacred Priestesses
-At the heart of each continent's [[Wound Containment|ritual]] stands a Godwound Priestess - women chosen from birth and trained to become living repositories of ancient knowledge. These priestesses are both guides and catalysts, their very beings attuned to [[The Godwound]].
+At the heart of each continent's [[Godwound Containment|ritual]] stands a Godwound Priestess - women chosen from birth and trained to become living repositories of ancient knowledge. These priestesses are both guides and catalysts, their very beings attuned to [[The Godwound]].
 
 ## The Priestesses
 ### The Memberian Priestess
@@ -62,7 +62,7 @@ In the event that a candidate cannot be
 - Current priestesses help identify their potential successors
 - The transfer of knowledge occurs through a mystical ceremony
 - If a priestess dies before passing on their knowledge, emergency measures exist
-	Each member of [[The Godwounded#The Inner Circle|The Echo Chamber]] holds portions of the full [[Wound Containment|ritual]] 
+	Each member of [[The Godwounded#The Inner Circle|The Echo Chamber]] holds portions of the full [[Godwound Containment|ritual]] 
 - Failed transfers have led to lost knowledge and ritual adaptations
 
 

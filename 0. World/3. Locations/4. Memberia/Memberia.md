@@ -24,7 +24,7 @@ The Sapient family began as a guild of scholars and mages who founded the first 
 
 ### Godwound Ritual
 
-![[Wound Containment#Frost Tethering]]
+![[Godwound Containment#Frost Tethering]]
 
 ## Reputation
 
