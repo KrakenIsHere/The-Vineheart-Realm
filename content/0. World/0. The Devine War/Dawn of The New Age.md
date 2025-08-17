@@ -52,14 +52,16 @@ The Dawn of The New Age, through the formation of the Vineheart Realm, represent
 
 ### The Godwound
 
-![[The Godwound#The Wound]]
+![[The Godwound#The Godwound]]
 
 ### Calendar
-- The realm has since reset their time keeping to be in line for the new age.
-	This was partially done since the last method for keeping time was unreliable.
-- As the oldest texts found after the war were around 100 years old.
-	It was determined to start the new age at the year 100.
-	There has since been found what is thought to be older texts.
+After the end of the [[Devine War]] the realm has reset their time keeping to be in line for the new age.
+- This was partially done since the last method for keeping time was unreliable.
+
+- The oldest texts found after pre-[[Devine War]] were estimated to be around 100 years old.
+	The calendar was determined to start the new age at the year 100.
+
+- There has since been found what is thought to be older texts.
 
 #### Days
 - Moonday
@@ -134,7 +136,7 @@ The landmass that was once whole, had become 4 continents and several islands
 
 
 ## Four Centuries Later
-The Sundering of Lands. When [[The Godwound]] first manifested, its power didn't just tear the fabric of reality—it physically ripped the continent apart. The once-unified landmass known as **Magnica** was split into four distinct continents, separated by great waters born from divine chaos. Each being named after the closest surviving royal family of their respective areas.
+The Sundering of Lands. When [[The Godwound]] first manifested, its power didn't just tear the fabric of reality—it physically ripped the continent apart. The once-unified landmass known as **Magnica** was split into four distinct continents, separated by great waters born from divine chaos.
 
 ### The Waters
 - The Godwound's energy created the Sundering Seas

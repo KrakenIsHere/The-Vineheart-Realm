@@ -9,7 +9,7 @@ tags:
 # The Scar
 At the core of the realm lies **The Godwound**, an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
 
-## The Wound
+## The Godwound
 **The Godwound** is the eternal imprint & lingering reminder of the [[Devine War]]
 It is the manifestation of the powerful & divine magic that created it.
 It's effects are felt across all the land(s)
@@ -48,7 +48,7 @@ It's effects are felt across all the land(s)
 
 ### Adaptation
 - Communities have developed complex warning systems and evacuation protocols
-- Scholars & [[The Godwounded|The Wounded]] study [[The Godwound]]'s patterns, attempting to predict its manifestations
+- Scholars & [[The Godwounded]] study [[The Godwound]]'s patterns, attempting to predict its manifestations
 - Trading routes are regularly redrawn to account for shifting dangers
 - Architecture has evolved to withstand supernatural disasters
 
@@ -60,7 +60,7 @@ It's effects are felt across all the land(s)
 - Prophecies speak of both doom and salvation tied to its existence
 
 ### The Wounded
-[[The Godwounded|The Wounded]] emerged to study the Godwound, and have since evolved to become the authority of it. Managing the [[Wounded Priestesses|Priestesses]] and [[Wound Containment|rituals]] to keep it's power at bay & protect the realm.
+[[The Godwounded]] emerged to study the Godwound, and have since evolved to become the authority of it. Managing the [[Wounded Priestesses|Priestesses]] and [[Godwound Containment|rituals]] to keep it's power at bay & protect the realm.
 
 
 ## The Cycles
@@ -73,7 +73,7 @@ It's effects are felt across all the land(s)
 
 
 ## The Politics of Protection
-- The continents must cooperate with [[The Godwounded|The Wounded]] despite potential conflicts
+- The continents must cooperate with [[The Godwounded]] despite potential conflicts
 - Resource gathering for rituals can cause diplomatic tensions between kingdoms
 - Knowledge of ritual procedures are closely guarded
 - Debates rage about modernizing or changing ritual procedures
@@ -81,9 +81,9 @@ It's effects are felt across all the land(s)
 
 
 ## Containment
-Containment of [[The Godwound]] is maintained by [[The Godwounded|The Wounded]] and their [[Wounded Priestesses|Priestesses]]. Each continent's temple has since [[The Godwound]]'s creation, developed [[Wound Containment|rituals]] to calm the chaos.
+Containment of [[The Godwound]] is maintained by [[The Godwounded]] and their [[Wounded Priestesses|Priestesses]]. Each continent's temple has since [[The Godwound]]'s creation, developed [[Godwound Containment|rituals]] to calm the chaos.
 
 ## Further Details
 - The [[The Godwounded]]
 - The [[Wounded Priestesses]]
-- The [[Wound Containment]]
+- The [[Godwound Containment]]

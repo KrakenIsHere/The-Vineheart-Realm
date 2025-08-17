@@ -24,7 +24,7 @@ Now, the world exists in a changed state. The [[Gods]] are diminished but still 
 
 Through all this, mortals have learned to rely more on themselves than divine intervention, developing new forms of magic, technology, and governance to thrive in this transformed world.
 
-While the effects of [[The Godwound|The Godwound]] appears to increase in frequency and organization known as [[The Godwounded|The Wounded]] has emerged to quell this immense magic surge. The [[Wounded Priestesses]] and their [[Wound Containment|rituals]] do appear to be successful, with the growth halted for centuries, the populace doesn't realize the impact.
+While the effects of [[The Godwound|The Godwound]] appears to increase in frequency and organization known as [[The Godwounded|The Wounded]] has emerged to quell this immense magic surge. The [[Wounded Priestesses]] and their [[Godwound Containment|rituals]] do appear to be successful, with the growth halted for centuries, the populace doesn't realize the impact.
 
 ## Additions
 There are some add-ons within **The Vineheart Realm** that doesn't natively exist in **Dungeons & Dragons 5e** or **2024**

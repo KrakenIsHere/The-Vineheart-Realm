@@ -41,7 +41,7 @@ Trade with [[Luminia]] goes through [[Onyxia]]
 
 ### Godwound Ritual
 
-![[Wound Containment#Tide Sealing]]
+![[Godwound Containment#Tide Sealing]]
 
 ## Reputation
 

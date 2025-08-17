@@ -4,10 +4,8 @@ tags:
   - DevineWar
   - VineheartRealm
 ---
-
 # Devine War
 The Divine War erupted from a fundamental disagreement over the fate of mortals, splitting the pantheon into two factions. What began as philosophical discourse in divine halls escalated into a catastrophic conflict that reshaped the mortal realm. Cities crumbled, lands were scarred by divine power, and civilization itself teetered on the brink of collapse.
-
 
 ## The Factions
 
@@ -112,7 +110,7 @@ The Divine War reshaped not just the physical world but the relationship between
 
 ### The Godwound
 
-![[The Godwound#The Wound]]
+![[The Godwound#The Godwound]]
 
 
 ## Recovery
