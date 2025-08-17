@@ -944,6 +944,7 @@ Your personality is built from four elements that work together to create a uniq
 #### Quick Personality Generator
 
 ##### Personality Traits (d20)
+Roll: `dice: 1d20`
 
 | d20 | Trait                                      |
 | --- | ------------------------------------------ |
@@ -969,6 +970,7 @@ Your personality is built from four elements that work together to create a uniq
 | 20  | I bluntly say what others are hiding       |
 
 ##### Ideals (d12)
+Roll: `dice: 1d12`
 
 |d12| Ideal                                                              |
 |---|---|
@@ -986,6 +988,7 @@ Your personality is built from four elements that work together to create a uniq
 |12| **Glory** - I must earn fame and renown (Any)                      |
 
 ##### Bonds (d20)
+Roll: `dice: 1d20`
 
 |d20|Bond|
 |---|---|
@@ -1011,6 +1014,7 @@ Your personality is built from four elements that work together to create a uniq
 |20|I'm connected to a prophecy|
 
 ##### Flaws (d12)
+Roll: `dice: 1d12`
 
 |d12|Flaw|
 |---|---|
@@ -1057,7 +1061,7 @@ Your personality is built from four elements that work together to create a uniq
 > - **Special Feature** (unique ability or social connection)
 
 > [!Note] Don't know what to choose? 
-> Roll a d12: 
+> Roll a d12 `dice: 1d12`: 
 > 
 > **1** - Acolyte 
 > **2** - Charlatan
@@ -1674,6 +1678,8 @@ Delegation of stat points:
 - All characters start with 5 in all stats (Total: 30 Points)
 - The points pool is based on a 5d20 total (Total Max: 130 Points)
 - 1 Grace roll (Mulligan) of 2 dice is allowed (You must roll 2 dice)
+
+Roll: `dice: 5d20`
 
 > [!Note] Point Costs
 >- Score 3-10: 1 point (costs 1 for each increase)
