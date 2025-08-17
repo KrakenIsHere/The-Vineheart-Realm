@@ -8,7 +8,7 @@ tags:
 
 When creating a character the **5e** standards are used (mostly) refer to the book when a subject isn't covered/changed by the descriptions below
 
-- [[Dice|Need Help Coming up with a Character?]]
+Refer to [[Dice]] for clarifications of the usage of [[Dice]]
 
 ## Races
 [[DnD PHB 5e Chapter 2.pdf|Races]]
@@ -44,161 +44,20 @@ It's worthwhile to consider why your character is different, as a helpful way to
 | **Rock Gnome**              | Small (3-4 ft, ~40 lbs)      | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Most common gnomes; natural inventors and tinkerers                       |
 | **Tiefling**                | Medium                       | +1 INT, +2 CHA           | Darkvision, Hellish Resistance | Infernal Legacy (Thaumaturgy, Hellish Rebuke, Darkness)       | Common + Infernal             | Infernal bloodline; horns, tails, solid eyes; mistrusted but self-reliant |
 
-### Races Breakdown
-
-#### Dragonborn
-
-**Ability Score Increase:** +2 Strength, +1 Charisma
-**Size:** Medium
-**Speed:** 30 feet
-**Languages:** Common, Draconic
-**Life Span:** Adult at 15, ~80 years
-
-**Racial Traits:**
-- **Draconic Ancestry:** Choose a draconic ancestor that determines your breath weapon and damage resistance
-- **Breath Weapon:** 15-foot cone or 30-foot line, 2d6 damage (increases to 3d6 at 6th, 4d6 at 11th, 5d6 at 16th level), DEX save for half damage, once per short/long rest
-- **Damage Resistance:** Resistance to the damage type of your draconic ancestry
-- **Natural Armor:** 13 + DEX modifier when not wearing armor
-
-**Draconic Ancestry Options:**
-- **Black:** Acid damage, 30-foot line breath weapon
-- **Blue:** Lightning damage, 30-foot line breath weapon  
-- **Brass:** Fire damage, 30-foot line breath weapon
-- **Bronze:** Lightning damage, 30-foot line breath weapon
-- **Copper:** Acid damage, 30-foot line breath weapon
-- **Gold:** Fire damage, 15-foot cone breath weapon
-- **Green:** Poison damage, 15-foot cone breath weapon
-- **Red:** Fire damage, 15-foot cone breath weapon
-- **Silver:** Cold damage, 15-foot cone breath weapon
-- **White:** Cold damage, 15-foot cone breath weapon
-
-#### Dwarf
-
-**Ability Score Increase:** +2 Constitution
-**Size:** Medium  
-**Speed:** 25 feet
-**Languages:** Common, Dwarvish
-**Life Span:** Adult at 50, ~350 years
-
-**Racial Traits:**
-- **Darkvision:** 60 feet
-- **Dwarven Resilience:** Advantage on saving throws against poison, resistance to poison damage
-- **Dwarven Combat Training:** Proficiency with battleaxes, Hand axes, light hammers, and Warhammers
-- **Stone cunning:** Add double proficiency bonus to History checks related to stonework
-- **Tool Proficiency:** Proficiency with one set of artisan's tools
-
-**Subraces:**
-- **Hill Dwarf:** +1 Wisdom, +1 hit point per level, proficiency with herbalism kit
-- **Mountain Dwarf:** +2 Strength, proficiency with light and medium armor
-
-#### Elf
-
-**Ability Score Increase:** +2 Dexterity
-**Size:** Medium
-**Speed:** 30 feet  
-**Languages:** Common, Elvish
-**Life Span:** Adult at 100, ~750 years
-
-**Racial Traits:**
-- **Darkvision:** 60 feet
-- **Keen Senses:** Proficiency in Perception
-- **Fey Ancestry:** Advantage on saving throws against being charmed, magic can't put you to sleep
-- **Trance:** Don't need to sleep, meditate for 4 hours instead of 8-hour rest
-
-**Subraces:**
-- **High Elf:** +1 Intelligence, proficiency with longswords/short bows/longbows/short bows, one cantrip from wizard spell list, one extra language
-- **Wood Elf:** +1 Wisdom, proficiency with longswords/short bows/longbows/short bows, mask of the wild (hide in natural phenomena), move through difficult terrain without penalty
-- **Dark Elf (Drow):** +1 Charisma, superior Darkvision (120 feet), sunlight sensitivity, dancing lights cantrip, faerie fire and darkness spells
-
-#### Gnome
-
-**Ability Score Increase:** +2 Intelligence
-**Size:** Small
-**Speed:** 25 feet
-**Languages:** Common, Gnomish
-**Life Span:** Adult at 40, ~350-500 years
-
-**Racial Traits:**
-- **Darkvision:** 60 feet
-- **Gnome Cunning:** Advantage on Intelligence, Wisdom, and Charisma saving throws against magic
-
-**Subraces:**
-- **Forest Gnome:** +1 Dexterity, natural illusionist (minor illusion cantrip), speak with small beasts
-- **Rock Gnome:** +1 Constitution, artificer's lore (+2 to History checks on magic items/alchemical objects/technological devices), tinker ability
-
-#### Half-Elf
-
-**Ability Score Increase:** +2 Charisma, +1 to two other abilities of your choice
-**Size:** Medium
-**Speed:** 30 feet
-**Languages:** Common, Elvish, one extra language of your choice
-**Life Span:** Adult at 20, 180+ years
-
-**Racial Traits:**
-- **Darkvision:** 60 feet
-- **Fey Ancestry:** Advantage on saving throws against being charmed, magic can't put you to sleep
-- **Skill Versatility:** Proficiency in two skills of your choice
-
-#### Half-Orc
-
-**Ability Score Increase:** +2 Strength, +1 Constitution
-**Size:** Medium
-**Speed:** 30 feet
-**Languages:** Common, Orc
-**Life Span:** Adult at 14, ~75 years
-
-**Racial Traits:**
-- **Darkvision:** 60 feet
-- **Menacing:** Proficiency in Intimidation
-- **Relentless Endurance:** When dropped to 0 hit points but not killed, drop to 1 hit point instead (once per long rest)
-- **savage Attacks:** When you score a critical hit with a melee weapon, roll one additional weapon damage die
-
-#### Halfling
-
-**Ability Score Increase:** +2 Dexterity
-**Size:** Small
-**Speed:** 25 feet
-**Languages:** Common, Halfling
-**Life Span:** Adult at 20, ~150 years
-
-**Racial Traits:**
-- **Lucky:** When you roll a 1 on d20 for attack roll, ability check, or saving throw, reroll and use new result
-- **Brave:** Advantage on saving throws against being frightened
-- **Halfling Nimbleness:** Move through space of any creature one size larger than you
-
-**Subraces:**
-- **Lightfoot Halfling:** +1 Charisma, naturally stealthy (hide behind creatures one size larger)
-- **Stout Halfling:** +1 Constitution, resistance to poison damage, advantage on saving throws against poison
-
-#### Human
-
-**Ability Score Increase:** +1 to all ability scores
-**Size:** Medium
-**Speed:** 30 feet
-**Languages:** Common, one extra language of your choice
-**Life Span:** Adult at 18, ~80 years
-
-**Racial Traits:**
-- **Extra Skill:** Proficiency in one skill of your choice
-- **Versatile:** No specific racial traits, but the +1 to all abilities makes them adaptable to any class
-
-**Variant Human (Optional):**
-- **Ability Score Increase:** +1 to two different ability scores
-- **Extra Skill:** Proficiency in one skill of your choice
-- **Feat:** Gain one feat of your choice at 1st level
-
-#### Tiefling
-
-**Ability Score Increase:** +2 Charisma, +1 Intelligence
-**Size:** Medium
-**Speed:** 30 feet
-**Languages:** Common, Infernal
-**Life Span:** Adult at 18, slightly longer than humans
-
-**Racial Traits:**
-- **Darkvision:** 60 feet
-- **Hellish Resistance:** Resistance to fire damage
-- **Infernal Legacy:** Know thaumaturgy cantrip, hellish rebuke at 3rd level, darkness at 5th level (once per long rest each, Charisma-based)
+If you're feeling adventurous or need inspiration, use this table to randomly determine your character's race:
+> [!Note] Don't know what to choose? 
+> Roll a d20:
+> 
+> **1-4** - Human (Most common)
+> **5-7** - Elf  
+> **8-10** - Dwarf
+> **11-13** - Halfling
+> **14-15** - Half-Elf
+> **16** - Dragonborn
+> **17** - Gnome (Forest or Rock)
+> **18** - Half-Orc
+> **19** - Tiefling
+> **20** - Drow (Dark Elf)
 
 ### Race Selection Guide
 
@@ -228,6 +87,163 @@ It's worthwhile to consider why your character is different, as a helpful way to
 > **Optimal Builds:** Tiefling Warlock, Dragonborn Paladin, Gnome Wizard, Half-Elf Bard 
 > **Unconventional Type:** Halfling Barbarian, Half-Orc Wizard (challenging but fun!)
 
+
+### Races Breakdown
+
+#### Dragonborn
+
+- **Ability Score Increase:** +2 Strength, +1 Charisma
+- **Size:** Medium
+- **Speed:** 30 feet
+- **Languages:** Common, Draconic
+- **Life Span:** Adult at 15, ~80 years
+
+**Racial Traits:**
+- **Draconic Ancestry:** Choose a draconic ancestor that determines your breath weapon and damage resistance
+- **Breath Weapon:** 15-foot cone or 30-foot line, 2d6 damage (increases to 3d6 at 6th, 4d6 at 11th, 5d6 at 16th level), DEX save for half damage, once per short/long rest
+- **Damage Resistance:** Resistance to the damage type of your draconic ancestry
+- **Natural Armor:** 13 + DEX modifier when not wearing armor
+
+**Draconic Ancestry Options:**
+- **Black:** Acid damage, 30-foot line breath weapon
+- **Blue:** Lightning damage, 30-foot line breath weapon  
+- **Brass:** Fire damage, 30-foot line breath weapon
+- **Bronze:** Lightning damage, 30-foot line breath weapon
+- **Copper:** Acid damage, 30-foot line breath weapon
+- **Gold:** Fire damage, 15-foot cone breath weapon
+- **Green:** Poison damage, 15-foot cone breath weapon
+- **Red:** Fire damage, 15-foot cone breath weapon
+- **Silver:** Cold damage, 15-foot cone breath weapon
+- **White:** Cold damage, 15-foot cone breath weapon
+
+#### Dwarf
+
+- **Ability Score Increase:** +2 Constitution
+- **Size:** Medium  
+- **Speed:** 25 feet
+- **Languages:** Common, Dwarvish
+- **Life Span:** Adult at 50, ~350 years
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Dwarven Resilience:** Advantage on saving throws against poison, resistance to poison damage
+- **Dwarven Combat Training:** Proficiency with battleaxes, Hand axes, light hammers, and Warhammers
+- **Stone cunning:** Add double proficiency bonus to History checks related to stonework
+- **Tool Proficiency:** Proficiency with one set of artisan's tools
+
+**Subraces:**
+- **Hill Dwarf:** +1 Wisdom, +1 hit point per level, proficiency with herbalism kit
+- **Mountain Dwarf:** +2 Strength, proficiency with light and medium armor
+
+#### Elf
+
+- **Ability Score Increase:** +2 Dexterity
+- **Size:** Medium
+- **Speed:** 30 feet  
+- **Languages:** Common, Elvish
+- **Life Span:** Adult at 100, ~750 years
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Keen Senses:** Proficiency in Perception
+- **Fey Ancestry:** Advantage on saving throws against being charmed, magic can't put you to sleep
+- **Trance:** Don't need to sleep, meditate for 4 hours instead of 8-hour rest
+
+**Subraces:**
+- **High Elf:** +1 Intelligence, proficiency with longswords/short bows/longbows/short bows, one cantrip from wizard spell list, one extra language
+- **Wood Elf:** +1 Wisdom, proficiency with longswords/short bows/longbows/short bows, mask of the wild (hide in natural phenomena), move through difficult terrain without penalty
+- **Dark Elf (Drow):** +1 Charisma, superior Darkvision (120 feet), sunlight sensitivity, dancing lights cantrip, faerie fire and darkness spells
+
+#### Gnome
+
+- **Ability Score Increase:** +2 Intelligence
+- **Size:** Small
+- **Speed:** 25 feet
+- **Languages:** Common, Gnomish
+- **Life Span:** Adult at 40, ~350-500 years
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Gnome Cunning:** Advantage on Intelligence, Wisdom, and Charisma saving throws against magic
+
+**Subraces:**
+- **Forest Gnome:** +1 Dexterity, natural illusionist (minor illusion cantrip), speak with small beasts
+- **Rock Gnome:** +1 Constitution, artificer's lore (+2 to History checks on magic items/alchemical objects/technological devices), tinker ability
+
+#### Half-Elf
+
+- **Ability Score Increase:** +2 Charisma, +1 to two other abilities of your choice
+- **Size:** Medium
+- **Speed:** 30 feet
+- **Languages:** Common, Elvish, one extra language of your choice
+- **Life Span:** Adult at 20, 180+ years
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Fey Ancestry:** Advantage on saving throws against being charmed, magic can't put you to sleep
+- **Skill Versatility:** Proficiency in two skills of your choice
+
+#### Half-Orc
+
+- **Ability Score Increase:** +2 Strength, +1 Constitution
+- **Size:** Medium
+- **Speed:** 30 feet
+- **Languages:** Common, Orc
+- **Life Span:** Adult at 14, ~75 years
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Menacing:** Proficiency in Intimidation
+- **Relentless Endurance:** When dropped to 0 hit points but not killed, drop to 1 hit point instead (once per long rest)
+- **savage Attacks:** When you score a critical hit with a melee weapon, roll one additional weapon damage die
+
+#### Halfling
+
+- **Ability Score Increase:** +2 Dexterity
+- **Size:** Small
+- **Speed:** 25 feet
+- **Languages:** Common, Halfling
+- **Life Span:** Adult at 20, ~150 years
+
+**Racial Traits:**
+- **Lucky:** When you roll a 1 on d20 for attack roll, ability check, or saving throw, reroll and use new result
+- **Brave:** Advantage on saving throws against being frightened
+- **Halfling Nimbleness:** Move through space of any creature one size larger than you
+
+**Subraces:**
+- **Lightfoot Halfling:** +1 Charisma, naturally stealthy (hide behind creatures one size larger)
+- **Stout Halfling:** +1 Constitution, resistance to poison damage, advantage on saving throws against poison
+
+#### Human
+
+- **Ability Score Increase:** +1 to all ability scores
+- **Size:** Medium
+- **Speed:** 30 feet
+- **Languages:** Common, one extra language of your choice
+- **Life Span:** Adult at 18, ~80 years
+
+**Racial Traits:**
+- **Extra Skill:** Proficiency in one skill of your choice
+- **Versatile:** No specific racial traits, but the +1 to all abilities makes them adaptable to any class
+
+**Variant Human (Optional):**
+- **Ability Score Increase:** +1 to two different ability scores
+- **Extra Skill:** Proficiency in one skill of your choice
+- **Feat:** Gain one feat of your choice at 1st level
+
+#### Tiefling
+
+- **Ability Score Increase:** +2 Charisma, +1 Intelligence
+- **Size:** Medium
+- **Speed:** 30 feet
+- **Languages:** Common, Infernal
+- **Life Span:** Adult at 18, slightly longer than humans
+
+**Racial Traits:**
+- **Darkvision:** 60 feet
+- **Hellish Resistance:** Resistance to fire damage
+- **Infernal Legacy:** Know thaumaturgy cantrip, hellish rebuke at 3rd level, darkness at 5th level (once per long rest each, Charisma-based)
+
 ## Classes
 [[DnD PHB 5e Chapter 3.pdf|Classes]]
 
@@ -245,6 +261,46 @@ It's worthwhile to consider why your character is different, as a helpful way to
 |**Sorcerer**|d6|Charisma|Constitution, Charisma|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, Deception, Insight, Intimidation, Persuasion, Religion (choose 2)|
 |**Warlock**|d8|Charisma|Wisdom, Charisma|Light armor, simple weapons|Arcana, Deception, History, Intimidation, Investigation, Nature, Religion (choose 2)|
 |**Wizard**|d6|Intelligence|Intelligence, Wisdom|Daggers, darts, slings, quarterstaffs, light crossbows|Arcana, History, Insight, Investigation, Medicine, Religion (choose 2)|
+
+If you want to try something new or need help deciding, use this table to randomly determine your character's class:
+> [!Note] Don't know what to choose? 
+> Roll a d12:
+> 
+> **1** - Fighter (Versatile warrior)
+> **2** - Rogue (Sneaky specialist)  
+> **3** - Wizard (Arcane scholar)
+> **4** - Cleric (Divine caster)
+> **5** - Ranger (Nature warrior)
+> **6** - Barbarian (Primal fighter)
+> **7** - Bard (Jack-of-all-trades)
+> **8** - Sorcerer (Natural magic)
+> **9** - Warlock (Pact magic)
+> **10** - Paladin (Holy warrior)
+> **11** - Druid (Nature magic)
+> **12** - Monk (Martial artist)
+
+### Class Selection Guide
+
+> [!Info] Class Categories
+> **Martial Classes:** Barbarian, Fighter, Monk, Paladin, Ranger, Rogue 
+> **Spellcasters:** Bard, Cleric, Druid, Sorcerer, Warlock, Wizard 
+> **Hybrid:** Paladin, Ranger (part martial, part spellcaster)
+
+> [!Note] First Level Hit Points 
+> **Hit Points at 1st Level:** Hit Die maximum + Constitution modifier
+> 
+> **Barbarian:** 12 + CON modifier
+> **Fighter/Paladin/Ranger:** 10 + CON modifier
+> **Bard/Cleric/Druid/Monk/Rogue/Warlock:** 8 + CON modifier
+> **Sorcerer/Wizard:** 6 + CON modifier
+
+> [!Warning] Spellcasting Classes 
+>Classes marked as spellcasters gain spells at 1st level: 
+>
+>**Bard, Cleric, Druid, Sorcerer, Wizard:** Full spellcasters from level 1
+>**Warlock:** Pact magic from level 1
+>**Paladin, Ranger:** Spellcasting begins at level 2
+
 
 ### Classes Breakdown
 
@@ -907,28 +963,6 @@ On a new page, can you write me up a level table for each class with their respe
 - **Signature Spells:** Choose two 3rd level spells to always have prepared and cast once without slots
 
 
-### Class Selection Guide
-
-> [!Info] Class Categories
-> **Martial Classes:** Barbarian, Fighter, Monk, Paladin, Ranger, Rogue 
-> **Spellcasters:** Bard, Cleric, Druid, Sorcerer, Warlock, Wizard 
-> **Hybrid:** Paladin, Ranger (part martial, part spellcaster)
-
-> [!Note] First Level Hit Points 
-> **Hit Points at 1st Level:** Hit Die maximum + Constitution modifier
-> 
-> **Barbarian:** 12 + CON modifier
-> **Fighter/Paladin/Ranger:** 10 + CON modifier
-> **Bard/Cleric/Druid/Monk/Rogue/Warlock:** 8 + CON modifier
-> **Sorcerer/Wizard:** 6 + CON modifier
-
-> [!Warning] Spellcasting Classes 
->Classes marked as spellcasters gain spells at 1st level: 
->
->**Bard, Cleric, Druid, Sorcerer, Wizard:** Full spellcasters from level 1
->**Warlock:** Pact magic from level 1
->**Paladin, Ranger:** Spellcasting begins at level 2
-
 ## Character Story
 [[DnD PHB 5e Chapter 4.pdf|Personality & Background]]
 
@@ -944,7 +978,6 @@ Your personality is built from four elements that work together to create a uniq
 #### Quick Personality Generator
 
 ##### Personality Traits (d20)
-Roll: `dice: 1d20`
 
 | d20 | Trait                                      |
 | --- | ------------------------------------------ |
@@ -970,7 +1003,6 @@ Roll: `dice: 1d20`
 | 20  | I bluntly say what others are hiding       |
 
 ##### Ideals (d12)
-Roll: `dice: 1d12`
 
 |d12| Ideal                                                              |
 |---|---|
@@ -988,7 +1020,6 @@ Roll: `dice: 1d12`
 |12| **Glory** - I must earn fame and renown (Any)                      |
 
 ##### Bonds (d20)
-Roll: `dice: 1d20`
 
 |d20|Bond|
 |---|---|
@@ -1014,7 +1045,6 @@ Roll: `dice: 1d20`
 |20|I'm connected to a prophecy|
 
 ##### Flaws (d12)
-Roll: `dice: 1d12`
 
 |d12|Flaw|
 |---|---|
@@ -1031,9 +1061,80 @@ Roll: `dice: 1d12`
 |11|I'm convinced everyone is out to get me|
 |12|I'd rather kill than show mercy|
 
-> [!Warning] Using Personality Elements 
-> These should create interesting roleplay opportunities and drive character decisions, not just be a list of stats.
-> Think about how the character will act, when playing!
+#### Alignments
+
+Your character's alignment represents their moral and ethical outlook on life. It affects how they approach conflicts, relationships, and decisions throughout their adventures.
+
+> [!INFO] It's just for fun
+> An alignment can help, with directing decisions of a character. It can also be useful for development, as alignment can change, or may have already changed in a character's story pre-adventure.
+> Alignments are a great way to bring a character to life, if so desired, however:
+> - It is not required for a character to have or strictly adhere to an alignment.
+> 
+>> [!NOTE] It is your character
+>> It is up to the creator of a character to decide if they wish to take the challenge of being strict with a character's alignment or if they want to use it as a simple guideline for interactions.
+
+If you're unsure or want to try something different:
+
+> [!Note] Don't know what to choose? 
+> Roll a d10:
+> 
+> **0** - Reroll
+> **1** - Lawful Evil  
+> **2** - True Neutral
+> **3** - Chaotic Good
+> **4** - Neutral Evil
+> **5** - Lawful Good
+> **6** - Chaotic Evil
+> **7** - Lawful Neutral
+> **8** - Neutral Good
+> **9** - Chaotic Neutral
+
+##### Alignment Guidelines
+
+> [!Important] Remember
+> - Alignment describes tendencies, not absolute behavior
+> - Characters can grow and change alignment through play
+> - Good characters protect innocents and help others
+> - Evil characters harm others for personal gain
+> - Lawful characters respect authority and keep their word
+> - Chaotic characters value freedom and spontaneity
+> - Neutral characters are balanced or indifferent
+>
+>> [!Warning] Using Personality Elements 
+>> These should create interesting roleplay opportunities and drive character decisions, not just be a list of stats.
+>> Think about how the character will act, when playing!
+
+> [!Warning] Evil Alignments
+> Check with the DM before playing an evil character. Evil alignments work best in specific campaign types and require mature roleplaying to avoid disrupting the group.
+>
+> - Especially when there is intention to be strict with the alignment
+
+##### Alignments Breakdown
+
+| **Alignment** | **Description** | **Typical Behavior** |
+|---|---|---|
+| **Lawful Good** | "The Crusader" | Follows rules and helps others; knights, paladins, just rulers |
+| **Neutral Good** | "The Benefactor" | Helps others regardless of rules; healers, charitable folk |
+| **Chaotic Good** | "The Rebel" | Fights for freedom and justice; robin hood types, freedom fighters |
+| **Lawful Neutral** | "The Judge" | Follows laws and codes strictly; soldiers, bureaucrats, monks |
+| **True Neutral** | "The Undecided" | Balanced approach, avoids extremes; druids, common folk |
+| **Chaotic Neutral** | "The Free Spirit" | Acts on whims, values personal freedom; artists, explorers |
+| **Lawful Evil** | "The Dominator" | Uses laws/rules to control others; tyrants, corrupt officials |
+| **Neutral Evil** | "The Malefactor" | Selfish and cruel when convenient; criminals, mercenaries |
+| **Chaotic Evil** | "The Destroyer" | Spreads violence and mayhem; demons, psychopaths, destroyers |
+
+###### Understanding Alignment
+
+Alignment is a combination of two factors:
+- **Ethical Axis:** Law vs Chaos (how you approach rules and structure)
+- **Moral Axis:** Good vs Evil (your stance on helping vs harming others)
+
+| **Ethic/Moral** | Good         | Neutral         | Evil         |
+| --------------- | ------------ | --------------- | ------------ |
+| **Lawful**      | Lawful Good  | Lawful Neutral  | Lawful Evil  |
+| **Neutral**     | Neutral Good | True Neutral    | Neutral Evil |
+| **Chaotic**     | Chaotic Good | Chaotic Neutral | Chaotic Evil |
+
 
 ### Background
 
@@ -1061,7 +1162,7 @@ Roll: `dice: 1d12`
 > - **Special Feature** (unique ability or social connection)
 
 > [!Note] Don't know what to choose? 
-> Roll a d12 `dice: 1d12`: 
+> Roll a d12: 
 > 
 > **1** - Acolyte 
 > **2** - Charlatan
@@ -1604,7 +1705,7 @@ Use the total to determine spell slots from the **Multiclass Spellcaster table**
 
 **Mounted Combatant:** Advantage against smaller unmounted foes, redirect mount attacks, mount takes no damage on successful saves.
 
-#### Comprehensive feat reference
+#### Feat reference
 
 |Feat|Prerequisites|Key Benefits|
 |---|---|---|
@@ -1678,8 +1779,6 @@ Delegation of stat points:
 - All characters start with 5 in all stats (Total: 30 Points)
 - The points pool is based on a 5d20 total (Total Max: 130 Points)
 - 1 Grace roll (Mulligan) of 2 dice is allowed (You must roll 2 dice)
-
-Roll: `dice: 5d20`
 
 > [!Note] Point Costs
 >- Score 3-10: 1 point (costs 1 for each increase)
