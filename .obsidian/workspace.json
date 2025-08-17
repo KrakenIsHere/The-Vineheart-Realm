@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Rules/Character Creation.md",
+                "file": "4. Assets/Tools/Dice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "Dice"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Rules/Character Creation.md",
+                "file": "4. Assets/Tools/Dice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character Creation"
+              "title": "Outline of Dice"
             }
           },
           {
@@ -212,6 +212,7 @@
   },
   "active": "0cff82c87fc864af",
   "lastOpenFiles": [
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
     "4. Assets/Tools/Dice.md",
     "1. Rules/Character Creation.md",
     "1. Rules/Gameplay Changes.md",
@@ -237,7 +238,6 @@
     "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 2.md",
     "4. Assets/Books/2024/Player's Handbook/P.H. Chapter 1.md",
     "4. Assets/Books/2024/Monster Manual/M.M. Monsters A.md",
-    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
     "4. Assets/Books/5e/DnD 5e Players Handbook (BnW OCR).pdf",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 4.pdf",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 10-11.pdf",
