@@ -20,9 +20,11 @@ timeline
 %%{init: {'theme':'neutral'}}%%
 timeline
     title The Vineheart Realm
-
-	105~115 AGW     : Arcanum Emerges : The Godwounded Form : Onyxia Emerges : Memberia Emerges : Luminia Emerges
-    ~120 AGW        : Guilds Form
+	section The Great Emergence
+		105~115 AGW     : Arcanum Emerges : The Godwounded Form : Onyxia Emerges : Memberia Emerges : Luminia Emerges
+	section Organization Era
+        ~120 AGW : Guild Formations
+        ~130 AGW : Trade Networks begin
 ```
 
 ## Sessions
