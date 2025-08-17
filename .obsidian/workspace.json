@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Assets/Tools/Dice.md",
+                "file": "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dice"
+              "title": "D.M.G. Chapter 1"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Assets/Tools/Dice.md",
+                "file": "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dice"
+              "title": "Outline of D.M.G. Chapter 1"
             }
           },
           {
@@ -212,8 +212,9 @@
   },
   "active": "0cff82c87fc864af",
   "lastOpenFiles": [
-    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
     "4. Assets/Tools/Dice.md",
+    "4. Assets/Tools/Dice.html",
+    "4. Assets/Books/2024/Dungeon Master's Guide/D.M.G. Chapter 1.md",
     "1. Rules/Character Creation.md",
     "1. Rules/Gameplay Changes.md",
     "1. Rules/Levels Breakdown.md",
@@ -246,10 +247,8 @@
     "4. Assets/Books/5e/Player's Handbook/DnD 5e Players Handbook (BnW OCR)-173-182.pdf",
     "4. Assets/Books/5e/Player's Handbook/ilovepdf_split-range (1).zip",
     "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 3.pdf",
-    "4. Assets/Books/5e/Player's Handbook/DnD PHB 5e Chapter 5.pdf",
     "2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/SoV Notes 0.md",
     "2. Sessions/Secrets Of Villany Year 569/0. Mistlin Inn/DM SoV Notes 0.md",
-    "0. World/3. Locations/Information.md",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Dungeon 1.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Camp.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Dungeon 3.webp",
