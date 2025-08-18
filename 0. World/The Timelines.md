@@ -20,11 +20,14 @@ timeline
 %%{init: {'theme':'neutral'}}%%
 timeline
     title The Vineheart Realm
-	section The Great Emergence
-		105~115 AGW     : Arcanum Emerges : The Godwounded Form : Onyxia Emerges : Memberia Emerges : Luminia Emerges
+	section Recovery Era
+		105~115 AGW : Arcanum Emerges : The Godwounded Form : Onyxia Emerges : Memberia Emerges : Luminia Emerges
+		~110+ AGW   : Villages & Minor Cities Establish
 	section Organization Era
-        ~120 AGW : Guild Formations
-        ~130 AGW : Trade Networks begin
+		118~125 AGW : Way Finders Form : Chrimson Cloud Forms : Ethereal Consortium Forms : Verdant Network Forms
+		~130 AGW    : First Trade Routes Established
+	section Cultivation Era
+		 175 AGW : "Normalzy" Restored
 ```
 
 ## Sessions
