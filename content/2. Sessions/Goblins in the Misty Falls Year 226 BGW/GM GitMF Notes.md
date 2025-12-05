@@ -12,7 +12,7 @@ Within the depths a castle like structure is found and there, the Goblins have f
 At the bottom of this location is the egg of a white dragon, the skeleton of the mother is found nearby. 
 
 ## Time & Place
-This dungeon is located at what will become [[The Misty Falls]]. 226 Years before [[Devine War]].
+This dungeon is located at what will become [[The Misty Falls]] ([[Arcanum]]). 226 Years before the end of the [[Devine War]].
 
 # Floors
 
