@@ -10,7 +10,7 @@ tags:
 At the core of the realm lies **The Godwound**, an eternal scar upon reality itself - a testament to the cataclysmic forces that shaped the new realm. This cosmic injury bleeds divine energy into the fabric of existence, warping and reshaping reality.
 
 ## The Godwound
-**The Godwound** is the eternal imprint & lingering reminder of the [[Devine War]]
+**The Godwound** is the eternal imprint & lingering reminder of the [[Divine War]]
 It is the manifestation of the powerful & divine magic that created it.
 It's effects are felt across all the land(s)
 - Forcing the **seas** to **rage** & manifest **monsters**

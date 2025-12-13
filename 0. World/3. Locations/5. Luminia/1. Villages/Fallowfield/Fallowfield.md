@@ -5,6 +5,48 @@ tags:
   - Villages
   - Luminia
 ---
+# Location
+Fallowfield is a village located in northern Luminia within a short cart ride to the northern arctic shore.
+It lies between the forest villages [[Cloverdale]] to the southwest and [[Agrivale]] to the east and [[Harvest Hollow]] beyond the mountains to the south
+
+# Industry
+
+The markets in Fallowfield are booming with high-quality products, thanks to the [[Fallowfield#Improvements|improvements]] to the otherwise poor soil.
+However, there are technically two market systems running in parallel, creating chaos for traveling merchants and endless amusement for the locals.
+
+Despite the inconvenience, the markets thrive. The competing side have driven each other to produce exceptional quality goods to prove superiority. Fallowfield beets, grains, and preserved fish are sought throughout Luminia. The Greywater Traders, "neutral" merchants, profit enormously by buying from both markets and reselling the goods as "Fallowfield Premium" without specifying which village, letting customers assume it's from the "better" side.
+
+## Fishing
+
+### Arctic Fishing
+Both Eastern and Western Fallowfield claim exclusive rights to the northern arctic shore fishing grounds, though in practice they fish the same waters while pretending the other side doesn't exist. The Moonridge Family (West) controls the ferry service and claims traditional fishing rights, while the Goldbrook Merchants (East) insist their dock permits give them priority access. Fishing boats from both villages often race to the same spots, leading to elaborate "accidental" net tangling and passive-aggressive competition over the best catches.
+
+The villages have developed competing fishing techniques:
+- **Eastern Method**: "Deep-pull netting" using weighted nets that supposedly catch superior fish
+- **Western Method**: "Sky-line fishing" with floating buoys that allegedly attracts the finest specimens
+
+Naturally, both methods are nearly identical, but each village swears their technique is centuries old and the other side copied it incorrectly.
+
+## Farmland
+
+### Cold Climate Crops
+The harsh northern climate limits what can be grown, focusing production on hardy crops like root vegetables, cold-resistant grains, and winter squash. Both villages have become expert at coaxing productivity from the short growing season, though each claims their harvest is superior due to "ancient family secrets" that are mostly just slight variations in planting depth.
+
+Key crops include:
+- **Hardy Wheat**: Ground into flour at competing mills, each producing "the original" bread recipe
+- **Root Vegetables**: Turnips, carrots, and the famously disputed beets (called "Redroot" in the East, "Earth blood" in the West)
+- **Winter Cabbage**: Used in competing versions of "traditional" fermented dishes
+- **Cold Barley**: Essential for the rival breweries' ales
+
+### Poor Soil
+The natural soil in the Fallowfield region is rocky, acidic, and nutrient-poor—a legacy of ancient glacial activity. For the first generation after settlement, harvests were meager and survival was difficult. This shared hardship initially brought the community together.
+
+#### Improvements
+Centuries ago, during the second generation after the Great Split, both villages independently "discovered" the same soil improvement technique—and each immediately claimed they invented it first. The method involves layering fish waste from the arctic catches with wood ash from winter fires, then composting it with animal manure and turning it into the fields before spring planting.
+
+The technique works remarkably well, transforming the poor soil into productive farmland. However, the dispute over who invented it sparked one of the longest-running chapters in both the Archive of Slights and the Counter-Archive of Justified Responses. The truth, lost to time, is that a neutral merchant from a traveling family likely taught both sides the same season, but neither will admit this possibility.
+
+Today, both villages maintain elaborate "soil-blessing" ceremonies before spring planting, each claiming their ritual is essential to the technique's success. These ceremonies are nearly identical, performed one day apart (due to the calendar difference), and involve blessing the compost piles with competing "traditional" songs.
 
 # History
 

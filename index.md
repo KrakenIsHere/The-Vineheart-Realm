@@ -14,11 +14,11 @@ The realm consists of 4 main continents, and many islands.
 
 ## Story
 
-It was the end, the end of the realm as it was known. [[Devine War]] erupted when the [[Gods]] split into two factions. Their devastating conflict nearly destroying the world, culminating in the creation of [[The Godwound]] - a tear in reality that forced both sides to cease fighting.
+It was the end, the end of the realm as it was known. [[Divine War]] erupted when the [[Gods]] split into two factions. Their devastating conflict nearly destroying the world, culminating in the creation of [[The Godwound]] - a tear in reality that forced both sides to cease fighting.
 
 The Vineheart Party emerged as mortal heroes during this conflict, protecting people and minimizing casualties. Their actions were so significant that the post-war era became known as The Vineheart Realm, marking the [[Dawn of The New Age]] of mortal self-determination.
 
-[[Devine War#The Godwound|The Godwound's]] power physically split the main continent into four distinct regions each further developing their own unique cultures and societies.
+[[Divine War#The Godwound|The Godwound's]] power physically split the main continent into four distinct regions each further developing their own unique cultures and societies.
 
 Now, the world exists in a changed state. The [[Gods]] are diminished but still worshipped, the Godwound remains a constant threat, and the four continents maintain their independence while dealing with new forms of conflict centered around naval power and trade routes. The Vineheart Realm's influence created a foundation for civilization to recover, though tensions between kingdoms persist.
 
@@ -60,7 +60,7 @@ Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **D
 
 ## Campaigns
 - Y-226 [[GitMF Notes|Goblins in the Misty Falls]]
-- Y569 [[SoV Notes 0|Secrets Of Villainy]]
+- Y482 [[FoF Notes|The Feud of Fallowfield]]
 
 
 ## Resources

@@ -9,14 +9,14 @@ tags:
 Luminia takes its name from the eternal aurora that dances in its skies, a phenomenon said to be a blessing from the gods themselves. Connected to Onyxia through the Obsidian Gate and to Memberia via the Scholar's Bridge.
 
 ### Royalty
-The royal house of **Dawnweaver** rules Luminia, having maintained their position through the [[Devine War]] by harnessing the continent's unique celestial energies.
+The royal house of **Dawnweaver** rules Luminia, having maintained their position through the [[Divine War]] by harnessing the continent's unique celestial energies.
 
 #### The House of Dawnweaver
 The Dawnweavers are unique among the continental rulers for their claim of divine lineage, claiming descent from an ancient solar deity.
 Their rule is marked by a claim of a deep connection to celestial magic and prophetic abilities.
 
 ##### Relation
-Unlike other kingdoms, Luminia's ruling house remained relatively stable through the [[Devine War]], though many of their subsidiary noble houses were lost. The Dawnweavers maintain their position through both "divine right" and the support of powerful religious institutions.
+Unlike other kingdoms, Luminia's ruling house remained relatively stable through the [[Divine War]], though many of their subsidiary noble houses were lost. The Dawnweavers maintain their position through both "divine right" and the support of powerful religious institutions.
 
 ##### History
 The Dawnweavers' originated from their ancestor's ability to "manipulate" the morning sun's light during the kingdom's founding.
