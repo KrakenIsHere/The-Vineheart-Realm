@@ -3,7 +3,7 @@ title: DM's Session 0 Secrets of Villainy Notes
 tags:
   - private
   - Notes
-  - SecrestOfVillainy
+  - SecretsOfVillainy
 ---
 # Events
 

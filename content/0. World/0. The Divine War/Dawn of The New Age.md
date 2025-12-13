@@ -1,17 +1,17 @@
 ---
 title: The New Age
 tags:
-  - DevineWar
+  - DivineWar
   - VineheartRealm
   - VineheartParty
   - DawnOfTheNewAge
 ---
 
 # The Dawn of The New Age
-After the calamity that was the **The Devine War**, by the **Dawn of The New Age**, came **The Vineheart Realm** named after the hero party who kept damages and casualties to a minimum during the war.
+After the calamity that was the **The Divine War**, by the **Dawn of The New Age**, came **The Vineheart Realm** named after the hero party who kept damages and casualties to a minimum during the war.
 
 ## The Vineheart Realm
-In the chaos of the [[Devine War]], when gods themselves threatened to tear the world asunder, a group of heroes emerged who would shape the course of history. **The Vineheart Party**, as they came to be known, worked tirelessly to protect mortal settlements, evacuate civilians from divine battlegrounds, and minimize the catastrophic impact of godly conflicts. Their actions saved countless lives and preserved bastions of civilization that would have otherwise been lost.
+In the chaos of the [[Divine War]], when gods themselves threatened to tear the world asunder, a group of heroes emerged who would shape the course of history. **The Vineheart Party**, as they came to be known, worked tirelessly to protect mortal settlements, evacuate civilians from divine battlegrounds, and minimize the catastrophic impact of godly conflicts. Their actions saved countless lives and preserved bastions of civilization that would have otherwise been lost.
 
 ### Formation of the Realm
 In recognition of their heroic deeds, the surviving powers and peoples united under the banner of these heroes, establishing the Vineheart Realm. This marked the beginning of a new era of mortal self-determination, where people looked not just to the gods but to their own strength and unity for survival.
@@ -55,10 +55,10 @@ The Dawn of The New Age, through the formation of the Vineheart Realm, represent
 ![[The Godwound#The Godwound]]
 
 ### Calendar
-After the end of the [[Devine War]] the realm has reset their time keeping to be in line for the new age.
+After the end of the [[Divine War]] the realm has reset their time keeping to be in line for the new age.
 - This was partially done since the last method for keeping time was unreliable.
 
-- The oldest texts found after pre-[[Devine War]] were estimated to be around 100 years old.
+- The oldest texts found after pre-[[Divine War]] were estimated to be around 100 years old.
 	The calendar was determined to start the new age at the year 100.
 
 - There has since been found what is thought to be older texts.
@@ -82,7 +82,7 @@ After the end of the [[Devine War]] the realm has reset their time keeping to be
 
 
 ## The divided land
-After **The Devine War** the Godwound ripped the continent into several pieces.
+After **The Divine War** the Godwound ripped the continent into several pieces.
 The landmass that was once whole, had become 4 continents and several islands
 
 ### Continents

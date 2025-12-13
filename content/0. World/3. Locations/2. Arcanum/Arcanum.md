@@ -15,7 +15,7 @@ Named after the house of [[Arcanum#The house of Arca|Arca]] the capital of [[Mys
 Connected to [[Memberia]] via the city of [[Ironshore]] and [[Onyxia]] via the city of [[Riverport]]
 
 ### Royalty
-Once ruled by the royal house of **Minli** the results of the [[Devine War]] caused the deaths of several royal branches to go extinct, either in battle or as collateral from the devastation.
+Once ruled by the royal house of **Minli** the results of the [[Divine War]] caused the deaths of several royal branches to go extinct, either in battle or as collateral from the devastation.
 
 Many houses were left to lead this new continent, the new Monarch was picked by finding the one next in line. Many didn't favor this approach but were out numbered by the ones favoring tradition.
 
