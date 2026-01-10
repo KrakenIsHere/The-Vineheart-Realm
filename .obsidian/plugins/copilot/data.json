@@ -1,6 +1,8 @@
 {
+  "userId": "851b1d12-8ad2-4959-8fc8-fb7d15ab3891",
+  "isPlusUser": false,
   "plusLicenseKey": "",
-  "openAIApiKey": "enc_desk_djEwGj+OPukFzv7egJjDdjlt6II5PXbkEG4qIZrND1HQZYLzfbRBMYxdU3bZdaIMJldSvm1CAq2P+Enh+zNgRaOgMEMvl5D5UaKIgJZpti4f7S1UMCVyqxFaImrpMm6wyutrXDibUHTvfb/t4WAUifI5p9QO90FeLiA+53M7ZrrV1yGPnSYB2VNwwzPUh4ApjcudPhaQG/6PExU3EaEQmb9aIhgHaBnRN1J/kF/aADz9atrRlksmzkGgWeEu1kyxHi8r",
+  "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
@@ -12,124 +14,250 @@
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
   "openRouterAiApiKey": "",
+  "xaiApiKey": "",
+  "mistralApiKey": "",
+  "deepseekApiKey": "",
+  "amazonBedrockApiKey": "",
+  "amazonBedrockRegion": "",
+  "siliconflowApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4o|openai",
-  "embeddingModelKey": "text-embedding-3-large|openai",
+  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
-  "maxTokens": 1000,
+  "maxTokens": 6000,
   "contextTurns": 15,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
-  "defaultSaveFolder": "",
-  "defaultConversationTag": "",
-  "autosaveChat": false,
+  "defaultSaveFolder": "copilot/copilot-conversations",
+  "defaultConversationTag": "copilot-conversation",
+  "autosaveChat": true,
+  "generateAIChatTitleOnSave": true,
+  "includeActiveNoteAsContext": true,
   "defaultOpenArea": "view",
-  "customPromptsFolder": "",
+  "defaultSendShortcut": "enter",
+  "customPromptsFolder": "copilot/copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
-  "qaExclusions": "",
+  "qaExclusions": "copilot",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
-  "enableEncryption": true,
-  "maxSourceChunks": 5,
+  "enableEncryption": false,
+  "maxSourceChunks": 15,
+  "enableInlineCitations": true,
   "groqApiKey": "",
   "activeModels": [
     {
-      "name": "gpt-4o",
+      "name": "copilot-plus-flash",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "plusExclusive": true,
+      "projectEnabled": false,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash-lite",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-pro",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
-      "apiKey": ""
+      "capabilities": [
+        "vision"
+      ]
     },
     {
-      "name": "gpt-4o-mini",
+      "name": "gpt-5-mini",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
-      "apiKey": ""
+      "capabilities": [
+        "vision"
+      ]
     },
     {
-      "name": "claude-3-5-sonnet-latest",
-      "provider": "anthropic",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "apiKey": ""
-    },
-    {
-      "name": "gpt-4-turbo",
+      "name": "gpt-4.1",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
-      "apiKey": ""
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
     },
     {
-      "name": "claude-3-5-sonnet-20240620",
+      "name": "gpt-4.1-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "openai/gpt-4.1",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": false,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "openai/gpt-4.1-mini",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": false,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "grok-4-fast",
+      "provider": "xai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": false,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "x-ai/grok-4-fast",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": false,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "claude-sonnet-4-20250514",
       "provider": "anthropic",
       "enabled": true,
       "isBuiltIn": true,
-      "apiKey": ""
+      "capabilities": [
+        "vision",
+        "reasoning"
+      ]
     },
     {
-      "name": "claude-3-haiku-20240307",
-      "provider": "anthropic",
-      "enabled": true,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
-      "name": "command-r",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
-      "name": "command-r-plus",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
-      "name": "gemini-1.5-pro",
+      "name": "gemini-2.5-flash",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
-      "apiKey": ""
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
     },
     {
-      "name": "gemini-1.5-flash",
+      "name": "gemini-2.5-flash-lite",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
-      "apiKey": ""
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gemini-2.5-pro",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": true,
-      "isBuiltIn": true,
-      "apiKey": ""
+      "isBuiltIn": true
     },
     {
       "name": "deepseek-chat",
-      "provider": "3rd party (openai-format)",
+      "provider": "deepseek",
       "enabled": true,
+      "isBuiltIn": true
+    },
+    {
+      "name": "deepseek-reasoner",
+      "provider": "deepseek",
+      "enabled": true,
+      "isBuiltIn": true,
+      "capabilities": [
+        "reasoning"
+      ]
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "provider": "siliconflow",
+      "enabled": false,
       "isBuiltIn": false,
-      "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "",
-      "isEmbeddingModel": false,
-      "temperature": 0.1,
-      "context": 1000,
-      "stream": true,
-      "enableCors": false
+      "baseUrl": "https://api.siliconflow.com/v1"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-R1",
+      "provider": "siliconflow",
+      "enabled": false,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.com/v1",
+      "capabilities": [
+        "reasoning"
+      ]
     }
   ],
   "activeEmbeddingModels": [
@@ -139,15 +267,19 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "plusExclusive": true
     },
     {
       "name": "copilot-plus-large",
-      "provider": "copilot-plus",
+      "provider": "copilot-plus-jina",
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "plusExclusive": true,
+      "believerExclusive": true,
+      "dimensions": 1024
     },
     {
       "name": "copilot-plus-multilingual",
@@ -155,7 +287,9 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "plusExclusive": true,
+      "dimensions": 512
     },
     {
       "name": "text-embedding-3-small",
@@ -164,6 +298,23 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true
+    },
+    {
+      "name": "gemini-embedding-001",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "Qwen/Qwen3-Embedding-0.6B",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "baseUrl": "https://api.siliconflow.com/v1"
     },
     {
       "name": "text-embedding-3-large",
@@ -194,73 +345,42 @@
       "isEmbeddingModel": true
     }
   ],
-  "embeddingRequestsPerSecond": 10,
+  "embeddingRequestsPerMin": 60,
+  "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
   "numPartitions": 1,
-  "enabledCommands": {
-    "fix-grammar-prompt": {
-      "enabled": true,
-      "name": "Fix grammar and spelling of selection"
-    },
-    "summarize-prompt": {
-      "enabled": true,
-      "name": "Summarize selection"
-    },
-    "generate-toc-prompt": {
-      "enabled": true,
-      "name": "Generate table of contents for selection"
-    },
-    "generate-glossary-prompt": {
-      "enabled": true,
-      "name": "Generate glossary for selection"
-    },
-    "simplify-prompt": {
-      "enabled": true,
-      "name": "Simplify selection"
-    },
-    "emojify-prompt": {
-      "enabled": true,
-      "name": "Emojify selection"
-    },
-    "remove-urls-prompt": {
-      "enabled": true,
-      "name": "Remove URLs from selection"
-    },
-    "rewrite-tweet-prompt": {
-      "enabled": true,
-      "name": "Rewrite selection to a tweet"
-    },
-    "rewrite-tweet-thread-prompt": {
-      "enabled": true,
-      "name": "Rewrite selection to a tweet thread"
-    },
-    "make-shorter-prompt": {
-      "enabled": true,
-      "name": "Make selection shorter"
-    },
-    "make-longer-prompt": {
-      "enabled": true,
-      "name": "Make selection longer"
-    },
-    "eli5-prompt": {
-      "enabled": true,
-      "name": "Explain selection like I'm 5"
-    },
-    "press-release-prompt": {
-      "enabled": true,
-      "name": "Rewrite selection to a press release"
-    },
-    "translate-selection-prompt": {
-      "enabled": true,
-      "name": "Translate selection"
-    },
-    "change-tone-prompt": {
-      "enabled": true,
-      "name": "Change tone of selection"
-    }
-  },
+  "lexicalSearchRamLimit": 100,
   "promptUsageTimestamps": {},
-  "defaultConversationNoteName": "{$topic}@{$date}_{$time}"
+  "promptSortStrategy": "timestamp",
+  "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
+  "inlineEditCommands": [],
+  "projectList": [],
+  "lastDismissedVersion": null,
+  "passMarkdownImages": true,
+  "enableAutonomousAgent": true,
+  "enableCustomPromptTemplating": true,
+  "enableSemanticSearchV3": false,
+  "enableLexicalBoosts": true,
+  "suggestedDefaultCommands": true,
+  "autonomousAgentMaxIterations": 4,
+  "autonomousAgentEnabledToolIds": [
+    "localSearch",
+    "readNote",
+    "webSearch",
+    "pomodoro",
+    "youtubeTranscription",
+    "writeToFile",
+    "replaceInFile",
+    "updateMemory"
+  ],
+  "reasoningEffort": "low",
+  "verbosity": "medium",
+  "memoryFolderName": "copilot/memory",
+  "enableRecentConversations": true,
+  "maxRecentConversations": 30,
+  "enableSavedMemory": true,
+  "quickCommandIncludeNoteContext": true,
+  "autoIncludeTextSelection": false
 }
