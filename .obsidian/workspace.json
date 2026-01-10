@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. World/4. Legends/The Immortal Soul.md",
+                "file": "3. Characters/Non-Playable/Custom Creatures/The Soul bound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Immortal Soul"
+              "title": "The Soul bound"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. World/4. Legends/The Immortal Soul.md",
+                "file": "3. Characters/Non-Playable/Custom Creatures/The Soul bound.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Immortal Soul"
+              "title": "Outline of The Soul bound"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "90d41aec30d05de9",
   "lastOpenFiles": [
-    "3. Characters/Non-Playable/Custom Creatures/DM The Soul bound.md",
-    "3. Characters/Non-Playable/Custom Creatures/The Soul bound.md",
     "0. World/4. Legends/The Immortal Soul.md",
+    "3. Characters/Non-Playable/Custom Creatures/The Soul bound.md",
+    "3. Characters/Non-Playable/Custom Creatures/DM The Soul bound.md",
     "0. World/4. Legends/The Immortal Soul",
     "0. World/4. Legends",
     "0. World/3. Locations/5. Luminia/1. Villages/Fallowfield/Fallowfield.md",

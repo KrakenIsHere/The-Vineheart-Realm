@@ -239,6 +239,7 @@ A tale claiming the gods themselves prevent mortals from achieving true immortal
 
 ## Related Information
 
+- [[The Soul Bound]] - The result of the ritual
 - [[The Godwound]] - Potential source of the curse
 - [[The Godwounded]] - Organization that tracks and contains Soul bound
 - [[Divine War]] - Historical context for the legend's origins
