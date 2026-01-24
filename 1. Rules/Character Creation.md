@@ -1757,6 +1757,26 @@ Individual stats simply represent their modifier, and holds no specific traits
 **Wisdom (WIS):** Awareness, perception, insight, animal handling, divine magic
 **Charisma (CHA):** Force of personality, persuasion, deception, performance, certain magic
 
+#### Other Descriptions
+
+#### Detailed
+
+- **Strength** - Your raw physical power and athletic ability. How much you can lift, how hard you hit, your capacity for physical force.
+- **Dexterity** - Your agility, reflexes, and fine motor control. How well you move, dodge, balance, and perform precise physical tasks.
+- **Constitution** - Your physical resilience, health, and stamina. How well you resist fatigue, illness, poison, and physical harm.
+- **Intelligence** - Your reasoning ability, memory, and capacity for learning. How well you recall information, solve problems logically, and understand complex concepts.
+- **Wisdom** - Your awareness, intuition, and insight. How well you notice things, read situations and people, and apply practical judgment. (Your original description conflates this with Intelligence - Wisdom is more about perception and situational awareness than data gathering speed.)
+- **Charisma** - Your force of personality, persuasiveness, and social presence. How well you influence, lead, perform, deceive, or inspire others. (Your description was close, but it's broader than just communicating analysis - it's about personal magnetism and social effectiveness.)
+
+##### Punches
+
+- **Strength** - How hard you can punch 
+- **Constitution** - How well you take a punch 
+- **Dexterity** - How well you dodge a punch 
+- **Charisma** - How well you can talk yourself out of getting punched 
+- **Intelligence** - How much you know about a punch 
+- **Wisdom** - How well you know how to not get punched
+
 | Score | Modifier | Score | Modifier |
 |-------|----------|-------|----------|
 | 1     | -5       | 16-17 | +3       |
