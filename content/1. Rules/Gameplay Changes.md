@@ -247,6 +247,7 @@ Should an action, result in a fellow player taking damage, the DM will determine
 > [!Note] Exceptions
 >- Mage hand can convey touch-based spells
 - Mage hand is a concentration spell
+- Within 1km of an active Godwound manifestation, spellcasters have disadvantage on concentration checks
 
 
 # Status Effects

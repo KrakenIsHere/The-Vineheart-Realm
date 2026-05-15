@@ -29,6 +29,17 @@ While some might view actions as Heroic others might see these same actions as d
 
 Some factions are natural enemies. Gaining reputation with one may automatically reduce reputation with its rivals.
 
+| Faction A | Faction B | Relationship | Rule |
+| --- | --- | --- | --- |
+| The Wounded | Crimson Cloud | Rival | If reputation with one increases by +1 from a major action, reduce the other by -1 unless covert support is proven hidden. |
+| Verdant Network | Ethereal Consortium | Rival | Large planar experimentation in protected wildlands grants +1 with Consortium and -1 with Verdant Network. |
+| Way Finders | Crimson Cloud | Tense | Assassination, sabotage, or route manipulation against mapped routes grants +1 with Crimson Cloud and -1 with Way Finders. |
+| Memberia | Onyxia | Trade Rival | Economic sabotage or embargo support grants +1 with one and -1 with the other. |
+| Arcanum | Onyxia | Trade Rival | Port or tariff favoritism grants +1 with one and -1 with the other when publicly known. |
+
+> [!Note] DM Use
+> Only apply automatic opposing penalties to actions that are public, provable, or politically visible.
+
 > [!Note] DM Notes (Benefits of the System)
 > - Creates dynamic political landscapes for players to navigate
 > - Rewards consistent character choices and alignments

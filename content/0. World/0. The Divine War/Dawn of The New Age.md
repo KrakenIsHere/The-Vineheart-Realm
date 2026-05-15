@@ -64,12 +64,12 @@ After the end of the [[Divine War]] the realm has reset their time keeping to be
 - There has since been found what is thought to be older texts.
 
 #### Days
-- Moonday
+- Moonsday
 - Tinsday
 - Whensday
-- Thiesday
-- Fireday
-- Surtday
+- Thiefsday
+- Firesday
+- Surtursday
 - Sinsday
 
 #### Months
@@ -150,6 +150,12 @@ The Sundering brought an end to ancient territorial disputes but gave rise to ne
 - Trade routes and island control drive modern politics
 - Each continent developed distinct cultural identities
 - Inter-continental alliances are both vital and fragile
+
+### Trade Route Baselines
+- [[Arcanum]] <-> [[Memberia]] (via [[Ironshore]] and [[Raven's Watch]]): 8-12 days by merchant vessel in normal weather
+- [[Arcanum]] <-> [[Onyxia]] (via [[Riverport]] and [[Bayshore]]): 6-9 days by merchant vessel, often delayed by raids
+- [[Onyxia]] <-> [[Luminia]] (via [[Sapphire Bay]] and [[Coral Bay]]): 5-8 days by merchant vessel under naval escort
+- Island routes vary heavily with storms from [[The Godwound]], often adding 1-4 days
 
 ### Technological and Magical Evolution
 The post-Sundering world saw unique developments:

@@ -11,7 +11,7 @@ tags:
 ![[Arcanum-V1.png]]
 
 ## History
-Named after the house of [[Arcanum#The house of Arca|Arca]] the capital of [[Mystara]] lies at the center if this continent.
+Named after the house of [[Arcanum#The house of Arca|Arca]], this continent is now called Arcanum while its central capital city retains the name [[Mystara]].
 Connected to [[Memberia]] via the city of [[Ironshore]] and [[Onyxia]] via the city of [[Riverport]]
 
 ### Royalty

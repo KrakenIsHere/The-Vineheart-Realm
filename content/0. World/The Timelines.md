@@ -54,6 +54,7 @@ timeline
     title Adventures
 
 	226 BGW : Goblins in the Misty Falls
+	357 AGW : The Curse of Hope
     482 AGW : The Feud of Fallowfield
     569 AGW : Secrets Of Villainy
 ```
