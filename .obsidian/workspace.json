@@ -20,19 +20,21 @@
               "icon": "lucide-file",
               "title": "Gameplay Changes"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f02bd1b13b509564",
+        "type": "tabs",
+        "children": [
           {
-            "id": "e58328c99e04b174",
+            "id": "ca92b3bc96e8b61d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Rules/Character Creation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "New tab"
             }
           }
         ]
@@ -108,13 +110,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Rules/Gameplay Changes.md",
+                "file": "4. Assets/Breakdowns/GM Information Screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gameplay Changes"
+              "title": "Outline of GM Information Screen"
+            }
+          },
+          {
+            "id": "93919ede5fb974f8",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6ac80ab98aab",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 2,
+                    "year": 569
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -174,44 +198,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "1a7b886da9c159d7",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_6ac80ab98aab",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 15,
-                    "month": 2,
-                    "year": 569
-                  },
-                  "displayDayNumber": true,
-                  "displayMoons": true
-                }
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "fd6f601de2761848",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dice-roller-icon",
-              "title": "Dice Tray"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,15 +215,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "90d41aec30d05de9",
+  "active": "93919ede5fb974f8",
   "lastOpenFiles": [
-    "1. Rules/Character Creation.md",
+    "4. Assets/Breakdowns/GM Information Screen.md",
     "1. Rules/Gameplay Changes.md",
+    "1. Rules/Character Creation.md",
     "1. Rules/Levels Breakdown.md",
     "1. Rules/World Additional.md",
     "3. Characters/Non-Playable/Custom Creatures/The Soul bound.md",
@@ -259,7 +253,6 @@
     "0. World/3. Locations/5. Luminia/1. Villages/Harvest Hollow/Harvest Hollow.md",
     "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn/DM SoV Notes 0.md",
     "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn/SoV Notes 0.md",
-    "0. World/The Timelines.md",
     "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn",
     "2. Sessions/Secrets Of Villainy Year 569",
     "0. World/0. The Devine War",
