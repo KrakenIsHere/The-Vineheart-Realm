@@ -13,6 +13,7 @@ At the bottom of this location is the egg of a white dragon, the skeleton of the
 
 ## Time & Place
 This dungeon is located at what will become [[The Misty Falls]] ([[Arcanum]]). 226 Years before the end of the [[Divine War]].
+This adventure predates the formation of The Vineheart Party and is part of the pre-Vineheart historical record.
 
 # Floors
 

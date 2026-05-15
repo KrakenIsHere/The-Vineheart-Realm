@@ -15,6 +15,7 @@ At the heart of each continent's [[Godwound Containment|ritual]] stands a Godwou
 #### The Frost Speaker
 - Wears ceremonial armor made from blue titanium called eternal ice
 - Has the longest lifespan of all priestesses due to the preserving cold
+- Typical service span: 150-200 years
 
 ### The Luminian Priestess
 #### The Wind Whisperer
@@ -27,6 +28,7 @@ At the heart of each continent's [[Godwound Containment|ritual]] stands a Godwou
 - Bears special resistance to extreme heat
 - Shortest average lifespan due to the intensity of their powers
 - Can communicate through flames with other fire temples
+- Typical service span: 40-60 years
 
 ### The Arcanian Priestess
 #### The Tide Singer
@@ -40,7 +42,7 @@ At the heart of each continent's [[Godwound Containment|ritual]] stands a Godwou
 - Training begins as early as at age seven and continues until ascension
 - Multiple candidates are trained, but only one can be chosen
 - The training process involves both scholarly study and magical attunement
-In the event that a candidate cannot be 
+- In the event that a candidate cannot be safely attuned, they are reassigned to The Echo Chamber or related support roles.
 
 
 ## The Priestess's Role

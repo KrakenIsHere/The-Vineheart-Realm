@@ -4,81 +4,101 @@ tags:
   - index
   - Details
 ---
-# An Introduction
+# The Vineheart Realm
 
-## World
+## World Snapshot
+The realm consists of four major continents and many islands, shaped by the aftermath of the Divine War and the creation of the Godwound. Inter-continental politics, trade routes, and containment of unstable divine residue define the modern age.
 
-The realm consists of 4 main continents, and many islands.
 ![[The Vineheart Realm V0.6.jpg]]
 
+## Story Summary
+It was the end of the realm as it was known. [[Divine War]] erupted when the [[Gods]] split into two factions, and their devastating conflict nearly shattered the world.
 
-## Story
+That war culminated in the creation of [[The Godwound]]: a tear in reality so catastrophic that even divine armies were forced to cease.
 
-It was the end, the end of the realm as it was known. [[Divine War]] erupted when the [[Gods]] split into two factions. Their devastating conflict nearly destroying the world, culminating in the creation of [[The Godwound]] - a tear in reality that forced both sides to cease fighting.
+In that chaos, the Vineheart Party rose as mortal heroes, protecting settlements, reducing casualties, and preserving what civilization they could. Their legacy was so great that the age that followed became known as **The Vineheart Realm**, marking the [[Dawn of The New Age]] of mortal self-determination.
 
-The Vineheart Party emerged as mortal heroes during this conflict, protecting people and minimizing casualties. Their actions were so significant that the post-war era became known as The Vineheart Realm, marking the [[Dawn of The New Age]] of mortal self-determination.
+[[Divine War#The Godwound|The Godwound's]] power split the old landmass into distinct continents and island chains. The gods endured but diminished. The wound remained.
 
-[[Divine War#The Godwound|The Godwound's]] power physically split the main continent into four distinct regions each further developing their own unique cultures and societies.
+Now the world survives in uneasy balance. Trade, naval power, and political rivalry shape daily life, while [[The Godwounded|The Wounded]] and the [[Wounded Priestesses]] maintain [[Godwound Containment|containment rituals]] to keep the scar from swallowing the realm anew.
 
-Now, the world exists in a changed state. The [[Gods]] are diminished but still worshipped, the Godwound remains a constant threat, and the four continents maintain their independence while dealing with new forms of conflict centered around naval power and trade routes. The Vineheart Realm's influence created a foundation for civilization to recover, though tensions between kingdoms persist.
+## Current Era Summary
+The present era is defined by recovery, maritime power, and political tension. The four continents are culturally distinct and interdependent through trade, while rival factions and guilds compete for influence over routes, resources, and magical sites. Most day-to-day conflict is mortal-driven, but Godwound anomalies can rapidly turn local issues into regional crises.
 
-Through all this, mortals have learned to rely more on themselves than divine intervention, developing new forms of magic, technology, and governance to thrive in this transformed world.
+## Core Lore
 
-While the effects of [[The Godwound|The Godwound]] appears to increase in frequency and organization known as [[The Godwounded|The Wounded]] has emerged to quell this immense magic surge. The [[Wounded Priestesses]] and their [[Godwound Containment|rituals]] do appear to be successful, with the growth halted for centuries, the populace doesn't realize the impact.
+### Foundational Texts
+#### [[Divine War]]
+The first and greatest fracture. A war of gods that shattered certainty, splintered loyalties, and left the realm permanently scarred.
 
-## Additions
-There are some add-ons within **The Vineheart Realm** that doesn't natively exist in **Dungeons & Dragons 5e** or **2024**
-- [[World Additional|World Additions]]
+#### [[Gods]]
+Not gone, not whole. Their diminished influence still bends kingdoms, faiths, and ambitions around old wounds that never truly closed.
 
-> [!Note] Notable add-ons
->- Reputation
->	- Factions
->- Environmental Sites
+#### [[The Godwound]]
+The scar at the center of everything. It does not merely exist; it leaks pressure into storms, monsters, and the fragile logic of the world.
 
-## Rules
-Here the rules and general concept follows **Dungeons & Dragons 5e** with a few exceptions and additions all listed within the following documents:
-- [[Gameplay Changes|Gameplay]] 
-- [[Bastions Changes|Bastions]]
+#### [[The Godwounded]]
+An order forged by necessity rather than glory. Their neutrality is uneasy, their methods guarded, and their authority earned in catastrophe prevented.
 
-> [!Note] Notable Changes
-> Some changes have been adjusted to either limit or remove limits for players, such as:
->- Lowering money made from Bastions
->- Making Bastions more expensive
->- Adding upgrade states to Bastions
->- Expanding on EXP & Rest mechanics
->- Limiting touch-based spells
->	- Extending touch through other spells
+#### [[Wounded Priestesses]]
+Living vessels of inherited burden. They carry memory, ritual, and consequence in their bodies, often paying for stability with years of their own lives.
 
+#### [[Godwound Containment]]
+The rites that keep apocalypse procedural. Precise, synchronized, and unforgiving, these rituals are the line between uneasy peace and cascading ruin.
 
-## Gameplay
+### Continental Pillars
+#### [[Arcanum]]
+Mercantile pragmatism, political lineage, and ports that feed the realm's central routes.
 
-As with the rules the general gameplay is based on **Dungeons & Dragons 5e**. However, as with most things, NERDS tend to over complicate shit.
+#### [[Onyxia]]
+Mineral power, hard recovery, and a kingdom built on trade leverage and steel resolve.
 
-So some aspects of the game will be simplified, depending on the situation. And some elements will be loosely based (or a straight up ripoff) off of **Baulder's Gate 3** in the name of having fun, and not being lame rule sticklers.
+#### [[Memberia]]
+Scholarship, memory, and disciplined magical governance with long strategic horizons.
 
-Certain aspects such as the [[Bastions Changes|Bastions]] are taken from the **Dungeons & Dragons 2024** rules.
+#### [[Luminia]] 
+Celestial pageantry and divine-right monarchy under the glow of ritual significance.
+
+## Rules Hub
+### Rules Philosophy
+Rules use DnD 5e + 2024 as baseline, with homebrew systems focused on pacing, world reactivity, and campaign-specific tension.
+
+### Character and Session Rules
+- [[Character Creation]] - Build characters that feel native to Vineheart, not imported from elsewhere.
+- [[Gameplay Changes|Gameplay Changes]] - Core table adjustments for rest, inspiration, magic limits, and pacing.
+- [[Levels Breakdown]] - What each tier means in-world, from capable mortal to reality-bending legend.
+
+### World and Domain Systems
+- [[Bastions Changes]] - Domain play tuned for scarcity, investment, and strategic consequence.
+- [[World Additional|World Additions]] - Setting systems that make the world react to player choices.
+- [[Faction Reputation]] - Political gravity in rules form: every ally gained can cast a rival's shadow.
+- [[Special Sites]] - High-impact locations where narrative risk and mechanical reward collide.
 
 ## Campaigns
-- Y-226 [[GitMF Notes|Goblins in the Misty Falls]]
-- Y482 [[FoF Notes|The Feud of Fallowfield]]
+### Era Snapshot
+Current campaigns span pre-war and post-war eras, giving you historical contrast and modern continuity.
 
+### Campaign Index
+- Y-226 BGW: [[GitMF Notes|Goblins in the Misty Falls]] (Completed) - A pre-war descent into ruins, deception, and fatal curiosity.
+- Y357 AGW: [[The Curse of Hope Year 357|The Curse of Hope]] (Planned) - False miracles threaten to weaponize faith and unravel fragile peace.
+- Y482 AGW: [[FoF Notes|The Feud of Fallowfield]] (Planned/Prep) - Petty rivalry hides deep social knots and volatile communal memory.
+- Y569 AGW: [[SoV Notes 0|Secrets of Villainy]] (Active) - Rumors, shady patrons, and layered motives ignite from a single inn.
 
-## Resources
+## Tools and References
 
-### Dungeons & Dragons
+### Dungeons & Dragons Sources
 
 #### 5e
-- [[DnD 5e Players Handbook (BnW OCR).pdf|Players' Handbook]]
-- [[Dungeon Master's Guide.pdf|DM Guide]]
-- [[Monster Manual.pdf|Monster Manual]]
+- [[DnD 5e Players Handbook (BnW OCR).pdf|Players' Handbook]] - Baseline player rules and character options.
+- [[Dungeon Master's Guide.pdf|DM Guide]] - Core adjudication and encounter-building guidance.
+- [[Monster Manual.pdf|Monster Manual]] - Creature reference for threat design and reskinning.
 
 #### 2024
-- [[P.H. Chapter 1|Players' Handbook]]
-- [[D.M.G. Chapter 1|Dungeon Master's Guide]]
-- [[M.M. How to|Monster Manual]]
+- [[P.H. Chapter 1|Players' Handbook]] - Updated player-facing framework and option language.
+- [[D.M.G. Chapter 1|Dungeon Master's Guide]] - 2024 DM design principles and procedural scaffolding.
+- [[M.M. How to|Monster Manual]] - Modern encounter guidance and monster-use methodology.
 
-### Tools
-
-- [[General|General DnD Tools]]
-- [[Building|World Building Tools]]
-- [[AI|AI Tools]]
+### Utility Notes
+- [[General|General DnD Tools]] - Practical prep aids for rulings, pacing, and session logistics.
+- [[Building|World Building Tools]] - Frameworks to expand settlements, regions, and cultural texture.
+- [[AI|AI Tools]] - Optional accelerators for drafting, iteration, and ideation support.

@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Rules/Gameplay Changes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay Changes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f02bd1b13b509564",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca92b3bc96e8b61d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -110,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Assets/Breakdowns/GM Information Screen.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GM Information Screen"
+              "title": "Outline of index"
             }
           },
           {
@@ -134,7 +118,8 @@
                     "year": 569
                   },
                   "displayDayNumber": true,
-                  "displayMoons": true
+                  "displayMoons": true,
+                  "displayWeeks": true
                 }
               },
               "icon": "CALENDARIUM",
@@ -157,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. World/1. House Rules/Gameplay Changes.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gameplay Changes"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -200,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,12 +205,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "93919ede5fb974f8",
+  "active": "90d41aec30d05de9",
   "lastOpenFiles": [
-    "4. Assets/Breakdowns/GM Information Screen.md",
+    "0. World/1. The Godwound/The Wounded/The Godwounded.md",
+    "index.md",
     "1. Rules/Gameplay Changes.md",
-    "1. Rules/Character Creation.md",
     "1. Rules/Levels Breakdown.md",
+    "4. Assets/Breakdowns/GM Information Screen.md",
+    "2. Sessions/The Curse of Hope Year 357/The Curse of Hope Year 357.md",
+    "1. Rules/Character Creation.md",
     "1. Rules/World Additional.md",
     "3. Characters/Non-Playable/Custom Creatures/The Soul bound.md",
     "0. World/4. Legends/The Immortal Soul.md",
@@ -250,9 +238,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "0. World/3. Locations/5. Luminia/1. Villages/Fallowfield/DM Fallowfield.md",
-    "0. World/3. Locations/5. Luminia/1. Villages/Harvest Hollow/Harvest Hollow.md",
-    "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn/DM SoV Notes 0.md",
-    "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn/SoV Notes 0.md",
     "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn",
     "2. Sessions/Secrets Of Villainy Year 569",
     "0. World/0. The Devine War",
