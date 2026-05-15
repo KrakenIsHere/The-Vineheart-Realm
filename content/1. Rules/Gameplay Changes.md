@@ -83,32 +83,34 @@ Duration: 6 Hours
 # Characters:
 Generally changed from [[DnD 5e Players Handbook (BnW OCR).pdf#page=8|5e]]
 
-## Inspiration
+## Roll Addons
+
+### Inspiration
 Inspiration is a powerful tool that represents moments when characters rise above their normal capabilities, drawing upon inner reserves of heroism, willpower, or dramatic flair. This expanded system transforms inspiration from a simple binary state into a dynamic resource that grows with character development and meaningful role-playing.
 
-### Earning Inspiration
+#### Earning Inspiration
 
 Characters can earn inspiration points in several ways:
 
-#### Role-Playing Excellence
+##### Role-Playing Excellence
 
 - **Character Values**: Acting according to your character's beliefs, flaws, bonds, or ideals, especially when doing so creates complications.
 - **Memorable Moments**: Creating standout moments through vivid descriptions, emotional depth, or creative problem-solving.
 - **Character Growth**: Demonstrating significant character development or confronting personal demons.
 
-#### Game Contributions
+##### Game Contributions
 
 - **Recap Bonus**: A player who volunteers to recap the previous session can earn 1 inspiration point.
 - **Group Support**: Helping another player shine or supporting the table dynamics in a positive way.
 - **Creative Solutions**: Devising approaches to challenges that surprise and entertain the table.
 
-#### Milestone Achievements
+##### Milestone Achievements
 
 - **Personal Quest Progress**: Advancing a character's personal storyline.
 - **Critical Discoveries**: Uncovering vital information that propels the campaign forward.
 - **Heroic Sacrifices**: Taking significant risks for the good of the party or NPCs.
 
-### Capacity
+#### Capacity
 
 Unlike the standard rules where inspiration is simply held or not held, this system allows accumulation:
 
@@ -119,49 +121,103 @@ Unlike the standard rules where inspiration is simply held or not held, this sys
 | 11-16           | 3 points                   |
 | 17-20           | 5 points                   |
 
-### Usage
+#### Usage
 
 Inspiration points can be spent in various ways, with more powerful effects requiring more points:
 
-#### Basic Uses (1 Point)
+##### Basic Uses (1 Point)
 
 - **Advantage**: Gain advantage on any d20 roll.
 - **Assist Ally**: Grant advantage to another player's roll.
 - **Flashback**: Establish a minor previously unmentioned preparation or connection.
 - **Second Wind**: Regain hit points equal to your level + Constitution modifier (once per short rest).
 
-#### Advanced Uses (2 Points)
+##### Advanced Uses (2 Points)
 
 - **Decisive Moment**: Add your proficiency bonus to any d20 roll after seeing the result.
 - **Narrative Control**: Introduce a minor environmental detail or NPC connection that aids the current situation.
 - **Resilience**: Automatically succeed on a saving throw to maintain concentration.
 - **Heroic Effort**: Take an additional bonus action on your turn.
 
-#### Heroic Uses (3 Points)
+##### Heroic Uses (3 Points)
 
 - **Turning Point**: Turn a failure into a success on any d20 roll.
 - **Critical Moment**: Convert a hit into a critical hit.
 - **Defiance**: Ignore the effects of one condition until the end of your next turn.
 - **Inspiration Surge**: Immediately regain and use a spent feature, spell slot of 3rd level or lower, or class resource.
 
-#### Legendary Acts (All Inspiration Points)
+##### Legendary Acts (All Inspiration Points)
 
 - **Fate's Hand**: Automatically succeed on a death saving throw and regain 1 hit point.
 - **Heroic Intervention**: Take a full turn out of initiative order.
 - **Miraculous Escape**: Avoid all damage and effects from one attack or event that would reduce you to 0 hit points.
 - **Narrative Twist**: Work with the DM to introduce a significant plot development or unexpected aid in a dire situation.
 
-### Decay
+#### Decay
 
 To encourage the use of inspiration:
 - At the end of each session, characters lose their accumulated inspiration points.
 
-### Tracking
+#### Tracking
 
 Players track inspiration points on their character sheets. The DM may provide physical tokens (coins, glass beads, etc.) to represent inspiration points for a tactile reminder of this resource.
 
 >[!NOTE] DM Note:
 >_Remember that inspiration is meant to reward and encourage the kind of play that makes the game more enjoyable for everyone._
+
+### Drastic Modifiers
+
+Drastic Modifiers are special bonuses or penalties that dramatically alter the outcome of a roll, reflecting moments when fate, preparation, or circumstance swing the odds far beyond the ordinary.
+
+#### Earning Drastic Modifiers
+
+Drastic Modifiers can be earned in two ways:
+
+**Player-Earned:**
+- **Preparation:** The character spends time, resources, or effort setting up for a specific action (e.g., laying traps, researching, rehearsing).
+- **Bold Risk:** The player willingly accepts a complication, danger, or drawback to improve their odds.
+- **Creative Flair:** The action is especially clever, dramatic, or fitting for the character’s story.
+- **Momentum:** The character’s earlier actions in the scene create a clear opening or advantage.
+
+Players may suggest when they believe they’ve earned a Drastic Modifier, but the DM has final say.
+
+**DM-Granted:**
+- The DM may award a Drastic Modifier when the environment, magic, or narrative circumstances strongly help or hinder an action.
+	- **Prepared conditions:** The character set up the attempt in advance, used the right tool, or took time to improve their odds.
+	- **Environmental pressure:** The terrain, weather, lighting, or battlefield layout strongly favors one side.
+	- **Magical interference:** Divine power, strange relics, or unstable magic pushes the roll beyond a normal modifier.
+	- **Narrative momentum:** The moment deserves a bigger swing than a standard +1 bonus can capture.
+
+> [!TIP] Example
+> A rogue spends ten minutes studying a lock, a cleric invokes a relic during a sacred rite, or a storm breaks at the exact wrong time. Any of these can justify a Drastic Modifier if the DM wants the roll to feel consequential.
+
+#### Capacity
+A character may only hold one earned Drastic Modifier at a time. If a new one is earned, the player must use or lose the previous one.
+
+#### Usage
+When a Drastic Modifier is used, roll **1d4** to determine the operation
+and **1d6** for the secondary number (the DM may specify a different die)
+
+> [!IMPORTANT] The Math of Fate
+> | d4 | Operation |
+> | --- | --- |
+> | 1 | + |
+> | 2 | − |
+> | 3 | × |
+> | 4 | ÷ |
+
+- The secondary number defaults to **1d6**, but the DM can specify a different die (e.g., 1d4, 1d8, 1d12) to represent the magnitude of the modifier.
+- Apply the result after the operation is determined.
+- If the operation creates a fraction, round down unless the DM decides the moment deserves a round up.
+- The DM can always override the roll if the situation calls for a cleaner or more dramatic result.
+- The player must declare use of a Drastic Modifier before the initial roll.
+
+#### Decay
+If not used by the end of the scene, an earned Drastic Modifier fades.
+
+#### Tracking
+Players should note Drastic Modifiers on their character sheet or with a token. The DM may use physical markers to help track who has one available.
+
 
 ## Actions:
 - Mounting another character is an action.
@@ -169,12 +225,6 @@ Players track inspiration points on their character sheets. The DM may provide p
 
 ### PvP
 Should an action, result in a fellow player taking damage, the DM will determine whether said damage will trigger a [[DM Custom Rules#PvP Scenarios|PvP]] scenario.
-
-### Modifiers
-With every rolled action a modifier can be required, this is done buy further rolls:
-- 1d6 for the math operation
-- 1d6 for the secondary number 
-
 
 ## Levels:
 [[Levels Breakdown]]
