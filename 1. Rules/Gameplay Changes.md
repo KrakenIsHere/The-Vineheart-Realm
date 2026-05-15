@@ -170,7 +170,11 @@ Players track inspiration points on their character sheets. The DM may provide p
 ### PvP
 Should an action, result in a fellow player taking damage, the DM will determine whether said damage will trigger a [[DM Custom Rules#PvP Scenarios|PvP]] scenario.
 
-![[Character Creation#The Stats]]
+### Modifiers
+With every rolled action a modifier can be required, this is done buy further rolls:
+- 1d6 for the math operation
+- 1d6 for the secondary number 
+
 
 ## Levels:
 [[Levels Breakdown]]
