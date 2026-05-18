@@ -1,8 +1,8 @@
 ---
 title: Riverport
 tags:
-	- City
-	- Arcanum
+- City
+- Arcanum
 ---
 # Riverport
 Southern trade city linking Arcanum with Onyxian sea lanes.

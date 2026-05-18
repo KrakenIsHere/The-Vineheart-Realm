@@ -1,8 +1,8 @@
 ---
 title: Blizzard's Edge
 tags:
-	- Location
-	- Polar
+- Location
+- Polar
 ---
 # Blizzard's Edge
 A hostile polar frontier of shifting ice and violent winds.

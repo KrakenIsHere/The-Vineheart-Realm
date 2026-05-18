@@ -1,8 +1,8 @@
 ---
 title: Bloodstone Island
 tags:
-	- Island
-	- VineheartRealm
+- Island
+- VineheartRealm
 ---
 # Bloodstone Island
 A mineral-rich island known for crimson stone veins and privateer activity.

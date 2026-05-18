@@ -1,8 +1,8 @@
 ---
 title: Frostveil Sanctuary
 tags:
-	- Location
-	- Sanctuary
+- Location
+- Sanctuary
 ---
 # Frostveil Sanctuary
 A secluded sanctuary used by scholars and ritual caretakers of cold-aligned rites.

@@ -1,8 +1,8 @@
 ---
 title: The Misty Falls
 tags:
-	- Location
-	- Arcanum
+- Location
+- Arcanum
 ---
 # The Misty Falls
 A cave-and-ruin complex beneath heavy mist, known from early BGW records.

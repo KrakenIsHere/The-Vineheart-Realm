@@ -1,8 +1,8 @@
 ---
 title: Ironshore
 tags:
-	- City
-	- Arcanum
+- City
+- Arcanum
 ---
 # Ironshore
 Arcanum's western trade port and primary route to Memberia.

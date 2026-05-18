@@ -1,8 +1,8 @@
 ---
 title: Shadowbrook
 tags:
-	- City
-	- Memberia
+- City
+- Memberia
 ---
 # Shadowbrook
 The overland and coastal junction city linking Memberia to Luminia.

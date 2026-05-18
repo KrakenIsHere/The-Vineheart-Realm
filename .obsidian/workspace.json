@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "1. Rules/Gameplay Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Gameplay Changes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wound",
+                "query": "\t-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "1. Rules/Gameplay Changes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Gameplay Changes"
             }
           },
           {
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "1. Rules/Gameplay Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Gameplay Changes"
             }
           },
           {
@@ -207,37 +208,37 @@
   },
   "active": "90d41aec30d05de9",
   "lastOpenFiles": [
-    "0. World/1. The Godwound/The Wounded/The Godwounded.md",
+    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/GitMF Notes.md",
+    "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/The Misty Falls.md",
+    "0. World/3. Locations/3. Onyxia/0. Cities/Shadowvale/Shadowvale.md",
+    "0. World/3. Locations/4. Memberia/0. Cities/Shadowbrook/Shadowbrook.md",
+    "0. World/3. Locations/2. Arcanum/0. Cities/Riverport/Riverport.md",
+    "0. World/3. Locations/4. Memberia/0. Cities/Raven's Watch/Raven's Watch.md",
+    "0. World/3. Locations/5. Luminia/0. Cities/Radiance/Radiance.md",
+    "4. Assets/Quests/Quests.md",
+    "0. World/3. Locations/2. Arcanum/0. Cities/Mystara/Mystara.md",
+    "0. World/3. Locations/2. Arcanum/0. Cities/Ironshore/Ironshore.md",
+    "0. World/3. Locations/1. Islands/Ironcliff Island.md",
+    "0. World/3. Locations/1. Islands/Frostspire.md",
+    "0. World/3. Locations/-1. Poles/Frostveil Sanctuary.md",
+    "0. World/3. Locations/1. Islands/Euphoria.md",
+    "0. World/3. Locations/5. Luminia/0. Cities/Emberhold/Emberhold.md",
+    "0. World/3. Locations/1. Islands/Dragon's Roost.md",
+    "0. World/3. Locations/3. Onyxia/0. Cities/Coral Bay/Coral Bay.md",
+    "4. Assets/Tools/Building.md",
+    "0. World/3. Locations/1. Islands/Bloodstone Island.md",
+    "0. World/3. Locations/3. Onyxia/0. Cities/Bayshore/Bayshore.md",
+    "1. Rules/Bastions Changes.md",
+    "4. Assets/Tools/AI.md",
+    "0. World/3. Locations/-1. Poles/Blizzard's Edge.md",
     "index.md",
+    "0. World/1. The Godwound/The Wounded/The Godwounded.md",
     "1. Rules/Gameplay Changes.md",
-    "1. Rules/Levels Breakdown.md",
-    "4. Assets/Breakdowns/GM Information Screen.md",
-    "2. Sessions/The Curse of Hope Year 357/The Curse of Hope Year 357.md",
-    "1. Rules/Character Creation.md",
-    "1. Rules/World Additional.md",
-    "3. Characters/Non-Playable/Custom Creatures/The Soul bound.md",
-    "0. World/4. Legends/The Immortal Soul.md",
-    "3. Characters/Non-Playable/Custom Creatures/DM The Soul bound.md",
     "0. World/4. Legends/The Immortal Soul",
     "0. World/4. Legends",
-    "0. World/3. Locations/5. Luminia/1. Villages/Fallowfield/Fallowfield.md",
     "3. Characters/Non-Playable/Custom Creatures",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "0. World/3. Locations/5. Luminia/1. Villages/Fallowfield/DM Fallowfield.md",
     "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn",
     "2. Sessions/Secrets Of Villainy Year 569",
     "0. World/0. The Devine War",

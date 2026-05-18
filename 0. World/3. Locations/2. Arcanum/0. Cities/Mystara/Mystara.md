@@ -1,9 +1,9 @@
 ---
 title: Mystara
 tags:
-	- City
-	- Arcanum
-	- Capital
+- City
+- Arcanum
+- Capital
 ---
 # Mystara
 Capital city of Arcanum and administrative center of House Arca.

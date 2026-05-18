@@ -1,9 +1,9 @@
 ---
 title: Shadowvale
 tags:
-	- City
-	- Onyxia
-	- Capital
+- City
+- Onyxia
+- Capital
 ---
 # Shadowvale
 Capital city of Onyxia and seat of House Shadowrest.
