@@ -1,8 +1,8 @@
 ---
 title: Euphoria
 tags:
-	- Island
-	- VineheartRealm
+- Island
+- VineheartRealm
 ---
 # Euphoria
 A lush island known for rare flora and intoxicating dream mists.

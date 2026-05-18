@@ -1,9 +1,9 @@
 ---
 title: Radiance
 tags:
-	- City
-	- Luminia
-	- Capital
+- City
+- Luminia
+- Capital
 ---
 # Radiance
 Capital city of Luminia and seat of House Dawnweaver.

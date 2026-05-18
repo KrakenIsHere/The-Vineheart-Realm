@@ -1,8 +1,8 @@
 ---
 title: Dragon's Roost
 tags:
-	- Island
-	- VineheartRealm
+- Island
+- VineheartRealm
 ---
 # Dragon's Roost
 A jagged island of high cliffs and thermal vents, rumored nesting ground for drakes.

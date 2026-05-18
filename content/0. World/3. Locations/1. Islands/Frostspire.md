@@ -1,8 +1,8 @@
 ---
 title: Frostspire
 tags:
-	- Island
-	- VineheartRealm
+- Island
+- VineheartRealm
 ---
 # Frostspire
 An ice-crowned island marked by a single towering glacial peak.

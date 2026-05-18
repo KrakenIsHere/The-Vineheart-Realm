@@ -1,8 +1,8 @@
 ---
 title: Emberhold
 tags:
-	- City
-	- Luminia
+- City
+- Luminia
 ---
 # Emberhold
 A highland city known for forgecraft and ritual metalwork.

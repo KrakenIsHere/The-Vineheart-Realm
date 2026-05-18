@@ -1,8 +1,8 @@
 ---
 title: Coral Bay
 tags:
-	- City
-	- Onyxia
+- City
+- Onyxia
 ---
 # Coral Bay
 A warm-water harbor and ship refit hub on Onyxia's coast.

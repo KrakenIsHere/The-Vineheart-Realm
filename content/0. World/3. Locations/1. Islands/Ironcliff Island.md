@@ -1,8 +1,8 @@
 ---
 title: Ironcliff Island
 tags:
-	- Island
-	- VineheartRealm
+- Island
+- VineheartRealm
 ---
 # Ironcliff Island
 A fortified island outpost built around iron-rich cliffs and naval batteries.

@@ -1,8 +1,8 @@
 ---
 title: Quest Board
 tags:
-	- Quests
-	- VineheartRealm
+- Quests
+- VineheartRealm
 ---
 
 # Active Quest Board

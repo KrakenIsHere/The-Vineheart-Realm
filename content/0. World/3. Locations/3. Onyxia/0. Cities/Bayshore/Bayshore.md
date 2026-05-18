@@ -1,8 +1,8 @@
 ---
 title: Bayshore
 tags:
-	- City
-	- Onyxia
+- City
+- Onyxia
 ---
 # Bayshore
 Onyxia's northern port facing Arcanum.
