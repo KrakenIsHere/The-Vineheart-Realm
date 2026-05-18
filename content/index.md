@@ -64,41 +64,82 @@ Celestial pageantry and divine-right monarchy under the glow of ritual significa
 Rules use DnD 5e + 2024 as baseline, with homebrew systems focused on pacing, world reactivity, and campaign-specific tension.
 
 ### Character and Session Rules
-- [[Character Creation]] - Build characters that feel native to Vineheart, not imported from elsewhere.
-- [[Gameplay Changes|Gameplay Changes]] - Core table adjustments for rest, inspiration, magic limits, and pacing.
-- [[Levels Breakdown]] - What each tier means in-world, from capable mortal to reality-bending legend.
+#### [[Character Creation]]
+Where adventurers stop feeling generic and start feeling like they belong to the realm. This is the first filter between a character sheet and a person who could actually survive Vineheart.
+
+#### [[Gameplay Changes|Gameplay Changes]]
+The living rule layer of the setting. Rest, inspiration, pacing, and magical pressure are all tuned to make the world feel more dangerous, reactive, and personal.
+
+#### [[Levels Breakdown]]
+Power given context. This is where numbers become reputation, competence, myth, and the slow climb from skilled mortal to living legend.
 
 ### World and Domain Systems
-- [[Bastions Changes]] - Domain play tuned for scarcity, investment, and strategic consequence.
-- [[World Additional|World Additions]] - Setting systems that make the world react to player choices.
-- [[Faction Reputation]] - Political gravity in rules form: every ally gained can cast a rival's shadow.
-- [[Special Sites]] - High-impact locations where narrative risk and mechanical reward collide.
+#### [[Bastions Changes]]
+Power with upkeep. Strongholds in Vineheart are not passive rewards, but commitments that demand resources, attention, and hard decisions.
+
+#### [[World Additional|World Additions]]
+The hidden machinery of the setting. These are the systems that make the world feel alive beyond combat and dialogue.
+
+#### [[Faction Reputation]]
+Politics measured in consequence. Every favor earned, slight remembered, and allegiance declared reshapes what doors open and which knives come out.
+
+#### [[Special Sites]]
+Places where the world refuses to behave normally. These locations promise power, danger, and the kind of discovery that changes campaigns.
 
 ## Campaigns
 ### Era Snapshot
 Current campaigns span pre-war and post-war eras, giving you historical contrast and modern continuity.
 
 ### Campaign Index
-- Y-226 BGW: [[GitMF Notes|Goblins in the Misty Falls]] (Completed) - A pre-war descent into ruins, deception, and fatal curiosity.
-- Y357 AGW: [[The Curse of Hope Year 357|The Curse of Hope]] (Planned) - False miracles threaten to weaponize faith and unravel fragile peace.
-- Y482 AGW: [[FoF Notes|The Feud of Fallowfield]] (Planned/Prep) - Petty rivalry hides deep social knots and volatile communal memory.
-- Y569 AGW: [[SoV Notes 0|Secrets of Villainy]] (Active) - Rumors, shady patrons, and layered motives ignite from a single inn.
+
+#### Completed
+
+##### Y-226 BGW: [[GitMF Notes|Goblins in the Misty Falls]]
+Completed. A pre-war descent into buried stone, false treasure, and the kind of fatal curiosity that legends rarely survive.
+
+#### Ongoing
+
+##### Y569 AGW: [[SoV Notes 0|Secrets of Villainy]]
+Active. A single inn, a handful of rumors, and the sense that everyone in the room wants something they are not saying aloud.
+
+#### Planning
+
+##### Y357 AGW: [[The Curse of Hope Year 357|The Curse of Hope]]
+Planned. False miracles spread faster than reason, turning hope itself into a force that may destabilize whole communities.
+
+##### Y482 AGW: [[FoF Notes|The Feud of Fallowfield]]
+Planned/Prep. A village feud dressed in absurdity, hiding generations of pride, entanglement, and memory sharpened into ritual.
 
 ## Tools and References
 
 ### Dungeons & Dragons Sources
 
 #### 5e
-- [[DnD 5e Players Handbook (BnW OCR).pdf|Players' Handbook]] - Baseline player rules and character options.
-- [[Dungeon Master's Guide.pdf|DM Guide]] - Core adjudication and encounter-building guidance.
-- [[Monster Manual.pdf|Monster Manual]] - Creature reference for threat design and reskinning.
+##### [[DnD 5e Players Handbook (BnW OCR).pdf|Players' Handbook]]
+The familiar foundation. This is the baseline language of characters, classes, and player-facing possibility.
+
+##### [[Dungeon Master's Guide.pdf|DM Guide]]
+The classic toolkit for adjudication, structure, encounter logic, and world-facing decision making.
+
+##### [[Monster Manual.pdf|Monster Manual]]
+The bestiary beneath the curtain. Use it as written, twist it, or let it become something the Godwound was never meant to touch.
 
 #### 2024
-- [[P.H. Chapter 1|Players' Handbook]] - Updated player-facing framework and option language.
-- [[D.M.G. Chapter 1|Dungeon Master's Guide]] - 2024 DM design principles and procedural scaffolding.
-- [[M.M. How to|Monster Manual]] - Modern encounter guidance and monster-use methodology.
+##### [[P.H. Chapter 1|Players' Handbook]]
+The updated player-facing frame, useful when modern options and newer wording matter at the table.
+
+##### [[D.M.G. Chapter 1|Dungeon Master's Guide]]
+Procedural structure, cleaner assumptions, and a newer lens for encounter and campaign design.
+
+##### [[M.M. How to|Monster Manual]]
+Less a catalog, more a method. A practical lens on how to deploy monsters with purpose rather than habit.
 
 ### Utility Notes
-- [[General|General DnD Tools]] - Practical prep aids for rulings, pacing, and session logistics.
-- [[Building|World Building Tools]] - Frameworks to expand settlements, regions, and cultural texture.
-- [[AI|AI Tools]] - Optional accelerators for drafting, iteration, and ideation support.
+#### [[General|General DnD Tools]]
+Practical scaffolding for the moments between inspiration and execution.
+
+#### [[Building|World Building Tools]]
+Frameworks for turning half-formed ideas into places, cultures, and recurring tensions.
+
+#### [[AI|AI Tools]]
+Optional accelerants for drafting, iteration, and asking better questions of your own setting.
