@@ -6,7 +6,7 @@ tags:
   - VineheartRealm
 ---
 ## History
-Luminia takes its name from the eternal aurora that dances in its skies, a phenomenon said to be a blessing from the gods themselves. Connected to Onyxia through the Obsidian Gate and to Memberia via the Scholar's Bridge.
+Luminia takes its name from the eternal aurora that dances in its skies, a phenomenon said to be a blessing from the gods themselves. Connected by sea to [[Onyxia]] across the **Obsidian Gate**, the strait reached through the ports of [[Sapphire Bay]] and [[Coral Bay]], and to [[Memberia]] across the **Scholar's Bridge** passage via [[Shadowbrook]].
 
 ### Royalty
 The royal house of **Dawnweaver** rules Luminia, having maintained their position through the [[Divine War]] by harnessing the continent's unique celestial energies.

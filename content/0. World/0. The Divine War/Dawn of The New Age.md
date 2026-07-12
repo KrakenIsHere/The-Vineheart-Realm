@@ -63,6 +63,19 @@ After the end of the [[Divine War]] the realm has reset their time keeping to be
 
 - There has since been found what is thought to be older texts.
 
+#### Structure
+The reformed calendar is built around the lunar cycle, chosen for its reliability after older reckonings were lost:
+
+| Unit               | Length  | Equals                          |
+| ------------------ | ------- | ------------------------------- |
+| Week               | 7 days  | —                               |
+| Moon (lunar cycle) | 28 days | 4 weeks                         |
+| Month              | 56 days | 2 moons · 8 weeks               |
+| Year               | 336 days | 6 months · 12 moons · 48 weeks |
+
+- A **full moon** falls at the midpoint of each lunar cycle, so every month holds two: one near its start (day 14) and one near its end (day 42).
+- The **first full moon** of a month anchors most ceremonies — above all the [[Godwound Containment|Binding rituals]], held in the Janbuary–Marpril and Jugust–Septober windows.
+
 #### Days
 - Moonsday
 - Tinsday
