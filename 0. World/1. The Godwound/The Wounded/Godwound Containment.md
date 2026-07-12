@@ -3,7 +3,7 @@ title: Containment of the Godwound
 tags:
   - Godwound
   - Godwounded
-  - DevineWar
+  - DivineWar
   - VineheartRealm
   - GodwoundContainment
 ---

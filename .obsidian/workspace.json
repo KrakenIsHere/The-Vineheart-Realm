@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cf79939424e482e5",
+        "id": "9bad8f22273d1a79",
         "type": "tabs",
         "children": [
           {
-            "id": "90d41aec30d05de9",
+            "id": "bbc064b59aabc3fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1. Rules/Gameplay Changes.md",
-                "mode": "source",
-                "source": false
+                "file": "Table Of Contents.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Gameplay Changes"
+              "icon": "lucide-table",
+              "title": "Table Of Contents"
             }
           }
         ]
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\t-",
+                "query": "\"The Cycle Begins\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Rules/Gameplay Changes.md",
+                "file": "Table Of Contents.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gameplay Changes"
+              "title": "Backlinks for Table Of Contents"
             }
           },
           {
@@ -206,8 +204,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "90d41aec30d05de9",
+  "active": "bbc064b59aabc3fe",
   "lastOpenFiles": [
+    "4. Assets/Tools/General.md",
+    "Table Of Contents.base",
+    "0. World/4. Legends/The Immortal Soul.md",
+    "3. Characters/Non-Playable/Custom Creatures/The Soul Bound.md",
+    "index.md",
+    "1. Rules/Gameplay Changes.md",
     "2. Sessions/Goblins in the Misty Falls Year 226 BGW/GitMF Notes.md",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/The Misty Falls.md",
     "0. World/3. Locations/3. Onyxia/0. Cities/Shadowvale/Shadowvale.md",
@@ -229,11 +233,6 @@
     "0. World/3. Locations/1. Islands/Bloodstone Island.md",
     "0. World/3. Locations/3. Onyxia/0. Cities/Bayshore/Bayshore.md",
     "1. Rules/Bastions Changes.md",
-    "4. Assets/Tools/AI.md",
-    "0. World/3. Locations/-1. Poles/Blizzard's Edge.md",
-    "index.md",
-    "0. World/1. The Godwound/The Wounded/The Godwounded.md",
-    "1. Rules/Gameplay Changes.md",
     "0. World/4. Legends/The Immortal Soul",
     "0. World/4. Legends",
     "3. Characters/Non-Playable/Custom Creatures",
@@ -243,7 +242,6 @@
     "2. Sessions/Secrets Of Villainy Year 569",
     "0. World/0. The Devine War",
     "0. World/0. The Divine War",
-    "0. World/3. Locations/5. Luminia/1. Villages/Harvest Hollow",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.6.jpg",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.2.jpg",
     "2. Sessions/Goblins in the Misty Falls Year 226 BGW/The Master Cartographer's Riddle.png",

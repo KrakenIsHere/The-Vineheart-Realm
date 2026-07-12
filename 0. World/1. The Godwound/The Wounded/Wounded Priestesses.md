@@ -1,7 +1,7 @@
 ---
 title: The Wounded Priestesses
 tags:
-  - DevineWar
+  - DivineWar
   - Godwounded
   - Godwound
   - VineheartRealm

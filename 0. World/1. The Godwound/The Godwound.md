@@ -1,8 +1,8 @@
 ---
-title: The Wound of Devine arrogance
+title: The Wound of Divine arrogance
 tags:
   - Godwound
-  - DevineWar
+  - DivineWar
   - VineheartRealm
 ---
 

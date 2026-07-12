@@ -7,7 +7,7 @@ tags:
 ---
 ## Summary
 
-The Legend of the Immortal Soul is an ancient deception that has lured countless desperate souls to their doom. Appearing in various forms across the ages, this legend promises true immortality and eternal power through a "divine gift" - but the reality transforms its victims into the cursed [[DM The Soul bound|Soul bound]], doomed to exist in eternal agony.
+The Legend of the Immortal Soul is an ancient deception that has lured countless desperate souls to their doom. Appearing in various forms across the ages, this legend promises true immortality and eternal power through a "divine gift" - but the reality transforms its victims into the cursed [[The Soul Bound|Soul bound]], doomed to exist in eternal agony.
 
 The legend typically surfaces during times of great upheaval and has persisted from before the Divine War through the present day. Those who seek it out believe they've discovered a lost divine secret, never realizing they're walking into a trap that strips away their humanity and transforms them into suffering immortals.
 
@@ -156,7 +156,7 @@ Those who complete the ritual don't achieve the promised immortality. Instead:
 1. **The Sacrifice is Real** - They lose what they offer, but permanently and completely
 2. **The Immortality is a Curse** - They cannot die but exist in constant agony
 3. **The Transformation is Horrific** - Physical decay, pain, loss of what made them mortal
-4. **The Cycle Begins** - They become [[DM The Soul bound|Soul bound]], trapped in eternal suffering
+4. **The Cycle Begins** - They become [[The Soul Bound|Soul bound]], trapped in eternal suffering
 
 The "brief rest" of death becomes the only respite from agony. The "perfected form" is actually decay barely held together. The "endless opportunity" becomes empty immortality watching the world change while unable to truly participate.
 

@@ -3,7 +3,7 @@ title: The Godwounded
 tags:
   - Godwound
   - Godwounded
-  - DevineWar
+  - DivineWar
   - VineheartRealm
 ---
 # Keepers of the Godwound
