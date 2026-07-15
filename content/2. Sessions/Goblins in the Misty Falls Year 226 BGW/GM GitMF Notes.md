@@ -102,7 +102,7 @@ Looks in the direction of the intruders as if to say something.
 - [Skeleton](https://www.dndbeyond.com/monsters/4775841-skeleton)
 
 #### Map Room
-When the players enter the map room, they find a frustrated Revenant in noble attire hunched over an old mapping table. Papers and maps are scattered about, covered in frustrated scribbles and notes. The Revenant explains he was once the kingdom's greatest cartographer, but his mentor left him one final riddle before passing away—a riddle he's been unable to solve even in undeath.
+When the players enter the map room, they find a frustrated Revenant in noble attire hunched over an old mapping table. Papers and maps are scattered about, covered in frustrated scribbles and notes. The Revenant explains he was once the kingdom's greatest cartographer, but his mentor left him one final riddle before passing away, a riddle he's been unable to solve even in undeath.
 
 ##### Creatures
 - [Revenant](https://www.dndbeyond.com/monsters/17196-revenant)

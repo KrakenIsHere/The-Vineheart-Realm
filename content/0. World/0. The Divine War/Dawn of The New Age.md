@@ -68,13 +68,13 @@ The reformed calendar is built around the lunar cycle, chosen for its reliabilit
 
 | Unit               | Length  | Equals                          |
 | ------------------ | ------- | ------------------------------- |
-| Week               | 7 days  | —                               |
+| Week               | 7 days  | base unit                               |
 | Moon (lunar cycle) | 28 days | 4 weeks                         |
 | Month              | 56 days | 2 moons · 8 weeks               |
 | Year               | 336 days | 6 months · 12 moons · 48 weeks |
 
 - A **full moon** falls at the midpoint of each lunar cycle, so every month holds two: one near its start (day 14) and one near its end (day 42).
-- The **first full moon** of a month anchors most ceremonies — above all the [[Godwound Containment|Binding rituals]], held in the Janbuary–Marpril and Jugust–Septober windows.
+- The **first full moon** of a month anchors most ceremonies, above all the [[Godwound Containment|Binding rituals]], held in the Janbuary-Marpril and Jugust-Septober windows.
 
 #### Days
 - Moonsday
@@ -149,7 +149,7 @@ The landmass that was once whole, had become 4 continents and several islands
 
 
 ## Four Centuries Later
-The Sundering of Lands. When [[The Godwound]] first manifested, its power didn't just tear the fabric of reality—it physically ripped the continent apart. The once-unified landmass known as **Magnica** was split into four distinct continents, separated by great waters born from divine chaos.
+The Sundering of Lands. When [[The Godwound]] first manifested, its power didn't just tear the fabric of reality; it physically ripped the continent apart. The once-unified landmass known as **Magnica** was split into four distinct continents, separated by great waters born from divine chaos.
 
 ### The Waters
 - The Godwound's energy created the Sundering Seas

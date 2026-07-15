@@ -59,6 +59,13 @@ Scholarship, memory, and disciplined magical governance with long strategic hori
 #### [[Luminia]] 
 Celestial pageantry and divine-right monarchy under the glow of ritual significance.
 
+#### [[Gazetteer]]
+The full settlement index across every continent, island, and pole: each place tagged with its build status, doubling as the worklist for expansion.
+
+### The Peoples
+#### [[Peoples]]
+The cultures and worldviews of the realm's inhabitants: the [[Peoples#The Core Races|Core Races]] and the peoples who think nothing like them, such as the [[Goblins]] and their missing sense of property, or the [[Orcs]] and their belief that the soul grows only through challenge.
+
 ## Rules Hub
 ### Rules Philosophy
 Rules use DnD 5e + 2024 as baseline, with homebrew systems focused on pacing, world reactivity, and campaign-specific tension.

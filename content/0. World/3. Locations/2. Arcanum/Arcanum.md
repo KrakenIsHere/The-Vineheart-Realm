@@ -106,7 +106,7 @@ This continent consists of several environments:
 | 3-4        | A group of mountain goats charges through, startling anyone nearby.              |
 | 5-6        | An avalanche is triggered, threatening to bury the party.                        |
 | 7-8        | A lone hermit living in the mountains offers cryptic advice or warns of danger.  |
-| 9-10       | The party spots a distant wyvern circling overhead, but it doesn't approach—yet. |
+| 9-10       | The party spots a distant wyvern circling overhead, but it doesn't approach, yet. |
 | 11-12      | A narrow bridge over a deep chasm has collapsed, requiring ingenuity to cross.   |
 | 13-14      | A small group of bandits attempts to rob the party in the confined trail.        |
 | 15-16      | A blizzard reduces visibility and threatens exposure to the elements.            |
@@ -137,7 +137,7 @@ This continent consists of several environments:
 | 5-6        | A farmer pleads for help with a blight ruining their last crops.              |
 | 7-8        | A suspicious group of travelers is seen inspecting the fields at night.       |
 | 9-10       | A group of skeletons rises from an old, forgotten battlefield under the soil. |
-| 11-12      | A mysterious druid offers to bless the land—for a price.                      |
+| 11-12      | A mysterious druid offers to bless the land, for a price.                      |
 | 13-14      | The party discovers an abandoned farmhouse rumored to be haunted.             |
 | 15-16      | A struggling village elder seeks aid to fend off raiders.                     |
 | 17-18      | A small sinkhole reveals a buried cache of ancient artifacts.                 |

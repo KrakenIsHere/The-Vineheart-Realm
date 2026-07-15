@@ -13,6 +13,9 @@ Refer to [[Dice]] for clarifications of the usage of [[Dice]]
 ## Races
 [[DnD PHB 5e Chapter 2.pdf|Races]]
 
+> [!INFO] Culture vs. mechanics
+> This section covers race **mechanics**. For how the realm's peoples *think* (their values, taboos, and worldviews), see the [[Peoples]] hub.
+
 Humans are the most common people in the Vineheart Realm, but they live and work alongside dwarves, elves, halflings, and countless other fantastic species. 
 Not every intelligent race is appropriate for a player-controlled adventurer. 
 
@@ -36,12 +39,12 @@ It's worthwhile to consider why your character is different, as a helpful way to
 | **Drow** <br>(Drow subrace) | Medium                       | +2 DEX + subrace bonus   | Darkvision (superior)          | Sunlight sensitivity, innate spells                           | Common + Elvish + Undercommon | Uncommon elf subrace                                                      |
 | **Dwarf**                   | Medium                       | +2 Constitution          | Darkvision, resilient          | Stonecunning, weapon training                                 | Common + Dwarvish             | Tough warriors; skilled craftsmen and miners                              |
 | **Elf**                     | Medium                       | +2 Dexterity             | Darkvision, keen senses        | Fey Ancestry, trance                                          | Common + Elvish               | Masters of arcane magic; graceful and long-lived                          |
-| **Forest Gnome**            | Small (3-4 ft, ~40 lbs)      | +2 INT, +1 DEX           | Darkvision, Gnome Cunning      | Natural Illusionist (minor illusion), Speak with Small Beasts | Common + Gnomish              | Rare and secretive; hidden forest communities using illusions             |
+| **Forest Gnome**            | Small (3-4 ft, ~40 lbs / 18 kg)      | +2 INT, +1 DEX           | Darkvision, Gnome Cunning      | Natural Illusionist (minor illusion), Speak with Small Beasts | Common + Gnomish              | Rare and secretive; hidden forest communities using illusions             |
 | **Half-Elf**                | Medium (5-6 ft)              | +2 CHA, +1 to two others | Darkvision, Fey Ancestry       | Skill Versatility (2 skills)                                  | Common + Elvish + 1 extra     | Walking between two worlds; excellent diplomats, chaotic nature           |
-| **Half-Orc**                | Medium (6-7 ft, 180-250 lbs) | +2 STR, +1 CON           | Darkvision, Menacing           | Relentless Endurance, Savage Attacks                          | Common + Orc                  | Scarred and Strong; torn between orc fury and human discipline            |
+| **Half-Orc**                | Medium (6-7 ft, 180-250 lbs / 82-113 kg) | +2 STR, +1 CON           | Darkvision, Menacing           | Relentless Endurance, Savage Attacks                          | Common + Orc                  | Scarred and Strong; torn between orc fury and human discipline            |
 | **Halfling**                | Small                        | +2 Dexterity             | Lucky, brave                   | Halfling Nimbleness                                           | Common + Halfling             | Good for sneaky rogues; cheerful and nimble                               |
 | **Human**                   | Medium                       | +1 to all abilities      | Versatile, ambitious           | Varies by subrace                                             | Common + regional             | Most common race in Vineheart Realm; adaptable and driven                 |
-| **Rock Gnome**              | Small (3-4 ft, ~40 lbs)      | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Most common gnomes; natural inventors and tinkerers                       |
+| **Rock Gnome**              | Small (3-4 ft, ~40 lbs / 18 kg)      | +2 INT, +1 CON           | Darkvision, Gnome Cunning      | Artificer's Lore, Tinker (clockwork devices)                  | Common + Gnomish              | Most common gnomes; natural inventors and tinkerers                       |
 | **Tiefling**                | Medium                       | +1 INT, +2 CHA           | Darkvision, Hellish Resistance | Infernal Legacy (Thaumaturgy, Hellish Rebuke, Darkness)       | Common + Infernal             | Infernal bloodline; horns, tails, solid eyes; mistrusted but self-reliant |
 
 If you're feeling adventurous or need inspiration, use this table to randomly determine your character's race:
@@ -1378,22 +1381,22 @@ Alignment is a combination of two factors:
 |**Armor**|**Cost**|**Armor Class (AC)**|**Strength**|**Stealth**|**Weight**|
 |---|---|---|---|---|---|
 |**Light Armor**||||||
-|Padded|5 GP|11 + DEX modifier|-|Disadvantage|8 lb.|
-|Leather|10 GP|11 + DEX modifier|-|-|10 lb.|
-|Studded leather|45 GP|12 + DEX modifier|-|-|13 lb.|
+|Padded|5 GP|11 + DEX modifier|-|Disadvantage|8 lb. (3.6 kg)|
+|Leather|10 GP|11 + DEX modifier|-|-|10 lb. (4.5 kg)|
+|Studded leather|45 GP|12 + DEX modifier|-|-|13 lb. (5.9 kg)|
 |**Medium Armor**||||||
-|Hide|10 GP|12 + DEX modifier (max 2)|-|-|12 lb.|
-|Chain shirt|50 GP|13 + DEX modifier (max 2)|-|-|20 lb.|
-|Scale mail|50 GP|14 + DEX modifier (max 2)|-|Disadvantage|45 lb.|
-|Breastplate|400 GP|14 + DEX modifier (max 2)|-|-|20 lb.|
-|Half plate|750 GP|15 + DEX modifier (max 2)|-|Disadvantage|40 lb.|
+|Hide|10 GP|12 + DEX modifier (max 2)|-|-|12 lb. (5.4 kg)|
+|Chain shirt|50 GP|13 + DEX modifier (max 2)|-|-|20 lb. (9.1 kg)|
+|Scale mail|50 GP|14 + DEX modifier (max 2)|-|Disadvantage|45 lb. (20 kg)|
+|Breastplate|400 GP|14 + DEX modifier (max 2)|-|-|20 lb. (9.1 kg)|
+|Half plate|750 GP|15 + DEX modifier (max 2)|-|Disadvantage|40 lb. (18 kg)|
 |**Heavy Armor**||||||
-|Ring mail|30 GP|14|-|Disadvantage|40 lb.|
-|Chain mail|75 GP|16|STR 13|Disadvantage|55 lb.|
-|Splint|200 GP|17|STR 15|Disadvantage|60 lb.|
-|Plate|1,500 GP|18|STR 15|Disadvantage|65 lb.|
+|Ring mail|30 GP|14|-|Disadvantage|40 lb. (18 kg)|
+|Chain mail|75 GP|16|STR 13|Disadvantage|55 lb. (25 kg)|
+|Splint|200 GP|17|STR 15|Disadvantage|60 lb. (27 kg)|
+|Plate|1,500 GP|18|STR 15|Disadvantage|65 lb. (29 kg)|
 |**Shield**||||||
-|Shield|10 GP|+2|-|-|6 lb.|
+|Shield|10 GP|+2|-|-|6 lb. (2.7 kg)|
 
 ### Weapons Table
 
@@ -1401,58 +1404,58 @@ Alignment is a combination of two factors:
 
 | **Name**     | **Cost** | **Damage**      | **Weight** | **Properties**                        |
 | ------------ | -------- | --------------- | ---------- | ------------------------------------- |
-| Club         | 1 SP     | 1d4 bludgeoning | 2 lb.      | Light                                 |
-| Dagger       | 2 GP     | 1d4 piercing    | 1 lb.      | Finesse, light, thrown (range 20/60)  |
-| Greatclub    | 2 SP     | 1d8 bludgeoning | 10 lb.     | Two-handed                            |
-| Handaxe      | 5 GP     | 1d6 slashing    | 2 lb.      | Light, thrown (range 20/60)           |
-| Javelin      | 5 SP     | 1d6 piercing    | 2 lb.      | Thrown (range 30/120)                 |
-| Light hammer | 2 GP     | 1d4 bludgeoning | 2 lb.      | Light, thrown (range 20/60)           |
-| Mace         | 5 GP     | 1d6 bludgeoning | 4 lb.      | -                                     |
-| Quarterstaff | 2 SP     | 1d6 bludgeoning | 4 lb.      | Versatile (1d8)                       |
-| Sickle       | 1 GP     | 1d4 slashing    | 2 lb.      | Light                                 |
-| Spear        | 1 GP     | 1d6 piercing    | 3 lb.      | Thrown (range 20/60), versatile (1d8) |
+| Club         | 1 SP     | 1d4 bludgeoning | 2 lb. (0.9 kg)      | Light                                 |
+| Dagger       | 2 GP     | 1d4 piercing    | 1 lb. (0.5 kg)      | Finesse, light, thrown (range 20/60)  |
+| Greatclub    | 2 SP     | 1d8 bludgeoning | 10 lb. (4.5 kg)     | Two-handed                            |
+| Handaxe      | 5 GP     | 1d6 slashing    | 2 lb. (0.9 kg)      | Light, thrown (range 20/60)           |
+| Javelin      | 5 SP     | 1d6 piercing    | 2 lb. (0.9 kg)      | Thrown (range 30/120)                 |
+| Light hammer | 2 GP     | 1d4 bludgeoning | 2 lb. (0.9 kg)      | Light, thrown (range 20/60)           |
+| Mace         | 5 GP     | 1d6 bludgeoning | 4 lb. (1.8 kg)      | -                                     |
+| Quarterstaff | 2 SP     | 1d6 bludgeoning | 4 lb. (1.8 kg)      | Versatile (1d8)                       |
+| Sickle       | 1 GP     | 1d4 slashing    | 2 lb. (0.9 kg)      | Light                                 |
+| Spear        | 1 GP     | 1d6 piercing    | 3 lb. (1.4 kg)      | Thrown (range 20/60), versatile (1d8) |
 
 #### Simple Ranged Weapons
 
 |**Name**|**Cost**|**Damage**|**Weight**|**Properties**|
 |---|---|---|---|---|
-|Crossbow, light|25 GP|1d8 piercing|5 lb.|Ammunition (range 80/320), loading, two-handed|
-|Dart|5 CP|1d4 piercing|1/4 lb.|Finesse, thrown (range 20/60)|
-|Shortbow|25 GP|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed|
+|Crossbow, light|25 GP|1d8 piercing|5 lb. (2.3 kg)|Ammunition (range 80/320), loading, two-handed|
+|Dart|5 CP|1d4 piercing|1/4 lb. (0.1 kg)|Finesse, thrown (range 20/60)|
+|Shortbow|25 GP|1d6 piercing|2 lb. (0.9 kg)|Ammunition (range 80/320), two-handed|
 |Sling|1 SP|1d4 bludgeoning|-|Ammunition (range 30/120)|
 
 #### Martial Melee Weapons
 
 |**Name**|**Cost**|**Damage**|**Weight**|**Properties**|
 |---|---|---|---|---|
-|Battleaxe|10 GP|1d8 slashing|4 lb.|Versatile (1d10)|
-|Flail|10 GP|1d8 bludgeoning|2 lb.|-|
-|Glaive|20 GP|1d10 slashing|6 lb.|Heavy, reach, two-handed|
-|Greataxe|30 GP|1d12 slashing|7 lb.|Heavy, two-handed|
-|Greatsword|50 GP|2d6 slashing|6 lb.|Heavy, two-handed|
-|Halberd|20 GP|1d10 slashing|6 lb.|Heavy, reach, two-handed|
-|Lance|10 GP|1d12 piercing|6 lb.|Reach, special|
-|Longsword|15 GP|1d8 slashing|3 lb.|Versatile (1d10)|
-|Maul|10 GP|2d6 bludgeoning|10 lb.|Heavy, two-handed|
-|Morningstar|15 GP|1d8 piercing|4 lb.|-|
-|Pike|5 GP|1d10 piercing|18 lb.|Heavy, reach, two-handed|
-|Rapier|25 GP|1d8 piercing|2 lb.|Finesse|
-|Scimitar|25 GP|1d6 slashing|3 lb.|Finesse, light|
-|Shortsword|10 GP|1d6 piercing|2 lb.|Finesse, light|
-|Trident|5 GP|1d6 piercing|4 lb.|Thrown (range 20/60), versatile (1d8)|
-|War pick|5 GP|1d8 piercing|2 lb.|-|
-|Warhammer|15 GP|1d8 bludgeoning|2 lb.|Versatile (1d10)|
-|Whip|2 GP|1d4 slashing|3 lb.|Finesse, reach|
+|Battleaxe|10 GP|1d8 slashing|4 lb. (1.8 kg)|Versatile (1d10)|
+|Flail|10 GP|1d8 bludgeoning|2 lb. (0.9 kg)|-|
+|Glaive|20 GP|1d10 slashing|6 lb. (2.7 kg)|Heavy, reach, two-handed|
+|Greataxe|30 GP|1d12 slashing|7 lb. (3.2 kg)|Heavy, two-handed|
+|Greatsword|50 GP|2d6 slashing|6 lb. (2.7 kg)|Heavy, two-handed|
+|Halberd|20 GP|1d10 slashing|6 lb. (2.7 kg)|Heavy, reach, two-handed|
+|Lance|10 GP|1d12 piercing|6 lb. (2.7 kg)|Reach, special|
+|Longsword|15 GP|1d8 slashing|3 lb. (1.4 kg)|Versatile (1d10)|
+|Maul|10 GP|2d6 bludgeoning|10 lb. (4.5 kg)|Heavy, two-handed|
+|Morningstar|15 GP|1d8 piercing|4 lb. (1.8 kg)|-|
+|Pike|5 GP|1d10 piercing|18 lb. (8.2 kg)|Heavy, reach, two-handed|
+|Rapier|25 GP|1d8 piercing|2 lb. (0.9 kg)|Finesse|
+|Scimitar|25 GP|1d6 slashing|3 lb. (1.4 kg)|Finesse, light|
+|Shortsword|10 GP|1d6 piercing|2 lb. (0.9 kg)|Finesse, light|
+|Trident|5 GP|1d6 piercing|4 lb. (1.8 kg)|Thrown (range 20/60), versatile (1d8)|
+|War pick|5 GP|1d8 piercing|2 lb. (0.9 kg)|-|
+|Warhammer|15 GP|1d8 bludgeoning|2 lb. (0.9 kg)|Versatile (1d10)|
+|Whip|2 GP|1d4 slashing|3 lb. (1.4 kg)|Finesse, reach|
 
 #### Martial Ranged Weapons
 
 |**Name**|**Cost**|**Damage**|**Weight**|**Properties**|
 |---|---|---|---|---|
-|Blowgun|10 GP|1 piercing|1 lb.|Ammunition (range 25/100), loading|
-|Crossbow, hand|75 GP|1d6 piercing|3 lb.|Ammunition (range 30/120), light, loading|
-|Crossbow, heavy|50 GP|1d10 piercing|18 lb.|Ammunition (range 100/400), heavy, loading, two-handed|
-|Longbow|50 GP|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed|
-|Net|1 GP|-|3 lb.|Special, thrown (range 5/15)|
+|Blowgun|10 GP|1 piercing|1 lb. (0.5 kg)|Ammunition (range 25/100), loading|
+|Crossbow, hand|75 GP|1d6 piercing|3 lb. (1.4 kg)|Ammunition (range 30/120), light, loading|
+|Crossbow, heavy|50 GP|1d10 piercing|18 lb. (8.2 kg)|Ammunition (range 100/400), heavy, loading, two-handed|
+|Longbow|50 GP|1d8 piercing|2 lb. (0.9 kg)|Ammunition (range 150/600), heavy, two-handed|
+|Net|1 GP|-|3 lb. (1.4 kg)|Special, thrown (range 5/15)|
 
 ### Adventuring Gear
 
@@ -1460,77 +1463,77 @@ Alignment is a combination of two factors:
 
 | **Item**               | **Cost** | **Weight**   |
 | ---------------------- | -------- | ------------ |
-| Backpack               | 2 GP     | 5 lb.        |
-| Bedroll                | 1 GP     | 7 lb.        |
+| Backpack               | 2 GP     | 5 lb. (2.3 kg)        |
+| Bedroll                | 1 GP     | 7 lb. (3.2 kg)        |
 | Bell                   | 1 GP     | -            |
-| Blanket                | 5 SP     | 3 lb.        |
+| Blanket                | 5 SP     | 3 lb. (1.4 kg)        |
 | Candle                 | 1 CP     | -            |
-| Chain (10 feet)        | 5 GP     | 10 lb.       |
+| Chain (10 feet)        | 5 GP     | 10 lb. (4.5 kg)       |
 | Chalk (1 piece)        | 1 CP     | -            |
-| Crowbar                | 2 GP     | 5 lb.        |
-| Hammer                 | 1 GP     | 3 lb.        |
+| Crowbar                | 2 GP     | 5 lb. (2.3 kg)        |
+| Hammer                 | 1 GP     | 3 lb. (1.4 kg)        |
 | Ink (1 ounce bottle)   | 10 GP    | -            |
 | Ink pen                | 2 CP     | -            |
-| Lantern, hooded        | 5 GP     | 2 lb.        |
-| Lock                   | 10 GP    | 1 lb.        |
-| Oil (flask)            | 1 SP     | 1 lb.        |
-| Pouch                  | 5 SP     | 1 lb.        |
-| Rations (1 day)        | 5 SP     | 2 lb.        |
-| Rope, hempen (50 feet) | 1 GP     | 10 lb.       |
-| Rope, silk (50 feet)   | 10 GP    | 5 lb.        |
-| Torch                  | 1 CP     | 1 lb.        |
-| Waterskin              | 2 SP     | 5 lb. (full) |
+| Lantern, hooded        | 5 GP     | 2 lb. (0.9 kg)        |
+| Lock                   | 10 GP    | 1 lb. (0.5 kg)        |
+| Oil (flask)            | 1 SP     | 1 lb. (0.5 kg)        |
+| Pouch                  | 5 SP     | 1 lb. (0.5 kg)        |
+| Rations (1 day)        | 5 SP     | 2 lb. (0.9 kg)        |
+| Rope, hempen (50 feet) | 1 GP     | 10 lb. (4.5 kg)       |
+| Rope, silk (50 feet)   | 10 GP    | 5 lb. (2.3 kg)        |
+| Torch                  | 1 CP     | 1 lb. (0.5 kg)        |
+| Waterskin              | 2 SP     | 5 lb. (2.3 kg) (full) |
 
 #### Ammunition
 
 |**Item**|**Cost**|**Weight**|
 |---|---|---|
-|Arrows (20)|1 GP|1 lb.|
-|Blowgun needles (50)|1 GP|1 lb.|
-|Crossbow bolts (20)|1 GP|1½ lb.|
-|Sling bullets (20)|4 CP|1½ lb.|
+|Arrows (20)|1 GP|1 lb. (0.5 kg)|
+|Blowgun needles (50)|1 GP|1 lb. (0.5 kg)|
+|Crossbow bolts (20)|1 GP|1½ lb. (0.7 kg)|
+|Sling bullets (20)|4 CP|1½ lb. (0.7 kg)|
 
 #### Tools
 
 | **Item**          | **Cost** | **Weight** |
 | ----------------- | -------- | ---------- |
-| Disguise kit      | 25 GP    | 3 lb.      |
-| Forgery kit       | 15 GP    | 5 lb.      |
-| Healer's kit      | 5 GP     | 3 lb.      |
-| Herbalism kit     | 5 GP     | 3 lb.      |
-| Navigator's tools | 25 GP    | 2 lb.      |
-| Poisoner's kit    | 50 GP    | 2 lb.      |
-| Thieves' tools    | 25 GP    | 1 lb.      |
+| Disguise kit      | 25 GP    | 3 lb. (1.4 kg)      |
+| Forgery kit       | 15 GP    | 5 lb. (2.3 kg)      |
+| Healer's kit      | 5 GP     | 3 lb. (1.4 kg)      |
+| Herbalism kit     | 5 GP     | 3 lb. (1.4 kg)      |
+| Navigator's tools | 25 GP    | 2 lb. (0.9 kg)      |
+| Poisoner's kit    | 50 GP    | 2 lb. (0.9 kg)      |
+| Thieves' tools    | 25 GP    | 1 lb. (0.5 kg)      |
 
 #### Spellcasting Foci
 
 | **Item**           | **Cost** | **Weight** |
 | ------------------ | -------- | ---------- |
 | **Arcane Focus**   |          |            |
-| Crystal            | 10 GP    | 1 lb.      |
-| Orb                | 20 GP    | 3 lb.      |
-| Rod                | 10 GP    | 2 lb.      |
-| Staff              | 5 GP     | 4 lb.      |
-| Wand               | 10 GP    | 1 lb.      |
+| Crystal            | 10 GP    | 1 lb. (0.5 kg)      |
+| Orb                | 20 GP    | 3 lb. (1.4 kg)      |
+| Rod                | 10 GP    | 2 lb. (0.9 kg)      |
+| Staff              | 5 GP     | 4 lb. (1.8 kg)      |
+| Wand               | 10 GP    | 1 lb. (0.5 kg)      |
 | **Druidic Focus**  |          |            |
 | Sprig of mistletoe | 1 GP     | -          |
 | Totem              | 1 GP     | -          |
-| Wooden staff       | 5 GP     | 4 lb.      |
-| Yew wand           | 10 GP    | 1 lb.      |
+| Wooden staff       | 5 GP     | 4 lb. (1.8 kg)      |
+| Yew wand           | 10 GP    | 1 lb. (0.5 kg)      |
 | **Holy Symbol**    |          |            |
-| Amulet             | 5 GP     | 1 lb.      |
+| Amulet             | 5 GP     | 1 lb. (0.5 kg)      |
 | Emblem             | 5 GP     | -          |
-| Reliquary          | 5 GP     | 2 lb.      |
+| Reliquary          | 5 GP     | 2 lb. (0.9 kg)      |
 
 #### Special Items
 
 |**Item**|**Cost**|**Weight**|**Description**|
 |---|---|---|---|
-|Acid (vial)|25 GP|1 lb.|2d6 acid damage when thrown|
-|Alchemist's fire (flask)|50 GP|1 lb.|1d4 fire damage per turn|
+|Acid (vial)|25 GP|1 lb. (0.5 kg)|2d6 acid damage when thrown|
+|Alchemist's fire (flask)|50 GP|1 lb. (0.5 kg)|1d4 fire damage per turn|
 |Antitoxin (vial)|50 GP|-|Advantage on poison saves for 1 hour|
-|Holy water (flask)|25 GP|1 lb.|2d6 radiant damage to fiends/undead|
-|Potion of healing|50 GP|½ lb.|Regain 2d4 + 2 hit points|
+|Holy water (flask)|25 GP|1 lb. (0.5 kg)|2d6 radiant damage to fiends/undead|
+|Potion of healing|50 GP|½ lb. (0.2 kg)|Regain 2d4 + 2 hit points|
 |Poison, basic (vial)|100 GP|-|1d4 poison damage, DC 10 CON save|
 
 ### Equipment Packs
