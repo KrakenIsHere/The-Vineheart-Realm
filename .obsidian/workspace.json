@@ -4,20 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "9bad8f22273d1a79",
+        "id": "4aaafe38f2c4080a",
         "type": "tabs",
+        "dimension": 58.040935672514614,
         "children": [
           {
-            "id": "bbc064b59aabc3fe",
+            "id": "3f02c9731f886e1c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Table Of Contents.base",
-                "viewName": "Table"
+                "file": "1. Rules/World Extras/Items/DM Items.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Table Of Contents"
+              "icon": "lucide-file",
+              "title": "DM Items"
+            }
+          }
+        ]
+      },
+      {
+        "id": "df22127cf487cd3e",
+        "type": "tabs",
+        "dimension": 41.95906432748538,
+        "children": [
+          {
+            "id": "e053f64560a01433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Rules/World Extras/Items/Items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Items"
             }
           }
         ]
@@ -52,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"The Cycle Begins\"",
+                "query": "Item",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Rules/Gameplay Changes.md",
+                "file": "1. Rules/World Extras/Items/Items.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gameplay Changes"
+              "title": "Outline of Items"
             }
           },
           {
@@ -141,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table Of Contents.base",
+                "file": "1. Rules/World Extras/Items/Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Table Of Contents"
+              "title": "Backlinks for Items"
             }
           },
           {
@@ -183,12 +206,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,44 +226,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bbc064b59aabc3fe",
+  "active": "e053f64560a01433",
   "lastOpenFiles": [
-    "4. Assets/Tools/General.md",
-    "Table Of Contents.base",
-    "0. World/4. Legends/The Immortal Soul.md",
-    "3. Characters/Non-Playable/Custom Creatures/The Soul Bound.md",
-    "index.md",
-    "1. Rules/Gameplay Changes.md",
-    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/GitMF Notes.md",
-    "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/The Misty Falls.md",
-    "0. World/3. Locations/3. Onyxia/0. Cities/Shadowvale/Shadowvale.md",
-    "0. World/3. Locations/4. Memberia/0. Cities/Shadowbrook/Shadowbrook.md",
-    "0. World/3. Locations/2. Arcanum/0. Cities/Riverport/Riverport.md",
-    "0. World/3. Locations/4. Memberia/0. Cities/Raven's Watch/Raven's Watch.md",
-    "0. World/3. Locations/5. Luminia/0. Cities/Radiance/Radiance.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "1. Rules/World Extras/Items/Items.md",
+    "1. Rules/World Extras/Items/DM Items.md",
+    "1. Rules/World Extras/Items/DM Items.md.tmp.36524.8f1cbf4ae932",
     "4. Assets/Quests/Quests.md",
-    "0. World/3. Locations/2. Arcanum/0. Cities/Mystara/Mystara.md",
-    "0. World/3. Locations/2. Arcanum/0. Cities/Ironshore/Ironshore.md",
-    "0. World/3. Locations/1. Islands/Ironcliff Island.md",
-    "0. World/3. Locations/1. Islands/Frostspire.md",
-    "0. World/3. Locations/-1. Poles/Frostveil Sanctuary.md",
-    "0. World/3. Locations/1. Islands/Euphoria.md",
-    "0. World/3. Locations/5. Luminia/0. Cities/Emberhold/Emberhold.md",
-    "0. World/3. Locations/1. Islands/Dragon's Roost.md",
-    "0. World/3. Locations/3. Onyxia/0. Cities/Coral Bay/Coral Bay.md",
-    "4. Assets/Tools/Building.md",
-    "0. World/3. Locations/1. Islands/Bloodstone Island.md",
-    "0. World/3. Locations/3. Onyxia/0. Cities/Bayshore/Bayshore.md",
-    "1. Rules/Bastions Changes.md",
-    "0. World/4. Legends/The Immortal Soul",
-    "0. World/4. Legends",
-    "3. Characters/Non-Playable/Custom Creatures",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "2. Sessions/Secrets Of Villainy Year 569/0. Mistlin Inn",
-    "2. Sessions/Secrets Of Villainy Year 569",
-    "0. World/0. The Devine War",
-    "0. World/0. The Divine War",
+    "4. Assets/Quests/DM Quests.md",
+    "1. Rules/DM Rules/DM Magical Events.md",
+    "1. Rules/DM Rules/DM Status Effects.md",
+    "1. Rules/DM Rules/DM Custom Rules.md",
+    "0. World/3. Locations/4. Memberia/Memberia.md",
+    "0. World/3. Locations/1. Islands/Cat's Eye/Cat's Eye.md",
+    "1. Rules/Gameplay Changes.md",
+    "0. World/5. Peoples/Elves.md",
+    "4. Assets/Items/Items.md.tmp.51600.393fa1663cd6",
+    "1. Rules/World Extras/Items",
+    "0. World/5. Peoples/Gnomes.md",
+    "0. World/5. Peoples/Peoples.md",
+    "0. World/5. Peoples/Orcs.md",
+    "0. World/5. Peoples/Dragonborn.md",
+    "0. World/5. Peoples/Dwarves.md",
+    "0. World/3. Locations/4. Memberia/0. Cities/Shieldhaven/Shieldhaven.md",
+    "0. World/5. Peoples/Tieflings.md",
+    "0. World/5. Peoples/Half-Orcs.md",
+    "0. World/5. Peoples/Half-Elves.md",
+    "0. World/5. Peoples/Halflings.md",
+    "0. World/5. Peoples/Halflings.md.tmp.30092.d24f46051081",
+    "0. World/5. Peoples/Dwarves.md.tmp.30092.deb590e317bc",
+    "0. World/5. Peoples/Humans.md",
+    "0. World/5. Peoples/Orcs.md.tmp.28908.2d6e3e8f9cde",
+    "0. World/5. Peoples/Goblins.md",
+    "0. World/5. Peoples",
+    "0. World/3. Locations/Information.md",
+    "0. World/3. Locations/Gazetteer.md",
+    "0. World/3. Locations/Gazetteer.md.tmp.28908.f2ff2a340cb3",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.6.jpg",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.2.jpg",
     "2. Sessions/Goblins in the Misty Falls Year 226 BGW/The Master Cartographer's Riddle.png",
