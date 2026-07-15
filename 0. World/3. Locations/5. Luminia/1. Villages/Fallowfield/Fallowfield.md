@@ -39,10 +39,10 @@ Key crops include:
 - **Cold Barley**: Essential for the rival breweries' ales
 
 ### Poor Soil
-The natural soil in the Fallowfield region is rocky, acidic, and nutrient-poor—a legacy of ancient glacial activity. For the first generation after settlement, harvests were meager and survival was difficult. This shared hardship initially brought the community together.
+The natural soil in the Fallowfield region is rocky, acidic, and nutrient-poor, a legacy of ancient glacial activity. For the first generation after settlement, harvests were meager and survival was difficult. This shared hardship initially brought the community together.
 
 #### Improvements
-Centuries ago, during the second generation after the Great Split, both villages independently "discovered" the same soil improvement technique—and each immediately claimed they invented it first. The method involves layering fish waste from the arctic catches with wood ash from winter fires, then composting it with animal manure and turning it into the fields before spring planting.
+Centuries ago, during the second generation after the Great Split, both villages independently "discovered" the same soil improvement technique, and each immediately claimed they invented it first. The method involves layering fish waste from the arctic catches with wood ash from winter fires, then composting it with animal manure and turning it into the fields before spring planting.
 
 The technique works remarkably well, transforming the poor soil into productive farmland. However, the dispute over who invented it sparked one of the longest-running chapters in both the Archive of Slights and the Counter-Archive of Justified Responses. The truth, lost to time, is that a neutral merchant from a traveling family likely taught both sides the same season, but neither will admit this possibility.
 

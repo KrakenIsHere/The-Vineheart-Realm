@@ -76,7 +76,4 @@ The entity granting the wish greatly influences how it's interpreted:
 
 ## Magical Items:
 
-- Ring of Three Wishes is the most straightforward source, containing exactly three wishes
-- Luck Blade contains 1-4 wishes
-- **Efreeti** Bottles can grant three wishes, but the **Efreeti** will try to twist the wording
-- Well of Many Worlds might occasionally grant wish-like effects
+The items that can grant Wishes now live over in the [[Items]] catalog.
