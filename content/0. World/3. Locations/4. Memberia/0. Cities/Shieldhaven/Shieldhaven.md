@@ -34,11 +34,4 @@ The ward that saved the city in the war never came down. The **Great Aegis** is 
 # Culture & Economy
 Prestige in Shieldhaven is measured in knowledge. Enchanting, cartography, tutoring, and the copying and appraisal of texts drive its wealth, and a scholar's word can open doors that gold cannot. Examinations are civic events; a newly minted third-school magister is cause for a street festival. Outsiders find the city welcoming but exacting: it respects the curious and has little patience for the incurious.
 
-> [!TIP] Adventure Hooks
-> - A researcher vanishes into the Memorium's sealed stacks chasing a fragment of the [[The Immortal Soul|Immortal Soul]] legend, and the quarantine seals are found broken from the inside.
-> - The Great Aegis is thinning. The Convocation needs rare warding components gathered before the next storm season, and cannot agree whether the cost is worth it.
-> - An Archmagister's seat falls vacant, and a favored candidate is rumored to have mastered a *fourth*, forbidden school to win it.
-> - Records in the Memorium are being quietly altered. Someone is not stealing history here; they are rewriting it.
-
-> [!NOTE] New to canon (adjust freely)
-> Proper nouns coined in this first pass: the **Convocation**, the **Archmagister** (title), the **Sapient Athenaeum**, the **Memorium**, the **Great Aegis**, and **Glasswater Lake**. Swap or rename any that don't fit your vision; the rest is drawn from existing House Sapient and Memberia lore.
+[[DM Shieldhaven|DM Extras]]

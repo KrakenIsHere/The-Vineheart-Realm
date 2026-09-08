@@ -67,7 +67,7 @@ Every named settlement, island, and pole in one list, with status markers showin
 
 ### The Peoples
 #### [[Peoples]]
-How the realm's peoples actually think. The [[Peoples#The Core Races|Core Races]] share enough assumptions to mostly understand each other, while peoples like the [[Goblins]] (no concept of Property) and the [[Orcs]] (the Soul grows through Challenge) run on entirely different rules.
+How the realm's peoples actually think. The [[Peoples#The Core Races|Core Races]] share enough assumptions to mostly understand each other, while peoples like the [[Goblins]] (no concept of property) and the [[Orcs]] (the soul grows through challenge) run on entirely different rules.
 
 ### Legends
 #### [[The Immortal Soul]]
@@ -157,7 +157,7 @@ The 2024 monsters, plus a how-to on using them with purpose.
 
 ### Utility Notes
 #### [[GM Information Screen]]
-The condensed DM screen. Setting snapshot, core rule changes, event engines, and quick references pulled from across the vault.
+The condensed GM screen. Setting snapshot, core rule changes, event engines, and quick references pulled from across the vault.
 
 #### [[Dice]]
 Every die explained, with notation, probabilities, and quick reference tables.
