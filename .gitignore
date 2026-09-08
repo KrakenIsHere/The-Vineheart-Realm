@@ -1,1 +1,7 @@
 /.obsidian/plugins/smart-second-brain
+
+# Junctions into copilot/skills, with absolute paths baked in.
+# Git follows them, so tracking these would store the same files four times.
+/.agents/
+/.opencode/
+/.claude/skills/
