@@ -10,7 +10,7 @@ locations of extraordinary power where the normal rules of reality bend or break
 ## Recovery Sites
 These sites are sought after by travelers, defended by local populations, and sometimes become points of contention between rival factions.
 
-> [!Note] DM Notes (Using Recovery Sites)
+> [!Note] GM Notes (Using Recovery Sites)
 > - **Quests and Exploration:** Make finding these sites a reward for exploration or the goal of specific quests
 > - **Political Control:** Powerful factions might seek to control these sites
 > - **Limited Resources:** Some sites may only work once per season or month, or require special offerings
@@ -66,7 +66,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Sites of massive magical battles, failed rituals, or crashed celestial objects
 - **Effects:** Whenever a spell is cast within 300 feet, the caster must roll on the Wild Magic Surge table. Additionally, Wild Magic sorcerers gain advantage on all Charisma checks and saving throws while in this area.
 - **Lore:** The fabric of reality was damaged in these locations, causing magic to behave unpredictably and dangerously.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A Chaotic Convergence has appeared near a major settlement, and magical accidents are threatening the population.
 
 ### Antimagic Fields
@@ -74,7 +74,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Ancient battle sites where gods clashed, or near crashed meteors of strange material
 - **Effects:** All magic (including magic items) ceases to function within 100 feet. Creatures that require magic to live must make a DC 15 Constitution save each hour or gain one level of exhaustion.
 - **Lore:** These dead zones are feared by spellcasters and sought by those who hunt mages.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A powerful artifact has been hidden in an antimagic field to prevent its detection.
 
 ### Elemental Eruption Zones
@@ -82,7 +82,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Volcanic fissures, underwater thermal vents, perpetual storms, or areas of unnatural crystal growth
 - **Effects:** At the start of each hour, roll a d20. On an 18-20, an elemental eruption occurs, dealing 3d6 damage of the appropriate type to all creatures within 30 feet and creating difficult terrain for 10 minutes.
 - **Lore:** These zones mark weaknesses in the barriers between the Material Plane and the Elemental Planes.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > Valuable elemental resources form after each eruption, making harvesting a dangerous but lucrative endeavor.
 
 ## Planar Anomalies
@@ -92,7 +92,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Ancient ruins with temporal magic, areas near portals to the Astral Plane
 - **Effects:** Time passes differently within these fields. For every hour spent inside, only minutes or days pass outside. Aging effects may be accelerated, slowed, or even reversed.
 - **Lore:** The normal flow of time is warped, creating pockets where travelers might emerge to find the world significantly changed.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A scholar has gone missing in a time distortion field and must be rescued before they age to death or return as an infant.
 
 ### Gravity Wells
@@ -100,7 +100,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Floating islands, mountain peaks with strange minerals, deep underground caverns
 - **Effects:** Gravity is altered in these areas. The GM may reduce gravity (allowing incredible jumps and slow falls), increase gravity (reducing movement speed and jump height), or change its direction (allowing walking on walls or ceilings).
 - **Lore:** These sites were created by ancient mages experimenting with fundamental forces of the universe.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A gravity well has formed beneath a major city, causing buildings to collapse and people to float away.
 
 ### Echo Chambers
@@ -108,7 +108,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Caverns with specific acoustic properties, foggy valleys, abandoned spiritual retreats
 - **Effects:** Sounds made in these areas create lasting echoes that can be heard for days or even weeks afterward. Characters can potentially hear conversations or events that happened long ago.
 - **Lore:** The boundary between present and past is thin in these places, allowing sounds to transcend time itself.
-> [!Note] DM Note: **Adventure Hook:** 
+> [!Note] GM Note: **Adventure Hook:** 
 > The echo of a murder confession can be heard in an Echo Chamber, but only for another day before it fades forever.
 
 ## Magical Resources
@@ -118,7 +118,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** High mountain plateaus, caverns with exotic fungi, sites of ancient magical battles
 - **Effects:** Rare magical crystals grow here that can be harvested as spell components. Using these crystals allows a spellcaster to cast a spell as if using a spell slot one level higher than the one expended.
 - **Lore:** These crystals absorb ambient magical energy over centuries, concentrating it into usable form.
-> [!Note] DM Note: **Adventure Hook:** 
+> [!Note] GM Note: **Adventure Hook:** 
 > A wizard's guild has placed a bounty on crystal samples from a newly discovered Crystalbloom Field in a dangerous region.
 
 ### Essence Pools
@@ -126,7 +126,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Deep within enchanted forests, in ancient elven ruins, near natural planar breaches
 - **Effects:** Liquid magic collects in pools that can be harvested. When consumed, this essence allows a character to cast any spell they know once without expending a spell slot, but requires a DC 15 Constitution save or suffer 1d6 psychic damage per spell level.
 - **Lore:** The raw magical essence of creation sometimes coalesces into physical form, creating these dangerous but valuable resources.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > An Essence Pool is slowly expanding, transforming the surrounding landscape and creatures in unpredictable ways.
 
 ### Transmutation Zones
@@ -134,7 +134,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Sites where meteorites crashed, areas affected by failed transmutation rituals
 - **Effects:** The properties of materials are altered. Metals may become flexible like cloth, wood might be hard as stone, or normally inert materials might become explosive. Items created using materials from these zones may have unexpected properties.
 - **Lore:** The fundamental alchemical properties of matter are altered in these areas.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A master smith seeks materials from a Transmutation Zone to forge a legendary weapon.
 
 ## Environmental Hazards
@@ -144,7 +144,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Areas with unusual minerals, regions cursed by powerful medusas or basilisks
 - **Effects:** For each day spent in a petrification field, a character must succeed on a DC 12 Constitution save or have their speed reduced by 5 feet as their joints begin to stiffen. This effect is cumulative and can only be reversed by greater restoration or similar magic.
 - **Lore:** The ground itself is infused with the same magic that allows certain monsters to turn flesh to stone.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A legendary treasure is hidden deep within a Petrification Field, and the party must race against time before becoming permanently frozen.
 
 ### Dream Mists
@@ -152,7 +152,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Swamps with strange fungi, forests with mind-affecting pollen, ancient illusion magic testing grounds
 - **Effects:** While in the mist, characters must succeed on a DC 14 Wisdom save each hour or be affected by a random hallucination (roll on a custom table or use the Confusion spell effects).
 - **Lore:** These mists thin the veil between reality and dreams, causing the mind to perceive things that aren't truly there.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > The dreams caused by the mist are actually prophecies that could prevent a coming disaster if correctly interpreted.
 
 ### Necrotic Wastelands
@@ -160,7 +160,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Battlefields with mass graves, sites of necromantic rituals, areas struck by death magic
 - **Effects:** Living creatures that finish a long rest in these areas must succeed on a DC 13 Constitution save or only recover half the normal hit points and hit dice. Undead have advantage on saving throws while in the area.
 - **Lore:** The residual energy of mass death has seeped into the very soil, creating a miasma that weakens the living and strengthens the dead.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > Plants growing in a Necrotic Wasteland have unique properties that a healer needs to cure a mysterious illness.
 
 ## Altered Reality Zones
@@ -170,7 +170,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Sites of divine manifestation, ancient temples, birthplaces of legendary heroes
 - **Effects:** Choose one or more character statistics. While in a blessing field, all creatures gain a +2 bonus to the chosen statistics and any related saving throws or skills.
 - **Lore:** The positive energy from significant divine events has permanently altered these locations.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A once-powerful Blessing Field is fading, and the local community needs help to restore it before it disappears entirely.
 
 ### Curse Zones
@@ -178,7 +178,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Sites of terrible betrayals, ancient battlefields where atrocities occurred, locations of powerful curses
 - **Effects:** Choose one or more character statistics. While in a curse zone, all creatures suffer a -2 penalty to the chosen statistics and any related saving throws or skills.
 - **Lore:** The negative energy from significant tragic events has permanently altered these locations.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A Curse Zone is expanding around the site of a recent tragedy, and its origin must be discovered to contain it.
 
 ### Reality Flux Areas
@@ -186,7 +186,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Near tears in the fabric of reality, sites of massive conjuration spells gone wrong
 - **Effects:** Each day at dawn, roll on a table to determine a fundamental rule change for the day (e.g., fire spells deal cold damage, gravity is reduced, healing magic causes damage instead).
 - **Lore:** The boundaries between different planes and realities are damaged in these locations, causing unpredictable shifts in how magic and physics function.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A Reality Flux Area has engulfed an important temple, and a crucial ritual must be performed despite the changing rules of reality.
 
 ## Mystical Phenomena
@@ -196,7 +196,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Near temporal rifts, areas affected by time magic gone awry
 - **Effects:** Unpredictable storms that cause temporal effects: aging or de-aging creatures, accelerating or reversing natural processes, or temporarily displacing creatures into the past or future.
 - **Lore:** These storms are remnants of a magical catastrophe that nearly unraveled time itself.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A chronostorm caused by [[The Godwound]] has trapped a village in a time loop, and the heroes must enter the loop to break the cycle.
 
 ### Whispering Winds
@@ -204,7 +204,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** High mountain passes, ancient battlefields, sites of secret treaties or betrayals
 - **Effects:** Winds that carry voices and sounds from other times and places. Characters might hear snippets of secret plans, ancient knowledge, or warnings of events yet to come.
 - **Lore:** The winds themselves have become imprinted with the emotions and words of those who passed through these areas during moments of high tension or significance
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > The winds are whispering the location of a long-lost treasure, but other factions have also heard the message.
 
 ### Mirrorlands
@@ -212,7 +212,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Lakes with perfect reflections, polished stone surfaces in ancient ruins, naturally occurring crystal formations
 - **Effects:** These surfaces sometimes act as portals to mirror realms where everything is reversed. Physical travel may be possible, or just visual/auditory communication.
 - **Lore:** The mirror realms are imperfect copies of the material plane, created by magical experiments with demiplane creation.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A villain has escaped into a mirror realm and is gathering forces there to invade the material plane.
 
 ## Sacred Sites
@@ -222,7 +222,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Places where deities manifested physically or sites of miraculous events
 - **Effects:** Divine spells cast within 300 feet are treated as if cast at one level higher. Once per day, clerics can commune directly with their deity while at an anchor dedicated to that god.
 - **Lore:** The divine presence has permanently altered these locations, creating a direct connection to the god's domain.
-> [!Note] DM Note: **Adventure Hook:** 
+> [!Note] GM Note: **Adventure Hook:** 
 > A Divine Anchor has been corrupted, causing divine magic to malfunction across the region.
 
 ### Soul Sanctuaries
@@ -230,7 +230,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Peaceful groves, meditation chambers in remote monasteries, ancient burial grounds
 - **Effects:** Characters who meditate for 1 hour in a Soul Sanctuary gain advantage on Wisdom saving throws for 24 hours. Additionally, they are immune to fear and charm effects during that time.
 - **Lore:** These places have accumulated the peaceful energy of countless souls who found tranquility there.
-> [!Note] DM Note: **Adventure Hook:** 
+> [!Note] GM Note: **Adventure Hook:** 
 > A Soul Sanctuary is being used by a cult to trap souls rather than help them find peace.
 
 ### Creation Fountains
@@ -238,7 +238,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** The first places where life emerged in the world, often in remote and pristine natural settings
 - **Effects:** Living creatures damaged to 0 hit points within 60 feet of a Creation Fountain automatically stabilize. Additionally, healing magic is maximized within this area.
 - **Lore:** The primordial energy of life still flows strongly in these locations, resisting death and decay.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A Creation Fountain is dying, threatening all life in the surrounding region.
 
 ## Arcane Phenomena
@@ -248,7 +248,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Sites of magical disasters, wizard academies that suffered catastrophic accidents
 - **Effects:** Random spell effects manifest during these storms. Roll on a custom table or use the Wild Magic Surge table to determine effects that occur every 1d4 hours.
 - **Lore:** Residual magical energy has become self-sustaining and chaotic, creating weather patterns infused with arcane power.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > A spell storm has become sentient and is deliberately targeting specific locations.
 
 ### Arcane Nexuses
@@ -256,7 +256,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Intersections of powerful ley lines, ancient magical research facilities
 - **Effects:** Spellcasters who prepare spells at an Arcane Nexus can prepare one additional spell of their highest available level. However, critical failures on spell attacks or saving throws have enhanced negative effects.
 - **Lore:** These sites channel and concentrate magical energy from the planet itself, creating reservoirs of arcane power.
-> [!Note] DM Note: **Adventure Hook:**
+> [!Note] GM Note: **Adventure Hook:**
 > An Arcane Nexus has become unstable and must be repaired before it creates a catastrophic magical explosion.
 
 ### Spellscarred Lands
@@ -264,7 +264,7 @@ These sites are sought after by travelers, defended by local populations, and so
 - **Location:** Battlefields where mighty spellcasters fought, failed magical experiment sites
 - **Effects:** The landscape itself has been permanently altered by magic. Floating earth, eternally burning flames, frozen waterfalls, or vegetation of strange colors and properties might be found.
 - **Lore:** The residual energy of powerful spells has seeped into the environment, twisting it in ways that reflect the nature of the magic used.
-> [!Note] DM Note: **Adventure Hook:** 
+> [!Note] GM Note: **Adventure Hook:** 
 > Plants from a Spellscarred Land are being harvested to create dangerous new potions with unpredictable effects.
 
 ## Incorporating Special Sites

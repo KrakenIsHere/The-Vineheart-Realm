@@ -1,14 +1,11 @@
 ---
-title: DM Screen
+title: GM Screen
 tags:
   - VineheartRealm
-  - InformationScreen
-  - DM
-  - Screen
-  - Reference
+  - Tools
 ---
 
-# DM Screen - The Vineheart Realm
+# GM Screen - The Vineheart Realm
 
 Print Version: Designed for physical use. All references are listed as source notes and sections.
 
@@ -18,7 +15,7 @@ Print Version: Designed for physical use. All references are listed as source no
 - Core Gameplay Changes
 - Event Engines
 - Factions, Reputation, and World Add-ons
-- DM Optional Modules
+- GM Optional Modules
 - Source Index
 
 ## Setting Snapshot
@@ -198,7 +195,7 @@ Source: Special Sites
 - Pick 1 trigger for escalation
 - Offer 1 reward and 1 complication tied to the site's nature
 
-## DM Optional Modules
+## GM Optional Modules
 
 ### Wish Framework
 - Wishes can replicate level 8 or lower spells safely more often

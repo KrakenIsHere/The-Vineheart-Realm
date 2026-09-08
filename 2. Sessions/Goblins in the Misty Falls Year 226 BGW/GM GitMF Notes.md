@@ -1,7 +1,6 @@
 ---
-title: DM's Session Goblins in the Misty Falls Notes
+title: GM's Session Goblins in the Misty Falls Notes
 tags:
-  - private
   - Notes
   - GoblinsInTheMistyFalls
 ---

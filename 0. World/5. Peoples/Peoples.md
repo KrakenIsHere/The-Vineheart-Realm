@@ -9,7 +9,7 @@ tags:
 
 Hub for the **cultures and worldviews** of the realm's peoples: how they *think*, not how they fight.
 
-> [!NOTE] Where cultural lore lives
+> [!Note] Where cultural lore lives
 > - **This area (`5. Peoples`)** covers how a people *sees the world*: its values, taboos, and the friction those create with everyone else.
 > - **Race mechanics** (ability scores, traits, subraces) stay in [[Character Creation#Races|Character Creation]].
 > - **Location culture** (how a specific city or continent lives) stays inside that place's own note.
@@ -34,7 +34,7 @@ Their shared assumptions are so ingrained they rarely notice them. That is, unti
 Peoples whose worldview runs on entirely different rules. To the Core Races they can seem rude, greedy, or dangerous; to themselves, they are simply living *correctly*, and it is the Core Races who behave strangely.
 
 ### Index
-- [[Goblins]]: a people with no concept of **Property**
-- [[Orcs]]: a people who hold that the **Soul** grows only through **Challenge**
+- [[Goblins]]: a people with no concept of **property**
+- [[Orcs]]: a people who hold that the **soul** grows only through **challenge**
 
 *(Both lists will grow as more cultures are written; the [[Goblins]] and [[Orcs]] are only the first of the Others.)*
