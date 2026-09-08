@@ -126,28 +126,32 @@
           {
             "name": "Before Christ",
             "format": "Year {{abs_year}} - {{era_name}}",
-            "start": {
+            "id": "ID_9a2978c92baa",
+            "endsYear": false,
+            "event": false,
+            "date": {
               "year": -1,
               "month": 0,
               "day": 31
             },
-            "id": "ID_9a2978c92baa",
-            "restart": false,
-            "endsYear": false,
-            "event": false
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
           },
           {
             "name": "Anno Domini",
             "format": "Year {{year}} - {{era_name}}",
-            "start": {
+            "id": "ID_a8db38899a2b",
+            "endsYear": false,
+            "event": false,
+            "date": {
               "year": 1,
               "month": 0,
               "day": 1
             },
-            "id": "ID_a8db38899a2b",
-            "restart": false,
-            "endsYear": false,
-            "event": false
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
           }
         ],
         "offset": 0,
@@ -174,7 +178,8 @@
           "sort": {
             "timestamp": -226013,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Goblins in the Misty Falls: Day 2",
@@ -190,7 +195,8 @@
           "sort": {
             "timestamp": -226014,
             "order": ""
-          }
+          },
+          "type": "Date"
         },
         {
           "name": "Secrets Of Villainy Start",
@@ -206,7 +212,8 @@
           "sort": {
             "timestamp": 569215,
             "order": ""
-          }
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_6ac80ab98aab",
@@ -242,7 +249,25 @@
           "name": "Other Events"
         }
       ],
-      "dateFormat": "DD/MM/YYYY"
+      "dateFormat": "DD/MM/YYYY",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1320869669,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      }
     }
   ],
   "configDirectory": null,
@@ -258,9 +283,9 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 12,
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
     "beta": null
   },
   "debug": false,
@@ -268,5 +293,6 @@
   "askedAboutSync": true,
   "syncBehavior": "Ask",
   "inlineEventsTag": null,
-  "paths": []
+  "paths": [],
+  "autoParse": true
 }

@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4aaafe38f2c4080a",
+        "id": "20e4eb7c1e14e3f8",
         "type": "tabs",
-        "dimension": 58.040935672514614,
         "children": [
           {
-            "id": "3f02c9731f886e1c",
+            "id": "df54e802bbfee85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Rules/World Extras/Items/DM Items.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DM Items"
-            }
-          }
-        ]
-      },
-      {
-        "id": "df22127cf487cd3e",
-        "type": "tabs",
-        "dimension": 41.95906432748538,
-        "children": [
-          {
-            "id": "e053f64560a01433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Rules/World Extras/Items/Items.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Items"
+              "title": "index"
             }
           }
         ]
@@ -63,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -75,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Item",
+                "query": "\"Adventure Hook\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 334.5
   },
   "right": {
     "id": "2266179cb9c35810",
@@ -116,13 +96,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Rules/World Extras/Items/Items.md",
+                "file": "0. World/3. Locations/0. World/The Vineheart Realm V0.6.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Items"
+              "title": "Outline of The Vineheart Realm V0.6"
             }
           },
           {
@@ -144,18 +124,8 @@
                   "displayWeeks": true
                 }
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "a35cc3bd2f5a0b0a",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dice-roller-icon",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -164,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Rules/World Extras/Items/Items.md",
+                "file": "0. World/3. Locations/0. World/The Vineheart Realm V0.6.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Items"
+              "title": "Backlinks for The Vineheart Realm V0.6"
             }
           },
           {
@@ -205,12 +175,49 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "8f3d7fd01951ba65",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6ac80ab98aab",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 2,
+                    "year": 569
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_ab684abbda29"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "4b844fba9277638f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,52 +229,53 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
+      "copilot:Open Copilot Agent Chat": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e053f64560a01433",
+  "active": "df54e802bbfee85f",
   "lastOpenFiles": [
+    "1. Rules/Bastions Changes.md",
+    "1. Rules/Levels Breakdown.md",
+    "1. Rules/World Additional.md",
+    "1. Rules/Gameplay Changes.md",
+    "1. Rules/Character Creation.md",
+    "4. Assets/Tools/AI.md",
+    "4. Assets/Tools/Building.md",
+    "4. Assets/Tools/Dice.md",
+    "4. Assets/Tools/DM Stats.md",
+    "4. Assets/Tools/General.md",
+    "4. Assets/Quests/DM Quests.md",
+    "4. Assets/Quests/Quests.md",
+    "4. Assets/Images/Vineheart Logo/VineHeart.png",
+    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/GM GitMF Notes.md",
+    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/GitMF Notes.md",
+    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/The Master Cartographer's Riddle.png",
+    "sedJZ8NPE",
+    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/sedqs7rzZ",
+    "1. Rules/World Extras/sedBxYbPu",
+    "1. Rules/World Extras/Special Sites.md",
+    "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/The Misty Falls.md",
+    "0. World/3. Locations/1. Islands/Ironcliff Island.md",
+    "0. World/3. Locations/-1. Poles/Frostveil Sanctuary.md",
+    "0. World/3. Locations/1. Islands/Frostspire.md",
+    "0. World/3. Locations/1. Islands/Euphoria.md",
+    "0. World/3. Locations/1. Islands/Bloodstone Island.md",
+    "0. World/3. Locations/-1. Poles/Blizzard's Edge.md",
+    "0. World/4. Legends/The Immortal Soul.md",
+    "1. Rules/World Extras/Faction Reputation.md",
+    "0. World/3. Locations/4. Memberia/Memberia.md",
+    "4. Assets/Breakdowns/GM Information Screen.md",
+    "0. World/3. Locations/4. Memberia/0. Cities/Shieldhaven/sedLQb2vD",
+    "CLAUDE.md.tmp.22152.e824ea52156e",
+    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/sedzjjxwb",
+    "CLAUDE.md.tmp.22152.bdf803cbc7ad",
     "Untitled 1.base",
     "Untitled.base",
-    "1. Rules/World Extras/Items/Items.md",
-    "1. Rules/World Extras/Items/DM Items.md",
-    "1. Rules/World Extras/Items/DM Items.md.tmp.36524.8f1cbf4ae932",
-    "4. Assets/Quests/Quests.md",
-    "4. Assets/Quests/DM Quests.md",
-    "1. Rules/DM Rules/DM Magical Events.md",
-    "1. Rules/DM Rules/DM Status Effects.md",
-    "1. Rules/DM Rules/DM Custom Rules.md",
-    "0. World/3. Locations/4. Memberia/Memberia.md",
-    "0. World/3. Locations/1. Islands/Cat's Eye/Cat's Eye.md",
-    "1. Rules/Gameplay Changes.md",
-    "0. World/5. Peoples/Elves.md",
-    "4. Assets/Items/Items.md.tmp.51600.393fa1663cd6",
-    "1. Rules/World Extras/Items",
-    "0. World/5. Peoples/Gnomes.md",
-    "0. World/5. Peoples/Peoples.md",
-    "0. World/5. Peoples/Orcs.md",
-    "0. World/5. Peoples/Dragonborn.md",
-    "0. World/5. Peoples/Dwarves.md",
-    "0. World/3. Locations/4. Memberia/0. Cities/Shieldhaven/Shieldhaven.md",
-    "0. World/5. Peoples/Tieflings.md",
-    "0. World/5. Peoples/Half-Orcs.md",
-    "0. World/5. Peoples/Half-Elves.md",
-    "0. World/5. Peoples/Halflings.md",
-    "0. World/5. Peoples/Halflings.md.tmp.30092.d24f46051081",
-    "0. World/5. Peoples/Dwarves.md.tmp.30092.deb590e317bc",
-    "0. World/5. Peoples/Humans.md",
-    "0. World/5. Peoples/Orcs.md.tmp.28908.2d6e3e8f9cde",
-    "0. World/5. Peoples/Goblins.md",
-    "0. World/5. Peoples",
-    "0. World/3. Locations/Information.md",
-    "0. World/3. Locations/Gazetteer.md",
-    "0. World/3. Locations/Gazetteer.md.tmp.28908.f2ff2a340cb3",
+    "Table Of Contents.base",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.6.jpg",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.2.jpg",
-    "2. Sessions/Goblins in the Misty Falls Year 226 BGW/The Master Cartographer's Riddle.png",
     "0. World/3. Locations/2. Arcanum/Arcanum-V1.png",
-    "4. Assets/Images/Vineheart Logo/VineHeart.png",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Dungeon 1.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Camp.webp",
     "0. World/3. Locations/2. Arcanum/-1. Locations & Caves/Misty Falls/Misty Falls Dungeon 3.webp",
