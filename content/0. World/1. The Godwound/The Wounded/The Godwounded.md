@@ -16,7 +16,7 @@ At its core, the organization operates through four continental temples, each ho
 
 The Wounded maintains its authority through a careful balance of scholarly pursuit and practical action, with roles ranging from the scholarly Wound Scribes who document manifestations, to the vigilant Guardians who protect the sacred sites and Priestesses across all kingdoms. Their influence extends beyond political boundaries, operating as a neutral entity devoted solely to their sacred mission of containing The Godwound's power.
 
-> [!NOTE]
+> [!Note]
 > Following The Godwound's appearance, The Wounded emerged within two decades, rapidly establishing themselves as the foremost authority on understanding and containing its mysterious powers.
 > 
 > Their organization combines ancient traditions with pragmatic adaptation, ensuring their continued relevance in an ever-changing world.
@@ -115,7 +115,7 @@ The structured approach to training and advancement ensures that the organizatio
 
 Each continental temple has evolved to reflect both its environment and the unique rituals they perform.
 
-> [!INFO] [[Godwound Containment#The Rituals|Temples]]
+> [!Info] [[Godwound Containment#The Rituals|Temples]]
 > The [[Memberia#Godwound Ritual|Memberian Temple]] rises from eternal ice, its walls embedded with frost-forged runes that supposedly quells [[The Godwound]]'s energy.
 > 
 > The [[Luminia#Godwound Ritual|Luminian Temple]] spirals upward through mountain peaks, its wind-carved chambers naturally amplifying ritual energies.

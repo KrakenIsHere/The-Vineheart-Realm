@@ -18,7 +18,7 @@ tags:
 - **Archfey** might grant wish-like effects through powerful fey magic, though these often come with strings attached
 - **Demon Lords** and **Archdevils** can grant wish-like effects, but these are extremely dangerous to accept
 
-> [!NOTE] Regarding types of wishes they'll perform:
+> [!Note] Regarding types of wishes they'll perform:
 > Most entities can replicate any spell of 8th level or lower perfectly. Beyond that, common applications include:
 > - Healing all creatures
 > - Reviving the dead (though with potential limitations)
@@ -40,14 +40,14 @@ The entity granting the wish greatly influences how it's interpreted:
 
 #### Gods
 
-> [!INFO] Init Prompt
+> [!Info] Init Prompt
 > In my DnD homebrew game I have Gods that might grant wishes and I need help to make realize my player's wishes, I'll give you the wishes later.
 > 
 > My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
 
 #### Devils & Demons
 
-> [!INFO] Init Prompt
+> [!Info] Init Prompt
 > In my DnD homebrew game I have Devils/Demons that might grant wishes (interpret wishes literally and maliciously) and I need help to make realize my player's wishes but with some serious consequences attached, I'll give you the wishes later.
 > 
 > My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
@@ -57,7 +57,7 @@ The entity granting the wish greatly influences how it's interpreted:
 #### Genies
 [Claud Generations](https://claude.ai/chat/bd750053-cf86-42c8-aef7-954bbf180bd7)
 
-> [!INFO] Init Prompt
+> [!Info] Init Prompt
 > In my DnD homebrew game I have a Genie and I need help to make sure that my player's wishes (look for loopholes to exploit) have a really bad twist, I'll give you the wishes later.
 > 
 > My world is in a medieval like setting in a world recovering from a near world ending catastrophe.
@@ -66,7 +66,7 @@ The entity granting the wish greatly influences how it's interpreted:
 
 #### Fey
 
-> [!INFO] Init Prompt
+> [!Info] Init Prompt
 > In my DnD homebrew game I have Fey and I need help to realize my player's wishes (add whimsical or chaotic elements to the wish's fulfillment) I'll give you the wishes later.
 > 
 > My world is in a medieval like setting in a world recovering from a near world ending catastrophe.

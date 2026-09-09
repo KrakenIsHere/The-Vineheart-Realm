@@ -13,7 +13,7 @@ Refer to [[Dice]] for clarifications of the usage of [[Dice]]
 ## Races
 [[DnD PHB 5e Chapter 2.pdf|Races]]
 
-> [!INFO] Culture vs. mechanics
+> [!Info] Culture vs. mechanics
 > This section covers race **mechanics**. For how the realm's peoples *think* (their values, taboos, and worldviews), see the [[Peoples]] hub.
 
 Humans are the most common people in the Vineheart Realm, but they live and work alongside dwarves, elves, halflings, and countless other fantastic species. 
@@ -25,7 +25,7 @@ Dragonborn, gnomes, half-elves, half-orcs, and  and Tieflings are less common as
 
 Your choice of race affects many different aspects of your character. It establishes fundamental qualities that exist throughout your character's adventuring career. When making this decision, keep in mind the kind of character you want to play.
 
-> [!INFO] Example
+> [!Info] Example
 > A Halfling could be a good choice for a sneaky rogue, a Dwarf makes a tough warrior, and an Elf can be a master of arcane magic. Your character's race not only affects your ability scores and traits but also provides the cues for building your character's story.
 
 Each race's description in this chapter includes information to help you roleplay a character of that race, including personality, physical appearance, features of society, and racial alignment tendencies.
@@ -1068,12 +1068,12 @@ Your personality is built from four elements that work together to create a uniq
 
 Your character's alignment represents their moral and ethical outlook on life. It affects how they approach conflicts, relationships, and decisions throughout their adventures.
 
-> [!INFO] It's just for fun
+> [!Info] It's just for fun
 > An alignment can help, with directing decisions of a character. It can also be useful for development, as alignment can change, or may have already changed in a character's story pre-adventure.
 > Alignments are a great way to bring a character to life, if so desired, however:
 > - It is not required for a character to have or strictly adhere to an alignment.
 > 
->> [!NOTE] It is your character
+>> [!Note] It is your character
 >> It is up to the creator of a character to decide if they wish to take the challenge of being strict with a character's alignment or if they want to use it as a simple guideline for interactions.
 
 If you're unsure or want to try something different:

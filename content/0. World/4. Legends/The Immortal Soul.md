@@ -247,7 +247,7 @@ A tale claiming the gods themselves prevent mortals from achieving true immortal
 
 ---
 
-> [!WARNING] DM Notes
+> [!Warning] DM Notes
 > This legend should feel tempting when presented to players. Focus on their character's vulnerabilities:
 > - A wizard who fears their research dying with them
 > - A warrior who wants to protect their loved ones forever

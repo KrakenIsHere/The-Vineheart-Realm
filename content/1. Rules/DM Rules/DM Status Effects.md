@@ -19,7 +19,7 @@ tags:
 - Falls
 - Traps
 
-> [!INFO]
+> [!Info]
 > When a character with Plot Armor would die from any effect, they instead:
 > 1. Drop to 1 HP
 > 2. Gain temporary immunity to all damage until the start of their next turn
@@ -40,7 +40,7 @@ Your very existence seems to defy fate. Death itself appears reluctant to claim 
 5. **Fate's Debt** - Next death saving throw is made with disadvantage
 6. **Soul Drain** - Lose one unused Hit Die
 
-> [!NOTE]
+> [!Note]
 > - Track uses discretely
 > - Consider incorporating near-death experiences into character development
 > - Can be restored during major story beats if dramatically appropriate

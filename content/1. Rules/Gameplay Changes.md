@@ -162,7 +162,7 @@ To encourage the use of inspiration:
 
 Players track inspiration points on their character sheets. The DM may provide physical tokens (coins, glass beads, etc.) to represent inspiration points for a tactile reminder of this resource.
 
->[!NOTE] DM Note:
+>[!Note] DM Note:
 >_Remember that inspiration is meant to reward and encourage the kind of play that makes the game more enjoyable for everyone._
 
 ### Drastic Modifiers
@@ -198,7 +198,7 @@ A character may only hold one earned Drastic Modifier at a time. If a new one is
 When a Drastic Modifier is used, roll **1d4** to determine the operation
 and **1d6** for the secondary number (the DM may specify a different die)
 
-> [!IMPORTANT] The Math of Fate
+> [!Important] The Math of Fate
 > | d4 | Operation |
 > | --- | --- |
 > | 1 | + |
@@ -257,21 +257,21 @@ Should an action, result in a fellow player taking damage, the DM will determine
 
 As your character's power approaches divine thresholds, they begin perceiving fragments of cosmic truth beyond mortal comprehension. This awareness manifests as:
 
-> [!WARNING] **Otherworldly Visions**:
+> [!Warning] **Otherworldly Visions**:
 > At the start of a long rest, roll **1d20**.
 > On 1-5, you're plagued by disturbing visions of cosmic truths.
 > You gain no benefits from that long rest and start the day [[Gameplay Changes#Poorly Rested|Poorly Rested]].
 
-> [!INFO] **Reality Distortion**:
+> [!Info] **Reality Distortion**:
 > Your growing power warps reality around you.
 > Small objects occasionally levitate, shadows move incorrectly, and your voice sometimes echoes unnaturally.
 > NPCs with a passive Wisdom (Perception) of 15 or higher feel instinctively unsettled in your presence, imposing disadvantage on Charisma (Persuasion) checks with them.
 
-> [!WARNING] **Attraction of the Wound**:
+> [!Warning] **Attraction of the Wound**:
 > Your power acts as a beacon to entities beyond the veil.
 > Once per week, the DM can have a random cosmic horror creature become aware of you and potentially seek you out.
 
-> [!NOTE] **Knowledge Burden**:
+> [!Note] **Knowledge Burden**:
 > You occasionally receive unbidden insights into cosmic truths.
 > Whenever you roll a natural 20 on an Intelligence check, you might also learn something you were never meant to know.
 > The DM may provide a disturbing revelation that offers useful information but might require a DC 16 Wisdom saving throw to avoid being frightened for 1 minute.

@@ -1,7 +1,7 @@
 ---
 title: Harvest Hollow
 tags:
-  - Harvest-Hollow
+  - HarvestHollow
   - Villages
   - Luminia
 ---

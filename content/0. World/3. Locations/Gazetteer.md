@@ -3,13 +3,13 @@ title: Gazetteer
 tags:
   - index
   - Maps
-  - Locations
+  - Location
 ---
 # The Vineheart Realm Gazetteer
 
 A complete index of every named place on the **World Map (V0.6)** and the **Arcanum continent map (V1)**, with the status of its note. This is the master worklist for fleshing out locations.
 
-> [!NOTE] Caveats
+> [!Note] Caveats
 > - Names are transcribed from the map art; verify exact spellings against the source images.
 > - Labels drift slightly between map versions (e.g. Arcanum's *Dugray/Ducray*, *Dickey/Digrey*); the continent-map spelling is used here.
 > - Positions on the maps are for direction and vibe, not scale (per [[Information|Map Information]]).
@@ -20,7 +20,7 @@ A complete index of every named place on the **World Map (V0.6)** and the **Arca
 **Type:** Capital, Port (inter-continental trading city), City, Village, Site (dungeon or location), Island, Ice cap.
 
 ## Coverage at a glance
-Of ~105 named places, only **[[Shieldhaven]]**, **[[Fallowfield]]**, **[[Rubilande]]**, and **[[The Common Temple]]** are truly developed. Everything else is a stub, an empty file, or exists only as a label on the map.
+Of ~103 named places, only **[[Shieldhaven]]**, **[[Fallowfield]]**, **[[Rubilande]]**, and **[[The Common Temple]]** are truly developed. Everything else is a stub, an empty file, or exists only as a label on the map.
 
 | Region | Places | Developed | Stub | Empty | Unwritten |
 | --- | :---: | :---: | :---: | :---: | :---: |
