@@ -12,7 +12,7 @@ Secret clauses for the items over in [[Items]]. Players don't get to read this.
 ## Bag of Holding
 Every single time someone pulls an item out of a Bag of Holding, roll a d100 where they can't see it. On a 100 the space inside hiccups, a seam of the [[The Godwound|Godwound]] snags on the pocket, and something slips out through the opening along with whatever they were reaching for.
 
-> [!NOTE] Here's the thing though.
+> [!Note] Here's the thing though.
 > In the Vineheart Realm the pocket inside a Bag isn't as stable as the old texts promise. Ever since the [[The Godwound|Godwound]], these little folds of elsewhere keep brushing up against places they shouldn't, and every so often something on the other side reaches back.
 
 That's a flat 1% per retrieval, so a Bag that gets used all the time will go off eventually, usually at the worst possible moment. Bump the odds up whenever it feels right, a cursed or overstuffed Bag, or one hauled around too close to a Godwound manifestation (a 96-100 band makes it a 5% chance if you want it to actually bite).

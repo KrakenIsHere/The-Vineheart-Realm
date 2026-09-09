@@ -30,7 +30,7 @@ Let this serve as a reminder: The bonds between adventurers are sacred, and thos
 
 ### Limitations
 
-> [!note] Limitations of Powers (Include, but not limited to)
+> [!Note] Limitations of Powers (Include, but not limited to)
 > - It is not allowed to kill anyone in this state
 > 	- Not PCs nor NPCs
 > - A victim cannot deal more damage than was taken

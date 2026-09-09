@@ -94,7 +94,7 @@ the skeleton will sit up, and pick up it's short sword to defend it's castle.
 
 Looks in the direction of the intruders as if to say something.
 
-> [!INFO] Insight Check
+> [!Info] Insight Check
 > It seems like the skeleton is trying to say "Come to take my treasure?!" the jaw bone keeps moving in as if in rage, yelling profanities at you
 
 ##### Creatures
@@ -109,12 +109,12 @@ When the players enter the map room, they find a frustrated Revenant in noble at
 ##### The Cartographer's Final Lesson
 On the mapping table is a parchment with elegant handwriting that reads:
 
-> [!INFO] The Letter
+> [!Info] The Letter
 > _"My dearest pupil,_
 >
 > _You've mastered every technique I've taught, but wisdom lies beyond mere skill. Solve this final lesson:_
 >
->> [!NOTE] The Riddle
+>> [!Note] The Riddle
 >> 
 >> What e'er doth course yet ne'er doth tread,
 >> Oft murmureth, yet speaketh not a word,
@@ -137,7 +137,7 @@ On the mapping table is a parchment with elegant handwriting that reads:
 >
 > _With pride,_ _Master Cornelius"_
 
-> [!NOTE] The Translation
+> [!Note] The Translation
 > 
 > _What always flows but never walks,_ 
 > _Often murmurs, never talks,_ 
@@ -160,7 +160,7 @@ On the mapping table is a parchment with elegant handwriting that reads:
 "A river." When the players suggest this, the Revenant's eyes light up with recognition. He slides his hand along the edge of the mapping table where a small river is carved, revealing a hidden drawer.
 
 Inside is a beautifully crafted compass with an inscription:
-> [!NOTE] The Inscription
+> [!Note] The Inscription
 > "Not all who wander are lost. Your true north was always your passion. You've exceeded your master in every way."
 
 **The Revenant**, finally understanding his mentor's final message, find peace and with tears of joy offer the players his assistance while within this domain.
@@ -170,7 +170,7 @@ Here 4 Animated Armors stand tall among other armor
 
 At a distance the adventurers see a large bundle of webs at the end of the room
 
-> [!NOTE] Perception Check
+> [!Note] Perception Check
 >At the end of the room is a large pile of "gold" (It's actually brass) coins and a chest entangled within **THICK** webs 
 
 ##### Creatures
@@ -186,7 +186,7 @@ The adventurers look around and see skeletons of people and horses, some chained
 
 To the right is a table with cards on it (Ruined Playing Cards: Nature Themed) and 2 broken stools that has fallen over.
 
-> [!NOTE] Speak with Animals
+> [!Note] Speak with Animals
 > As the spider wakes up and sees the adventurers it can be heard saying "Loose ends?"
 
 ##### Creatures

@@ -13,7 +13,7 @@ tags:
 
 ## Purchase
 A bastion can only be sold by a royal overseer
-> [!NOTE] These buildings can vary heavily in price.
+> [!Note] These buildings can vary heavily in price.
 > - They can be bought in several [[Bastions Changes#States|states]] of functionality
 > - The worse a bastion is the cheaper they get
 > - The better a bastion is the cheaper they are to rebuild
@@ -21,12 +21,12 @@ A bastion can only be sold by a royal overseer
 ## Reward
 
 ### Royal
-> [!WARNING] A bastion can be rewarded by Royalty
+> [!Warning] A bastion can be rewarded by Royalty
 > - This typically means it is already semi functional
 > 	- It is not guaranteed
 
 ### Local
-> [!WARNING] A bastion can also be granted by a local head of an area.
+> [!Warning] A bastion can also be granted by a local head of an area.
 > - This means the structure is likely heavily falling apart or is near total ruin
 
 ## Combining Bastions
@@ -36,17 +36,17 @@ In order to co-own bastions as 2 characters the "Combination" goes towards the p
 
 # Bastion Turns
 
-> [!INFO]
+> [!Info]
 > ![[D.M.G. Chapter 8#Frequency of Bastion Turns]]
 
 
-> [!NOTE]
+> [!Note]
 >![[D.M.G. Chapter 8#Orders]]
 
 # Layout
 It is for the player to draw out the layout of the building after getting specifications from the DM.
 
-> [!INFO]
+> [!Info]
 > The DM can help in the actual drawing of the map if so desired.
 
 
@@ -70,7 +70,7 @@ It is for the player to draw out the layout of the building after getting specif
 ![[D.M.G. Chapter 8#Special Facility Acquisition]]
 
 
-> [!INFO]
+> [!Info]
 >![[D.M.G. Chapter 8#Special Facilities Table]]
 
 # States

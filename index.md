@@ -71,7 +71,7 @@ How the realm's peoples actually think. The [[Peoples#The Core Races|Core Races]
 
 ### Legends
 #### [[The Immortal Soul]]
-An old trap dressed up as a divine gift. The legend promises true immortality, and everyone who believes it ends up as one of the [[The Soul bound|Soul bound]].
+An old trap dressed up as a divine gift. The legend promises true immortality, and everyone who believes it ends up as one of the [[The Soul Bound|Soul bound]].
 
 ## Rules Hub
 ### Rules Philosophy

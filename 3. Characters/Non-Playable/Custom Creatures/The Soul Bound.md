@@ -62,7 +62,7 @@ If they want to be freed, the item actively lures victims:
 - **Magical compulsion** - Drawing people near
 - **Item appears alluring** - Glowing, prominently positioned
 
-> [!WARNING] Player Agency
+> [!Warning] Player Agency
 > Whispers and compulsions should enhance temptation, not remove choice. Consider Wisdom saves to resist compulsion, but even on failure, player decides their character's action. The whispers are enticement, not mind control.
 
 ### Souls Seeking Rest
@@ -81,7 +81,7 @@ If they want to remain in limbo or achieve true death:
 1. Defeat the creature (body turns to ash, item appears)
 2. Item must remain isolated and undisturbed while it withers
 
-> [!NOTE] To move the item you must:
+> [!Note] To move the item you must:
 > Place item in appropriate magical container WITHOUT touching it.
 > The container can be either:
 > - Blessed 
@@ -125,7 +125,7 @@ Each paid a different price for immortality:
 
 **The Collector** - Gathers others' items, either for mercy or control
 
-> [!NOTE] The Collector's Vault
+> [!Note] The Collector's Vault
 > A Collector can become a campaign centerpiece:
 > - Merciful Collector = ally offering safe storage, but what if their vault is breached?
 > - Control-seeking Collector = villain with army of souls they can release at will
@@ -171,7 +171,7 @@ Towns keep records:
 
 "Reclaimers" - those who safely collect and contain items for a fee
 
-> [!NOTE] Reclaimer Services
+> [!Note] Reclaimer Services
 > Costs might include:
 > - **Assessment** - 50-100 GP to identify and locate the item
 > - **Retrieval** - 500-5000 GP depending on danger and item size

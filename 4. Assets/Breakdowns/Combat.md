@@ -1,3 +1,9 @@
+---
+title: Combat Step by Step
+tags:
+  - Rules
+  - Details
+---
 # Step by Step
 
 ## 1. Determine Surprise
