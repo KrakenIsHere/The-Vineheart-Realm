@@ -29,7 +29,7 @@ The blue window unfolded in front of my face again.
 
 I flinched at how close it appeared, then held my hand against my chest while I read. The marks on the dungeon walls still meant nothing to me. The window was in Japanese, just as it had been when it first appeared in the summoning hall. That remained its one considerate feature.
 
-> **Unique Skill: Inverse Impact**
+> **Unique Skill:** Inverse Impact
 >
 > The less physical force the bearer intentionally applies, the greater the resulting impact.
 >
