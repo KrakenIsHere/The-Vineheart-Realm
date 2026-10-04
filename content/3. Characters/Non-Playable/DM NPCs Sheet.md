@@ -1,7 +1,7 @@
 ---
 title: DM NPCs Sheet
 tags:
-  - private
+  - Private
   - Notes
 ---
 

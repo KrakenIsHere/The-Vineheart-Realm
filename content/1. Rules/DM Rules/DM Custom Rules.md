@@ -1,7 +1,7 @@
 ---
 title: Secret Changes & Add-ons
 tags:
-  - private
+  - Private
   - Rules
 ---
 # PvP Scenarios

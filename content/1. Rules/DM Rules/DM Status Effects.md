@@ -2,7 +2,7 @@
 title: Secret Effects
 tags:
   - Rules
-  - private
+  - Private
 ---
 # Custom Effects
 

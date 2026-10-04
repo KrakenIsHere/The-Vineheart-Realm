@@ -1,7 +1,7 @@
 ---
 title: DM Shieldhaven
 tags:
-  - private
+  - Private
   - Shieldhaven
   - Memberia
 ---
