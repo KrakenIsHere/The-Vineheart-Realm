@@ -1,7 +1,7 @@
 ---
 title: DM Quests
 tags:
-  - private
+  - Private
   - Quests
   - VineheartRealm
 ---

@@ -1,7 +1,7 @@
 ---
 title: Secret Magical Changes
 tags:
-  - private
+  - Private
   - Rules
 ---
 # Wishes

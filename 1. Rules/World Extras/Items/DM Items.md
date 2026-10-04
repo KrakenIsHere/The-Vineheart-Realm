@@ -1,7 +1,7 @@
 ---
 title: DM Items
 tags:
-  - private
+  - Private
   - Items
   - Rules
 ---

@@ -4,7 +4,7 @@ tags:
   - Fallowfield
   - Villages
   - Luminia
-  - private
+  - Private
 ---
 # The Catalyst
 

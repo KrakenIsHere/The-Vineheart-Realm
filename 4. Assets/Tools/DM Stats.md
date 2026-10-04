@@ -3,7 +3,7 @@ title: Stats Descriptions
 tags:
   - Details
   - Tools
-  - private
+  - Private
 ---
 # Unused
 
