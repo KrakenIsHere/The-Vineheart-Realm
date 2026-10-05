@@ -9,7 +9,7 @@ tags:
 aliases:
   - Awoken in Another World with My Absurd Skill The Softer I Touch the Harder I Hit Now I Roam the Dungeon Alone with My Cursed Skill
 ---
-The day before the dungeon started giving me titles, I fell asleep on the train home. My phone said I had seventeen minutes until my stop. I set an alarm, leaned against the window, and wondered whether the sandwich in my bag still counted as dinner if I ate it after midnight.
+I fell asleep on the train home. I had a few stops before mine. I leaned against the window, and wondered whether the sandwich in my bag still counted as dinner if I ate it after midnight.
 
 When I opened my eyes, I was beneath a chandelier.
 
@@ -19,31 +19,31 @@ I sat up. People in robes and armor made the same startled noise. An older man a
 
 "Sorry. Where is this?"
 
-He tried again, louder. It was comforting to discover that this approach to foreign languages existed everywhere.
+He tried again, louder. It was interesting to discover that this approach to foreign languages apparently existed everywhere.
 
 A young mage pushed past him with a crystal disk. Gold light unwound above my head. For a moment, I heard the announcement from the train, stretched into one long note.
 
 "Can you understand me?" the older man asked.
 
-The words were Japanese. His mouth was doing something else.
+The words were Japanese, but his mouth was doing something else.
 
 "Yes."
 
-Everyone started talking. Someone applauded before deciding that was premature. I stood with my convenience-store bag while strangers celebrated the discovery that I could answer a question.
+Everyone started talking. Someone applauded before deciding that it was premature. I stood with my convenience-store bag while strangers celebrated the discovery that I could answer a question.
 
 "You are in the royal invocation hall of **House Obsidia**, in the southern mountains of **Magnica**," the man said. "I am **High Magister Corven**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
 
-I tried Japan, Tokyo, and Earth. With each attempt, his expression became more attentive and less useful. My phone had no signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation.
+I tried asking about Japan, Tokyo, and Earth. With each attempt, his expression became more attentive and less useful. My phone had no signal and my wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation.
 
-"You summoned me?"
+"You summoned me." I stated surprised.
 
-"We called beyond our world for a champion bearing an extraordinary gift."
+"Yes, We called beyond our world for a champion bearing an extraordinary gift."
 
 "On purpose?"
 
 "Yes."
 
-I looked at the silver lines and the man with his shoes off. *All that work. I was sleeping with my mouth open.*
+*I might as well introduce myself.*
 
 "My name is **Haruto Minase**. I am twenty-two. I process invoices."
 
@@ -63,9 +63,10 @@ A blue window unfolded in front of my face. I backed away. It followed. The writ
 > **Armor Class:** 10 (unarmored).
 > **Spell Slots:** None.
 >
-> **Observed condition:** Uninjured.
-> **Classification:** Civilian.
-> **Suggested designation:** None.
+> **Condition:** Healthy, Confused, Overstimulated.
+> **Occupation:** None.
+> **Designation:** Civilian.
+> **Title:** None.
 
 It looked like a status screen from a game. Level two, no armor, no spells. I looked at the guards' breastplates with renewed interest.
 
@@ -87,7 +88,7 @@ I read them aloud. By the last line, nobody was smiling. The mage fetched anothe
 
 Corven looked away. "The invocation found you. It did not leave us a path to follow."
 
-My alarm began ringing. For several seconds, nobody spoke while my phone reminded me to leave a train that was no longer here. My mother would call on the weekend to ask whether I was eating properly. I could not imagine explaining this.
+My alarm began ringing. For several seconds, nobody spoke while my phone reminded me to wake up, to get off of a train that I was no longer on. My mother would call on the weekend to ask whether I was eating properly. I could not imagine explaining this.
 
 I stopped the alarm.
 
@@ -95,7 +96,7 @@ I stopped the alarm.
 
 "We will examine the workings."
 
-I put the phone away before anyone saw my hand shaking.
+I put the phone away as Corven pointed to the door.
 
 ---
 
