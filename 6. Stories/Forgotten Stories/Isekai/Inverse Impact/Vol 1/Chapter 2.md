@@ -1,5 +1,5 @@
 ---
-title: 2. Apparently, I Was Summoned Wrong? (WIP)
+title: 2. Apparently, I Was Summoned Wrong?
 tags:
   - VineheartRealm
   - ForgottenStories
