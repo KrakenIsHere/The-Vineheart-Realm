@@ -37,7 +37,8 @@ Haruto uses a homebrew civilian profile. His **Level 2** follows [[Levels Breakd
 | Summoning, Chapter 2 | 9 / 9 | Civilian | None |
 | After the wolf, Chapter 1 | 5 / 9 | Catastrophic Pacifist | Gentle Hands |
 | After the three soldiers | 4 / 9 | Catastrophic Pacifist | Gentle Hands |
-| After Malgorth | 2 / 9 | The Gentle Calamity | Gentle Hands |
+| After Malgorth | 2 / 9 | Gentle Calamity | Gentle Hands |
+| After a full rest, Chapter 3 | 9 / 9 | Gentle Calamity | Gentle Hands |
 
 Use these totals to keep later scenes consistent. Minor bruises and descriptive pain do not each require another HP loss. Proper rests and healing use [[Gameplay Changes#Rest:|the vault's rules]].
 
@@ -71,6 +72,14 @@ He enforces safety in the testing yard, supplies ordinary leather gloves, and es
 
 His family, guild, formal rank, level, and later history are not established.
 
+## Nessa
+
+**Nessa** meets Haruto at a service gate beside the reservoir in Chapter 3. She carries a lantern, a wrench, and keys. After a fall in the lower workings, she checks which water gates still move before trying the route back up.
+
+She recognizes the basin workroom and identifies its food and equipment as supplies for people working below the upper galleries. She knows the repeated junctions and the skeleton scraping the sorting trough. She corrects part of Haruto's map and opens the gate after he explains his curse, asking him to keep his hands away from the controls.
+
+Her age, species, employer, formal occupation, level, and wider history are not established. She has not confirmed an open route to the surface. She knows which galleries the creature's sounds come from and avoids them; her knowledge of the creature itself is not established.
+
 
 # Background Characters
 
@@ -79,3 +88,4 @@ His family, guild, formal rank, level, and later history are not established.
 
 ## The appraising mage
 **The appraising mage** is the young woman who supplies translation and examines the binding. Her name and formal relationship to Corven are not given.
+

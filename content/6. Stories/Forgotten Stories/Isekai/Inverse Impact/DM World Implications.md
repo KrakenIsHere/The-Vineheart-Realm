@@ -69,13 +69,21 @@ The Divine War erupts more than a century after this story. The relationship bet
 
 # Chapter Continuity
 
-Chapter 1 introduces Haruto's present situation in the dungeon. Chapter 2 covers his summoning and first tests. Chapter 3 will continue from Malgorth's chamber.
+Chapter 1 introduces Haruto's present situation in the dungeon. Chapter 2 covers his summoning and first tests. Chapter 3 continues from Malgorth's chamber.
 
 Windows appear after summoning. Later windows reveal additional information. Dungeon collapses follow damaged supports and old structural faults.
 
-# Chapter 3 Ideas
+# Chapter 3
 
-Haruto gets lost while exploring and reaches a dead end. He tries using Inverse Impact to make a way through. What lies beyond, and whether the opening helps him find his bearings, remain open.
+Haruto leaves his sword beneath the fallen cradle and breaks a low opening through the entrance slab. He returns to the basin and finds a recently used workroom opposite it. He eats part of its food, leaves his last silver coin, rests for an hour, and sleeps for more than eight hours. His HP recovers from **2 / 9** to **9 / 9**. His level, class, AC, spell slots, designation, and title do not change.
+
+He takes a damaged dagger from Malgorth's chamber and an iron tool, kneeling pads, cord, slate, and charcoal from the workroom. He makes a foot covering and starts a map. A skeleton scraping an empty stone trough does not attack him. This does not establish that other skeletons are safe.
+
+The main thread is his search for people and a route out. Similar rooms confuse his map. At a blocked arch, a light push dislodges loose masonry and opens a way to a reservoir walkway. A stone dents the railing; the arch remains intact.
+
+Recent repairs, footprints, tools, and lantern light lead him to **Nessa** at a service gate. She checks water gates in the old workings. She identifies the workroom supplies as shared provisions, corrects part of his map, and opens the gate after he explains his curse. Their conversation reveals that people still work in parts of the Halls; it does not establish an open route to the surface.
+
+The reason the arch was sealed, the creature heard below the chambers, and Nessa's wider history remain open. No connection to a modern location is established.
 
 # Important People
 
