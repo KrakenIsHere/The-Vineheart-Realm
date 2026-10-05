@@ -1,5 +1,5 @@
 ---
-title: Please Stop Calling It “Gentle Hands”
+title: 1. Please Stop Calling It “Gentle Hands”
 tags:
   - VineheartRealm
   - ForgottenStories
@@ -76,7 +76,7 @@ I tested my weight on both feet. The cloth around my left sock had shifted, expo
 
 Yesterday, I had been **Haruto Minase**, twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet. I had fallen asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that is happening.
 
-People in robes had hoped summon a champion. They got someone who processed invoices. My ordinary abilities had disappointed them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
+People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities had disappointed them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
 
 Since then, I had been **robbed**, **chased** by slimes, and **dropped** into the **Hanging Halls** through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
@@ -330,7 +330,7 @@ Back beside the basin, I checked the knot over my forearm. A small ordinary crea
 
 I thought of my mother calling to ask whether I was eating. Usually I told her yes while deciding what to buy on the way home. She would have questions when I failed to answer. So would my manager, though his would arrive with considerably less concern about my lunch.
 
-I left the phone switched off. There was no signal, and seeing the empty nearly battery in corner of the screen again would not help. I could keep enough battery for a photograph if I found a useful sign, or a little light when the lamps stopped working.
+I left the phone switched off. There was no signal, and seeing the nearly empty battery in corner of the screen again would not help. I could keep enough battery for a photograph if I found a useful sign, or a little light when the lamps stopped working.
 
 *1. Find food. 2. Find a way out. 3. Stay alive long enough to need both.*
 
