@@ -201,7 +201,7 @@ I almost cried. Not because the warning was reassuring, but because the sentence
 
 "Thank God. Any available deity of such generosity!"
 
-I lifted the gloves by their cuffs. Nothing exploded. They were thin, dark, and stitched with silver thread. The leather gloves from the palace had become stiff with dirt and blood, so I worked them off and put the new pair on. A faint tingle moved across my knuckles, then faded.
+I lifted the gloves by their cuffs. Nothing exploded. They were thin, dark, and stitched with silver thread. The leather gloves from Ordan had become stiff with dirt and blood, so I worked them off and put the new pair on. A faint tingle moved across my knuckles, then faded.
 
 Still nothing exploded. I sat beside the chest, with a broken crate against my back, and hugged myself in relief.
 
