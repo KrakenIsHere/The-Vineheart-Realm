@@ -1,5 +1,5 @@
 ---
-title: 1. Please Stop Calling It “Gentle Hands”
+title: 1. Please Stop Calling Me “Gentle Hands”
 tags:
   - VineheartRealm
   - ForgottenStories
@@ -104,9 +104,10 @@ The wolf's assessment faded. A larger window took its place, with my name across
 > **Armor Class:** 10 (unarmored).
 > **Spell Slots:** None.
 >
-> **Observed condition:** Injured. Fatigued.
-> **Classification:** Catastrophic Pacifist.
-> **Suggested designation:** Gentle Hands.
+> **Condition:** Injured, Fatigued.
+> **Occupation:** None.
+> **Designation:** Catastrophic Pacifist.
+> **Title:** Gentle Hands.
 
 The level and armor numbers were the same as they had been in the summoning hall. My hit points were not. I remembered nine out of nine before anyone started giving me things to punch. Now I had five.
 
@@ -114,7 +115,7 @@ I looked at the cut beneath my sleeve, then at the number. It did not tell me ho
 
 There was no class and no supply of spells tucked away somewhere. The hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already. Seeing the assessment in writing made it harder to pretend the situation would improve on its own.
 
-Then I read the new classification.
+Then I read the new designation.
 
 "Catastrophic Pacifist?"
 
@@ -496,7 +497,7 @@ When the falling stopped, Malgorth was beneath the counterweight. I could see on
 > **Grave Tyrant Malgorth defeated.**
 >
 > **Impact recorded:** Very low applied force.
-> **Classification updated:** The Gentle Calamity.
+> **Designation updated:** Gentle Calamity.
 >
 > Additional curse assessment available.
 
@@ -508,15 +509,16 @@ When the falling stopped, Malgorth was beneath the counterweight. I could see on
 > **Armor Class:** 10 (unarmored).
 > **Spell Slots:** None.
 >
-> **Observed condition:** Injured. Fatigued.
-> **Classification:** The Gentle Calamity.
-> **Suggested designation:** Gentle Hands.
+> **Condition:** Injured, Fatigued.
+> **Occupation:** None.
+> **Designation:** Gentle Calamity.
+> **Title:** Gentle Hands.
 
-I read the third line twice.
+I read my new designation twice.
 
 "Gentle Calamity?"
 
-I looked at the buried monster, the broken cradle, and the shaft I had briefly mistaken for a rescue plan. My calf was bleeding. My sword was trapped somewhere under the debris. The new classification had left my level and armor exactly where they were, and my hit points had fallen to two. I had won the fight by being gentle, and all the damage was now my problem.
+I looked at the buried monster, the broken cradle, and the shaft I had briefly mistaken for a rescue plan. My calf was bleeding. My sword was trapped somewhere under the debris. The new designation had left my level and armor exactly where they were, and my hit points had fallen to two. I had won the fight by being gentle, and all the damage was now my problem.
 
 "Could we concentrate on the calamity part? I think that is the useful information."
 

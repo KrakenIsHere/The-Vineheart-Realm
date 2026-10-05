@@ -24,19 +24,20 @@ Haruto uses a homebrew civilian profile. His **Level 2** follows [[Levels Breakd
 | Statistic | Value |
 | --- | --- |
 | Adventuring class | None |
+| Occupation | None in this world; previously an invoice clerk in Japan |
 | Ability scores | STR 10, DEX 10, CON 10, INT 10, WIS 10, CHA 10 |
 | Maximum **Hit Points** | 9, using **2d8** with no Constitution modifier |
 | **Armor Class** | 10, unarmored with no Dexterity modifier |
 | **Spell Slots** | None |
 
-**Inverse Impact** is a separate curse and consumes no spell slots. The gloves, cloak, and ring provide no AC bonus. Classifications such as **Catastrophic Pacifist** and **The Gentle Calamity** describe him without changing these statistics.
+**Inverse Impact** is a separate curse and consumes no spell slots. The gloves, cloak, and ring provide no AC bonus. His designation and title follow [[DM World Implications#Windows & Appraisal|the status window rules]].
 
-| Story point | Current HP |
-| --- | --- |
-| Summoning, Chapter 2 | 9 / 9 |
-| After the wolf, Chapter 1 | 5 / 9 |
-| After the three soldiers | 4 / 9 |
-| After Malgorth | 2 / 9 |
+| Story point | Current HP | Designation | Title |
+| --- | --- | --- | --- |
+| Summoning, Chapter 2 | 9 / 9 | Civilian | None |
+| After the wolf, Chapter 1 | 5 / 9 | Catastrophic Pacifist | Gentle Hands |
+| After the three soldiers | 4 / 9 | Catastrophic Pacifist | Gentle Hands |
+| After Malgorth | 2 / 9 | The Gentle Calamity | Gentle Hands |
 
 Use these totals to keep later scenes consistent. Minor bruises and descriptive pain do not each require another HP loss. Proper rests and healing use [[Gameplay Changes#Rest:|the vault's rules]].
 

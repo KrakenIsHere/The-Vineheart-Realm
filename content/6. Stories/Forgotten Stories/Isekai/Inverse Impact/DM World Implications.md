@@ -51,9 +51,11 @@ Ordinary contact and handling are safe. He can walk, eat breakfast, hold a cup, 
 
 ## Windows & Appraisal
 
-Windows first appear after summoning. They are private to Haruto and readable in Japanese. Haruto can request his status, including level, class, current and maximum HP, Armor Class, spell slots, and classification. Skill and item messages can reveal existing rules later. The windows do not teach local writing or generate rewards.
+Windows first appear after summoning. They are private to Haruto and readable in Japanese. Haruto can request his status, including name, level, class, current and maximum HP, Armor Class, spell slots, condition, occupation, designation, and title. Skill and item messages can reveal existing rules later. The windows do not teach local writing or generate rewards.
 
-A classification describes him; it does not grant a class, levels, defenses, or healing. HP measures his remaining ability to survive injury and combat. Recovery follows [[Gameplay Changes#Rest:|the vault's rest rules]] and healing effects. His brief dungeon nap is too short to complete a rest.
+**Class** describes adventuring abilities. **Occupation** is current employment in this world. **Designation** is the window's assessment of him. **Title** is a nickname or epithet. Designations and titles grant no class features, levels, defenses, or healing. **Condition** can describe his physical and mental state; mood descriptions do not impose penalties.
+
+HP measures his remaining ability to survive injury and combat. Recovery follows [[Gameplay Changes#Rest:|the vault's rest rules]] and healing effects. His brief dungeon nap is too short to complete a rest.
 
 The court appraises him through its own tests. His ordinary abilities, destructive Skill, and failed suppression give it a reason to declare him unfit for royal service and relocate him.
 
