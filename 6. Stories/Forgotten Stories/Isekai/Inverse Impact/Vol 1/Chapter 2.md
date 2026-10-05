@@ -9,7 +9,7 @@ tags:
 aliases:
   - Awoken in Another World with My Absurd Skill The Softer I Touch the Harder I Hit Now I Roam the Dungeon Alone with My Cursed Skill
 ---
-I fell asleep on the train home. I had a few stops before mine. I leaned against the window, and wondered whether the sandwich in my bag still counted as dinner if I ate it after midnight.
+I fell asleep on the train home. I still had a few stops to go. I leaned against the window and wondered whether the sandwich in my bag still counted as dinner if I ate it after midnight.
 
 When I opened my eyes, I was beneath a chandelier.
 
@@ -33,11 +33,11 @@ Everyone started talking. Someone applauded before deciding that it was prematur
 
 "You are in the royal invocation hall of **House Obsidia**, in the southern mountains of **Magnica**," the man said. "I am **High Magister Corven**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
 
-I tried asking about Japan, Tokyo, and Earth. With each attempt, his expression became more attentive and less useful. My phone had no signal and my wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation.
+I tried asking about Japan, Tokyo, and Earth. With each attempt, his expression became more attentive and less useful. My phone had no signal, and my wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation.
 
-"You summoned me." I stated surprised.
+"You summoned me," I said, surprised.
 
-"Yes, We called beyond our world for a champion bearing an extraordinary gift."
+"Yes. We called beyond our world for a champion bearing an extraordinary gift."
 
 "On purpose?"
 
@@ -88,7 +88,7 @@ I read them aloud. By the last line, nobody was smiling. The mage fetched anothe
 
 Corven looked away. "The invocation found you. It did not leave us a path to follow."
 
-My alarm began ringing. For several seconds, nobody spoke while my phone reminded me to wake up, to get off of a train that I was no longer on. My mother would call on the weekend to ask whether I was eating properly. I could not imagine explaining this.
+My alarm began ringing. For several seconds, nobody spoke while my phone reminded me to wake up and get off a train I was no longer on. My mother would call on the weekend to ask whether I was eating properly. I could not imagine explaining this.
 
 I stopped the alarm.
 
@@ -120,7 +120,7 @@ The mage checked my translation. It would stay with me, she explained. Reading w
 
 Most of the morning went to proving I was ordinary. I carried weights, failed to make a copper bowl ring without touching it, and showed a guard a fighting stance I remembered from a boxing game. He corrected my feet, shoulders, and both hands before deciding that was enough.
 
-The mage held her disk over my palm. A dark thread appeared among its gold lines, following my other hand too, and the spoon I held. She traced a ward around my wrist. The gold light closed, but the dark thread passed through it.
+The mage held her disk over my palm. A dark thread appeared among its gold lines. It followed both my hands and the spoon I held. She traced a charm around my wrist. The gold light closed, but the dark thread passed through it.
 
 "It is a curse," she said. "The binding runs through him."
 
@@ -134,7 +134,7 @@ The mage held her disk over my palm. A dark thread appeared among its gold lines
 
 I looked at the windows. They supplied no further advice.
 
-Corven leaned closer to the disk. "We should observe his physical expression."
+Corven leaned closer to the disk. "We should observe its physical effects."
 
 "You mean see what I break."
 
@@ -162,7 +162,7 @@ I punched the target. Pain shot through my right hand. The wood gave a disappoin
 
 Corven inspected the dummy. "No split."
 
-"Check the kid?" Ordan said
+"Check the kid" Ordan said.
 
 Nothing seemed broken. Corven asked for another punch. I declined firmly enough that we tried pushing instead. Ordan clamped a board onto a sliding stand and stepped aside. A firm shove moved it normally. A lighter one knocked the board free of its clamps.
 
@@ -200,7 +200,7 @@ It worked through held objects too. A pebble tossed gently dented an iron plate.
 
 Ordan fetched a discarded granite block. He traced a seam in its face with his thumb.
 
-"Every stone has a **[[Dwarves#The perfect form|one true form]]**. Our work is finding it. This one was cut wrong."
+"Every stone has **[[Dwarves#The perfect form|one true form]]**. Our work is finding it. This one was cut wrong."
 
 "Will it mind if I touch it?"
 
@@ -220,7 +220,7 @@ Ordan seized my wrist before I could reach for the table. He shouted workers off
 
 There was no joke in his voice.
 
-"I was only.."
+"I was only…"
 
 "I saw."
 
@@ -232,7 +232,7 @@ I had been waiting for the reward, the moment everyone realized the tired man fr
 
 "No more," I said.
 
-"We need to establish.."
+"We need to establish…"
 
 "You need to establish how to send me home. I need everyone to stop giving me things to hit."
 
@@ -306,7 +306,7 @@ She had dust in her hair and looked tired. Whatever she had expected from a summ
 
 I believed she intended to. It was the best thing I had been given all day.
 
-Outside, cold air replaced the incense. There were snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me until a soldier called from the watchpost. A chain housing had shifted. The city needed him back.
+Outside, cold air replaced the incense. There was snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me until a soldier called from the watchpost. A chain housing had shifted. The city needed him back.
 
 He made me repeat the directions: main road, small bridge, three white stakes, lodge in the clearing.
 
@@ -314,11 +314,11 @@ He made me repeat the directions: main road, small bridge, three white stakes, l
 
 I nodded. With the forest ahead of me, that sounded less like advice and more like something I would be tested on.
 
-I trekked on, following the main road, going into the forest ahead.
+I followed the main road into the forest.
 
 ---
 
-Where the road narrowed between a low stone wall and thick trees. Four men lied in wait, one had a bow. The others had knives.
+Four men lay in wait where the road narrowed between a low stone wall and thick trees. One had a bow. The others had knives.
 
 "Bag and belt," the largest said.
 
@@ -334,7 +334,7 @@ The pain was ordinary. There was nothing inverse about it.
 
 I folded. He twisted my arm until I knelt, and the younger man unbuckled my sword. They took the bag, cloak, and coin pouch with the efficiency of people having a normal afternoon.
 
-"Ten silver," the larger man said. "Where did you get it?"
+"Ten silver," the largest man said. "Where did you get it?"
 
 "The palace."
 
@@ -346,7 +346,7 @@ Telling them I was a dangerous summoned champion might give them a reason to use
 
 He laughed. They searched my outer pockets, pocketed the foreign coins, and discarded my paper money and cards. My phone remained inside my jacket.
 
-The larger man left one silver coin on the wall.
+The largest man left one silver coin on the wall.
 
 "Food. And do not tell the next people you meet you came from the palace."
 
@@ -370,11 +370,11 @@ I picked up a branch and tried to lower its tip toward the slime. It sprang befo
 
 *Soft. Do it softly.*
 
-I lowered the end against it and gave a tiny push. The slime flew across the road and burst against a tree. Wet leaves covering the road.
+I lowered the end against it and gave a tiny push. The slime flew across the road and burst against a tree. Wet leaves covered the road.
 
 "That worked!"
 
-More wet sounds came from the ditch. Three slimes climbed the sides. Two more appeared among the roots, including one blocking the road toward in the direction to the lodge.
+More wet sounds came from the ditch. Three slimes climbed the sides. Two more appeared among the roots, including one blocking the road toward the lodge.
 
 I ran into the woods.
 
@@ -408,7 +408,7 @@ I called the place the **Hanging Halls**. Someone who knew its proper name would
 
 A sword scraped against stone beyond the next arch. I stopped beside an iron frame holding one of the suspended slabs.
 
-A skeleton stepped through the arch and beneath a lamp, wearing rusty armor with green light moving inside its empty sockets.
+A skeleton in rusty armor stepped through the arch into the lamplight. Green light moved inside its empty sockets.
 
 "I do not belong here," I said.
 
@@ -458,7 +458,7 @@ Beyond the next doorway, something breathed. I stopped outside it. A blue lamp l
 
 A wolf. Six red eyes watched me, and its lips drew back from teeth that looked quite capable of removing a hand.
 
-It was stuck One rotten beam has locked its front legs and wedged the wolf against the other beam, pinning it across the doorway. Its jaws snapped. I drew the sword, then stopped myself. If I missed its moving head and struck a beam, I might free the thing.
+It was stuck. One rotten beam had trapped its front legs against the other beam, pinning it across the doorway. Its jaws snapped. I drew the sword, then stopped myself. If I missed its moving head and struck a beam, I might free the thing.
 
 *A tiny push. The skeletons proved that.*
 
