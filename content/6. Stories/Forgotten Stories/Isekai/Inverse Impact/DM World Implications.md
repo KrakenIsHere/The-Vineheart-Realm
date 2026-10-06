@@ -15,6 +15,12 @@ aliases:
 # Actual Title
 Awoken in Another World: with My Absurd Skill, The Softer I Touch the Harder I Hit, Now I Roam the Dungeon Alone with My Cursed Skill
 
+# Writing Preferences
+
+Avoid **lay** and **trousers** in story prose. Use **pants** and rephrase positions or actions naturally.
+
+Establish Haruto's position and the important exits before movement. Keep left and right tied to his viewpoint, and show turns and transitions between spaces.
+
 # Historical Placement
 
 These events take place at approximately **312 BGW** in the southern mountains of **Magnica**, during the growing divine tensions recorded in [[The Timelines#Overall|the overall timeline]]. Magnica is still a single landmass. **[[Onyxia]]** does not exist at this time; it emerges during the [[The Timelines#The New Age|post-war recovery era]]. **BGW** is also a later historical reckoning.
@@ -75,7 +81,9 @@ Windows appear after summoning. Later windows reveal additional information. Dun
 
 # Chapter 3
 
-Haruto leaves his sword beneath the fallen cradle and breaks a low opening through the entrance slab. He returns to the basin and finds a recently used workroom opposite it. He eats part of its food, leaves his last silver coin, rests for an hour, and sleeps for more than eight hours. His HP recovers from **2 / 9** to **9 / 9**. His level, class, AC, spell slots, designation, and title do not change.
+Haruto starts against the wall opposite Malgorth's chamber entrance, facing the slab. From there, the ruined pillar and trapped sword are to the right of the doorway. The counterweight is in the center, beneath the daylight shaft. He follows the wall to his right to reach the entrance. Back in the corridor, the basin and open storeroom share one wall; the workroom is opposite, up three steps.
+
+Haruto leaves his sword trapped in the fallen pillar's rubble and breaks a low opening through the entrance slab. He returns to the basin and finds a recently used workroom opposite it. He eats part of its food, leaves his last silver coin, rests for an hour, and sleeps for more than eight hours. His HP recovers from **2 / 9** to **9 / 9**. His level, class, AC, spell slots, designation, and title do not change.
 
 He takes a damaged dagger from Malgorth's chamber and an iron tool, kneeling pads, cord, slate, and charcoal from the workroom. He makes a foot covering and starts a map. A skeleton scraping an empty stone trough does not attack him. This does not establish that other skeletons are safe.
 
