@@ -60,7 +60,7 @@ There was nothing to be gained by checking the rubble. I backed out of the room,
 
 I sat there until the shaking in my knees became small enough to ignore. My left hand looked ordinary. There was dirt beneath the nails and a shallow scratch across the thumb. I turned it over, as though the dangerous part might be visible from the other side. Yesterday, that hand had held a sandwich. I would have liked to return to that level of responsibility.
 
-The sword lay near the doorway, where it had slipped free of the wolf's jaws. I waited for the dust to thin before retrieving it. Two tooth marks crossed the blade, and one edge had acquired a notch. The hilt was intact. I wiped it on a clean patch of my pants and slid it back into the scabbard.
+The sword was on the floor near the doorway, where it had slipped free of the wolf's jaws. I waited for the dust to thin before retrieving it. Two tooth marks crossed the blade, and one edge had acquired a notch. The hilt was intact. I wiped it on a clean patch of my pants and slid it back into the scabbard.
 
 Through the broken wall, I could see a red eye among the fallen stones. It remained open and motionless. I had needed the wolf to stop trying to eat me. Now that it had, I wished there were a way to choose a result somewhere between being eaten and whatever I had just done.
 
@@ -205,7 +205,7 @@ I lifted the gloves by their cuffs. Nothing exploded. They were thin, dark, and 
 
 Still nothing exploded. I sat beside the chest, with a broken crate against my back, and hugged myself in relief.
 
-The old gloves lay in my lap. Ordan had given them to me at the palace doors with the expression of a man who knew exactly how little help they would be. One cuff was split, and dried blood had stiffened the lining. I folded them and tucked them inside my jacket. They had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
+The old gloves rested in my lap. Ordan had given them to me at the palace doors with the expression of a man who knew exactly how little help they would be. One cuff was split, and dried blood had stiffened the lining. I folded them and tucked them inside my jacket. They had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
 
 The new pair fit more closely. I could bend every finger without the leather bunching at the joints. Silver stitches ran over the knuckles and disappeared into the seams at the wrists. I turned my hands beneath the lamp, looking for a buckle, a dial, or anything that would tell me how much protection I had.
 
@@ -239,7 +239,7 @@ I slid it onto my right index finger. Warmth spread through my cold hand, faint 
 
 *It is not cold enough for me to worry about hypothermia anyway. But staying warm is a plus.*
 
-With the new equipment on, I walked back to the statue at the foot of the stairs. My sword still lay where I had dropped it during the fight. I retrieved it, checked that the scabbard had not come loose, and started up, leaving the chest and the skeletons' remains.
+With the new equipment on, I walked back to the statue at the foot of the stairs. My sword was still where I had dropped it during the fight. I retrieved it, checked that the scabbard had not come loose, and started up, leaving the chest and the skeletons' remains.
 
 The stairs ended on a stone walkway along the edge of a square shaft. I stopped with the stairs behind me and the shaft in front. An iron railing guarded the edge, except for a gap about as wide as a doorway. A blue lamp hung over that opening.
 
@@ -255,7 +255,7 @@ I looked up the shaft. Light shone through a break in the stonework high above m
 
 I moved beside the handwheel and examined the mechanism. A short metal shaft connected it to a large toothed gear, with a catch lodged between two teeth. The rest of the machinery disappeared behind an iron cover. I had no idea what the lever did. I assumed the catch was keeping the platform from dropping at an overly exciting speed.
 
-A painted board lay on the walkway beside the controls. There were figures on it, mostly obscured by dust. I lifted it by the edges and held it beneath the lamp over the gate. One person stood at the wheel. Another stood inside the platform with a load of boxes. Two people.
+A painted board rested on the walkway beside the controls. There were figures on it, mostly obscured by dust. I lifted it by the edges and held it beneath the lamp over the gate. One person stood at the wheel. Another stood inside the platform with a load of boxes. Two people.
 
 I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't investigate without getting in, or stop it if anything started moving in a way I disliked.
 

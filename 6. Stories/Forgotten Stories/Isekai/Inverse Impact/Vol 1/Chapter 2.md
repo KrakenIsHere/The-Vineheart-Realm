@@ -318,7 +318,7 @@ I followed the main road into the forest.
 
 ---
 
-Four men lay in wait where the road narrowed between a low stone wall and thick trees. One had a bow. The others had knives.
+Four men blocked the road where it narrowed between a low stone wall and thick trees. One had a bow. The others had knives.
 
 "Bag and belt," the largest said.
 
