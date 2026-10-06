@@ -19,7 +19,7 @@ The chain beside my feet moved again. Its links scraped over the edge of the flo
 
 The roar faded. Dust drifted down from the ceiling shaft. Nothing rose through the floor, but the gap had widened enough to show a strip of blue light beneath the chamber.
 
-*There is another room under this one. Of course there is. I have been going down all day.*
+*There is another room further down. Of course there is. This place might actually be bottomless.*
 
 The warning about kissing remained in front of me. I looked away until the window faded, then gathered the cloak around my shoulders. My plans for future relationships could wait until I had a future in which to make them.
 
@@ -35,7 +35,7 @@ I picked it up by the handle and checked whether the wood moved. It did, a littl
 
 The empty scabbard at my hip was too wide to hold it safely. I wrapped the blade in a scrap of cloth caught on a broken spear and put it in my pocket, away from the phone. If I needed it, I would have to unwrap it first. That was already more preparation than I liked, but carrying a loose knife against my stomach seemed an unnecessary way to finish the day.
 
-Near the pillar, I could see why my sword had stayed trapped. The blade disappeared beneath fallen blocks, and the blocks pressed against iron torn from the cradle. I kept to the narrow space between that pile and the wall, passing the hilt without reaching for it.
+Near the pillar, I could see why my sword had stayed trapped. The blade disappeared beneath chunks of stone pressed against iron torn from the cradle. I kept to the narrow space between that pile and the wall, passing the hilt without reaching for it.
 
 The chain rattled again at the far end of the room.
 
@@ -91,22 +91,20 @@ I sat on the floor with my back against the basin's base. For several breaths, I
 
 I drank, then lifted my right foot onto a loose stone to inspect the bandage. The cloth had stuck to the cut. I wet it until I could loosen it without pulling, and discovered that I had done a much better job of wrapping my leg than cleaning it. Gray grit had collected around the wound.
 
-I rinsed it. The water was cold enough to make my teeth meet. I worked slowly, using a clean corner from the inside of my shirt, and stopped whenever my hand began to shake. The cut was longer than I wanted it to be. It was also shallow enough that I could see where it ended.
+I rinsed it. The water was cold enough to make my teeth grind. I worked slowly, using a somewhat clean corner from the inside of my shirt, and stopped whenever my hand began to shake. The cut was longer than I wanted it to be. It was also shallow enough that I could see where it ended.
 
 That was the most encouraging medical information I possessed.
 
-The phone remained in my jacket. Calling an ambulance was still not an option. I folded a fresh pad from my shirt's lower edge and used the strip from my ankle to hold it over the cut. There was less cloth around my left foot now. I would have to solve that problem before doing much more walking.
+The phone remained in my jacket. Calling an ambulance was still not an option. I folded a pad from my shirt's lower edge and used the strip from my ankle to hold it over the cut. There was less cloth around my left foot now. I would have to solve that problem before doing much more walking.
 
-"Status."
-
-The blue window appeared.
+I looked at the blue window.
 
 > **Name:** Haruto Minase.
 >
 > **Level:** 2.
 > **Class:** None.
-> **Hit Points:** 2 / 9.
-> **Armor Class:** 10 (unarmored).
+> **Hit Points:** 2 / 7.
+> **Armor Class:** 12 (unarmored).
 > **Spell Slots:** None.
 >
 > **Condition:** Injured, Fatigued.
@@ -116,7 +114,7 @@ The blue window appeared.
 
 Two. Cleaning the cut had not changed it. Neither had getting out of the room.
 
-I had been treating every quiet corridor as an opportunity to reach the next one. There was always a staircase I had not tried, a draft I could follow, or a lamp that looked as though it might be closer to the sky. I could keep doing that until another skeleton took the remaining two.
+I had been treating every quiet corridor as an opportunity to reach the next one. There was always a staircase I had not tried, a draft I could follow, or a lamp that looked as though it might be closer to the sky. I could keep doing that until another skeleton took the remaining two 'hit points'.
 
 *I need to stop. Somewhere I can actually stop.*
 
@@ -178,6 +176,19 @@ The phone took several seconds to start. Eighteen percent. The crack across its 
 
 I set it on the table and spent the next hour doing very little. I ate the last of my bread, loosened the scabbard strap that pressed against my hip, and checked the door whenever the water made a different sound. Once, I heard a dull impact somewhere farther down the passages. It was followed by another, then silence. Nothing came to the room.
 
+When I checked the time again, a blue window appeared above the phone.
+
+> **Short Rest:** Complete.
+> **Hit Points:** 5 / 7.
+
+I looked from the writing to the barred door. An hour of sitting, eating, and leaving my leg alone counted as something. The nap behind the broken bench had been shorter than that. So had every pause I had taken while listening for another sword.
+
+The tight ache in my jaw had eased while I sat there. I opened my right hand, then closed it without having to stop halfway. My calf still hurt when I shifted it, but the throbbing no longer demanded all my attention.
+
+Three points back. The cut had not vanished, and I was still tired enough to resent the distance between the floor and the table. But I could move my hand more easily. I touched my jaw again, carefully, to make sure the improvement was real.
+
+I was better. I was also nowhere near ready to leave. The bread was gone, my leg was bandaged, and my shoulders kept sagging whenever I stopped making an effort to hold them up.
+
 My eyelids grew heavy. I had been awake before the palace breakfast, awake through the tests, and awake for most of the time I had spent underground. The nap behind the broken bench had done little except make standing up unpleasant.
 
 I checked the door again. Both brackets were fixed into the wall. The bar sat deep in them. There was no gap beneath the door large enough to admit a slime unless slimes were considerably better at doors than I hoped.
@@ -208,14 +219,14 @@ For the first time since the summons, I had slept without waking because somethi
 
 My calf felt stiff when I stood. The bandage had dried, but there was no fresh blood beneath it. My right hand opened without the tight ache that had made every knot a negotiation. I touched my bruised jaw. It was still tender. It no longer felt as though the skeleton had followed me into the room and continued its work overnight.
 
-"Status."
+The blue writing marked the sleep as a completed long rest, then showed my status.
 
 > **Name:** Haruto Minase.
 >
 > **Level:** 2.
 > **Class:** None.
-> **Hit Points:** 9 / 9.
-> **Armor Class:** 10 (unarmored).
+> **Hit Points:** 7 / 7.
+> **Armor Class:** 12 (unarmored).
 > **Spell Slots:** None.
 >
 > **Condition:** Rested, Hungry.
@@ -225,11 +236,11 @@ My calf felt stiff when I stood. The bandage had dried, but there was no fresh b
 
 I read the hit points first. Then I read them again.
 
-Nine.
+Seven.
 
 The level had not changed. Defeating Malgorth had not taught me swordsmanship while I slept, and there were still no spells. But the number that had fallen every time something hit me was full again.
 
-I had done that by sleeping.
+The hour before bed had brought me from two to five. A full sleep had finished the job.
 
 I looked down at the bandage. Beneath its edge, the cut had closed into a thin, tender line. Yesterday's scrape on my forearm had dried as well. I still needed to keep both clean, and I did not want to test either by falling down another staircase. I could walk, though. I could close my right hand.
 
@@ -385,7 +396,7 @@ I knew which door I had just entered. I no longer knew where this room was in re
 
 *A map works considerably better when the person making it knows where he is.*
 
-I sat on a low stone block beside the entrance and drew a new circle in the remaining space. I labeled it SECOND ROUND ROOM and marked the bridge behind me. Then I set two pebbles beside that doorway, large enough to see from the middle of the room.
+I sat on a low stone beside the entrance and drew a new circle in the remaining space. I labeled it SECOND ROUND ROOM and marked the bridge behind me. Then I set two pebbles beside that doorway, large enough to see from the middle of the room.
 
 I could go back. I could return across the bridge, through the racks, and keep looking until I found the first signpost. Going backward was still possible. I made myself think through that route before standing up again.
 
@@ -403,7 +414,7 @@ The tapping stopped. After a while, it began again.
 
 I put a charcoal arrow on the floor, pointing toward the bridge, and tried the right-hand passage.
 
-It rose through a short flight of steps and ended at a stone arch filled with smaller blocks. Pale mortar stood out against the darker stone around it. A narrow gap near the top admitted the draft.
+It rose through a short flight of steps and ended at a stone arch filled with smaller stones. Pale mortar stood out against the darker stone around it. A narrow gap near the top admitted the draft.
 
 I put another cross on the slate, then looked through the gap. A lamp lit an empty walkway on the other side, with a railing along its outer edge. Beyond the railing, water reflected the blue light. I could hear it moving somewhere below.
 
@@ -415,9 +426,9 @@ No answer. I looked back down the steps. The second round room remained in sight
 
 *At least I know which side I want the stones to go toward.*
 
-The filling beneath the arch had cracked around one block. I checked the empty walkway again, set the slate and iron bar down, and stood to one side. With my left palm against the loose block, I gave a light push.
+The filling beneath the arch had cracked around one stone. I checked the empty walkway again, set the slate and iron bar down, and stood to one side. With my left palm against the loose stone, I gave a light push.
 
-The stone broke free and struck the railing. Two blocks above it dropped into the gap. I waited beside the wall until they stopped moving, then used firm pressure through the iron bar to shift the loose pieces out of my way.
+The stone broke free and struck the railing. Two stones above it dropped into the gap. I waited beside the wall until they stopped moving, then used firm pressure through the iron bar to shift the loose pieces out of my way.
 
 The arch stayed in place. The railing had a dent. There was an opening large enough to crouch through.
 

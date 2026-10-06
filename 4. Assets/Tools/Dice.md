@@ -133,12 +133,13 @@ tags:
 | Death Saves | 1d20 (10+ succeeds) |
 
 ### Hit Dice by Class
-| Class | Hit Die |
-|-|-|
-| Barbarian | d12 |
-| Fighter, Paladin, Ranger | d10 |
-| Artificer, Bard, Cleric, Druid, Monk, Rogue, Warlock | d8 |
-| Sorcerer, Wizard | d6 |
+| Class                                                | Hit Die |
+| ---------------------------------------------------- | ------- |
+| Barbarian                                            | d12     |
+| Fighter, Paladin, Ranger                             | d10     |
+| Artificer, Bard, Cleric, Druid, Monk, Rogue, Warlock | d8      |
+| Sorcerer, Wizard                                     | d6      |
+| None                                                 | d4      |
 
 ### Weapon Damage
 | Weapon Type | Damage Die |

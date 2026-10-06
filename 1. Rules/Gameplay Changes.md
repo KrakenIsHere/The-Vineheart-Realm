@@ -11,10 +11,14 @@ Rules take inspiration from both the [[Dungeon Master's Guide.pdf|5e]] and [[D.M
 
 ### Short rest:
 - can be taken 2 times every day and consumes 1 Hour of said day
+During which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+
+A character can spend one or more Hit Dice at the end of a short rest, up to the character’s maximum number of Hit Dice, which is equal to the character’s level. For each Hit Die spent in this way, the player rolls the die and adds the character’s Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
 
 ### Long Rest:
 - Can be taken at any point of the day and consumes 8 Hours of said day
 - Provides FULL recovery
+- Regains spent Hit Dice
 > [!Note] Long Rest Conditions
 > - 1 Short rest must have been used before a long rest can be initiated 
 > 	- Unless 16 hours or more have passed since the last long rest
