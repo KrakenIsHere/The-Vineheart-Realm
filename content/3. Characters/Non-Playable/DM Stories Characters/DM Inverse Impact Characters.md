@@ -25,22 +25,25 @@ Haruto uses a homebrew civilian profile. His **Level 2** follows [[Levels Breakd
 | --- | --- |
 | Adventuring class | None |
 | Occupation | None in this world; previously an invoice clerk in Japan |
-| Ability scores | STR 10, DEX 10, CON 10, INT 10, WIS 10, CHA 10 |
-| Maximum **Hit Points** | 9, using **2d8** with no Constitution modifier |
-| **Armor Class** | 10, unarmored with no Dexterity modifier |
+| Ability scores | STR 8, DEX 15, CON 10, INT 11, WIS 10, CHA 14 |
+| Ability modifiers | STR -1, DEX +2, CON +0, INT +0, WIS +0, CHA +2 |
+| Maximum **Hit Points** | 7: first-level maximum of 4, plus a second-level result of 3, with CON +0 |
+| Short-rest recovery reserve | **2d4**, following [[Dice#Hit Dice by Class|the classless d4 rule]]; both portions available at summoning |
+| **Armor Class** | 12, unarmored: 10 + Dexterity modifier (+2) |
 | **Spell Slots** | None |
 
 **Inverse Impact** is a separate curse and consumes no spell slots. The gloves, cloak, and ring provide no AC bonus. His designation and title follow [[DM World Implications#Windows & Appraisal|the status window rules]].
 
-| Story point | Current HP | Designation | Title |
-| --- | --- | --- | --- |
-| Summoning, Chapter 2 | 9 / 9 | Civilian | None |
-| After the wolf, Chapter 1 | 5 / 9 | Catastrophic Pacifist | Gentle Hands |
-| After the three soldiers | 4 / 9 | Catastrophic Pacifist | Gentle Hands |
-| After Malgorth | 2 / 9 | Gentle Calamity | Gentle Hands |
-| After a full rest, Chapter 3 | 9 / 9 | Gentle Calamity | Gentle Hands |
+| Story point | Current HP | Recovery portions remaining | Designation | Title |
+| --- | --- | --- | --- | --- |
+| Summoning, Chapter 2 | 7 / 7 | 2 / 2 | Civilian | None |
+| After the wolf, Chapter 1 | 5 / 7 | 2 / 2 | Catastrophic Pacifist | Gentle Hands |
+| After the three soldiers | 4 / 7 | 2 / 2 | Catastrophic Pacifist | Gentle Hands |
+| After Malgorth | 2 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
+| After the short rest, Chapter 3 | 5 / 7 | 1 / 2 | Gentle Calamity | Gentle Hands |
+| After the long rest, Chapter 3 | 7 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 
-Use these totals to keep later scenes consistent. Minor bruises and descriptive pain do not each require another HP loss. Proper rests and healing use [[Gameplay Changes#Rest:|the vault's rules]].
+Use these totals to keep later scenes consistent. His starting maximum follows [[Character Creation#Class Selection Guide|the first-level HP rule]] and the second-level result recorded above. Minor bruises and descriptive pain do not each require another HP loss. Proper rests and healing use [[Gameplay Changes#Rest:|the vault's rules]], with Haruto's recovery recorded in [[DM World Implications#Recovery & conditions|the story's recovery rules]]. Chapter 3 uses one of that day's two short rests. The long rest replenishes his reserve; it does not reset the daily short-rest limit by itself. The reserve is author bookkeeping and is never named or displayed in the chapters.
 
 His eventual disappearance from reliable history, the contradictory accounts of the Gentle Calamity, and his final fate remain to be written.
 

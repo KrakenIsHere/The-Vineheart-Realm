@@ -59,16 +59,23 @@ A blue window unfolded in front of my face. I backed away. It followed. The writ
 >
 > **Level:** 2.
 > **Class:** None.
-> **Hit Points:** 9 / 9.
-> **Armor Class:** 10 (unarmored).
+> **Hit Points:** 7 / 7.
+> **Armor Class:** 12 (unarmored).
 > **Spell Slots:** None.
+>
+> **Strength:** 8 (-1).
+> **Dexterity:** 15 (+2).
+> **Constitution:** 10 (+0).
+> **Intelligence:** 11 (+0).
+> **Wisdom:** 10 (+0).
+> **Charisma:** 14 (+2).
 >
 > **Condition:** Healthy, Confused, Overstimulated.
 > **Occupation:** None.
 > **Designation:** Civilian.
 > **Title:** None.
 
-It looked like a status screen from a game. Level two, no armor, no spells. I looked at the guards' breastplates with renewed interest.
+It looked like a status screen from a game. Level two, no armor, no spells. Dexterity and Charisma had little plus signs beside them. Strength had a minus. I did not know what the scale went up to, but apparently carrying invoices had done less for my muscles than I hoped. I looked at the guards' breastplates with renewed interest.
 
 A second window appeared beneath it.
 
@@ -198,7 +205,7 @@ It worked through held objects too. A pebble tossed gently dented an iron plate.
 
 "One final test," Corven said.
 
-Ordan fetched a discarded granite block. He traced a seam in its face with his thumb.
+Ordan fetched a discarded block of granite with flat, chiseled faces. He traced a seam in its surface with his thumb.
 
 "Every stone has **[[Dwarves#The perfect form|one true form]]**. Our work is finding it. This one was cut wrong."
 
@@ -206,13 +213,13 @@ Ordan fetched a discarded granite block. He traced a seam in its face with his t
 
 "I will mind if you touch anything else."
 
-They put it in a sand-filled trough before a stone backstop. Everyone retreated behind shields. A hard shove accomplished little. A lighter one dragged the rock forward.
+They put it in a sand-filled trough before a stone backstop. Everyone retreated behind shields. A hard shove accomplished little. A lighter one dragged the granite forward.
 
 "Less force," Corven said. "Only slightly."
 
 I could measure the pressure in my fingertip no better than I could measure how badly I wanted to go home. Still, I gave the granite the smallest nudge I could manage.
 
-The trough burst. The stone backstop broke apart. One piece tore through the masonry and struck a pier supporting the walkway beyond. A crack opened beneath the arch resting on it. From below came a shout and the long complaint of a loaded chain.
+The trough burst. The stone backstop broke apart. A chunk of stone tore through the masonry and struck a pier supporting the walkway beyond. A crack opened beneath the arch resting on it. From below came a shout and the long complaint of a loaded chain.
 
 Ordan seized my wrist before I could reach for the table. He shouted workers off the walkway while sand trickled from a joint above the damaged pier.
 
@@ -382,13 +389,13 @@ Branches caught my jacket. The bruise under my ribs tightened with every breath.
 
 I scrambled through a gully and spotted old stones beneath the moss on the other side. I mistook them for a path and climbed toward them. The ground flexed under my next step, then opened.
 
-I grabbed a root. It tore free. My hip struck stone, and the dwindling daylight tilted above me as I slid down a narrow shaft.
+I grabbed a root. It tore free. My hip struck rock, and the dwindling daylight tilted above me as I slid down a narrow shaft.
 
-There was a ledge along the wall, its outer edge split from the rocks around it. I caught it with my left hand, then tried to push myself back toward the opening without using my swollen right. I pressed as lightly as I could.
+There was a ledge along the wall, its outer edge split from the surrounding rock. I caught it with my left hand, then tried to push myself back toward the opening without using my swollen right. I pressed as lightly as I could.
 
 The ledge broke away.
 
-A slab struck the opposite wall and knocked a rock out from beneath the cracked lip of the shaft. The opening sagged. Earth, loose stone, and roots poured in above me, swallowing the daylight. I rolled down a steep ramp, crashed through a rotten rail, and landed on sacks that gave beneath me with a dusty crunch.
+A slab from the ledge struck the opposite wall and dislodged a rock beneath the cracked lip of the shaft. The opening sagged. Earth, loose rocks, and roots poured in above me, swallowing the daylight. I rolled down a steep ramp, crashed through a rotten rail, and landed on sacks that gave beneath me with a dusty crunch.
 
 For a while, I concentrated on remaining alive without moving.
 

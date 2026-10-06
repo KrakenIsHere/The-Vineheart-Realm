@@ -17,7 +17,13 @@ Awoken in Another World: with My Absurd Skill, The Softer I Touch the Harder I H
 
 # Writing Preferences
 
+Never mention dice rolls in chapter prose or status windows. Convey checks, saving throws, recovery limits, and chance outcomes through successful or failed actions, physical reactions, and unusual events. Keep calculations and resource tracking in DM records. Ordinary status values such as HP and ability scores can remain visible.
+
 Avoid **lay** and **trousers** in story prose. Use **pants** and rephrase positions or actions naturally.
+
+Prefer **stone** for construction, worked material, and individual small pieces. Prefer **rock** for rough natural formations and unworked material. Use **rubble** or **chunks of stone** for broken masonry. These terms overlap; size alone does not decide.
+
+Use **block** or **blocks** for stone deliberately cut or shaped into a regular form, such as Ordan's **block of granite**. Name a **counterweight** by its function.
 
 Establish Haruto's position and the important exits before movement. Keep left and right tied to his viewpoint, and show turns and transitions between spaces.
 
@@ -57,13 +63,28 @@ Ordinary contact and handling are safe. He can walk, eat breakfast, hold a cup, 
 
 ## Windows & Appraisal
 
-Windows first appear after summoning. They are private to Haruto and readable in Japanese. Haruto can request his status, including name, level, class, current and maximum HP, Armor Class, spell slots, condition, occupation, designation, and title. Skill and item messages can reveal existing rules later. The windows do not teach local writing or generate rewards.
+Windows first appear after summoning. They are private to Haruto and readable in Japanese. Haruto can request his status, including name, level, class, current and maximum HP, Armor Class, spell slots, the six ability scores and their modifiers, condition, occupation, designation, and title. Chapter 2 shows the full ability scores; routine checks can use a shorter display. Skill, item, and recovery messages can reveal existing rules later. The windows do not teach local writing or generate rewards.
 
 **Class** describes adventuring abilities. **Occupation** is current employment in this world. **Designation** is the window's assessment of him. **Title** is a nickname or epithet. Designations and titles grant no class features, levels, defenses, or healing. **Condition** can describe his physical and mental state; mood descriptions do not impose penalties.
 
-HP measures his remaining ability to survive injury and combat. Recovery follows [[Gameplay Changes#Rest:|the vault's rest rules]] and healing effects. His brief dungeon nap is too short to complete a rest.
+HP measures his remaining ability to survive injury and combat. Recovery follows [[Gameplay Changes#Rest:|the vault's rest rules]] and healing effects.
 
 The court appraises him through its own tests. His ordinary abilities, destructive Skill, and failed suppression give it a reason to declare him unfit for royal service and relocate him.
+
+## Recovery & conditions
+
+Haruto's classless recovery uses **d4**, as specified in [[Dice#Hit Dice by Class|the vault's class table]]. At level 2, his reserve is **2d4**, with a **+0 Constitution modifier**. Each portion restores **1–4 HP**, capped at his missing HP; using a second portion is optional. Keep this arithmetic in DM records. The chapters describe physical recovery and changing HP without naming, displaying, or prompting the underlying resource. Short rests take **one hour**, with **two allowed per day**. His brief dungeon nap and pauses between encounters do not qualify.
+
+A long rest takes **eight hours**, restores full HP and the recovery reserve, and requires a completed short rest first unless at least **sixteen hours** have passed since the previous long rest. Partial rests, interruptions, and keeping watch follow the linked rules. Sleeping alone behind a barred door is not keeping watch.
+
+**Fatigued**, **Hungry**, and **Injured** describe his state; they do not automatically apply **Exhaustion** or an ability penalty. **Well Rested** and **Poorly Rested** use the vault's conditions and chance rules, with their six-hour ability modifier tracked when awarded. Chapter 3's completed sleep restores his resources without awarding either modifier.
+
+## Other mechanics to track
+
+- Ability checks and saving throws still use Haruto's ordinary abilities. The curse grants no weapon, armor, or saving-throw proficiency; his specific proficiencies remain unassigned.
+- Advancement is handled during long rests under [[Gameplay Changes#Levels:|the level rules]]. His XP total and the creatures' XP values are not established. No numerical XP award has been assigned to these scenes.
+- Food, water, cold, carrying loads, and light can affect his survival. A warm ring supplies no food, water, or protection from hypothermia. Loss of HP does not automatically mean a lasting wound.
+- Unconsciousness, stabilization, and death at zero HP have not occurred. Use the vault's D&D baseline and overrides when needed. No **Plot Armor** effect has been assigned to him.
 
 # Historical Effects
 
@@ -83,7 +104,7 @@ Windows appear after summoning. Later windows reveal additional information. Dun
 
 Haruto starts against the wall opposite Malgorth's chamber entrance, facing the slab. From there, the ruined pillar and trapped sword are to the right of the doorway. The counterweight is in the center, beneath the daylight shaft. He follows the wall to his right to reach the entrance. Back in the corridor, the basin and open storeroom share one wall; the workroom is opposite, up three steps.
 
-Haruto leaves his sword trapped in the fallen pillar's rubble and breaks a low opening through the entrance slab. He returns to the basin and finds a recently used workroom opposite it. He eats part of its food, leaves his last silver coin, rests for an hour, and sleeps for more than eight hours. His HP recovers from **2 / 9** to **9 / 9**. His level, class, AC, spell slots, designation, and title do not change.
+Haruto leaves his sword trapped in the fallen pillar's rubble and breaks a low opening through the entrance slab. He returns to the basin and finds a recently used workroom opposite it. He eats part of its food and leaves his last silver coin. His first one-hour short rest qualifies him for a long rest. One **d4** portion of his reserve provides **3 HP**, taking him from **2 / 7** to **5 / 7**. More than eight hours of sleep then restores **7 / 7 HP** and his full recovery reserve. His level, abilities, class, AC, spell slots, designation, and title do not change.
 
 He takes a damaged dagger from Malgorth's chamber and an iron tool, kneeling pads, cord, slate, and charcoal from the workroom. He makes a foot covering and starts a map. A skeleton scraping an empty stone trough does not attack him. This does not establish that other skeletons are safe.
 
