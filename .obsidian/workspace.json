@@ -149,12 +149,15 @@
                     "year": 569
                   },
                   "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
                   "displayMoons": true,
-                  "displayWeeks": true
-                }
+                  "displayWeather": true
+                },
+                "id": "ID_ab3a7ac8e878"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -241,11 +244,13 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
