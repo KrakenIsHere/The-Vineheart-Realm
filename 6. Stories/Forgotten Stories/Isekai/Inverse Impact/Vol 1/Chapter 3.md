@@ -272,7 +272,7 @@ It was not a shoe. It was a considerably better argument against bare stone than
 
 I took the other pad too, along with enough cord to fix either one. The silver on the table had acquired several duties. I hoped the owner accepted bulk purchases.
 
-Near the brazier, I found a scrap of slate and a piece of charcoal. The slate had numbers or letters scratched along one edge. The rest was blank. I wiped the dust off on my sleeve, turned the charcoal to its broad side, and drew with firm pressure. It left a thick, crooked square for the basin. I had no intention of experimenting with delicate strokes on something I wanted to keep whole.
+Near the brazier, I found a scrap of slate and a piece of charcoal. The slate had numbers or letters scratched along one edge. The rest was blank. I tipped the loose dust onto the floor and set the slate flat on the table. Then I turned the charcoal to its broad side and drew with firm pressure. It left a thick, crooked square for the basin. I had no intention of experimenting with delicate strokes on something I wanted to keep whole.
 
 Beyond it, I added the workroom and the corridor to Malgorth's chamber. I drew the broken doorway as a gap and put a large cross through the room behind it. On the other side of the basin, I marked the junction with my pebbles, then the stairs and the broken lift.
 
@@ -398,7 +398,7 @@ I went to the signpost. The boards were narrower than I remembered. One pointed 
 
 This was another round room.
 
-I turned the slate toward the lamp. I had drawn the two doors in the rack room, but squeezed their lines together so tightly that the bridge appeared to belong to both. Below that, I had connected the new round room to the old one before stopping to check. The charcoal rubbed onto my thumb when I tried to wipe the mistaken line away.
+I turned the slate toward the lamp. I had drawn the two doors in the rack room, but squeezed their lines together so tightly that the bridge appeared to belong to both. Below that, I had connected the new round room to the old one before stopping to check. I moved my thumb toward the mistaken line, then stopped. Rubbing it away meant pressing lightly against the slate. I crossed it out with a firm stroke of charcoal instead.
 
 I knew which door I had just entered from. I no longer knew where this room was in relation to the basin. The water had turned beneath the bridge, the passage had climbed, and I had drawn all of it as though walking in a straight line.
 
@@ -420,7 +420,7 @@ Cool air moved through that doorway. I stood where I could still see the pebbles
 
 The tapping stopped. After a while, it began again.
 
-I put a charcoal arrow on the floor, pointing toward the bridge, and tried the right-hand passage.
+I drew a charcoal arrow on the floor with the same firm strokes, pointing toward the bridge, and tried the right-hand passage.
 
 It rose through a short flight of steps and ended at a stone arch filled with smaller stones. Pale mortar stood out against the darker stone around it. A narrow gap near the top admitted the draft.
 
@@ -820,7 +820,7 @@ She studied them for a moment, then pointed to the second round room.
 
 "And this passage slopes back toward the carts. It does not go toward the basin."
 
-I wiped away the misplaced line with my sleeve. She waited while I drew it again.
+I crossed out the misplaced line and drew it again in the space beside it, keeping the charcoal strokes firm. Nessa waited while I finished.
 
 Nessa pointed to the opening I had marked beyond the second round room.
 
