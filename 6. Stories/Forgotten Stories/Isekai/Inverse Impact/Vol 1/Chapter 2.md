@@ -465,7 +465,23 @@ Beyond the next doorway, something breathed. I stopped outside it. A blue lamp l
 
 A wolf. Six red eyes watched me, and its lips drew back from teeth that looked quite capable of removing a hand.
 
-It was stuck. One rotten beam had trapped its front legs against the other beam, pinning it across the doorway. Its jaws snapped. I drew the sword, then stopped myself. If I missed its moving head and struck a beam, I might free the thing.
+It was stuck. One rotten beam had trapped its front legs against the other beam, pinning it across the doorway. Its jaws snapped.
+
+A red window appeared beside its head.
+
+> **Hellfang Wolf**
+>
+> **Creature:** Hellfang Wolf (mutated wolf).
+> **Creature Type:** Monstrosity.
+> **Size:** Medium.
+> **Hit Points:** 37 / 37.
+> **Armor Class:** 14 (natural armor).
+> **Condition:** Restrained.
+>
+> **Threat:** Lethal within reach.
+> **Recommendation:** DO NOT APPROACH.
+
+I drew the sword, then stopped myself. If I missed its moving head and struck a beam, I might free the thing.
 
 *A tiny push. The skeletons proved that.*
 

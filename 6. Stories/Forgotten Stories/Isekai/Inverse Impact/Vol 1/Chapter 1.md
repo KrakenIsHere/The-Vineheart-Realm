@@ -42,6 +42,10 @@ I read the warning three times. The force rule was familiar. I had tested it yes
 A second window slid into place beneath the first.
 
 > **Contact recorded:** Hellfang Wolf.
+>
+> **Hit Points:** 0 / 37.
+> **Condition:** Dead.
+>
 > **Result:** Lethal.
 
 "No, that is not the problem!"
@@ -383,6 +387,14 @@ A red window replaced the blue one.
 
 > **Grave Tyrant Malgorth**
 >
+> **Creature:** Gravebound Colossus.
+> **Creature Type:** Undead.
+> **Size:** Huge.
+> **Hit Points:** 168 / 168.
+> **Armor Class:** 18 (natural armor).
+> **Condition:** Active.
+> **Traits:** Multiattack.
+>
 > **Threat:** Lethal.
 > **Recommendation:** RUN.
 
@@ -495,6 +507,9 @@ I crawled farther beneath the broken pillar. Dust filled my mouth. Somewhere nea
 When the falling stopped, Malgorth was beneath the counterweight. I could see one horn and part of a scaled hand. Neither moved. The red window faded, and 2 blue crowded into its place.
 
 > **Grave Tyrant Malgorth defeated.**
+>
+> **Hit Points:** 0 / 168.
+> **Condition:** Defeated.
 >
 > **Impact recorded:** Very low applied force.
 > **Designation updated:** Gentle Calamity.
