@@ -40,7 +40,7 @@ Haruto uses a homebrew civilian profile. His **Level 2** follows [[Levels Breakd
 | After the wolf, Chapter 1 | 5 / 7 | 2 / 2 | Catastrophic Pacifist | Gentle Hands |
 | After the three soldiers | 4 / 7 | 2 / 2 | Catastrophic Pacifist | Gentle Hands |
 | After Malgorth | 2 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
-| After the short rest, Chapter 3 | 5 / 7 | 1 / 2 | Gentle Calamity | Gentle Hands |
+| After the short rest, Chapter 3 | 4 / 7 | 1 / 2 | Gentle Calamity | Gentle Hands |
 | After the long rest, Chapter 3 | 7 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 
 Use these totals to keep later scenes consistent. His starting maximum follows [[Character Creation#Class Selection Guide|the first-level HP rule]] and the second-level result recorded above. Minor bruises and descriptive pain do not each require another HP loss. Proper rests and healing use [[Gameplay Changes#Rest:|the vault's rules]], with Haruto's recovery recorded in [[DM World Implications#Recovery & conditions|the story's recovery rules]]. Chapter 3 uses one of that day's two short rests. The long rest replenishes his reserve; it does not reset the daily short-rest limit by itself. The reserve is author bookkeeping and is never named or displayed in the chapters.
@@ -48,6 +48,21 @@ Use these totals to keep later scenes consistent. His starting maximum follows [
 His eventual disappearance from reliable history, the contradictory accounts of the Gentle Calamity, and his final fate remain to be written.
 
 # Round Characters
+
+# Encounter Creatures
+
+The custom creature notes define their nature and mechanics. This record tracks the individuals Haruto encounters and the information their windows reveal.
+
+| Encounter | Creature | Size & type | Maximum HP | Armor Class | Revealed traits |
+| --- | --- | --- | --- | --- | --- |
+| The trapped wolf | **[[DM Hellfang Wolf|Hellfang Wolf]]**, a magically altered wolf | Medium Monstrosity | 37 | 14, natural armor | None revealed |
+| **Grave Tyrant Malgorth** | **[[DM Gravebound Colossus|Gravebound Colossus]]**, an assembled zombie | Huge Undead | 168 | 18, natural armor | **Multiattack** |
+
+The wolf is already pinned when Haruto encounters it. Its first appraisal appears in Chapter 2, before he approaches, showing **37 / 37 HP**, **AC 14**, and **Restrained**, with a warning that it is lethal within reach. Chapter 1's later contact report updates it to **0 / 37 HP** and **Dead**. Its species name does not establish a breath weapon or fire resistance.
+
+**Malgorth** is the individual's name. **Grave Tyrant** is its title. Its four arms, horns, and scale armor are parts of its construction, not evidence of an unnamed living species. Its first appraisal shows **168 / 168 HP**. The old sword in its chest does not reduce that displayed total or impose an injury penalty. Its later defeat report shows **0 / 168 HP** and **Defeated**. Haruto knocks it into the counterweight, and the failing structure falls onto it; the curse does not directly inflict the entire damage from the collapse.
+
+Their ability scores and combat mechanics are recorded in the linked DM creature notes. Challenge ratings and XP values remain unassigned. Traits present in a profile need not all appear in the first appraisal. Revealed creature statistics do not grant Haruto automatic levels or training.
 
 # Flat Characters
 
