@@ -42,6 +42,7 @@ Haruto uses a homebrew civilian profile. His **Level 2** follows [[Levels Breakd
 | After Malgorth | 2 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 | After the short rest, Chapter 3 | 4 / 7 | 1 / 2 | Gentle Calamity | Gentle Hands |
 | After the long rest, Chapter 3 | 7 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
+| After the platform fall, Chapter 4 draft | 6 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 
 Use these totals to keep later scenes consistent. His starting maximum follows [[Character Creation#Class Selection Guide|the first-level HP rule]] and the second-level result recorded above. Minor bruises and descriptive pain do not each require another HP loss. Proper rests and healing use [[Gameplay Changes#Rest:|the vault's rules]], with Haruto's recovery recorded in [[DM World Implications#Recovery & conditions|the story's recovery rules]]. Chapter 3 uses one of that day's two short rests. The long rest replenishes his reserve; it does not reset the daily short-rest limit by itself. The reserve is author bookkeeping and is never named or displayed in the chapters.
 
@@ -51,18 +52,21 @@ His eventual disappearance from reliable history, the contradictory accounts of 
 
 # Encounter Creatures
 
-The custom creature notes define their nature and mechanics. This record tracks the individuals Haruto encounters and the information their windows reveal.
+The linked custom creature notes and published rules define their nature and mechanics. This record tracks the individuals Haruto encounters and the information their windows reveal.
 
 | Encounter | Creature | Size & type | Maximum HP | Armor Class | Revealed traits |
 | --- | --- | --- | --- | --- | --- |
 | The trapped wolf | **[[DM Hellfang Wolf|Hellfang Wolf]]**, a magically altered wolf | Medium Monstrosity | 37 | 14, natural armor | None revealed |
 | **Grave Tyrant Malgorth** | **[[DM Gravebound Colossus|Gravebound Colossus]]**, an assembled zombie | Huge Undead | 168 | 18, natural armor | **Multiattack** |
+| The creature behind the lower gates, Chapter 4 draft | **Ogre Zombie**, a reanimated ogre | Large Undead | 85 | 8, unarmored | None revealed |
 
 The wolf is already pinned when Haruto encounters it. Its first appraisal appears in Chapter 2, before he approaches, showing **37 / 37 HP**, **AC 14**, and **Restrained**, with a warning that it is lethal within reach. Chapter 1's later contact report updates it to **0 / 37 HP** and **Dead**. Its species name does not establish a breath weapon or fire resistance.
 
 **Malgorth** is the individual's name. **Grave Tyrant** is its title. Its four arms, horns, and scale armor are parts of its construction, not evidence of an unnamed living species. Its first appraisal shows **168 / 168 HP**. The old sword in its chest does not reduce that displayed total or impose an injury penalty. Its later defeat report shows **0 / 168 HP** and **Defeated**. Haruto knocks it into the counterweight, and the failing structure falls onto it; the curse does not directly inflict the entire damage from the collapse.
 
-Their ability scores and combat mechanics are recorded in the linked DM creature notes. Challenge ratings and XP values remain unassigned. Traits present in a profile need not all appear in the first appraisal. Revealed creature statistics do not grant Haruto automatic levels or training.
+The two custom creatures' ability scores and combat mechanics are recorded in the linked DM creature notes. Their challenge ratings and XP values remain unassigned. Traits present in a profile need not all appear in the first appraisal. Revealed creature statistics do not grant Haruto automatic levels or training.
+
+The **Ogre Zombie** uses [SRD 5.2.1, page 344](https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf#page=344): **85 HP**, **AC 8**, **STR 19, DEX 6, CON 18, INT 3, WIS 6, CHA 5**, and **30 ft. speed**. It is immune to poison damage and **Exhaustion** and **Poisoned**, has darkvision to **60 ft.**, and understands Common and Giant without speaking. It has **Undead Fortitude** and a **Slam** attack. Its published rating is **CR 2**, with **450 XP**; no XP is awarded in this draft. Its window shows **Active, Chained**, a description of the physical shackle rather than an additional invented condition. It stays behind two barred gates while Haruto and Nessa pass. No damage, death, or fortitude recovery occurs. Its creator and original purpose remain open.
 
 # Flat Characters
 
@@ -98,10 +102,16 @@ Her normal route to the basin workroom crosses the bridge from the upper galleri
 
 She brought the food to the workroom before starting the repair. Water crews use the dry, secure room for meals and rest, with shared bedding and tools. She has not returned since Haruto took the leather pads; she recognizes the equipment itself. His opening through the sealed arch provides a detour back to those supplies. She knows the repeated junctions, corrects his map, and opens the shifted service gate after he explains his curse, asking him to keep his hands away from the controls.
 
-Her age, species, employer, level, and wider history are not established. She reports that the chamber guard has not left its room onto the service route during their work; this does not establish magical confinement. She knows which lower galleries the separate creature's cries come from and avoids them. Its identity and an open route to the surface remain unconfirmed.
+Her age, species, employer, level, and wider history are not established. She reports that the chamber guard has not left its room onto the service route during their work; this does not establish magical confinement. At the end of Chapter 3, she knows which lower galleries the separate creature's cries come from, but its identity and an open route to the surface remain unconfirmed.
+
+In the Chapter 4 draft, she learns how Haruto defeated the guard and how he reached the dungeon after his summoning and relocation. She uses his opened arch to retrieve food, accepts his coin for the crew's accounts, and lends him the pads and tool. She secures the weight before his amplified impact, checks the rails afterward, and opens the reservoir outlet. She corrects the pad's heel strap after his fall and leads him across the exposed inspection ledge. Both pass a chained ogre zombie without combat and reach a surface work yard. She introduces him to an unnamed worker as someone who is with her. This establishes help and cooperation, not employment or a permanent adventuring party.
 
 
 # Background Characters
+
+## The worker at the service exit
+
+An unnamed man in a heavy coat opens the upper service door at the end of the Chapter 4 draft. He recognizes Nessa and asks who is with her. His name, species, exact job, and wider role remain unassigned.
 
 ## The Obsidia monarch
 **The Obsidia monarch** is Elyra's father, seen watching the invocation. His personal name and exact title are not given. House Obsidia rules this pre-war court; do not use "king of Onyxia" for him.
