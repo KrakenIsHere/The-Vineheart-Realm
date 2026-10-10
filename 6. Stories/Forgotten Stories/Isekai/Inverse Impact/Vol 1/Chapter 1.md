@@ -509,7 +509,7 @@ When the falling stopped, Malgorth was beneath the counterweight. I could see on
 > **Grave Tyrant Malgorth defeated.**
 >
 > **Hit Points:** 0 / 168.
-> **Condition:** Defeated.
+> **Condition:** Dead.
 >
 > **Impact recorded:** Very low applied force.
 > **Designation updated:** Gentle Calamity.
