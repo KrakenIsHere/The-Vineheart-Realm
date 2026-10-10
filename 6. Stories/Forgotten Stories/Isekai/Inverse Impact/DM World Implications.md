@@ -126,7 +126,19 @@ Nessa's normal route to the workroom runs from the upper galleries across the so
 
 Nessa brought the food to the workroom before starting the pipe repair. The dry room, barred door, nearby drinking water, shared bedding, and tools support maintenance shifts. The broken bridge prevents her return. She has not visited since Haruto took the pads; she recognizes the equipment itself. His new opening through the sealed arch provides a detour back to the basin, with the damaged railing still unsafe. Nessa hears that impact, corrects his map, and opens the service gate after he explains his curse. No open route to the surface is confirmed.
 
-The reason the arch was sealed, the creature heard below the chambers, and Nessa's wider history remain open. No connection to a modern location is established.
+At the end of Chapter 3, the reason the arch was sealed, the creature heard below the chambers, and Nessa's wider history remain open. No connection to a modern location is established.
+
+# Chapter 4 Draft
+
+Haruto explains Malgorth's defeat and the collapse. Nessa shows him the broken service landing and the outlet mechanism. The fallen supports have buckled a protective iron cover into the cradle's path; the guide rails themselves still stand. They return to the basin workroom through his opened arch for food and supplies. Nessa collects his coin and treats the pads and iron tool as loans. His slate, charcoal, old gloves, cord, and spare pad move into her bag, and he wears the cloak again.
+
+Nessa secures the outlet weight with a catch, pin, and spare wedges. Haruto's firm pressure cannot free the cover. A light push through the iron bar tears it loose toward a cleared wall, also breaking stone around a cover socket. This is a broad impact, not precise control. His foot pad slips as he steps away; a hard landing on his knee costs **1 HP**, leaving **6 / 7**. The fall comes from his footing, not amplified recoil. Nessa repairs the heel fastening. No further qualifying rest, recovery, advancement, or status reward occurs.
+
+With the rails checked, Nessa removes the wedges, takes the load off the catch with the geared wheel, and releases the weight. Its descent raises the outlet gate. She secures it open while the reservoir drains. The exposed inspection ledge follows the end wall from their platform toward the far bank. A second stair rises to the doorway marked with a white rag. The upper gallery then joins the service stair above its broken landing.
+
+An **Ogre Zombie** remains chained behind the inner of two barred gates off the inspection ledge. Its cry matches the sound Haruto heard below. He sees **85 / 85 HP** and **AC 8**, and they pass without fighting or damaging either gate. The chain and barriers are physical restraints; no magical confinement is established. The creature's creator, original purpose, and any connection between its chain and the chamber's falling chain remain unassigned. Use the published creature recorded in [[DM Inverse Impact Characters#Encounter Creatures|the encounter records]].
+
+Both reach the surface through the upper service stair. An unnamed worker recognizes Nessa at a covered work yard beside a road. The yard's name, the worker's identity, and the route from it to the survey lodge remain unassigned. The outlet stays secured open and needs a new cover and inspection. Malgorth's remains, the trapped sword, the original collapse, and the damaged railing remain below. Haruto has not returned to the palace or resolved the curse. He still has no money, and no connection to a modern location is established.
 
 # Important People
 
