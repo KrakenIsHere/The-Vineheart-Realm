@@ -92,11 +92,13 @@ His family, guild, formal rank, level, and later history are not established.
 
 ## Nessa
 
-**Nessa** meets Haruto at a service gate beside the reservoir in Chapter 3. She carries a lantern, a wrench, and keys. After a fall in the lower workings, she checks which water gates still move before trying the route back up.
+**Nessa** repairs the water gates carrying drainage from the mines above through the old reservoir. She meets Haruto at a service gate in Chapter 3, carrying a lantern, a wrench, and keys. She came down the previous day to replace a band on a leaking pipe. The collapse damages the upper service stair and jams an outlet weight. She shuts the main feed and works to lower the reservoir so she can inspect a lower ledge and a second set of steps around the damaged landing.
 
-She recognizes the basin workroom and identifies its food and equipment as supplies for people working below the upper galleries. She knows the repeated junctions and the skeleton scraping the sorting trough. She corrects part of Haruto's map and opens the gate after he explains his curse, asking him to keep his hands away from the controls.
+Her normal route to the basin workroom crosses the bridge from the upper galleries, follows the aisle beside the scraping skeleton, and descends to the junction and gutter. It avoids the old lift branch and Malgorth's chamber. The bridge falls after she returns to the reservoir side. She recognizes fresh damage, altered water flow, and mechanisms that worked properly before the fall.
 
-Her age, species, employer, formal occupation, level, and wider history are not established. She has not confirmed an open route to the surface. She knows which galleries the creature's sounds come from and avoids them; her knowledge of the creature itself is not established.
+She brought the food to the workroom before starting the repair. Water crews use the dry, secure room for meals and rest, with shared bedding and tools. She has not returned since Haruto took the leather pads; she recognizes the equipment itself. His opening through the sealed arch provides a detour back to those supplies. She knows the repeated junctions, corrects his map, and opens the shifted service gate after he explains his curse, asking him to keep his hands away from the controls.
+
+Her age, species, employer, level, and wider history are not established. She reports that the chamber guard has not left its room onto the service route during their work; this does not establish magical confinement. She knows which lower galleries the separate creature's cries come from and avoids them. Its identity and an open route to the surface remain unconfirmed.
 
 
 # Background Characters
