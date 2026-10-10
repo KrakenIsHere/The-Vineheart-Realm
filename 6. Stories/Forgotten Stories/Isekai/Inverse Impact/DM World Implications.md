@@ -29,6 +29,8 @@ Use **block** or **blocks** for stone deliberately cut or shaped into a regular 
 
 Establish Haruto's position and the important exits before movement. Keep left and right tied to his viewpoint, and show turns and transitions between spaces.
 
+Doors, gates, and moving machinery make appropriate sounds. Show the effects of destruction beyond the impact through damaged supports, disrupted mechanisms, and changed water flow. People familiar with the dungeon should recognize changes from its normal behavior.
+
 Keep the curse present in exploration through his handling choices and their consequences. Bracing, cutting, writing, and using tools can involve deliberate pressure. Ordinary contact stays safe, but a light push must show an amplified impact. The gloves do not make deliberate force safe. Haruto can apply what he has learned without gaining precise control over the result.
 
 # Historical Placement
@@ -116,7 +118,13 @@ He takes a damaged dagger from Malgorth's chamber and an iron tool, kneeling pad
 
 The main thread is his search for people and a route out. Similar rooms confuse his map. At a blocked arch, a light push launches a loose stone across the reservoir walkway. It buckles the railing and tears one fastening from the floor before falling into the water. Haruto clears the remaining pieces with firm pressure through the bar. The arch remains intact, but the damaged section of railing is unsafe. Opening the passage does not establish precise control over the curse.
 
-Recent repairs, footprints, tools, and lantern light lead him to **Nessa** at a service gate. She checks water gates in the old workings. She identifies the workroom supplies as shared provisions, corrects part of his map, and opens the gate after he explains his curse. Their conversation reveals that people still work in parts of the Halls; it does not establish an open route to the surface.
+The collapse affects nearby workings. The bridge outside the sorting room falls, part of the upper service stair's landing breaks, an outlet weight catches in its guide, and a service gate's frame shifts. The basin receives uneven spurts of water and grit. These are structural and mechanical failures after the fall, not separate amplified impacts across the dungeon.
+
+Recent repairs, footprints, tools, and lantern light lead him to **Nessa**, a watergate repair worker. She came down the previous day to replace a band on a leaking pipe. After the collapse, she shuts the main feed and tries to free the jammed reservoir outlet. Water from the mines above still enters through smaller channels. Lowering it may expose an inspection ledge and a second set of steps joining the service stair above the broken landing. That route has not been checked since the collapse.
+
+Nessa's normal route to the workroom runs from the upper galleries across the sorting-room bridge, through the aisle beside the scraping skeleton, down the stairs to Haruto's marked junction, and along the gutter to the basin. It avoids the old lift branch and Malgorth's chamber. The scraping skeleton has not bothered workers in the aisle; Nessa reports that the chamber guard has not come onto their route during their work. These observations do not make the other skeletons or chambers safe.
+
+Nessa brought the food to the workroom before starting the pipe repair. The dry room, barred door, nearby drinking water, shared bedding, and tools support maintenance shifts. The broken bridge prevents her return. She has not visited since Haruto took the pads; she recognizes the equipment itself. His new opening through the sealed arch provides a detour back to the basin, with the damaged railing still unsafe. Nessa hears that impact, corrects his map, and opens the service gate after he explains his curse. No open route to the surface is confirmed.
 
 The reason the arch was sealed, the creature heard below the chambers, and Nessa's wider history remain open. No connection to a modern location is established.
 
