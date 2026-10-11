@@ -42,7 +42,7 @@ Haruto uses a homebrew civilian profile. His **Level 2** follows [[Levels Breakd
 | After Malgorth | 2 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 | After the short rest, Chapter 3 | 4 / 7 | 1 / 2 | Gentle Calamity | Gentle Hands |
 | After the long rest, Chapter 3 | 7 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
-| After the platform fall, Chapter 4 draft | 6 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
+| After the platform fall, Chapter 5 draft | 6 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 
 Use these totals to keep later scenes consistent. His starting maximum follows [[Character Creation#Class Selection Guide|the first-level HP rule]] and the second-level result recorded above. Minor bruises and descriptive pain do not each require another HP loss. Proper rests and healing use [[Gameplay Changes#Rest:|the vault's rules]], with Haruto's recovery recorded in [[DM World Implications#Recovery & conditions|the story's recovery rules]]. Chapter 3 uses one of that day's two short rests. The long rest replenishes his reserve; it does not reset the daily short-rest limit by itself. The reserve is author bookkeeping and is never named or displayed in the chapters.
 
@@ -58,7 +58,7 @@ The linked custom creature notes and published rules define their nature and mec
 | --- | --- | --- | --- | --- | --- |
 | The trapped wolf | **[[DM Hellfang Wolf|Hellfang Wolf]]**, a magically altered wolf | Medium Monstrosity | 37 | 14, natural armor | None revealed |
 | **Grave Tyrant Malgorth** | **[[DM Gravebound Colossus|Gravebound Colossus]]**, an assembled zombie | Huge Undead | 168 | 18, natural armor | **Multiattack** |
-| The creature behind the lower gates, Chapter 4 draft | **Ogre Zombie**, a reanimated ogre | Large Undead | 85 | 8, unarmored | None revealed |
+| The creature behind the lower gates, Chapter 5 draft | **Ogre Zombie**, a reanimated ogre | Large Undead | 85 | 8, unarmored | None revealed |
 
 The wolf is already pinned when Haruto encounters it. Its first appraisal appears in Chapter 2, before he approaches, showing **37 / 37 HP**, **AC 14**, and **Restrained**, with a warning that it is lethal within reach. Chapter 1's later contact report updates it to **0 / 37 HP** and **Dead**. Its species name does not establish a breath weapon or fire resistance.
 
@@ -96,22 +96,22 @@ His family, guild, formal rank, level, and later history are not established.
 
 ## Nessa
 
-**Nessa** repairs the water gates carrying drainage from the mines above through the old reservoir. She meets Haruto at a service gate in Chapter 3, carrying a lantern, a wrench, and keys. She came down the previous day to replace a band on a leaking pipe. The collapse damages the upper service stair and jams an outlet weight. She shuts the main feed and works to lower the reservoir so she can inspect a lower ledge and a second set of steps around the damaged landing.
+**Nessa** repairs the water gates carrying drainage from the mines above through the old reservoir. She meets Haruto at a service gate in Chapter 4, carrying a lantern, a wrench, and keys. She came down the previous day to replace a band on a leaking pipe. The collapse damages the upper service stair and jams an outlet weight. She shuts the main feed and works to lower the reservoir so she can inspect a lower ledge and a second set of steps around the damaged landing.
 
 Her normal route to the basin workroom crosses the bridge from the upper galleries, follows the aisle beside the scraping skeleton, and descends to the junction and gutter. It avoids the old lift branch and Malgorth's chamber. The bridge falls after she returns to the reservoir side. She recognizes fresh damage, altered water flow, and mechanisms that worked properly before the fall.
 
 She brought the food to the workroom before starting the repair. Water crews use the dry, secure room for meals and rest, with shared bedding and tools. She has not returned since Haruto took the leather pads; she recognizes the equipment itself. His opening through the sealed arch provides a detour back to those supplies. She knows the repeated junctions, corrects his map, and opens the shifted service gate after he explains his curse, asking him to keep his hands away from the controls.
 
-Her age, species, employer, level, and wider history are not established. She reports that the chamber guard has not left its room onto the service route during their work; this does not establish magical confinement. At the end of Chapter 3, she knows which lower galleries the separate creature's cries come from, but its identity and an open route to the surface remain unconfirmed.
+Her age, species, employer, level, and wider history are not established. She reports that the chamber guard has not left its room onto the service route during their work; this does not establish magical confinement. At the end of Chapter 4, she knows which lower galleries the separate creature's cries come from, but its identity and an open route to the surface remain unconfirmed.
 
-In the Chapter 4 draft, she learns how Haruto defeated the guard and how he reached the dungeon after his summoning and relocation. She uses his opened arch to retrieve food, accepts his coin for the crew's accounts, and lends him the pads and tool. She secures the weight before his amplified impact, checks the rails afterward, and opens the reservoir outlet. She corrects the pad's heel strap after his fall and leads him across the exposed inspection ledge. Both pass a chained ogre zombie without combat and reach a surface work yard. She introduces him to an unnamed worker as someone who is with her. This establishes help and cooperation, not employment or a permanent adventuring party.
+In the Chapter 5 draft, she learns how Haruto defeated the guard and how he reached the dungeon after his summoning and relocation. She uses his opened arch to retrieve food, accepts his coin for the crew's accounts, and lends him the pads and tool. She secures the weight before his amplified impact, checks the rails afterward, and opens the reservoir outlet. She corrects the pad's heel strap after his fall and leads him across the exposed inspection ledge. Both pass a chained ogre zombie without combat and reach a surface work yard. She introduces him to an unnamed worker as someone who is with her. This establishes help and cooperation, not employment or a permanent adventuring party.
 
 
 # Background Characters
 
 ## The worker at the service exit
 
-An unnamed man in a heavy coat opens the upper service door at the end of the Chapter 4 draft. He recognizes Nessa and asks who is with her. His name, species, exact job, and wider role remain unassigned.
+An unnamed man in a heavy coat opens the upper service door at the end of the Chapter 5 draft. He recognizes Nessa and asks who is with her. His name, species, exact job, and wider role remain unassigned.
 
 ## The Obsidia monarch
 **The Obsidia monarch** is Elyra's father, seen watching the invocation. His personal name and exact title are not given. House Obsidia rules this pre-war court; do not use "king of Onyxia" for him.

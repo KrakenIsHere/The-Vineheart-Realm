@@ -17,6 +17,10 @@ Awoken in Another World: with My Absurd Skill, The Softer I Touch the Harder I H
 
 # Writing Preferences
 
+Use fluid narration with varied sentence lengths in the chapters. Connect related actions, sensations, and reactions instead of presenting each as a separate short sentence. Keep short sentences and paragraph breaks when they serve tension, emphasis, or humor. Haruto's direct thoughts remain italicized.
+
+Around **4,000–7,000 words** is a chapter-length guide, not a hard limit. Let pacing and natural stopping points decide the length. Chapters can differ in size. Split a long chapter where an arc reaches a useful pause, rather than dividing it into equal lengths or cutting a complete scene to meet a count.
+
 Prefer existing D&D creatures for future encounters. Choose the creature before writing its anatomy and abilities. Custom creatures can suit special or major events. Preserve the established story rather than rewriting it to fit a published creature; the Hellfang Wolf and Malgorth remain custom creatures.
 
 Never mention dice rolls in chapter prose or status windows. Convey checks, saving throws, recovery limits, and chance outcomes through successful or failed actions, physical reactions, and unusual events. Keep calculations and resource tracking in DM records. Ordinary status values such as HP and ability scores can remain visible.
@@ -104,7 +108,7 @@ The Divine War erupts more than a century after this story. The relationship bet
 
 # Chapter Continuity
 
-Chapter 1 introduces Haruto's present situation in the dungeon. Chapter 2 covers his summoning and first tests. Chapter 3 continues from Malgorth's chamber.
+Chapter 1 introduces Haruto's present situation in the dungeon. Chapter 2 covers his summoning and first tests. Chapter 3 continues from Malgorth's chamber through his recovery and preparation in the basin workroom. Chapter 4 follows his search for people and meeting with Nessa. Chapter 5 covers their repair of the outlet and route to the surface.
 
 Windows appear after summoning. Later windows reveal additional information. Dungeon collapses follow damaged supports and old structural faults.
 
@@ -114,7 +118,11 @@ Haruto starts against the wall opposite Malgorth's chamber entrance, facing the 
 
 Haruto leaves his sword trapped in the fallen pillar's rubble and breaks a low opening through the entrance slab. He returns to the basin and finds a recently used workroom opposite it. He eats part of its food and leaves his last silver coin. His first one-hour short rest qualifies him for a long rest. One **d4** portion of his reserve provides **2 HP**, taking him from **2 / 7** to **4 / 7**. More than eight hours of sleep then restores **7 / 7 HP** and his full recovery reserve. His level, abilities, class, AC, spell slots, designation, and title do not change.
 
-He takes a damaged dagger from Malgorth's chamber and an iron tool, kneeling pads, cord, slate, and charcoal from the workroom. He makes a foot covering and starts a map. He draws with firm charcoal strokes and crosses out mistakes rather than rubbing them away with light pressure. Writing and erasing have no exemption from the curse. A skeleton scraping an empty stone trough does not attack him. This does not establish that other skeletons are safe.
+He takes a damaged dagger from Malgorth's chamber and an iron tool, kneeling pads, cord, slate, and charcoal from the workroom. He makes a foot covering and starts a map. He draws with firm charcoal strokes and crosses out mistakes rather than rubbing them away with light pressure. Writing and erasing have no exemption from the curse. The chapter ends as he leaves the workroom prepared to look for its users' route.
+
+# Chapter 4
+
+A skeleton scraping an empty stone trough does not attack him. This does not establish that other skeletons are safe.
 
 The main thread is his search for people and a route out. Similar rooms confuse his map. At a blocked arch, a light push launches a loose stone across the reservoir walkway. It buckles the railing and tears one fastening from the floor before falling into the water. Haruto clears the remaining pieces with firm pressure through the bar. The arch remains intact, but the damaged section of railing is unsafe. Opening the passage does not establish precise control over the curse.
 
@@ -126,9 +134,9 @@ Nessa's normal route to the workroom runs from the upper galleries across the so
 
 Nessa brought the food to the workroom before starting the pipe repair. The dry room, barred door, nearby drinking water, shared bedding, and tools support maintenance shifts. The broken bridge prevents her return. She has not visited since Haruto took the pads; she recognizes the equipment itself. His new opening through the sealed arch provides a detour back to the basin, with the damaged railing still unsafe. Nessa hears that impact, corrects his map, and opens the service gate after he explains his curse. No open route to the surface is confirmed.
 
-At the end of Chapter 3, the reason the arch was sealed, the creature heard below the chambers, and Nessa's wider history remain open. No connection to a modern location is established.
+At the end of Chapter 4, the reason the arch was sealed, the creature heard below the chambers, and Nessa's wider history remain open. No connection to a modern location is established.
 
-# Chapter 4 Draft
+# Chapter 5 Draft
 
 Haruto explains Malgorth's defeat and the collapse. Nessa shows him the broken service landing and the outlet mechanism. The fallen supports have buckled a protective iron cover into the cradle's path; the guide rails themselves still stand. They return to the basin workroom through his opened arch for food and supplies. Nessa collects his coin and treats the pads and iron tool as loans. His slate, charcoal, old gloves, cord, and spare pad move into her bag, and he wears the cloak again.
 
