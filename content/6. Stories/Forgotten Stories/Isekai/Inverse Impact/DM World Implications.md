@@ -110,7 +110,9 @@ The Divine War erupts more than a century after this story. The relationship bet
 
 # Chapter Continuity
 
-Chapter 1 introduces Haruto's present situation in the dungeon. Chapter 2 covers his summoning and first tests. Chapter 3 continues from Malgorth's chamber through his recovery and preparation in the basin workroom. Chapter 4 follows his search for people and meeting with Nessa. Chapter 5 covers their repair of the outlet and route to the surface.
+Read the chapters in order: [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1|1]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5|1.5]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 2|2]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 3|3]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 4|4]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 5|5]].
+
+Chapter 1 introduces Haruto's present situation in the dungeon, from the wolf through the failed lift attempt. Chapter 1.5 continues at the basin, follows his practice and encounter with Malgorth, and ends with the Affection Multiplier reveal and the roar below the chamber. The chapter break introduces no time gap, rest, or recovery. Chapter 2 returns to his summoning and first tests. Chapter 3 resumes the present from Malgorth's chamber through his recovery and preparation in the basin workroom. Chapter 4 follows his search for people and meeting with Nessa. Chapter 5 covers their repair of the outlet and route to the surface.
 
 Windows appear after summoning. Later windows reveal additional information. Dungeon collapses follow damaged supports and old structural faults.
 

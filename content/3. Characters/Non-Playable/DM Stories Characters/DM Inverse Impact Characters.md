@@ -39,7 +39,7 @@ Haruto uses a homebrew civilian profile. His **Level 2** follows [[Levels Breakd
 | Summoning, Chapter 2 | 7 / 7 | 2 / 2 | Civilian | None |
 | After the wolf, Chapter 1 | 5 / 7 | 2 / 2 | Catastrophic Pacifist | Gentle Hands |
 | After the three soldiers | 4 / 7 | 2 / 2 | Catastrophic Pacifist | Gentle Hands |
-| After Malgorth | 2 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
+| After Malgorth, Chapter 1.5 | 2 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 | After the short rest, Chapter 3 | 4 / 7 | 1 / 2 | Gentle Calamity | Gentle Hands |
 | After the long rest, Chapter 3 | 7 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
 | After the platform fall, Chapter 5 draft | 6 / 7 | 2 / 2 | Gentle Calamity | Gentle Hands |
@@ -62,7 +62,7 @@ The linked custom creature notes and published rules define their nature and mec
 
 The wolf is already pinned when Haruto encounters it. Its first appraisal appears in Chapter 2, before he approaches, showing **37 / 37 HP**, **AC 14**, and **Restrained**, with a warning that it is lethal within reach. Chapter 1's later contact report updates it to **0 / 37 HP** and **Dead**. Its species name does not establish a breath weapon or fire resistance.
 
-**Malgorth** is the individual's name. **Grave Tyrant** is its title. Its four arms, horns, and scale armor are parts of its construction, not evidence of an unnamed living species. Its first appraisal shows **168 / 168 HP**. The old sword in its chest does not reduce that displayed total or impose an injury penalty. Its later defeat report shows **0 / 168 HP** and **Defeated**. Haruto knocks it into the counterweight, and the failing structure falls onto it; the curse does not directly inflict the entire damage from the collapse.
+**Malgorth** is the individual's name. **Grave Tyrant** is its title. Its four arms, horns, and scale armor are parts of its construction, not evidence of an unnamed living species. Its first appraisal in Chapter 1.5 shows **168 / 168 HP**. The old sword in its chest does not reduce that displayed total or impose an injury penalty. Its later defeat report shows **0 / 168 HP** and **Defeated**. Haruto knocks it into the counterweight, and the failing structure falls onto it; the curse does not directly inflict the entire damage from the collapse.
 
 The two custom creatures' ability scores and combat mechanics are recorded in the linked DM creature notes. Their challenge ratings and XP values remain unassigned. Traits present in a profile need not all appear in the first appraisal. Revealed creature statistics do not grant Haruto automatic levels or training.
 
