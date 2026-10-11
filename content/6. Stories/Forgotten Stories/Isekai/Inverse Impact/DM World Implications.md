@@ -19,6 +19,8 @@ Awoken in Another World: with My Absurd Skill, The Softer I Touch the Harder I H
 
 Use fluid narration with varied sentence lengths in the chapters. Connect related actions, sensations, and reactions instead of presenting each as a separate short sentence. Keep short sentences and paragraph breaks when they serve tension, emphasis, or humor. Haruto's direct thoughts remain italicized.
 
+Let dangerous moments unfold through what Haruto notices, anticipates, and tries to do. Show the movement that succeeds or fails, the physical consequence, and what he does next. Give fear and uncertainty weight through his choices, hesitation, mistakes, and bodily reactions. Dialogue should remain part of the scene, with meaningful movement or reactions where the exchange calls for them. Quieter scenes need physical presence too. Choose details that affect the moment rather than adding a reaction after every line.
+
 Around **4,000–7,000 words** is a chapter-length guide, not a hard limit. Let pacing and natural stopping points decide the length. Chapters can differ in size. Split a long chapter where an arc reaches a useful pause, rather than dividing it into equal lengths or cutting a complete scene to meet a count.
 
 Prefer existing D&D creatures for future encounters. Choose the creature before writing its anatomy and abilities. Custom creatures can suit special or major events. Preserve the established story rather than rewriting it to fit a published creature; the Hellfang Wolf and Malgorth remain custom creatures.

@@ -15,15 +15,17 @@ My sword's hilt stuck out of the rubble around the broken pillar, to the right o
 
 *What might be up there? Hopefully nobody finds the shaft and falls through.*
 
-The chain beside my feet moved again. Its links scraped over the edge of the floor gap and vanished into the darkness below, slowly enough that I could count them. I stopped at six. Counting did not help.
+The chain moved again. I pulled my heels closer until the wall pressed between my shoulder blades, watching each link scrape over the broken edge and vanish. They moved slowly enough to count. I stopped at six. Counting did not help.
 
 As the roar faded, dust drifted down from the ceiling shaft. Nothing rose through the floor, though the gap had widened enough to reveal a strip of blue light beneath the chamber.
 
-*There is another room further down. Of course there is. This place might actually be bottomless.*
+*There is another room farther down. Of course there is. This place might actually be bottomless.*
 
 The warning about kissing remained in front of me. I looked away, then wrapped the cloak around my shoulders. *My plans for future relationships can wait until I have a future in which to make them.*
 
-My injured calf tightened on my first attempt to stand, dropping me back against the wall. For the second, I planted my good foot beneath me and set my left palm against the stone, leaning firmly on it as I straightened my good knee. I lifted my hand clear before lowering the injured leg, keeping my weight on my foot. A little push for balance was how I had broken a wall before.
+My first attempt to stand ended with my calf tightening and my back against the wall again. I sat there with my teeth together, waiting for the sharp part of the pain to pass. The chain did not wait with me.
+
+For the second attempt, I planted my good foot beneath me and set my left palm against the stone. Firm pressure. I straightened my good knee, concentrating on the weight through my arm until I could lift the hand clear and lower my injured leg. A little push for balance was how I had broken a wall before. I wanted this one behind me to remain a wall.
 
 The bandage was still in place, with a dark patch spreading across it. At least nothing was running into my shoe now.
 
@@ -37,7 +39,9 @@ The wood shifted against its pins when I picked up the dagger by its handle and 
 
 The empty scabbard at my hip was too wide to hold it safely. I wrapped the blade in a scrap of cloth caught on a broken spear and put it in my pocket, away from the phone. If I needed it, I would have to unwrap it first. That was already more preparation than I liked, but carrying a loose knife against my stomach seemed an unnecessary and unpleasant way to finish the day.
 
-Near the pillar, I could see why my sword had stayed trapped. The blade disappeared beneath chunks of stone pressed against iron torn from the cradle. I kept to the narrow space between that pile and the wall, passing the hilt without reaching for it.
+Beside the pillar, the sword's hilt was close enough to take. I slowed and followed the blade into chunks of stone pressed against iron torn from the cradle. One piece rested across the metal above it. I could not tell what else that piece was holding up.
+
+My fingers curled around the wrapped dagger in my pocket instead. I passed the hilt without reaching for it, keeping to the narrow space beside the wall.
 
 The chain kept rattling at the far end of the room.
 
@@ -49,7 +53,9 @@ Crouching beside the slab's lower right corner, nearest the ruined pillar, I fou
 
 If I pushed toward the passage, the broken pieces would go away from me. I remembered the stretch of corridor immediately outside. There had been room to stand there.
 
-I took the wrapped dagger from my pocket and raised its wooden handle toward the slab. My first impulse was to knock softly. I stopped with the wood just short of the stone, then gave three firm raps instead. The silver stitches warmed my fingers and the sounds stayed small. *I will count myself lucky.*
+I raised the wrapped dagger's wooden handle toward the slab, then stopped just short of touching it. My first impulse had been to knock softly. I adjusted my grip and gave three firm raps, hearing each small sound return from the stone. The silver stitches warmed my fingers.
+
+*I will count myself lucky.*
 
 "Is anyone there?"
 
@@ -57,11 +63,13 @@ I listened to water trickling on the other side and another scrape beneath the f
 
 *I do not need to remove the door. I just need enough space for myself.*
 
-I returned the dagger to my pocket and put my palm against the cracked corner, below knee height. Resting it there did nothing. I checked that my cloak was clear of my feet, and gave a small push toward the corridor.
+I put the dagger away and crouched at the cracked corner. With my palm resting below knee height, I could feel dust trapped between the glove and the stone. Nothing happened yet. I lifted the cloak clear of my feet and checked the direction one more time: out into the corridor, away from my knees.
 
-The corner broke outward.
+I gave a small push.
 
-Stone crashed onto the corridor floor as a new crack climbed halfway up the slab, shedding a line of dust. I jerked my hand back and waited beside the doorway, clear of the remaining stone. The wheel stayed still, and the upper part of the slab held between its guides.
+The corner broke outward with a crack that filled the chamber. I snatched my hand back as stone crashed beyond the doorway. Dust spilled down a fresh split climbing halfway up the slab, and I moved to the side, keeping my head clear of what remained.
+
+The wheel above me stayed still. I watched the upper slab between its guides until the dust thinned enough to see both edges. It was holding. I would have to go beneath it.
 
 The hole at floor level was wider than my shoulders, though low enough to make me crawl. I had pictured something tidier. Apparently a doorway I could fit through was the level of craftsmanship currently available to me.
 
@@ -71,9 +79,13 @@ I lowered myself onto my good knee in front of the hole.
 
 "You can have the room."
 
-Getting through hurt. The cloak snagged on a broken edge of the slab, and I stopped rather than dragging it against the stone. I lifted the fabric clear, eased my shoulders through, and pulled my injured leg after me. The rubble outside scraped my palms. The silver stitches warmed when I nearly lost my balance, but nothing broke.
+My shoulders fitted through with less room than I wanted above my head. Halfway out, the cloak snagged and held me in place. I stopped, unable to see the caught edge without turning beneath the slab. The chain scraped again behind me.
 
-Once I was upright in the corridor, I turned away from the chamber and followed the gutter around the bend toward the basin. Knowing where this passage led was enough to make my eyes sting.
+I reached back and lifted the fabric clear, then eased forward on my good knee. Pulling the injured leg through made me shut my eyes for a moment. Rubble scraped my palms outside, and the silver stitches warmed when I nearly lost my balance. I kept moving until my feet were clear. Nothing broke.
+
+I stood in the corridor with one hand held close to my chest, listening to the chain through the hole behind me. Then I turned toward the gutter. I knew where it led. The bend, the lamps, the basin.
+
+I could picture the next place before I reached it, and the relief made my eyes sting.
 
 The roar followed me to the bend, muffled by the chamber wall between us.
 
@@ -87,7 +99,7 @@ I sank to the floor against the basin's base and listened, grateful for the abse
 
 I had left the falling counterweight behind. That did not mean the rest of the place had finished moving.
 
-I drank, then lifted my right foot onto a loose stone to inspect the bandage. The cloth had stuck to the cut. I wet it until I could loosen it without pulling, and discovered that I had done a much better job of wrapping my leg than cleaning it. Gray grit had collected around the wound.
+After drinking, I lifted my right foot onto a loose stone and worked at the bandage. The first little movement tugged at the cut, so I stopped and wet the cloth instead. It took several handfuls before an edge loosened. Beneath it, gray grit had collected around the wound. I had done a much better job of wrapping my leg than cleaning it.
 
 The water made my teeth grind as I poured it over the cut, a handful at a time, stopping whenever my hand began to shake. As it carried away the grit, I could see that the wound was longer than I wanted, but shallow enough for its bottom to be visible.
 
@@ -110,7 +122,9 @@ I looked at the blue window.
 > **Designation:** Gentle Calamity.
 > **Title:** Gentle Hands.
 
-Two. Neither cleaning the cut nor getting out of the room had changed it.
+Two.
+
+I looked from the number to my newly tied bandage. The room was behind me and the bleeding had stopped, yet I was still sitting with my leg out, afraid of how much standing would hurt. Neither cleaning the cut nor getting out of the room had changed the number.
 
 I had been treating every quiet corridor as an opportunity to reach the next one. There was always a staircase I had not tried, a draft I could follow, or a lamp that looked as though it might be closer to the sky. I could keep doing that until another skeleton took my remaining two hit points.
 
@@ -120,11 +134,15 @@ Between the doorless storeroom and the basin in an open corridor, I had nowhere 
 
 Across from the basin, three shallow steps led to a recessed doorway in the right-hand wall. With the lamp above it dark, I had missed it last time. Now I could see a disturbed strip through the dust at the center of the steps, leading to a door that stood a finger's width open.
 
-I crossed the corridor, climbed the steps, and listened at the partly open door.
+I crossed to the steps and climbed with my good foot first, pausing outside the partly open door. Close to the gap, I could hear my own breathing over the basin.
 
 "Hello?"
 
-When nobody answered, I held the handle firmly and pushed. The door creaked inward toward the wall on my left until it knocked against a short bench just inside. After listening again, I reached through the gap and lifted the bench farther into the room, giving the door enough space to open.
+I waited long enough to say it again, but did not. If anyone was inside, they had heard me.
+
+Firm pressure on the handle sent the door creaking inward toward the wall on my left. It struck something with a wooden knock. I froze with my arm still extended, waiting for the sound of someone moving.
+
+A short bench was wedged behind it. Once I could see that, I reached through the gap and lifted the bench farther into the room, giving the door space to open.
 
 The worktable stood against the far wall, beneath a narrow vent that admitted blue light. A rolled blanket and a cloth bundle sat on it. Shelves of tools lined the wall on my right. A cold brazier stood in the far left corner, beyond the bench. Several short pieces of bright iron rested beside a tin of grease. Unlike the rusting machinery outside, these looked ready to be used.
 
@@ -132,9 +150,9 @@ From the threshold, I checked behind the open door, beneath the bench and table,
 
 The blanket, though, had little dust on it, and the bundle smelled of bread.
 
-At the table, I lifted the bundle's dry, tied corner to find four thick pieces of flatbread, a small wheel of hard cheese, and two apples, one of them bruised. A water flask stood behind it.
+At the table, I lifted the bundle's dry, tied corner. Four thick pieces of flatbread, a small wheel of hard cheese, and two apples, one bruised, waited beneath it. A flask stood behind them.
 
-After a moment spent simply looking at the food, I turned toward the doorway.
+My mouth filled with saliva. I lowered the cloth and looked toward the doorway, caught by how quickly I had stopped thinking about anything else.
 
 *Is this anyone's lunch?*
 
@@ -150,7 +168,9 @@ I listened at the empty doorway for someone who might be able to help me, but he
 
 *I cannot wait here and starve out of politeness.*
 
-I took a piece of flatbread and the bruised apple. Although tough at the edges, the bread smelled and tore the way bread should, and nothing was growing in its center. I tried a small bite and nearly cried over the fact that it was salty.
+I took a piece of flatbread and the bruised apple. The bread resisted when I tore it, then opened to a clean center with nothing growing inside. I held it close enough to smell before trying a small bite.
+
+Salt. I closed my eyes while I chewed, embarrassed by how much that ordinary taste mattered. I had to finish the mouthful before trusting myself to speak.
 
 I ate slowly, sitting at the end of the bench while my stomach adjusted to having work again. Then I went back across the corridor to wash the dagger at the basin. I cut away the apple's soft patch with a firm stroke and returned to the workroom with the rest of the fruit. It was sour enough to make my jaw ache. I ate it anyway.
 
@@ -162,7 +182,7 @@ There was probably a local price for what I had taken. I hoped one silver was a 
 
 Beside the door, a wooden bar stood ready to fit into two iron brackets, one on either side of the doorway. Someone could secure this room from inside; the bench had probably been there to keep it partly open. After checking both ends of the bar for rot, I closed the door with firm pressure, its lower edge scraping the threshold before the latch clicked. Wood knocked against iron as I fitted the bar into its brackets.
 
-A firm pull on the handle pressed the bar against both brackets. I let go while the resistance was still steady, satisfied that it held.
+I pulled firmly on the handle, watching the bar press against both brackets. The wood creaked but stayed seated. I let go before changing the pressure, then tried to imagine how much warning that sound would give me if something tested it from outside.
 
 I settled on the floor beside the worktable, facing the door and listening to the water across the corridor. My leg throbbed and my jaw still hurt where the skeleton had punched me, but there was a barred door between me and whatever might come along the passage.
 
@@ -170,7 +190,9 @@ I would rest for a little while. Then I would decide what to do.
 
 After several seconds, the phone started with eighteen percent battery remaining. Blue light from the vent caught the crack in its screen, drawing a bright line through the clock.
 
-I set it on the table and spent the next hour doing very little. I ate the last of my bread, loosened the scabbard strap that pressed against my hip, and checked the door whenever the water made a different sound. Once, I heard a dull impact somewhere farther down the passages. It was followed by another, then silence. Nothing came to the room.
+I put the phone on the table and settled against its leg, easing the scabbard strap away from my hip. For the next hour, I ate the last of my bread and tried to leave my injured calf alone. At first, every change in the water's sound brought my eyes back to the door.
+
+A dull impact came from farther down the passages. I stopped chewing. Another followed, and I waited with the bread in my hand until enough silence had passed to make swallowing possible. Nothing came to the room. Later, I noticed that my shoulders had lowered without my telling them to.
 
 When I checked the time again, a blue window appeared above the phone.
 
@@ -191,9 +213,9 @@ Another check of the door showed both brackets fixed firmly into the wall, with 
 
 *I cannot stand guard and sleep at the same time.*
 
-With battery saver and airplane mode still on, the phone continued to show eighteen percent. I left it on the worktable and spread the blanket on the floor beneath the table, breathing in wool that smelled faintly of woodsmoke. Keeping my cloak on, I arranged my injured leg where I would not roll onto it.
+The phone still showed eighteen percent with battery saver and airplane mode on. I left it on the worktable and spread the blanket underneath. Getting down onto it took time; I had to arrange my injured leg before I could lower my hip without pulling at the cut.
 
-The water outside continued to trickle. I listened until its separate sounds became difficult to follow.
+The wool smelled faintly of woodsmoke. I kept my cloak on, tucked its edge around my feet, and looked toward the bar one last time. Outside, water continued to trickle. For a while, I kept separating that sound from anything that might be a step. Gradually, I stopped being able to tell where one little splash ended and the next began.
 
 For a moment, I thought of the person who owned the blanket, returning to find a stranger under the table. I thought of explaining the coin, the blood, and the circumstances under which I had begun borrowing bedding.
 
@@ -203,7 +225,9 @@ Then I was asleep.
 
 I woke up halfway through a dream about missing my stop.
 
-Striking my elbow against the underside of the table reminded me where I was. I crawled out far enough to get on my knees and listen to the corridor.
+My elbow struck the underside of the table when I tried to sit up. I stopped with my hand halfway toward the place my alarm should have been, remembering the door and the chain and the reason I was underneath furniture.
+
+I crawled out far enough to get on my knees and listened.
 
 No footsteps. No swords. Water.
 
@@ -238,7 +262,9 @@ The level had not changed. Defeating Malgorth had not taught me swordsmanship wh
 
 The hour before bed had brought me from two to four, and a full sleep had finished the job.
 
-I looked down at the bandage. Beneath its edge, the cut had closed into a thin, tender line. Yesterday's scrape on my forearm had dried as well. I still needed to keep both clean, and I did not want to test either by falling down another staircase. I could walk, though. I could close my right hand.
+I shifted my weight cautiously, waiting for the calf to stop me. It stayed sore, but held. Beneath the bandage's edge, the cut had closed into a thin, tender line, and yesterday's scrape on my forearm had dried as well.
+
+I opened my right hand, then closed it. The movement no longer ended halfway through. I still needed to keep the wounds clean, and I had no wish to test them on another staircase. But I could stand here deciding where to go. Yesterday, I had barely managed to reach the door.
 
 *This would have been useful information before I tried fighting a house.*
 
@@ -258,7 +284,9 @@ One pad reached from my left heel almost to my toes, though its straps were too 
 
 Threading the cord through the buckles gave me a sole that slid sideways when I stood. My second arrangement stayed put until I took a step backward.
 
-For the third attempt, I sat down and made one loop over the top of my foot and another around the heel, cushioning the stiff leather with the remaining cloth from my sock wrap. This time, I could walk across the room without leaving the pad behind.
+For the third attempt, I sat down and made one loop over the top of my foot and another around the heel, cushioning the stiff leather with the remaining cloth from my sock wrap. I stood without lifting the foot, then tried one step. The pad came with me.
+
+I crossed to the door and turned, watching the cord instead of the room. This time, the leather stayed beneath my heel. I went back to the bench almost pleased with myself.
 
 It was not a shoe. It was a considerably better argument against bare stone than my sock had been.
 
@@ -268,7 +296,7 @@ Near the brazier, I found charcoal and a scrap of slate, blank apart from number
 
 Beyond it, I added the workroom and the corridor to Malgorth's chamber. I drew the broken doorway as a gap and put a large cross through the room behind it. On the other side of the basin, I marked the junction with my pebbles, then the stairs and the broken lift.
 
-Once I had written the names in Japanese, I sat with the little drawing in my hands, looking over its crooked lines and doubtful distances.
+Once the names were written in Japanese, I sat with the drawing in my hands. My finger hovered above the basin, then followed the gutter without touching the slate. I could remember walking that stretch. The crooked line finally belonged to somewhere I had been, rather than somewhere I hoped the next door might lead.
 
 After spending most of yesterday hoping the next doorway would solve the last one, I had somewhere to come back to, water I could reach, and a picture of the routes that had failed.
 
@@ -284,4 +312,6 @@ At the door, I stopped and looked back at the table.
 
 Whoever had left edible food here must have a route they used. It might lead to the surface or another part of the dungeon I would prefer not to meet, assuming I had not already destroyed it by accident. Finding it still seemed more useful than trying the broken lift again.
 
-The wooden bar stood beside its brackets. With the iron tool in my hand, I stepped into the corridor, leaving the door open and the bench beside it.
+At the threshold, I listened before taking my first step. The wooden bar stood beside its brackets, ready if I came back. I looked once more at the table and the folded blanket, then stepped into the corridor with the iron tool at my side. The door stayed open, with the bench beside it.
+
+This time, I knew where I would come back if the next route failed.
