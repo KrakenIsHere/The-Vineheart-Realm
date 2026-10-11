@@ -11,13 +11,17 @@ aliases:
 ---
 A monster in another world died because I patted it on the head. I did not punch it, stab it, or blast it apart with legendary fire magic. I already knew a gentle touch could break stone. The problem was getting close enough to use it without losing my hand.
 
-With the wolf's front legs pinned between two fallen beams, I held my rusty sword in front of its snapping mouth. As its jaws closed on the blade, I reached over its lowered head with my free hand, rested my palm against its fur, and gave it the smallest nudge I could manage, away from me.
+The wolf's front legs were pinned between two fallen beams, but its mouth still reached the rusty sword I held in front of it. Teeth closed on the blade with a scrape that traveled into my sore hand. I set my feet wider and tried not to pull back. Wrestling with it would only bring its teeth closer.
+
+My free hand hovered above its lowered head. I could feel its breath against my wrist, and each movement of its jaw made my fingers curl. I opened them again, reached over the teeth, and rested my palm against the fur. Then I gave it the smallest nudge I could manage, away from me.
 
 "Good doggy."
 
 The **Hellfang Wolf** disappeared.
 
-There was a sound like thunder trapped in a cupboard. The beast tore free of the rotten beams and went backward through a stone wall whose mortar had been falling out long before I arrived. The sword slipped from its jaws and clattered at my feet. Chunks of stone tumbled into the chamber beyond. Dust rolled through the hole, and a tuft of fur drifted past my face before settling among the rubble.
+There was a sound like thunder trapped in a cupboard. The rotten beams burst apart as the beast tore free and went backward through a stone wall whose mortar had been falling out long before I arrived. My sword clattered at my feet. I ducked behind my raised forearm, coughing as dust rolled through the hole and chunks of stone tumbled into the chamber beyond.
+
+When I could see again, a tuft of fur drifted past my face and settled among the rubble. My left palm was still open.
 
 I stayed where I was until the echoes stopped. A moment earlier, the wolf's shoulders had been as high as my waist, and its teeth had looked entirely capable of removing the hand I had just used. Now I could see into the next room. It had acquired a wolf. I was in no hurry to ask whether it wanted one.
 
@@ -50,11 +54,13 @@ A second window slid into place beneath the first.
 
 "No, that is not the problem!"
 
-My voice went through the hole in the wall and returned from somewhere farther away. Something answered with a roar. I covered my mouth, turned toward the sound, and whispered, "Sorry."
+My voice traveled through the broken wall. Before its echo faded, a roar came back from somewhere farther away. I covered my mouth and turned toward the hole, listening for the scrape of claws on stone.
+
+"Sorry," I whispered. The word hardly cleared my fingers. I took a step back.
 
 While leaning back to listen, I reached for the wall with my free hand. My fingers found a stone with crumbling mortar around its edges. I could have left my hand there. Instead, I gave it a tiny, careful push to steady myself. The stone split, and a crack ran through the loose joints above it.
 
-I pulled away as dust sprinkled onto my shoulder.
+I pulled away as dust sprinkled onto my shoulder. My fingers curled against my chest, and I watched the crack until the last loose grain stopped falling. Nothing else broke. I moved my feet instead of reaching for something to steady me.
 
 *Fantastic. Even an apology requires somewhere safe to put my hands.*
 
@@ -64,7 +70,7 @@ There was nothing to be gained by checking the rubble. I backed out of the room,
 
 I sat there until the shaking in my knees became small enough to ignore, turning my left hand over as though the dangerous part might be visible from the other side. It looked ordinary, with dirt beneath the nails and a shallow scratch across the thumb. Yesterday, that hand had held a sandwich. I would have liked to return to that level of responsibility.
 
-Once the dust thinned, I retrieved the sword from beside the doorway, where it had slipped free of the wolf's jaws. Two tooth marks crossed the blade and one edge had acquired a notch, but the hilt was intact. I wiped it on a clean patch of my pants before sliding it back into the scabbard.
+Once the dust thinned, I crouched beside the doorway to retrieve the sword. My hand stopped just above the hilt when something settled beyond the broken wall. I waited, then picked it up. Two tooth marks crossed the blade and one edge had acquired a notch, but the hilt was intact. I wiped it on a clean patch of my pants before sliding it back into the scabbard.
 
 Through the broken wall, I could see a red eye among the rubble. It remained open and motionless. I had needed the wolf to stop trying to eat me. Now that it had, I wished there were a way to choose a result somewhere between being eaten and whatever I had just done.
 
@@ -143,15 +149,17 @@ A blade scraped against stone ahead of me.
 
 Three skeletal soldiers emerged beneath a blue lamp at the far end of the landing. Rusty armor hung from their ribs, green light burned in their sockets, and all three carried swords. I had met enough skeletons by then to know they did not respond to reasonable explanations. Unfortunately, knowing what to do and keeping my hand steady while a sword came toward my face were different skills.
 
-As the first charged, I drew my borrowed weapon and aimed a careful touch at its skull. The sight of its sword coming toward my face made me flinch, tightening my grip and turning the little movement into a frantic swing.
+The first came at me with its sword raised. I drew my borrowed weapon, fumbling the last inch clear of the scabbard, and tried to bring the edge toward its skull without swinging. Then its blade filled the space in front of my face.
+
+I flinched. My shoulder tightened, my grip locked, and the careful movement became a frantic swing before I could stop it.
 
 The blade rang against its skull. The skull remained a skull. The skeleton tilted its head as though trying to understand the point of the demonstration.
 
-"I meant to tap you," I said.
+"I meant to tap you," I said, trying to draw the blade back between us.
 
-It punched me in the face. The hit-point number at the edge of my vision dropped to four.
+Its free hand came past the sword. Knuckles struck my mouth before I had room to duck, and I tasted blood. The hit-point number at the edge of my vision dropped to four.
 
-I went backward over a fallen stone, landing hard on my hip with my lip stinging and the sword slipping from my hand. The three skeletons advanced while I tried to get enough air into my lungs to reconsider my approach.
+My heel caught a fallen stone. I went backward and landed hard on my hip, losing the sword as I tried to keep my head off the floor. I reached for it, then pulled my hand back when three sets of boots entered the space in front of me. I needed air. I needed to get out from under the blades.
 
 *I know what to do. My hand needs to stop arguing.*
 
@@ -159,7 +167,7 @@ Beside me stood the base of a broken statue, its carved feet all that remained a
 
 I started to reach for my sword, but it was between me and the skeleton on the right. Getting it back would mean putting my face at sword height.
 
-The nearest blade struck the carved ankle above me. A chip landed inside my collar. I crawled farther around the base, dragging my wrapped foot through dust while my bruised hip protested. The skeleton followed. I tried to keep the stone between its sword and myself.
+The nearest blade struck the carved ankle above me with a crack. I ducked so sharply that a chip fell inside my collar, cold against the sweat at my neck. There was no time to shake it out. I crawled around the base, dragging my wrapped foot through dust and stopping for half a breath when my hip protested. The skeleton's boots followed. I moved again before its sword cleared the statue.
 
 Its knee joint scraped the base as the second skeleton crowded behind it, trying to get around the same obstruction. Neither seemed concerned about giving the other room. I had worked beside people like that. Usually they carried coffee rather than swords.
 
@@ -171,7 +179,9 @@ My left hand kept closing into a fist. I spread the fingers, rested them on my o
 
 Rubble was piled unevenly beside the base. I shifted toward it, making the skeleton change direction. The move hurt. It still felt better than giving it a clear path to my head.
 
-I crawled around the stone, drawing the first skeleton after me with its sword held low. Its boot caught between two stones as it stepped over the rubble. While it looked down, I rose just far enough to reach its forehead.
+I edged around the base, keeping low enough that the stone still covered my head. The first skeleton followed with its sword near its knee. Its boot caught between two stones as it stepped over the rubble, and the blade dipped while it looked down.
+
+I brought my good foot beneath me. My hip hurt when I rose, and for a moment I was certain I would be too slow. Its forehead came within reach. I lifted my hand before it could look up.
 
 "No hard feelings."
 
@@ -181,7 +191,7 @@ The impact cracked through the corridor. The skull shot backward, dragging the h
 
 Somewhere on the other side, something enormous screamed.
 
-I crouched behind the stone until the pieces stopped falling. My lip was bleeding, my hip hurt, and I had just announced myself to whatever lived beyond that wall.
+I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through a mouth that tasted of blood. My lip was bleeding, my hip hurt, and whatever had made that sound now knew something was happening here.
 
 "That was a flick," I told my finger.
 
@@ -267,9 +277,9 @@ The rim of the handwheel was cold. I closed both hands around it and tried a fir
 
 I was beginning to think this might work when something clicked beneath it.
 
-A narrow strip of metal fell from the platform into the shaft. I followed it with my eyes until it vanished beyond the blue light. The sound of it landing took longer than I wanted.
+A narrow strip of metal came free beneath the platform. I stopped turning the wheel and watched it fall past the blue light. For a while there was no sound. I had time to imagine standing where that piece had been.
 
-When I let go of the wheel, the catch held and the floor beneath my feet remained solid. I concentrated on those two facts while deciding whether to keep trying.
+When it finally struck something below, I took my hands off the wheel and stepped back from the opening. The catch held. The stone beneath my feet was solid. I stayed there until I could look at the platform without wanting to move farther away.
 
 Crouching on the walkway let me see beneath the platform's raised edge, where two iron supports were bent and a third had pulled partly out of its joint.
 
@@ -285,7 +295,9 @@ The lower passage had water running along it. I could hear it now that things ha
 
 ---
 
-Water trickled along a gutter beside the wall of the lower passage. I followed it away from the failing lift, the wolf, and a series of freshly opened holes that seemed more useful to monsters than to rescuers. Where it gathered in a shallow basin, I drank from my cupped hands and sat long enough for my body to settle.
+The trickle in the lower passage became easier to hear as I left the lift behind. I followed the gutter along the wall, still turning at small sounds, until its water gathered in a shallow basin. My first handful scarcely reached my mouth before I wanted another. I drank, then sat with my shoulder beside the basin and let my feet stop carrying me for a while.
+
+Behind me were the failing lift, the wolf, and a series of freshly opened holes that seemed more useful to monsters than to rescuers.
 
 The water tasted of stone and the metal basin. I drank more slowly after the first handful, then wet a corner of my shirt and wiped the dust from my lip. The cut on my forearm had dried into a stiff line beneath the sleeve. I rinsed around it and tied a strip of cloth over it, awkwardly, with my teeth helping more than my right hand.
 
@@ -315,15 +327,19 @@ Its ears moved. It stayed beside the crack.
 
 That seemed to be enough information. It slipped beneath the shelf, found one of the fallen seeds, and carried it back toward the doorway. I lowered the basket lid and crouched, keeping a comfortable distance between my hands and the floor.
 
-After pausing to examine a loose thread beside my wrapped foot, the mouse decided against it and went to the basin. I watched it drink from a bead of water where the gutter met the rim.
+After pausing to examine a loose thread beside my wrapped foot, the mouse decided against it and went to the basin.
 
-For a little while, the room was quiet except for the trickle and the small movements of its nose. I had spent so long listening for things that wanted to hurt me that it took effort to stop expecting this one to transform.
+I watched the mouse drink. Its nose twitched between mouthfuls, and once it stopped to wash its face, too occupied to care about the stranger beside it. I found myself breathing more quietly so I would not frighten it.
+
+The room held only the trickle and those small movements. I still glanced at the doorway whenever something clicked in the gutter. It took effort to believe I could stay here without waiting for the next attack.
 
 I picked up a seed from the shelf and placed it beside the wall, reminding myself that carrying things and setting them down had been safe all morning. The mouse waited until my hand was well away before collecting it.
 
 "You are welcome," I said.
 
-It sat on its haunches to eat. I found myself wanting to touch the fur between its ears. The thought arrived before the memory of the wolf, and I folded my hands in my lap.
+It sat on its haunches to eat, turning the seed between its front paws. I smiled before I noticed that my hand had lifted from my knee. The fur between its ears looked soft.
+
+Then I remembered the warmth of the wolf beneath my palm. I folded my hands in my lap and kept them there.
 
 The mouse had come close enough to share the room. That could be enough.
 
@@ -365,7 +381,9 @@ And someday, I would pet a cat. Normally.
 
 I left the splintered post and walked along the corridor again. The gutter continued beside the wall. I followed it beneath two more blue lamps, keeping clear of the loose stones I had used for practice. The floor sloped down toward a bend that hid the passage ahead.
 
-A deep rumble stopped me before the bend. The water in the gutter quivered as metal scraped against stone somewhere ahead, but no footsteps followed.
+A deep rumble reached me through the soles of my feet. I stopped before the bend and watched little ripples cross the gutter. Metal scraped against stone somewhere ahead. I brought my hand toward the sword, then waited, listening for a step that would tell me something was coming around the corner.
+
+None followed. I still did not move until the water settled.
 
 *Please let that be machinery.*
 
@@ -377,9 +395,13 @@ Under it sat something the size of a small house.
 
 Black scales covered its shoulders. Four arms rested on the floor around it, each beside a weapon too large for a person to lift. Two horns curved backward from its head. An old sword stood through its chest, the hilt rising between its collarbones. That should have been encouraging evidence that someone else had already dealt with the problem.
 
-I took one cautious step inside to look for another exit, keeping the doorway at my back.
+I stayed at the threshold, trying to see past the heap beneath the counterweight. The far wall was lost behind it. One step would give me a better angle, and the doorway would still be at my back.
+
+My shoe touched the chamber floor.
 
 Its golden eyes opened.
+
+I stopped just inside the doorway, afraid even of shifting my feet. For a moment, neither of us moved. Then its gaze settled on me.
 
 A red window replaced the blue one.
 
@@ -396,21 +418,25 @@ A red window replaced the blue one.
 > **Threat:** Lethal.
 > **Recommendation:** RUN.
 
-"Oh, oh n.."
+"Oh. Oh, n—"
 
 Malgorth rose in a rattle of bones sliding from its lap. Its upper hands closed around a battle-axe and a broad sword, while the lower two collected a hooked blade and something that looked like an iron door attached to a handle.
 
 "Oh no!"
 
-It walked toward me. The old sword remained in its chest, apparently more of an accessory than a wound.
+Its first step shifted bones across the floor. The old sword moved with its chest, apparently more of an accessory than a wound. I backed toward the threshold, keeping my eyes on the nearest weapon.
 
-I turned. A stone slab dropped across the entrance, cutting off the corridor with a crash. Chains rattled overhead, and the lamps brightened as though somebody wanted an excellent view of what happened next.
+A chain rattled above my head. I turned just as a stone slab dropped across the entrance, close enough for its rush of air to touch my face. It struck the floor with a crash, and the corridor vanished. I stood staring at the stone where the way out had been. The lamps brightened as though somebody wanted an excellent view of what happened next.
 
 "Of course!"
 
-I put my palm against the slab. I could break it, but I had no idea what the chains and stone above the doorway would do afterward. Before I could choose where to push, a shadow moved across the entrance.
+I put my palm against the slab. The stone was cold and solid, and I wanted to push before I had even looked up at the chains. I made myself stop. If the doorway came down with it, I would have to get through falling stone.
 
-The axe hit the floor where I had been standing. I stumbled sideways into a heap of bones, fell backwards, and felt the broad sword pass close enough to stir my hair. Pieces of stone struck my back. I crawled behind the cracked pillar supporting the cradle's brace as the hooked blade dragged through the heap I had just left.
+A shadow crossed my hand.
+
+I turned and stumbled sideways as the axe struck where my feet had been. Bones rolled beneath my shoe, dropping me onto my back. The broad sword passed above my face; I felt its air move my hair before it struck somewhere beyond me. Pieces of stone hit my back as I rolled onto my side and crawled for the cracked pillar.
+
+The hooked blade dragged through the heap behind my legs. I pulled them in and squeezed into the space behind the pillar, beneath the brace joining it to the cradle.
 
 A sting in my calf drew my attention to a tear in my pants, where blood was running into my remaining shoe. I could still put weight on the leg, which was the full medical examination I had time for.
 
@@ -426,15 +452,17 @@ I looked at the four weapons gathering above the pillar.
 
 "You have got to be kidding me."
 
-The hooked blade caught my cloak as it reached around the pillar, tightening the fabric across my throat. I bent backward and pulled the collar loose enough to breathe, scraping my shoulder against the stone.
+The hook scraped around the pillar. I tried to pull the cloak in after my knee, but the blade caught its edge and the collar snapped tight against my throat. My next breath stopped halfway in.
+
+I bent backward, shoulder scraping stone, and got my fingers beneath the collar. A firm pull gave me enough room to breathe, though the fabric stayed taut. Every movement of the hook tugged me toward the pillar's edge.
 
 I could let the cloak go. That would leave me with cold hands, a bleeding leg, and three useful items of which one had recently become a leash. I hated how long it took to make a decision that obvious.
 
 The hook grated against the pillar. Its shaft was wood, bound with dark metal near the blade. I had cut a post with this sword a few minutes earlier. I looked at the shaft, then at my blade, and tried to remember the movement instead of the monster holding the other end.
 
-I did not need a swing. I lowered the sword until its edge rested against the wood and gave it a small, deliberate push.
+I lowered the sword toward the shaft, stopping when the edge settled against wood. My right hand wanted to squeeze harder. I loosened my shoulder instead, keeping the blade in place while the collar pressed against my throat.
 
-The haft split. The hooked end dropped beside my knee, trailing the edge of my cloak. I pulled the fabric free with a shaking hand and scrambled farther behind the pillar.
+A small, deliberate push split the haft. The hooked end dropped beside my knee, and the cloak fell loose across my chest. I drew a breath that hurt, pulled the fabric free, and scrambled farther behind the pillar before the monster could bring another weapon around it.
 
 *That worked. I actually meant to do that.*
 
@@ -454,17 +482,21 @@ Above the slab, a chain ran to a wheel fixed beneath the ceiling. A second lengt
 
 I would have to reach the slab before I could make any of those questions matter.
 
-As I shifted toward the entrance, Malgorth's lower arm swept the iron door across the gap. Pulling back behind the pillar scraped my injured leg against the broken edge of a step.
+I put one foot toward the entrance while Malgorth worked the axe free. Its lower arm moved at once. The iron door swept through the space in front of me, close enough that I could see the raised rust around its dents.
+
+I pulled back behind the pillar, scraping my injured calf against a broken step. The pain made me hold the leg still for a moment. The doorway was only a few paces away, but I could not find a way to take the first one.
 
 *I cannot run around four arms. I can barely run around one piece of furniture.*
 
 I had been thinking of the Skill as a way to make any weapon useful. It did nothing for the time it took me to get my feet underneath me. I needed cover, a reachable target, and a moment when the monster's weapons were somewhere else. So far, I had been getting those moments by falling down.
 
-Malgorth set its feet wider. The upper sword rose. In the lower hand, the iron door tilted until I could see the dents covering its face.
+Malgorth set its feet wider. I watched the upper sword rise, then saw its lower hand turn the iron door toward the pillar. There was nowhere farther behind the stone to go.
 
-I held the sword across my body and backed into the last space the pillar offered.
+I held my sword across my body and tried to make myself small.
 
-The iron door on a handle came down. The pillar broke, and the brace attached to it sagged with a metallic groan. I lurched away with a piece of stone scraping my shoulder, and my borrowed sword caught between two fallen stones. I pulled once. It did not come loose. Malgorth stepped over the wreckage, drawing its axe back for another swing.
+The iron door came down. The pillar cracked beside my ear, and the brace sagged with a metallic groan. I lurched away as stone scraped my shoulder. My sword caught between two fallen pieces, jerking my hand to a stop.
+
+I pulled once. The hilt moved; the blade did not. Malgorth stepped over the wreckage, lifting its axe. I could keep pulling or get my hand free.
 
 I let go of the sword. My empty hand was shaking so badly that I could see the silver stitches move.
 
@@ -472,17 +504,21 @@ I let go of the sword. My empty hand was shaking so badly that I could see the s
 
 A monster was about to turn me into paste. There was no reason for my body to find this instruction persuasive.
 
-I shut my eyes for the length of a breath and tried to remember my apartment. Rain against the window. A cup of warm tea. The old blanket on my bed, washed so often that one corner had become thinner than the rest. That heavy, sleepy feeling when the alarm was still several hours away and there was nothing I needed to do.
+I shut my eyes for the length of a breath. At first, all I could hear was the metal shifting above me. I tried to put another sound beside it: rain against my apartment window, the quiet click of a cup set down after tea. The old blanket was over my knees, its thin corner tucked beneath my foot. The alarm was still several hours away.
+
+I had to let the breath out before any of that felt real enough to help.
 
 My shoulders loosened enough to let me uncurl my fingers, though bravery remained well out of reach.
 
-The axe struck the rubble beside me. I jerked backward, caught my wrapped foot on a broken spear, and went sideways instead of away. Malgorth was suddenly close, bent over the fallen pillar. I ducked inside its reach because there was nowhere else to go. My left hand rose toward the black scales of its stomach.
+The axe struck the rubble beside me. I tried to scramble backward, but a broken spear caught my wrapped foot and turned me sideways. When I looked up, Malgorth was bent over the fallen pillar, close enough that I could see grit lodged between its black scales.
 
-I rested my palm against them with the care of someone trying to comfort a crying child.
+Its nearest arm stretched over the broken pillar, leaving its stomach within reach. I ducked beneath it because moving away had stopped being possible, and brought my left hand toward its scales. My fingers were open. I concentrated on keeping them that way.
+
+I rested my palm against its scales with the care of someone trying to comfort a crying child.
 
 "There, there."
 
-Malgorth looked down at me as my palm settled against its scales.
+Malgorth looked down at me.
 
 *Please be enough.*
 
@@ -490,7 +526,9 @@ I gave the smallest push I could manage, away from me.
 
 Malgorth staggered backward three heavy steps, its weapons falling from its hands, and struck the hanging counterweight. The damaged brace snapped. Rusted rails tore out of cracked sockets, the cradle tipped, and the counterweight fell across the monster. Chains dragged through the overhead pulleys with a crash that seemed to go on far longer than one crash had any right to.
 
-I threw myself beneath the remains of the pillar. Through the gap between two stones, I watched a pulley mounting wrench free of the shaft wall. The masonry around it broke, taking part of the cover down with it. Rubble poured into the chamber. A column of dust rose through the opening, and beyond the chains, beyond the broken cover, there was a pale patch of daylight.
+I threw myself beneath the pillar's remains as the chains screamed overhead. Through a gap between two stones, I saw a pulley mounting wrench free of the shaft wall. The masonry broke around it, and pieces of the cover struck the floor close enough to make me curl my knees toward my chest.
+
+Rubble kept coming. I held my forearm over my head and looked through the gap whenever the dust thinned. Beyond the loose chains and the broken cover, a pale patch appeared.
 
 Actual daylight.
 
@@ -543,7 +581,9 @@ Another window appeared.
 
 I crawled out from under the stones and sat against the wall. My stomach cramped with hunger. The new gloves were covered in gray dust, and my left hand was still shaking. I wanted an explanation. I wanted a weakness I could work around, a rule I could actually measure, or a sentence that began with 'To remove this curse.'
 
-Before answering, I checked my leg. A flap of torn fabric hung over the cut. I folded it into a pad and held it there, then pulled a strip from the loose cloth around my other ankle to keep it in place. The knot took several attempts. My right hand had stiffened, and I had to pause when my fingers cramped.
+Before answering, I pulled the torn fabric clear of my calf. Blood had made it stick, and lifting it brought back the sting I had barely noticed during the fight. I folded the loose flap into a pad and held it over the cut, then took a strip from the cloth around my other ankle to keep it in place.
+
+The knot would not come together. I watched my stiff right fingers miss the same loop twice and stopped when they cramped. After a breath, I tried again. This time it held.
 
 The bleeding slowed, though the pain remained. I leaned my head against the wall, listening to the machinery settle.
 
@@ -551,7 +591,9 @@ Through the gap in the shaft, the daylight had a warmer color than the lamps. I 
 
 "Help," I called.
 
-My voice traveled up the shaft without bringing anything back. I waited before trying again, louder, but only a few grains of dust fell from the broken cover.
+My voice traveled up the shaft. I kept my head lifted after it, waiting so hard that every little shift of stone sounded almost like an answer. Nothing came.
+
+I tried again, louder, and the dust in my throat made me cough. A few grains fell from the broken cover. I watched them land on my knees.
 
 The opening was high above the counterweight, with nothing I could climb safely between them. Even if I reached it, I would still have to get past the stones lodged across the shaft. For now, it was a view of somewhere I wanted to be.
 

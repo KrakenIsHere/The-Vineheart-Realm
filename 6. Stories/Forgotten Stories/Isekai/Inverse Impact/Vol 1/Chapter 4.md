@@ -25,9 +25,13 @@ After setting the iron bar on the step beside me, I lifted the ring with a clink
 
 Beyond it was a long room divided down the middle by a rail. On the left, where I stood, an aisle ran between workbenches and the wall. On the right, a stone trough rested inside an iron frame. A chain passed beneath the frame and through a low opening at the far end of the room.
 
-A skeleton stood beside the trough, green light in its sockets just like the soldiers. I stopped breathing for a moment before noticing the strip of leather over its shoulder and the long wooden scraper in its hands.
+Green light moved beside the trough.
 
-The skeleton dragged its scraper along the trough until it clacked against a stop, then lifted it back to the near end and began again.
+I pulled back behind the door, leaving only a narrow gap to look through. A skeleton stood on the other side of the rail. Its head was bent, but I had seen those same lights look up beneath a helmet, just before a sword came toward my face.
+
+The scrape began again. I waited for it to stop and for the head to turn.
+
+Instead, the skeleton drew a long wooden scraper toward itself until the end clacked against a stop. A strip of leather hung over its shoulder. There was no helmet, no breastplate, and no sword. It lifted the scraper back to the near end of the trough and began another pass.
 
 There was nothing in the trough.
 
@@ -39,23 +43,39 @@ I considered saying hello. Then I remembered how the last several skeletons had 
 
 From the doorway, I watched it finish another pass. A second door waited at the far end of the aisle, on my side of the rail, and I could reach it without approaching the skeleton. I picked up the bar and stepped inside.
 
-When the scraper came toward me along the trough, I stopped beside the first workbench. The skeleton kept its head tilted toward the stone as the scraper clacked against the stop. I moved past the bench while it lifted the tool to begin again.
+I kept the bar down beside my leg and walked on my side of the rail. At the first bench, the scraper slid toward me, and I stopped so abruptly that the leather pad scuffed the floor.
+
+The skeleton's head stayed bent. Its hands drew the tool closer; the sound grew louder, then ended in the same hollow clack.
+
+I waited until it lifted the scraper away from me before moving on. By the next bench, I was matching my steps to its work without meaning to.
 
 Shallow trays on the next bench held pieces of colored rock arranged by size, mostly pale with a few black pieces glossy beneath the dust. Small metal gauges rested beside them, but there was no coin, glowing sword, or helpful bread. People had worked here, sorting loads before sending them somewhere else.
 
 By the time I reached the far door, the skeleton was making another pass, showing no interest in following me or stopping its work.
 
-"Sorry about the interruption," I whispered.
+"Sorry about the interruption," I whispered, with my face already turned toward the far door.
 
 The scraper clacked.
 
-I held the far door's handle firmly and pushed. Its lower edge dragged over a raised corner of the floor with a harsh scrape. The skeleton continued its work behind me. I left before politeness became an experiment.
+I closed my hand firmly around the handle and pushed. The door caught on a raised corner of the floor, then scraped across it with a noise that seemed to fill the room. I held still, looking back along the aisle.
+
+The skeleton lifted its tool for another pass.
+
+I slipped through the gap before politeness became an experiment.
 
 The door opened onto a landing above a chamber, where a gap in the iron railing marked the start of a broken walkway. Its far half hung lower, with supports pulled from the wall and pale fractures around the empty sockets. Beneath it, fallen iron had scraped bright lines through the rust on dusty carts. A swinging chain struck one cart with a hollow clang.
 
-The fresh damage brought back the crash that had opened the sky above Malgorth. I looked at the door I had just dragged over the floor.
+I stopped on the threshold. The swinging chain struck a cart again, and for a moment I heard the much louder crash above Malgorth. Here, the dust had settled. The pale edges of the broken sockets had not had time to darken.
 
-On the far side of the chamber, steps climbed toward a row of lamps. There was no way to reach them from where I stood. My side of the landing continued left to a short corridor and right to a smaller door. I nearly leaned on the railing to look down, then stepped back. A stumble, a little push to catch myself, and I could be following the walkway into the carts below.
+Had this happened while I was crawling out of that chamber?
+
+On the far side, steps climbed toward a row of lamps. I could see where the walkway should have carried me to them. Its broken end hung over the carts instead.
+
+My side of the landing continued left to a short corridor and right to a smaller door. I stepped out far enough to check both, then began to lean toward the railing for a better look below.
+
+My left hand rose before I thought about it.
+
+I brought it back against my stomach and moved away from the edge. If my foot slipped, I would try to catch myself. I knew that much about myself by now, and the iron did not look ready to survive a frightened little push.
 
 I drew the broken crossing on the slate, then tried the door on the right.
 
@@ -79,11 +99,15 @@ For once, I chose the air instead of the stairs.
 
 The passage bent twice before reaching a low room lined with empty racks. There were two doors on the far wall. The left stood open onto steps descending into darkness. Through the closed door on the right, I could hear water. I drew both on the slate, lifted the right door's latch, and pushed firmly. The wood groaned around its hinges. I waited until it stopped, then followed the sound.
 
-The gently climbing passage brought me to a narrow bridge over a channel flowing toward the room I had left. Halfway across, I stopped to watch small brown leaves turn in the current, their edges softened but still recognizable. They had come from somewhere with trees.
+The passage climbed gently to a narrow bridge over a channel flowing toward the room I had left. Halfway across, something brown turned in the water beneath my feet. I stopped, and a second leaf followed the first.
 
-Upstream, the channel vanished under a low stone cover. Following it would mean lying in the water, with no way to see where the covered part ended.
+Their softened edges were still recognizable. I watched them pass beneath the bridge, absurdly pleased by something I would have stepped over on a sidewalk.
 
-Still, leaves were better than more bones.
+Upstream, the channel vanished beneath a low stone cover. I crouched to look along it, keeping my hands on my knees. There was barely room between the water and the stone, and no light at the other end.
+
+For a few seconds, I kept looking anyway.
+
+Then I stood and crossed the rest of the bridge. Somewhere above this place, there were trees shedding ordinary leaves. I could keep going toward that.
 
 Beyond the bridge, a door stood open beneath a mark shaped like a hook. The same shape had appeared on other walls. I copied it onto the edge of my slate, hoping that enough examples might eventually mean something. Then I went through.
 
@@ -97,7 +121,13 @@ At the signpost, I found narrower boards than I remembered, one pointing toward 
 
 This was another round room.
 
-I turned the slate toward the lamp. I had drawn the two doors in the rack room, but squeezed their lines together so tightly that the bridge appeared to belong to both. Below that, I had connected the new round room to the old one before stopping to check. I moved my thumb toward the mistaken line, then stopped. Rubbing it away meant pressing lightly against the slate. I crossed it out with a firm stroke of charcoal instead.
+I looked back at the doorway I had just used. The bridge was behind me. The racks were farther back. I knew that, even though every board on the post seemed to insist I had already been here.
+
+Under the lamp, I turned the slate twice before finding the line I wanted. I had squeezed the rack room's two doors together so tightly that the bridge appeared to belong to both. Below them, I had joined this room to the first one without checking.
+
+My thumb started toward the mistake. I caught myself before rubbing at the charcoal and making another, considerably louder mistake. Instead, I crossed out the line with a firm stroke.
+
+The drawing looked worse. It was also the first part I could be certain about.
 
 I knew which door I had just entered from. I no longer knew where this room was in relation to the basin. The water had turned beneath the bridge, the passage had climbed, and I had drawn all of it as though walking in a straight line.
 
@@ -107,7 +137,9 @@ I sat on a low stone beside the entrance, facing the signpost, and drew a new ci
 
 Going back was still possible: across the bridge, through the racks, and on until I found the first signpost. I made myself follow that route in my head before standing up again.
 
-The next choice could wait until I had stopped being frightened by the fact that my little drawing had lied to me.
+I followed the return route again, this time touching none of the lines, until I could picture the first signpost and the broken crossing beyond it. I had made a bad map. I still knew how to get back to the room with the blanket.
+
+Only then did I look at the other doors.
 
 A tap from the doorway on my right made me raise my head. Another followed, faint and uneven enough to be water dripping onto metal, or something working like the skeleton with its scraper.
 
@@ -115,7 +147,11 @@ Cool air moved through the doorway as I stood to listen, keeping the pebbles beh
 
 "Hello?"
 
-The tapping stopped. After a while, it began again.
+The tapping stopped.
+
+I took a step toward the doorway and waited, listening past the water for an answer. Perhaps whoever was there had heard me. Perhaps they were deciding whether to come closer.
+
+Then the tapping began again, with the same uneven pauses. I stayed where I was until I could hear it without trying to turn each sound into a word.
 
 I drew a charcoal arrow on the floor with the same firm strokes, pointing toward the bridge, and tried the right-hand passage.
 
@@ -133,17 +169,31 @@ With no answer, I looked down the steps toward the second round room. My pebbles
 
 *At least I know which side I want the stones to go toward.*
 
-The filling beneath the arch had cracked around one stone. I checked the empty walkway again, set the slate and iron bar down, and stood to one side. With my left palm against the loose stone, I gave a light push.
+The filling beneath the arch had cracked around one stone. Through the gap above it, I checked the walkway once more. Nobody was in sight. I set the slate and bar on the floor, then stood to one side of the opening I wanted to make.
 
-The stone shot across the walkway and struck the railing with a bang that echoed over the water. The upper rail buckled outward. One of its fastenings tore from the floor, scattering chips of stone. The piece I had pushed tipped over the bent iron and vanished with a splash.
+My left palm fitted against the loose stone. I could feel its rough edge through the glove.
 
-I drew my hand clear of the new hole. Two smaller stones, no longer supported by the one I had pushed out, slipped down from above. One stopped in the opening. The other struck the floor on my side of the wall, throwing dust over my remaining shoe. I stepped back before anything else fell.
+I wanted it out of the wall. Beyond that, I had very little say in where it went.
+
+With my shoulder clear of the gap, I gave a light push.
+
+The stone vanished from beneath my hand. A bang struck from the other side of the wall, loud enough to make me duck. Through the hole, I saw the upper railing bow outward. A fastening tore free with a burst of stone chips, and the piece I had pushed tipped over the bent iron.
+
+The splash came a moment later. Its echoes were still crossing the water when something shifted above my wrist.
+
+I snatched my hand back and stepped away. Two smaller stones slid into the space their support had left. One lodged in the opening; the other fell toward me, struck the floor, and scattered dust over the toe of my shoe.
+
+I backed down a step. Nothing else fell, but I stayed there until the last little trickle of grit had stopped.
 
 I waited beside the wall until the filling stopped moving, then picked up the iron bar. Its wedge fitted beneath one of the fallen pieces. I put my shoulder behind a firm, steady push and moved it a few inches. Then I did the same with the next. The bar could carry the curse as easily as a sword. I kept each movement short, watching the stone instead of easing off in an effort to be careful.
 
-The arch stayed in place above an opening large enough to crouch through, framing the bent railing as it leaned over the water.
+When the opening was large enough to crouch through, I set the bar down and looked up along the arch. Its curved stones had stayed in place. Beyond them, the bent railing leaned over the water.
 
-For once, nobody had been urging me to push more gently or trying to kill me. I had chosen where to put my hand and opened a way forward, damaging the thing that was supposed to keep people from falling off it in the process.
+I had checked for people. I had stood out of the way. Nobody had hurried me or tried to kill me while I chose where to put my hand.
+
+The fastening was still missing.
+
+I looked at the narrow strip of walkway beside the wall. That was where I would have to stand when I went through. I had opened a way forward and made it harder to use.
 
 *Keep clear of the railing.*
 
@@ -157,11 +207,17 @@ I had been imagining a dungeon that happened to contain machinery. From here, I 
 
 From beside the wall, clear of the bent railing, I spotted an open door on the far gallery. A pale rag moved in the draft from its handle, above a bucket with a wooden lid. The bucket was whole, and the rag was white where the dust had not reached it.
 
-I drew the reservoir with plenty of room around it, marking my opening on one edge and the open door opposite. Between them was water. Signs of a person were little help with a large room I could not cross between us.
+I drew the reservoir with plenty of room around it, marking my opening on one edge and the open door opposite. Then I looked up at the rag again.
 
-Then something knocked to my right.
+Someone might come back for that bucket. If they did, I wanted to be where they could see me.
 
-Three sharp sounds. A pause. Two more.
+Between us, water moved around the pillars. I followed the far gallery with my eyes, looking for a bridge or a stair that reached this bank. The person I had spent the morning hoping to find could be in that passage, close enough for me to see their door and still beyond my reach.
+
+Three sharp knocks came from my right.
+
+I turned toward them, nearly letting the slate swing from my hand. After a pause, two more knocks followed.
+
+I waited. Drips and the weight's uneven bang returned, but I could still hear the spacing of those five sounds.
 
 To my right, the walkway continued past three lamps and climbed four shallow steps to an arch. Its left-hand end was broken away, two bent supports marking where the rest had fallen.
 
@@ -183,9 +239,13 @@ I went slowly, keeping the wall on my right and the reservoir on my left. The ra
 
 Halfway up the steps, a chain clanked below me.
 
-I stopped as a low, rough cry rose from far beneath the opposite gallery. It sounded like the thing below Malgorth's chamber, and ripples widened near one of the submerged pillars. I waited several breaths, but nothing else moved.
+I stopped with my right foot on the next tread. The low cry that followed came from beneath the opposite gallery, rough enough to carry over the rushing water. I had heard it under Malgorth's chamber.
 
-Something up here wore boots. I went through the arch in search of it before I could decide to follow the sound below.
+A ripple widened beside one of the submerged pillars. I watched its edge reach another reflection, and kept watching after both had broken apart.
+
+There was no head, no hand, and nothing I could point to. That did very little to improve the water.
+
+I brought my left foot up beside my right and went through the arch. The boot prints continued that way. For once, I intended to follow something with shoes.
 
 Beyond the arch, narrow openings on the left of a covered passage still showed the water. The pipe continued along the right-hand wall and through an iron collar.
 
@@ -195,15 +255,19 @@ Through its thick bars, I could see a handwheel beside the pipe and stairs climb
 
 Orange light.
 
-As I stopped beside the tools, a shadow crossed the glow and a voice spoke above the turn, too quietly for me to make out.
+I stopped beside the tools. A shadow crossed the ceiling above the stairs, followed by a voice too quiet for me to make out.
 
-My first impulse was to shout. I nearly did. Then I remembered the last thing that had answered me and walked to the gate instead.
+My mouth was open before I had chosen anything to say. I wanted to shout, to make certain whoever was up there heard me before they went away.
+
+The last thing that had answered a shout had carried four weapons.
+
+I walked to the gate instead.
 
 "Hello?"
 
-The voice stopped.
+The voice stopped. I leaned close enough to see the turn in the stairs, keeping my hands clear of the bars.
 
-"I am down here," I said. "On the other side of the gate."
+"I am down here," I said, a little louder. "On the other side of the gate."
 
 At the sound of footsteps above the turn, I set the iron bar on the floor and stepped back far enough to leave it in plain sight. My empty scabbard still hung at my hip. I wished I had removed that as well.
 
@@ -211,9 +275,9 @@ A boot and the edge of a lantern appeared on the stairs before a woman rounded t
 
 She wore a short coat over a leather apron. Her hair was tied back beneath a cloth cap, and gray dust marked one side of her face. A heavy wrench hung from her other hand. She stopped several steps from the gate and looked at me.
 
-She blinked against the lantern light while I stared at the mud on her boots and the annoyed crease between her eyebrows.
+She raised the lantern to see me better, and I stared at the mud on her boots. One lace had a knot near its end. There was dust on her cheek, and an annoyed crease between her eyebrows.
 
-An actual person.
+An actual person, looking back at me.
 
 "Are you alive?" I asked.
 
@@ -221,7 +285,9 @@ The crease deepened.
 
 "Yes."
 
-I had prepared questions about the exit. I had prepared explanations for the food and the blanket. Now that someone was standing in front of me, all of them crowded together behind the much more immediate fact that she had answered.
+My next question disappeared. I could hear her coat shift as she adjusted the light, a small sound beneath all the machinery. She was still there. She had answered and was waiting for me to say something sensible.
+
+I had prepared questions about the exit and explanations for the food. None of them came out.
 
 My hands started toward the bars. I kept them at my sides and bowed my head instead. I did not trust myself to remember how I was holding something while trying to speak.
 
@@ -249,9 +315,9 @@ After considering that, she looked at the pad again.
 
 "Those are the kneeling pads from the basin workroom."
 
-My stomach tightened.
+I looked down at the pad. Its cord was plainly visible, wrapped around my foot exactly where a worker's knee should have been.
 
-"Are they yours?"
+"Are they yours?" I asked, resisting the useless impulse to hide it behind my other leg.
 
 "The water crews keep them there. They save our knees when we work on the pipes."
 
@@ -281,7 +347,9 @@ I thought of the swords, the wolf, and the horn protruding from beneath the coun
 
 "I may have done it in the wrong order."
 
-She set the lantern on a bracket beside the gate and tucked the wrench into a loop at her belt. The change made me realize how long I had been watching her hand.
+She set the lantern on a bracket beside the gate and tucked the wrench into a loop at her belt. I watched her let go of its handle before looking back at her face.
+
+Only then did I realize I had been waiting for her to raise it.
 
 "I brought that food down yesterday," she said. "We use the room for meals and rest between jobs. It is dry, the door can be barred, and the basin saves us carrying all our water. The blanket and tools stay there."
 
@@ -291,7 +359,9 @@ I thought of the bundle beside the clean iron, and the bench someone had moved t
 
 "Then there is still something for me. You were hungry. That is what the bread is for."
 
-"I am not working down here."
+I looked at her, waiting for the rest. She only checked that the lantern was secure on its bracket.
+
+"I am not working down here," I said. It seemed like something she ought to know before deciding I had been entitled to eat it.
 
 "That makes two of us who would prefer to be somewhere else."
 
@@ -308,6 +378,8 @@ I repeated her name. It felt good to have one. The skeletons had not offered the
 Nessa glanced up the stairs.
 
 "Normally. The upper service stair is beyond that turn. Part of its landing fell when the old shaft came apart. I can reach the stairs, but I cannot cross the gap at the top."
+
+I looked past her toward the orange light. I had been expecting her to point, open the gate, and let me follow her up. The stairs were there. The way out still wasn't.
 
 "You came down here on purpose?"
 
@@ -329,9 +401,11 @@ I had seen the brackets above the water and the ledge beneath them. They had bee
 
 "The chains rang through the walls. The bridge outside the sorting room dropped, and the pipe started hammering every time that weight moved. It was not doing that when I arrived."
 
-I thought of the bright scrapes on the fallen iron, the weight jerking in its frame, and the water splashing over the basin. I had noticed each one separately. Nessa had been here while the place changed.
+The bridge, the weight, the water spilling out of the basin. Each had seemed like another broken thing in a place full of them.
 
-I looked down at the silver stitches on my gloves.
+Nessa had crossed that bridge. She had brought bread down a passage and expected to go back the same way.
+
+I lowered my eyes to the silver stitches on my gloves, then wished I had kept looking at her. She had stopped talking.
 
 She noticed.
 
@@ -373,13 +447,17 @@ She lifted the lantern from its bracket and looked past me again, toward the pas
 
 "Me."
 
-Her gaze dropped to the iron bar on the floor.
+The word came out before I had found a better explanation. Her gaze dropped to the iron bar on the floor.
 
 "With that?"
 
 "No. My hand."
 
-I raised my left hand, palm toward myself. She drew back a little, and I lowered it immediately.
+I raised my left hand to show her, palm toward myself. She took a small step back. The lantern stayed on its bracket, leaving her face farther from the light.
+
+I lowered the hand at once.
+
+For the first time since she had come down the stairs, I wished the gate were wider between us.
 
 "I should explain that part."
 
@@ -397,7 +475,9 @@ Her eyes stayed on my hand. "Are you doing it now?"
 
 "I have been trying."
 
-It was an honest answer. I did not like how it sounded through an iron gate.
+I heard how little that promised as soon as I said it. I wanted to tell her about carrying the slate and walking through all those rooms, but she had asked whether I could stop myself pushing things. I had broken a railing on the way to find her.
+
+I left my hands down and waited.
 
 She looked at my knees, then at the cloak, where the dust from Malgorth's chamber remained in the seams.
 
@@ -415,7 +495,9 @@ Then she pointed at the bar.
 
 "And take a step back."
 
-As I stepped back, she lowered the lantern to check the empty space around my feet.
+I did, leaving the bar where it was. She lowered the lantern to check the space around my feet, then looked at my hands again.
+
+I wanted to tell her I wasn't dangerous to her. Instead, I stayed where she had asked me to stand.
 
 "I believe you got out of that chamber," she said. "I would rather hear the rest from this side of the gate."
 
@@ -547,13 +629,17 @@ Nessa pressed her lips together.
 
 "I was beginning to suspect that."
 
-When she straightened to try the upper latch, it stopped with a short metallic scrape. Above the hinge, a thin crack ran through the mortar, too fresh to have collected any dust.
+When she straightened to try the upper latch, it moved partway and stopped with a metallic scrape. She tried it again. I watched the gap beside the bolt, willing the little piece of iron to finish moving.
+
+Above the hinge, a thin crack ran through mortar too fresh to have collected any dust.
 
 "This opened properly yesterday," she said. "The frame has shifted."
 
-She set the lantern back on its bracket and took out the wrench. Its flat end fitted beneath the gate's lower rail. She raised the gate a fraction while turning the key, without asking me to touch anything. The latch shifted another little way.
+She set the lantern back on its bracket and took out the wrench. Its flat end went beneath the gate's lower rail. As she raised the gate a fraction, she turned the key, and the latch shifted a little farther.
 
-I waited.
+I moved toward her without thinking. Her eyes came up.
+
+I stopped. She had a tool under the gate and knew which way to move it. I took the step back again and let her work.
 
 Across the water, a heavy clank came from beneath the far gallery. A low cry followed it, deeper than the uneven racket of the outlet weight. Nessa stopped turning the key. We both listened until the sound faded.
 
@@ -581,11 +667,13 @@ Nessa looked at me.
 
 "Tell me if that changes."
 
-She turned the key again. The bolt slid back.
+She turned the key again. This time, the bolt slid all the way back.
 
-I put the slate away and moved clear of the gate, steady on my feet with the cloth on my calf still dry. I was hungry, had no money, and could not know whether the flooded ledge would still be whole when we reached it.
+I put the slate away and moved clear of the gate. Nessa checked its lower edge before taking hold of it; I checked where I would put my feet when she opened it.
 
-But someone knew my name and recognized the rooms on my little map.
+The flooded ledge might be broken. The water was still rising. I had no money and was hungry again.
+
+But I had heard her say we could check the route. When I looked up, she was waiting for me to give her room.
 
 Nessa eased the wrench out from beneath the rail and hooked it back onto her belt. She lifted the lantern, then pulled the gate toward her. The hinges ground against each other with a long metallic groan. It carried out through the windows and over the water. We both listened until the echo faded.
 
