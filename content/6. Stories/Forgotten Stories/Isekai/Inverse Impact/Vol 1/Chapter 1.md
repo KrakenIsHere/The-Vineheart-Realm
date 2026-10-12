@@ -9,7 +9,7 @@ tags:
 aliases:
   - Awoken in Another World with My Absurd Skill The Softer I Touch the Harder I Hit Now I Roam the Dungeon Alone with My Cursed Skill
 ---
-A monster in another world died because I patted it on the head. I did not punch it, stab it, or blast it apart with legendary fire magic. I already knew a gentle touch could break stone. The problem was getting close enough to use it without losing my hand.
+The monster died because I patted it on the head. I did not punch it, stab it, or blast it apart with legendary fire magic. I already knew a gentle touch could break stone. The problem was getting close enough to use it without losing my hand.
 
 The wolf's front legs were pinned between two fallen beams, but its mouth still reached the rusty sword I held in front of it. Teeth closed on the blade with a scrape that traveled into my sore hand. I set my feet wider and tried not to pull back. Wrestling with it would only bring its teeth closer.
 
@@ -289,10 +289,6 @@ I waited a little longer, as though a better answer might become visible. Then I
 
 I went back down the stairs, past the fallen chest and the remains of the skeletons. I kept looking over my shoulder. Leaving something that might have been an exit felt worse than finding a wall. But the platform had lost a piece before I put my weight on it. My skill could not hold its floor together, and the gloves would do very little if I fell through it.
 
-I followed the passage back to the junction. My three pebbles were still arranged beside the arch. I added a fourth across the upper side of the triangle. It would remind me that I had tried that way.
+Back at the junction, my three pebbles were still arranged beside the arch. I sighed and added a fourth across the upper side of the triangle.
 
-The lower passage had water running along it. I could hear it now that things had gone quiet.
-
----
-
-**Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5|Chapter 1.5]]
+*Of course. One thing that might get me out of here, is falling apart.*
