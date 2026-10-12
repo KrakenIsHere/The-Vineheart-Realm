@@ -44,6 +44,14 @@ Split a long chapter at a useful transition. Keep complete scenes together and p
 
 Name a chapter for its main thread or a meaningful line. A small event idea does not need to become the whole chapter's subject or title.
 
+## Chapter layout
+
+Give each chapter one visible heading with its number and title. Build prose paragraphs around one continuing action, observation, or reflection. Start a new paragraph when the focus changes, rather than after every sentence or small beat.
+
+Start a new paragraph when the speaker changes. Keep a speaker's connected speech and actions together when attribution stays clear. Inner thoughts can stay within the surrounding paragraph when they belong to the same moment. Use standalone lines for emphasis, tension, or humor.
+
+Use `* * *` for scene breaks at meaningful transitions in time, location, or the scene's focus. Moving through a doorway alone does not require a scene break. When using reading links, keep them below a separate divider after the chapter's final paragraph.
+
 ## Word choices
 
 Use **American English** and concrete, familiar words. Avoid epic-trailer phrasing and stacked adjectives.
