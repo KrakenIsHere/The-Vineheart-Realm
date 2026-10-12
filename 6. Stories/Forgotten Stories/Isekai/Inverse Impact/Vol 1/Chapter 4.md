@@ -97,7 +97,7 @@ I put three pebbles beside the doorway I had entered, with a gap pointing back t
 
 For once, I chose the air instead of the stairs.
 
-The passage bent twice before reaching a low room lined with empty racks. There were two doors on the far wall. The left stood open onto steps descending into darkness. Through the closed door on the right, I could hear water. I drew both on the slate, lifted the right door's latch, and pushed firmly. The wood groaned around its hinges. I waited until it stopped, then followed the sound.
+The passage bent twice before opening into a low room lined with empty racks. Of the two doors on the far wall, the left stood open onto steps descending into darkness, while the closed door on the right let through the sound of water. I drew both on the slate and lifted the right-hand latch, then pushed firmly. The wood groaned around its hinges as the door moved, and I paused until the creaking stopped before following the sound of water.
 
 The passage climbed gently to a narrow bridge over a channel flowing toward the room I had left. Halfway across, something brown turned in the water beneath my feet. I stopped, and a second leaf followed the first.
 

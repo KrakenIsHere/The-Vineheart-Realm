@@ -323,7 +323,7 @@ She had dust in her hair and looked tired. Whatever she had expected from a summ
 
 I believed she intended to. It was the best thing I had been given all day.
 
-Outside, cold air replaced the incense. There was snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me until a soldier called from the watchpost. A chain housing had shifted. The city needed him back.
+Outside, cold air replaced the incense. There was snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me as far as the outer watchpost, where a soldier called him back to deal with a shifted chain housing. He stopped and glanced toward the city before turning to me.
 
 He made me repeat the directions: main road, small bridge, three white stakes, lodge in the clearing.
 

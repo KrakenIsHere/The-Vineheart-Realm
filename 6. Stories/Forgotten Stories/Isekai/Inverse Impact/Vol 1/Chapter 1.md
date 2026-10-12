@@ -90,9 +90,9 @@ People in robes had hoped to summon a champion. They got someone who processed i
 
 Since then, I had been **robbed**, **chased** by slimes, and **dropped** into the **Hanging Halls** through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
-The sword at my hip was not the one the palace had given me. The bandits owned that one now. I had found this sword on a rack beside an empty guardroom, after spending several corridors insisting I did not need a weapon. Rust spotted the blade, but it had a hilt I could grip, which put it ahead of every bone I had considered carrying instead.
+The sword at my hip had come from a rack beside an empty guardroom, after several corridors spent insisting I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead.
 
-I also had one shoe, cloth tied around my other foot, and a phone with a cracked screen. *A miracle that the fall didn't do more damage.* The last time I checked, its battery was at eighteen percent. I had switched it off. If rescue depended on someone calling me, there were already several larger problems with the plan.
+I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. If rescue depended on someone calling me, there were already several larger problems with the plan.
 
 The blue windows stayed at the edge of my vision as I stepped into the corridor, following every turn of my head.
 
@@ -123,7 +123,7 @@ The level and armor numbers were unchanged since the summoning hall, but my hit 
 
 I looked at the cut beneath my sleeve, then at the number. It did not tell me how many more mistakes I could survive. Five sounded like a quantity I should stop spending.
 
-There was no class and no supply of spells tucked away somewhere. The hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already. Seeing the assessment in writing made it harder to pretend the situation would improve on its own.
+There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own.
 
 Then I read the new designation.
 
@@ -135,13 +135,13 @@ The window remained politely blue.
 
 Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
 
-The passage divided ahead. One branch climbed beneath an arch with a cracked corner. The other sloped down beside a pair of bronze rails. Both had blue lamps. Both had the same damp smell. I spent a while examining them for the kind of obvious difference a person in a story ought to notice.
+The passage divided ahead, with one branch climbing beneath an arch with a cracked corner and the other sloping down beside a pair of bronze rails. Blue lamps lit both ways, and the same damp smell came from each. I stopped at the junction and looked from the upper arch to the lower passage, hoping for the kind of obvious difference a person in a story ought to notice.
 
 There were marks cut into the wall beside the upper branch. I recognized a square, three short lines, and something shaped like a hook. They could have meant EXIT, STORAGE, or PLEASE DO NOT FEED THE WOLF. The translation spell had given me speech. It had apparently left signs as an exercise.
 
-I set three loose pebbles in a triangle beside the junction. Carrying and placing them was harmless. I had learned enough about my hands to avoid pressing them into the floor.
+I crouched beside the junction and arranged three loose pebbles in a triangle, lifting and placing each one without pressing it into the floor. Carrying and placing them was harmless; I had learned enough about my hands to keep it at that.
 
-The arrangement looked deliberate. If I came back, I would recognize it. If someone else came through, perhaps they would realize an intelligent creature had been here. I moved one pebble to make the triangle more even, then decided I had spent quite enough time advertising my intelligence.
+The arrangement looked deliberate enough to recognize if I came back, and perhaps someone passing through would realize an intelligent creature had been here. I moved one pebble to make the triangle more even, then decided I had spent quite enough time advertising my intelligence.
 
 I chose the upper passage. Beyond the first bend, it widened into a landing at the foot of a broad stone stairway. The stairs climbed along the right-hand wall, with cold air drifting down from above. That seemed more promising than going deeper.
 
@@ -219,7 +219,7 @@ Nothing exploded when I lifted the gloves by their cuffs. They were thin and dar
 
 Still nothing exploded. I sat beside the chest, with a broken crate against my back, and hugged myself in relief.
 
-The old gloves rested in my lap. Ordan had given them to me at the palace doors with the expression of a man who knew exactly how little help they would be. One cuff was split, and dried blood had stiffened the lining. I folded them and tucked them inside my jacket. They had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
+I turned Ordan's old gloves over in my lap, studying the split cuff and the dried blood that had stiffened the lining. He had given them to me at the palace doors with the expression of a man who knew exactly how little help they would be. I folded them and tucked them inside my jacket; they had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
 
 The new pair fit closely enough for me to bend every finger without the leather bunching at the joints. I turned my hands beneath the lamp, following the silver stitches over my knuckles and into the seams at my wrists, looking for a buckle, a dial, or anything that would tell me how much protection I had.
 
@@ -249,7 +249,7 @@ Wrapping it around myself made the draft against my back considerably less inter
 >
 > **Does not prevent hypothermia.**
 
-I slid it onto my right index finger. Warmth spread through my cold hand, faint but welcome. Neither window promised an exit, a meal, or replacement footwear. I kept them anyway. At least they had a purpose I understood.
+I slid it onto my right index finger and flexed my cold hand as its faint warmth spread through it. Neither window promised an exit, a meal, or replacement footwear, but I kept the cloak and ring; at least they had a purpose I understood.
 
 *It is not cold enough for me to worry about hypothermia anyway. But staying warm is a plus.*
 
@@ -259,7 +259,7 @@ At the top of the stairs, I stopped on a stone walkway overlooking a square shaf
 
 Immediately beyond the gap, a wooden platform sat inside the shaft with its floor level with the walkway. Its low iron fence had an open gate facing me, close enough for me to step straight onto it. I stayed on the stone.
 
-Two thick iron rails climbed the shaft walls, one on either side of the platform. A heavy chain attached to the platform disappeared into the dark overhead. To its right, a long stone weight hung from a second chain, inside a narrow channel in the wall. Grooves marked where the weight had scraped its guides. Through the space between the platform and the walkway, I could see the shaft continuing down into darkness. This was some kind of goods lift.
+Two thick iron rails climbed the shaft walls, one on either side of the platform. I followed the platform's heavy chain with my eyes until it disappeared into the dark overhead. To the platform's right, a long stone weight hung from a second chain inside a narrow channel in the wall, its sides grooved where it had scraped the guides. Looking down through the gap between the platform and the walkway, I could see the shaft continuing into darkness. This was some kind of goods lift.
 
 A handwheel and a lever were fixed to the railing on the right of the opening, within reach from the walkway. Three marks above the lever were writing. I studied them for several seconds, hoping one would turn into something useful through the strength of my need. They remained marks.
 
@@ -267,7 +267,7 @@ High up the shaft, light shone through a break in the stonework. For a moment, t
 
 *Maybe the platform could get me closer to the surface.*
 
-I moved beside the handwheel and examined the mechanism. A short metal shaft connected it to a large toothed gear, with a catch lodged between two teeth. The rest of the machinery disappeared behind an iron cover. I had no idea what the lever did. I assumed the catch was keeping the platform from dropping at an overly exciting speed.
+I moved beside the handwheel and followed its short metal shaft with my eyes to a large toothed gear, where a catch rested between two teeth. An iron cover hid the rest of the machinery, leaving me with no idea what the lever did. I assumed the catch was keeping the platform from dropping at an overly exciting speed.
 
 A dusty painted board rested on the walkway beside the controls. Holding it by the edges beneath the lamp over the gate, I could make out one figure at the wheel and another inside the platform with a load of boxes. Two people.
 
