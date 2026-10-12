@@ -29,9 +29,7 @@ I stared at my hand. My hand stared back, offering no explanation for its behavi
 
 "That was supposed to stop the wolf," I whispered. *What exactly are the rules here?*
 
-The blue window unfolded in front of my face again.
-
-I flinched at how close it appeared, then held my hand against my chest while I read. Unlike the marks on the dungeon walls, the writing was in Japanese, just as it had been in the summoning hall. That remained its one considerate feature.
+The blue window unfolded in front of my face again, close enough to make me flinch and hold my hand against my chest while I read. Unlike the marks on the dungeon walls, the writing was in Japanese, just as it had been in the summoning hall. That remained its one considerate feature.
 
 > **Unique Skill:** Inverse Impact
 >
@@ -39,7 +37,7 @@ I flinched at how close it appeared, then held my hand against my chest while I 
 >
 > **Warning:** Excessive tenderness may cause catastrophic results.
 
-I read the warning three times. The force rule was familiar. I had tested it yesterday, at considerable expense to people who owned a training yard, and survived skeletons by using it. The part about "excessive tenderness" was new. Apparently the window had decided that breaking things was no longer embarrassing enough without a description of my technique.
+I read the warning three times. I already knew the force rule from yesterday's tests, which had come at considerable expense to people who owned a training yard, and from surviving skeletons with it. The part about "excessive tenderness" was new. Apparently the window had decided that breaking things was no longer embarrassing enough without a description of my technique.
 
 "Excessive tenderness?"
 
@@ -58,7 +56,7 @@ My voice traveled through the broken wall. Before its echo faded, a roar came ba
 
 "Sorry," I whispered. The word hardly cleared my fingers. I took a step back.
 
-While leaning back to listen, I reached for the wall with my free hand. My fingers found a stone with crumbling mortar around its edges. I could have left my hand there. Instead, I gave it a tiny, careful push to steady myself. The stone split, and a crack ran through the loose joints above it.
+While leaning back to listen, I reached for the wall with my free hand and found a stone with crumbling mortar around its edges. I could have left my hand there, but I gave it a tiny, careful push to steady myself. The stone split, sending a crack through the loose joints above it.
 
 I pulled away as dust sprinkled onto my shoulder. My fingers curled against my chest, and I watched the crack until the last loose grain stopped falling. Nothing else broke. I moved my feet instead of reaching for something to steady me.
 
@@ -119,13 +117,9 @@ The wolf's assessment faded beneath a larger window bearing my name.
 > **Designation:** Catastrophic Pacifist.
 > **Title:** Gentle Hands.
 
-The level and armor numbers were unchanged since the summoning hall, but my hit points had fallen from the seven I remembered before anyone started giving me things to punch. Now I had five.
+The level and armor numbers were unchanged since the summoning hall, but my hit points now read five, down from the seven I remembered before anyone started giving me things to punch. I looked from the cut beneath my sleeve to the number, which offered no useful estimate of how many more mistakes I could survive. Five sounded like a quantity I should stop spending.
 
-I looked at the cut beneath my sleeve, then at the number. It did not tell me how many more mistakes I could survive. Five sounded like a quantity I should stop spending.
-
-There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own.
-
-Then I read the new designation.
+There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own. Then I read the new designation.
 
 "Catastrophic Pacifist?"
 
@@ -137,7 +131,7 @@ Whatever was writing these messages knew my name, recognized a monster I had nev
 
 The passage divided ahead, with one branch climbing beneath an arch with a cracked corner and the other sloping down beside a pair of bronze rails. Blue lamps lit both ways, and the same damp smell came from each. I stopped at the junction and looked from the upper arch to the lower passage, hoping for the kind of obvious difference a person in a story ought to notice.
 
-There were marks cut into the wall beside the upper branch. I recognized a square, three short lines, and something shaped like a hook. They could have meant EXIT, STORAGE, or PLEASE DO NOT FEED THE WOLF. The translation spell had given me speech. It had apparently left signs as an exercise.
+I studied the marks cut into the wall beside the upper branch: a square, three short lines, and something shaped like a hook. They could have meant EXIT, STORAGE, or PLEASE DO NOT FEED THE WOLF. The translation spell had given me speech and apparently left signs as an exercise.
 
 I crouched beside the junction and arranged three loose pebbles in a triangle, lifting and placing each one without pressing it into the floor. Carrying and placing them was harmless; I had learned enough about my hands to keep it at that.
 
@@ -201,7 +195,7 @@ It struck the floor beside the scattered bones, bounced once, and shed a cloud o
 
 "Why was that in the ceiling?"
 
-The latch broke off. The lid swung open, revealing a black cloak, a pair of gloves, and a silver ring. I waited for teeth, poison, or an angry little person to emerge. None did. I left the shelter of the statue and picked my way through the bones to the chest. It was already the most welcoming thing I had met underground.
+The latch broke off and the lid swung open, revealing a black cloak, a pair of gloves, and a silver ring. I waited for teeth, poison, or an angry little person to emerge, then left the shelter of the statue when none did. Picking my way through the bones to the chest, I decided it was already the most welcoming thing I had met underground.
 
 When I reached toward the gloves, a new window appeared.
 
@@ -221,9 +215,7 @@ Still nothing exploded. I sat beside the chest, with a broken crate against my b
 
 I turned Ordan's old gloves over in my lap, studying the split cuff and the dried blood that had stiffened the lining. He had given them to me at the palace doors with the expression of a man who knew exactly how little help they would be. I folded them and tucked them inside my jacket; they had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
 
-The new pair fit closely enough for me to bend every finger without the leather bunching at the joints. I turned my hands beneath the lamp, following the silver stitches over my knuckles and into the seams at my wrists, looking for a buckle, a dial, or anything that would tell me how much protection I had.
-
-The window offered the same two sentences.
+The new pair fit closely enough for me to bend every finger without the leather bunching at the joints. I turned my hands beneath the lamp, following the silver stitches over my knuckles and into the seams at my wrists, looking for a buckle, a dial, or anything that would tell me how much protection I had. The window offered the same two sentences.
 
 *Minor unintended impacts. That is a very small promise.*
 
@@ -233,7 +225,7 @@ As I shifted to stand, I lost my balance and pushed lightly against the stone le
 
 "Right. Less leaning."
 
-I could hold things. I could rest my hands. Pushing to keep myself upright was a different matter, and the gloves had turned this particular mistake into a chip instead of a hole. I would have preferred a railing I could trust, but I was prepared to be grateful in installments.
+Holding things and resting my hands were safe, but pushing to keep myself upright was a different matter. The gloves had turned this particular mistake into a chip instead of a hole. I would have preferred a railing I could trust, but I was prepared to be grateful in installments.
 
 The cloak smelled of cedar and old cupboards. As I lifted it from the chest, the writing changed.
 
@@ -273,11 +265,9 @@ A dusty painted board rested on the walkway beside the controls. Holding it by t
 
 I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't investigate without getting in, or stop it if anything started moving in a way I disliked.
 
-The rim of the handwheel was cold. I closed both hands around it and tried a firm, steady turn, the same sort of pressure that had moved a board normally in the training yard. The mechanism resisted, then scraped through a short movement. Above me, the chain tightened, and the platform rose a few inches. When I stopped, it stayed where it was.
+I closed both hands around the cold rim of the handwheel and tried a firm, steady turn, the same sort of pressure that had moved a board normally in the training yard. The mechanism resisted before scraping through a short movement that tightened the chain overhead and raised the platform a few inches. When I stopped, it stayed where it was.
 
-I was beginning to think this might work when something clicked beneath it.
-
-A narrow strip of metal came free beneath the platform. I stopped turning the wheel and watched it fall past the blue light. For a while there was no sound. I had time to imagine standing where that piece had been.
+I was beginning to think this might work when something clicked beneath the platform and a narrow strip of metal came free. I stopped turning the wheel and watched it fall past the blue light. The silence lasted long enough for me to imagine standing where that piece had been.
 
 When it finally struck something below, I took my hands off the wheel and stepped back from the opening. The catch held. The stone beneath my feet was solid. I stayed there until I could look at the platform without wanting to move farther away.
 
