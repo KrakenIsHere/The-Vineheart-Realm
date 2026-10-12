@@ -15,19 +15,13 @@ Behind me were the failing lift, the wolf, and a series of freshly opened holes 
 
 The water tasted of stone and the metal basin. I drank more slowly after the first handful, then wet a corner of my shirt and wiped the dust from my lip. The cut on my forearm had dried into a stiff line beneath the sleeve. I rinsed around it and tied a strip of cloth over it, awkwardly, with my teeth helping more than my right hand.
 
-The window continued to list me as injured, despite the ring's faint warmth in my hand and the cloak keeping the draft off my sweaty back. Both were useful. Neither made the bruise under my ribs go away.
+The window still listed me as injured, and the ache under my ribs caught me whenever I shifted. I settled back more carefully and drew the cloak around my shoulders against the draft, grateful for the ring's faint warmth in my cold hand.
 
-I sat with my feet stretched out and counted what I still had. A sword with wolf damage. A phone I was afraid to turn on. Clothes, a wallet, and the new equipment. The old gloves were tucked inside my jacket. There was no food.
+I stretched out my legs and checked my pockets, finding my wallet and the phone I was afraid to turn on. Ordan's old gloves were still tucked inside my jacket, and the sword at my hip had survived the wolf with two fresh tooth marks in its blade. With the cloak, ring, and new gloves, I had more useful things than before, but nothing to eat. My stomach had been reminding me of that for some time; water had only given it something else to complain about.
 
-My stomach had been reminding me of that for some time. Water gave it something else to complain about.
+Through the narrow doorway beside the basin, I could see shelves crowded with broken baskets and several lidded pottery jars. I drew my feet beneath me and got up at the thought of bread, too quickly for my bruised hip. After waiting for the ache to ease, I shuffled through the doorway and approached the shelves. I would have accepted bread old enough to require a formal apology.
 
-Through a narrow doorway beside the basin, I could see shelves, broken baskets, and several lidded pottery jars. The possibility of bread brought me to my feet more quickly than my hip preferred. I would have accepted bread old enough to require a formal apology.
-
-The first jar was empty. The second contained grains stuck together beneath a pale growth. The third had cracked, spilling dark seeds across the shelf. Some had been eaten. Something small had been finding meals here, which made the room slightly more promising than a collection of bones.
-
-I brought a few seeds beneath the lamp. They were shriveled, hard, and unfamiliar. I could not tell whether they were food that had gone bad, food that had always looked like that, or something people in this world fed exclusively to animals. The translation spell had not provided grocery training.
-
-I put them back. There were things growing beneath the lower shelf that I did not want closer to my face.
+I lifted the first lid, found an empty jar, and set the lid aside before moving along the shelf. A pale growth covered the clumped grains in the next jar, so I lowered its lid again and tried the third. That one had cracked, spilling dark seeds across the shelf, some partly eaten. I picked up a few and carried them beneath the lamp, hoping whatever small creature had found meals here knew something I did not. The seeds were shriveled, hard, and unfamiliar. I lifted one toward my mouth, then hesitated; I could not tell whether I was looking at spoiled food, perfectly normal food, or something people here fed exclusively to animals. I took them back to the shelf and put them down, keeping my face clear of whatever was growing beneath the lower shelf. The translation spell had not provided grocery training.
 
 While I was checking the last basket, a mouse emerged from a crack beside the door.
 

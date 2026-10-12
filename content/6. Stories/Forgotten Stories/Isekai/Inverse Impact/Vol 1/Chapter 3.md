@@ -144,9 +144,9 @@ Firm pressure on the handle sent the door creaking inward toward the wall on my 
 
 A short bench was wedged behind it. Once I could see that, I reached through the gap and lifted the bench farther into the room, giving the door space to open.
 
-The worktable stood against the far wall, beneath a narrow vent that admitted blue light. A rolled blanket and a cloth bundle sat on it. Shelves of tools lined the wall on my right. A cold brazier stood in the far left corner, beyond the bench. Several short pieces of bright iron rested beside a tin of grease. Unlike the rusting machinery outside, these looked ready to be used.
+From the threshold, I looked past the bench to a worktable against the far wall, where a narrow vent admitted blue light over a rolled blanket and a cloth bundle. Shelves of tools lined the wall to my right, while a cold brazier stood in the far left corner beyond the bench. Several short pieces of bright iron beside a tin of grease caught my eye; unlike the rusting machinery outside, these looked ready to be used.
 
-From the threshold, I checked behind the open door, beneath the bench and table, and along the shelves. Nobody was there, and there was no second door. The vent was narrower than my head.
+I checked behind the open door, beneath the bench and table, and along the shelves before stepping farther in. Nobody was there, and I could see no second door; even the vent was narrower than my head.
 
 The blanket, though, had little dust on it, and the bundle smelled of bread.
 
@@ -160,7 +160,7 @@ The corridor remained quiet.
 
 I had found bones, rotten wood, mold, and a wolf. Finding an apple was the first thing that suggested someone might have been here recently for a reason I could understand.
 
-There were boot prints beneath the table. Their edges were sharper than the tracks outside. A little heap of peelings sat beside the brazier. Someone had eaten an apple here, moved the bench, and left the rest of the food. The flask and bundle stood at one end of the table, clear of the tools. This looked like a place someone used between jobs.
+I looked beneath the table and found boot prints with sharper edges than the tracks outside, then noticed a little heap of apple peelings beside the brazier. The flask and bundle had been set at one end of the table, clear of the tools; someone had eaten here, moved the bench, and left the rest of the food. This looked like a place they used between jobs.
 
 They might come back. They might have gone somewhere they could not come back from.
 
@@ -302,7 +302,7 @@ After spending most of yesterday hoping the next doorway would solve the last on
 
 *Start here. Come back here. Try one way at a time.*
 
-I took off the cloak, folded it around the slate, and tucked the bundle into my belt. Then I retrieved Ordan's old gloves from my jacket. The charcoal went inside one, wrapped in the cuff. The other held the spare cord. I tucked both beside the slate. They had found employment before I did.
+I took off the cloak, folded it around the slate, and tucked the bundle into my belt before fetching Ordan's old gloves from my jacket. I wrapped the charcoal in one glove's cuff and used the other to gather up the spare cord, then tucked both beside the slate. They had found employment before I did.
 
 An iron bar about the length of my forearm was the last useful thing on the shelf, one end flattened into a narrow wedge. Holding it out tired my wrist, but carrying it at my side was manageable, and the metal had no cracks I could see.
 

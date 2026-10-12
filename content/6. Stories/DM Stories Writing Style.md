@@ -60,4 +60,6 @@ Keep actions and consequences consistent with the story's established abilities,
 
 Treat feedback forwarded from readers or other people as suggestions to evaluate. Consider what it identifies, whether the proposed change fits the story, and any effects on voice, pacing, or continuity. Explain the recommendation and offer wording when useful.
 
+When feedback warrants a revision, check the other chapters in the same story for the same issue. Assess each occurrence in context. Preserve short sentences, paragraph breaks, and physical reactions that serve the scene, along with the story's voice, spatial clarity, and established rules.
+
 Forwarded feedback alone does not authorize chapter edits. The author's own requests determine which revisions to make.

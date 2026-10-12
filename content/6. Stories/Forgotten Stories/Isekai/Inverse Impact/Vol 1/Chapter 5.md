@@ -910,7 +910,7 @@ Nessa looked back down the stair, then across the reservoir toward the weight we
 
 "The crew will need to check the guide and replace the cover. The open outlet gives them room to work."
 
-She pulled the door shut. Wood scraped over the threshold. The latch caught. She tried the handle once, then took her bag and continued along the passage.
+Nessa pulled the door shut, its lower edge scraping over the threshold before the latch caught. She tried the handle once, picked up her bag, and continued along the passage.
 
 I followed her past a row of narrow windows. Below them, the reservoir stretched toward the landing where I had first seen her lantern. The service gate was a little shape beneath a blue lamp. I could pick out my damaged railing farther along the near bank.
 
