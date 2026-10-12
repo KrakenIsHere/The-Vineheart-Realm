@@ -9,7 +9,7 @@ tags:
 aliases:
   - Awoken in Another World with My Absurd Skill The Softer I Touch the Harder I Hit Now I Roam the Dungeon Alone with My Cursed Skill
 ---
-The trickle in the lower passage became easier to hear as I left the lift behind. I followed the gutter along the wall, still turning at small sounds, until its water gathered in a shallow basin. My first handful scarcely reached my mouth before I wanted another. I drank, then sat with my shoulder beside the basin and let my feet stop carrying me for a while.
+Now that things had gone quiet, I could hear water running along the lower passage. I took that branch and followed the gutter along the wall, still turning at small sounds, until its water gathered in a shallow basin. My first handful scarcely reached my mouth before I wanted another. I drank, then sat with my shoulder beside the basin and let my feet stop carrying me for a while.
 
 Behind me were the failing lift, the wolf, and a series of freshly opened holes that seemed more useful to monsters than to rescuers.
 

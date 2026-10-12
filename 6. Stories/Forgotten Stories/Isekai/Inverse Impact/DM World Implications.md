@@ -17,25 +17,15 @@ Awoken in Another World: with My Absurd Skill, The Softer I Touch the Harder I H
 
 # Writing Preferences
 
-Use fluid narration with varied sentence lengths in the chapters. Connect related actions, sensations, and reactions instead of presenting each as a separate short sentence. Keep short sentences and paragraph breaks when they serve tension, emphasis, or humor. Haruto's direct thoughts remain italicized.
+![[DM Stories Writing Style#Narrative style]]
 
-Let dangerous moments unfold through what Haruto notices, anticipates, and tries to do. Show the movement that succeeds or fails, the physical consequence, and what he does next. Give fear and uncertainty weight through his choices, hesitation, mistakes, and bodily reactions. Dialogue should remain part of the scene, with meaningful movement or reactions where the exchange calls for them. Quieter scenes need physical presence too. Choose details that affect the moment rather than adding a reaction after every line.
+Use Haruto's first-person viewpoint, with curiosity, fear, and dry humor grounded in what he experiences. Preserve his nervous humor and the pleasure of exploration. Let jokes grow from his circumstances, expectations, and attempts to cope.
 
-Around **4,000–7,000 words** is a chapter-length guide, not a hard limit. Let pacing and natural stopping points decide the length. Chapters can differ in size. Split a long chapter where an arc reaches a useful pause, rather than dividing it into equal lengths or cutting a complete scene to meet a count.
+Never mention dice rolls or Hit Dice in chapter prose or status windows. Convey checks, recovery limits, and chance through successful or failed actions, physical reactions, and unusual events. Keep calculations and resource tracking in DM records. Ordinary status values such as HP and ability scores can remain visible.
+
+Format status and appraisal windows as blockquotes with bold labels. Keep names, creature kinds, creature types, classes, occupations, designations, and titles distinct. Follow the story's established window format and continuity records.
 
 Prefer existing D&D creatures for future encounters. Choose the creature before writing its anatomy and abilities. Custom creatures can suit special or major events. Preserve the established story rather than rewriting it to fit a published creature; the Hellfang Wolf and Malgorth remain custom creatures.
-
-Never mention dice rolls in chapter prose or status windows. Convey checks, saving throws, recovery limits, and chance outcomes through successful or failed actions, physical reactions, and unusual events. Keep calculations and resource tracking in DM records. Ordinary status values such as HP and ability scores can remain visible.
-
-Avoid **lay** and **trousers** in story prose. Use **pants** and rephrase positions or actions naturally.
-
-Prefer **stone** for construction, worked material, and individual small pieces. Prefer **rock** for rough natural formations and unworked material. Use **rubble** or **chunks of stone** for broken masonry. These terms overlap; size alone does not decide.
-
-Use **block** or **blocks** for stone deliberately cut or shaped into a regular form, such as Ordan's **block of granite**. Name a **counterweight** by its function.
-
-Establish Haruto's position and the important exits before movement. Keep left and right tied to his viewpoint, and show turns and transitions between spaces.
-
-Doors, gates, and moving machinery make appropriate sounds. Show the effects of destruction beyond the impact through damaged supports, disrupted mechanisms, and changed water flow. People familiar with the dungeon should recognize changes from its normal behavior.
 
 Keep the curse present in exploration through his handling choices and their consequences. Bracing, cutting, writing, and using tools can involve deliberate pressure. Ordinary contact stays safe, but a light push must show an amplified impact. The gloves do not make deliberate force safe. Haruto can apply what he has learned without gaining precise control over the result.
 
