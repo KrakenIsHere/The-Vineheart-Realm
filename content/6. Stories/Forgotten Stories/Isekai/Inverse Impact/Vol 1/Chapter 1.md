@@ -148,7 +148,7 @@ The cloak smelled of cedar and old cupboards. As I lifted it from the chest, the
 >
 > Keeps the wearer dry and improves personal insulation.
 
-Wrapping it around myself made the draft against my back considerably less interesting. When I picked up the silver ring, another window appeared.
+I pulled the cloak around my shoulders, relieved to have the cold draft off my back. When I picked up the silver ring, another window appeared.
 
 > **Ring of Mild Warmth**
 >
