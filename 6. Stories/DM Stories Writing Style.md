@@ -56,6 +56,8 @@ Use `* * *` for scene breaks at meaningful transitions in time, location, or the
 
 Use **American English** and concrete, familiar words. Avoid epic-trailer phrasing and stacked adjectives.
 
+Choose descriptive words that fit the actual sensation or condition. Make cold, pain, discomfort, danger, or relief clear through the description or the character's response. Dry understatement and figurative language can remain when the context makes their meaning clear; they should not leave the reader unsure what happened or how it felt.
+
 Avoid **lay** and **trousers** in story prose. Use **pants** and rephrase positions or actions naturally.
 
 Use **stone** for construction, worked material, and individual small pieces; **rock** for rough natural formations and unworked material. These terms overlap, and size alone does not decide. Use **rubble** or **chunks of stone** for broken masonry. Reserve **block** and **blocks** for deliberately cut or shaped stone, such as a block of granite. Name objects by their function when it makes the description clearer.
@@ -68,6 +70,6 @@ Keep actions and consequences consistent with the story's established abilities,
 
 Treat feedback forwarded from readers or other people as suggestions to evaluate. Consider what it identifies, whether the proposed change fits the story, and any effects on voice, pacing, or continuity. Explain the recommendation and offer wording when useful.
 
-When feedback warrants a revision, check the other chapters in the same story for the same issue. Assess each occurrence in context. Preserve short sentences, paragraph breaks, and physical reactions that serve the scene, along with the story's voice, spatial clarity, and established rules.
+When feedback warrants a revision, identify the underlying issue and check the other chapters in the same story for it, including different wording that causes the same confusion. Assess each occurrence in context. Preserve short sentences, paragraph breaks, and physical reactions that serve the scene, along with the story's voice, spatial clarity, and established rules.
 
 Forwarded feedback alone does not authorize chapter edits. The author's own requests determine which revisions to make.
