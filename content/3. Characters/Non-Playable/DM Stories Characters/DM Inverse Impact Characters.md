@@ -56,13 +56,19 @@ The linked custom creature notes and published rules define their nature and mec
 
 | Encounter | Creature | Size & type | Maximum HP | Armor Class | Revealed traits |
 | --- | --- | --- | --- | --- | --- |
+| The forest slimes, Chapter 2 | **[[DM Forest Slime|Forest Slime]]**, a small predatory ooze | Small Ooze | 7 | 8 | Acidic contact |
+| The armored skeletons, Chapters 1 and 2 | **Skeleton**, reanimated humanoid bones | Medium Undead | 13 | 14 | None revealed |
 | The trapped wolf | **[[DM Hellfang Wolf|Hellfang Wolf]]**, a magically altered wolf | Medium Monstrosity | 37 | 14, natural armor | None revealed |
 | **Grave Tyrant Malgorth** | **[[DM Gravebound Colossus|Gravebound Colossus]]**, an assembled zombie | Huge Undead | 168 | 18, natural armor | **Multiattack** |
 | The creature behind the lower gates, Chapter 5 draft | **Ogre Zombie**, a reanimated ogre | Large Undead | 85 | 8, unarmored | None revealed |
 
+The **Forest Slime** is a custom creature preserving Chapter 2's existing encounter. Its first appraisal shows **7 / 7 HP**, **AC 8**, and **Active**, with a warning about acidic contact. The later slimes receive brief warnings. Their behavior and the unchanged injury totals do not establish published ooze damage, equipment corrosion, or a named condition.
+
+The armed **Skeletons** use the published [SRD 5.2.1 Skeleton profile, pages 325–326](https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf#page=325), also recorded in [[M.M. Monsters S#Skeleton|the vault's Monster Manual]]. Their appraisals show **13 / 13 HP**, **AC 14**, and **Hostile**. Chapter 2 contains the first encounter chronologically; Chapter 1 repeats the profile for the three soldiers. The skeleton at the sorting trough keeps working and produces no automatic warning. An absent appraisal does not promise that it cannot attack. Keep the established wounds and HP totals; the chapters do not assign individual attack damage or XP awards.
+
 The wolf is already pinned when Haruto encounters it. Its first appraisal appears in Chapter 2, before he approaches, showing **37 / 37 HP**, **AC 14**, and **Restrained**, with a warning that it is lethal within reach. Chapter 1's later contact report updates it to **0 / 37 HP** and **Dead**. Its species name does not establish a breath weapon or fire resistance.
 
-**Malgorth** is the individual's name. **Grave Tyrant** is its title. Its four arms, horns, and scale armor are parts of its construction, not evidence of an unnamed living species. Its first appraisal in Chapter 1.5 shows **168 / 168 HP**. The old sword in its chest does not reduce that displayed total or impose an injury penalty. Its later defeat report shows **0 / 168 HP** and **Defeated**. Haruto knocks it into the counterweight, and the failing structure falls onto it; the curse does not directly inflict the entire damage from the collapse.
+**Malgorth** is the individual's name. **Grave Tyrant** is its title. Its four arms, horns, and scale armor are parts of its construction, not evidence of an unnamed living species. Its first appraisal in Chapter 1.5 shows **168 / 168 HP**. The old sword in its chest does not reduce that displayed total or impose an injury penalty. Its later defeat report shows **0 / 168 HP** and **Dead**. Haruto knocks it into the counterweight, and the failing structure falls onto it; the curse does not directly inflict the entire damage from the collapse.
 
 The two custom creatures' ability scores and combat mechanics are recorded in the linked DM creature notes. Their challenge ratings and XP values remain unassigned. Traits present in a profile need not all appear in the first appraisal. Revealed creature statistics do not grant Haruto automatic levels or training.
 

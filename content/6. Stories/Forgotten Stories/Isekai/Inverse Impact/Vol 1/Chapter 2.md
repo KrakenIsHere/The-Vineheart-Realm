@@ -30,7 +30,7 @@ I heard Japanese, though his mouth formed entirely different sounds. "Yes."
 
 Everyone started talking. Someone applauded before deciding that it was premature. I stood with my convenience-store bag while strangers celebrated the discovery that I could answer a question.
 
-"You are in the royal invocation hall of **House Obsidia**, in the southern mountains of **Magnica**," the man said. "I am **High Magister Corven**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
+"You are in the royal invocation hall of **House Obsidia**, in the northern mountains of **Magnica**," the man said. "I am **High Magister Corven**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
 
 I asked about Japan, then Tokyo, then Earth, watching his face for even a flicker of recognition. With each attempt, he became more attentive and less useful. I took out my phone and held it higher, as though another few inches might bring back the signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation. "You summoned me," I said, surprised.
 
@@ -292,13 +292,24 @@ I stayed on my knees until the last man disappeared around the bend. When I trie
 
 * * *
 
-As the shadows lengthened, something green flowed out of a ditch, rising to my knee with pebbles and a small animal bone turning slowly inside it. *A slime. Of COURSE there are slimes.* "I have nothing worth eating," I told it, edging toward the opposite side of the road. I kept watching the little bone turn inside it. The slime flowed after me.
+As the shadows lengthened, something green flowed out of a ditch, rising to my knee with pebbles and a small animal bone turning slowly inside it. *A slime. Of COURSE there are slimes.* "I have nothing worth eating," I told it, edging toward the opposite side of the road. I kept watching the little bone turn inside it. The slime flowed after me. Red writing appeared above its quivering surface.
+
+> **Forest Slime**
+>
+> **Creature:** Forest Slime (small predatory ooze).
+> **Creature Type:** Ooze.
+> **Size:** Small.
+> **Hit Points:** 7 / 7.
+> **Armor Class:** 8.
+> **Condition:** Active.
+>
+> **Threat:** Acidic contact.
 
 A fallen branch was close enough to pick up without taking my eyes off it. I lowered the tip between us, trying to keep the jelly at a distance. Its surface gathered beneath itself, then sprang. I swung hard before I could stop myself. The blow scarcely slowed the slime. Cold jelly wrapped around my shin, and I dragged my foot backward as a sting spread through my pants. It came with me. *Soft. Do it softly.*
 
 I forced myself to stop swinging. With my shin stinging and the branch shaking in both hands, I lowered its tip against the jelly and gave a tiny push. The slime tore away from my leg and flew across the road, bursting against a tree in a shower of wet leaves. I pulled my foot beneath me and stared at the damp patch on my pants. "That worked!"
 
-More wet sounds came from the ditch as three slimes climbed its sides and two more emerged among the roots. One stood directly in the way of the lodge. I fled into the woods, ducking under branches that snagged my jacket and dragged me off course. Each breath pulled at the bruise beneath my ribs, but the wet sounds behind me kept me moving. At the bottom of a slope, mud held my left shoe as my foot came free. I nearly turned back for it. Then jelly flowed over the heel, and I decided it had served with distinction.
+More wet sounds came from the ditch as three slimes climbed its sides and two more emerged among the roots, red warnings appearing over them as they flowed toward me. One stood directly in the way of the lodge. I fled into the woods, ducking under branches that snagged my jacket and dragged me off course. Each breath pulled at the bruise beneath my ribs, but the wet sounds behind me kept me moving. At the bottom of a slope, mud held my left shoe as my foot came free. I nearly turned back for it. Then jelly flowed over the heel, and I decided it had served with distinction.
 
 On the far side of a gully, old stones showed beneath the moss. I scrambled toward what I took for a path, only for the ground to flex beneath my next step and open. I caught a root and felt it stretch beneath my weight. For an instant, I stopped falling. Then it tore free, and my hip struck rock as I slid into the shaft, scraping my feet against the wall in search of something that would hold.
 
@@ -316,7 +327,18 @@ I climbed the sacks to look for a gap, but something shifted overhead before I g
 
 My calls for help echoed through air that smelled of damp limestone and old iron. Beneath the dust, tracks crossed the floor and continued through an arch. Someone had built all of this, then left it behind. I could not tell how long ago. Blue lamps brightened inside glass cages along the wall, and I switched off the flashlight to follow them past enormous slabs hanging from chains. I called the place the **Hanging Halls**. Someone who knew its proper name would ideally also know the exit.
 
-Steel scraped beyond the next arch. I stopped beside the iron frame holding one of the suspended slabs, listening until the scrape came again, closer this time. A skeleton stepped into the lamplight. Rusty armor shifted over its ribs, and green light burned inside sockets with nothing behind them. I looked past it for a person, for someone holding it up or making it move. Its sword dragged along the floor.
+Steel scraped beyond the next arch. I stopped beside the iron frame holding one of the suspended slabs, listening until the scrape came again, closer this time. A skeleton stepped into the lamplight. Rusty armor shifted over its ribs, and green light burned inside sockets with nothing behind them. I looked past it for a person, for someone holding it up or making it move. Its sword dragged along the floor as it came toward me, and red writing appeared beside its helmet.
+
+> **Skeleton**
+>
+> **Creature:** Skeleton (reanimated humanoid bones).
+> **Creature Type:** Undead.
+> **Size:** Medium.
+> **Hit Points:** 13 / 13.
+> **Armor Class:** 14.
+> **Condition:** Hostile.
+>
+> **Threat:** Lethal within reach.
 
 "I do not belong here," I said. I had meant to call out, but the words barely reached the arch. I lifted my empty hands and took a step back, watching the blade instead of its face. "I am leaving."
 
@@ -330,7 +352,7 @@ I threw up my left arm. Its blade caught my forearm, tugging the sleeve before a
 
 The skull hit the far doorway with a crack, followed by ribs, armor, and the loose clatter of everything that had been trying to kill me. I crouched with my arms over my head until the helmet finished bouncing. When I lowered them, I could see blood along my cuff. My mouth was dry, and I had to work out how to breathe without making that thin sound again. *I won.* I was bleeding beside a shinbone, but apparently this was what winning looked like now.
 
-Two more skeletons came through the arch, and I left the fallen sword where it was. A longer reach also meant more opportunities to hit the chains above me. The smaller opening beside the frame led to a narrow staircase. I squeezed through sideways and backed down its first few steps, watching the doorway instead of where I put my feet. The second skeleton lunged after me, its helmet scraping the stone above it. I flicked the side of its jaw before it could straighten, sending it back through the opening.
+Two more skeletons came through the arch, their red windows overlapping as they crowded forward, and I left the fallen sword where it was. A longer reach also meant more opportunities to hit the chains above me. The smaller opening beside the frame led to a narrow staircase. I squeezed through sideways and backed down its first few steps, watching the doorway instead of where I put my feet. The second skeleton lunged after me, its helmet scraping the stone above it. I flicked the side of its jaw before it could straighten, sending it back through the opening.
 
 The third crowded in before the pieces had stopped moving. Its sword struck the stair railing beside my ear. I flinched toward the wall, brought my left hand forward, and tapped its breastplate away from me. Bones and armor clattered up the steps. I kept backing down until I had stone between me and the doorway.
 

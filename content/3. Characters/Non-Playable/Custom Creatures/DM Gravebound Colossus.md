@@ -41,7 +41,7 @@ It can coordinate its arms and follow simple standing orders. It has no establis
 
 **Malgorth** is the colossus in [[DM Inverse Impact Characters#Encounter Creatures|Haruto's encounter record]]. **Grave Tyrant** is its title, not its species. It carries an axe, a broad sword, a hooked blade, and an iron door mounted on a handle. The sword lodged in its chest is an old injury to dead tissue; it imposes no additional HP loss or penalty at the start of the encounter.
 
-Its first appraisal shows **168 / 168 HP**. Haruto's amplified push drives it into the counterweight. The failing structure then crushes it. The later window records **0 / 168 HP** and **Defeated**.
+Its first appraisal shows **168 / 168 HP**. Haruto's amplified push drives it into the counterweight. The failing structure then crushes it. The later window records **0 / 168 HP** and **Dead**.
 
 ### Origins & open details
 

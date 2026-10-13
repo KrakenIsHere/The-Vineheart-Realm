@@ -68,7 +68,7 @@ I stopped just inside the doorway, afraid even of shifting my feet. For a moment
 
 > **Grave Tyrant Malgorth**
 >
-> **Creature:** Gravebound Colossus.
+> **Creature:** Gravebound Colossus (assembled zombie).
 > **Creature Type:** Undead.
 > **Size:** Huge.
 > **Hit Points:** 168 / 168.
@@ -196,7 +196,7 @@ I stared at YES. The letters brightened under my gaze. "How much worse could thi
 
 > **Additional condition:** Affection Multiplier.
 
-"Affection?" The text explained on the window.
+"Affection?" More writing appeared beneath the heading.
 
 > **Affection Multiplier**
 >
