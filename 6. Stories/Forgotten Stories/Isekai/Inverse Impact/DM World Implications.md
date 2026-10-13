@@ -25,13 +25,13 @@ Never mention dice rolls or Hit Dice in chapter prose or status windows. Convey 
 
 Format status and appraisal windows as blockquotes with bold labels. Keep names, creature kinds, creature types, classes, occupations, designations, and titles distinct. Follow the story's established window format and continuity records.
 
-Prefer existing D&D creatures for future encounters. Choose the creature before writing its anatomy and abilities. Custom creatures can suit special or major events. Preserve the established story rather than rewriting it to fit a published creature; the Hellfang Wolf and Malgorth remain custom creatures.
+Prefer existing D&D creatures for future encounters. Choose the creature before writing its anatomy and abilities. Custom creatures can suit special or major events. Preserve the established story rather than rewriting it to fit a published creature; the Hellfang Wolf, Malgorth, and the already-written forest slimes remain custom creatures.
 
 Keep the curse present in exploration through his handling choices and their consequences. Bracing, cutting, writing, and using tools can involve deliberate pressure. Ordinary contact stays safe, but a light push must show an amplified impact. The gloves do not make deliberate force safe. Haruto can apply what he has learned without gaining precise control over the result.
 
 # Historical Placement
 
-These events take place at approximately **312 BGW** in the southern mountains of **Magnica**, during the growing divine tensions recorded in [[The Timelines#Overall|the overall timeline]]. Magnica is still a single landmass. **[[Onyxia]]** does not exist at this time; it emerges during the [[The Timelines#The New Age|post-war recovery era]]. **BGW** is also a later historical reckoning.
+These events take place at approximately **312 BGW** in the northern mountains of **Magnica**, during the growing divine tensions recorded in [[The Timelines#Overall|the overall timeline]]. Magnica is still a single landmass. **[[Onyxia]]** does not exist at this time; it emerges during the [[The Timelines#The New Age|post-war recovery era]]. **BGW** is also a later historical reckoning.
 
 # The Inverse Impact Skill
 
@@ -69,6 +69,8 @@ Windows first appear after summoning. They are private to Haruto and readable in
 
 **Class** describes adventuring abilities. **Occupation** is current employment in this world. **Designation** is the window's assessment of him. **Title** is a nickname or epithet. Designations and titles grant no class features, levels, defenses, or healing. **Condition** can describe his physical and mental state; mood descriptions do not impose penalties.
 
+An automatic red appraisal appears when a visible creature directs threatening behavior toward Haruto and he notices it. A restrained or chained creature can still trigger one. The windows do not locate hidden creatures or predict intent. No automatic appraisal appears for the mouse or the skeleton continuing its work without approaching him; an absent warning does not guarantee safety. Later encounters with an identified kind can use brief warnings rather than repeating its full profile.
+
 The first window identifying a creature includes its **name**, **creature**, **creature type**, **size**, **current and maximum HP**, **Armor Class**, and **condition**. The creature field identifies what it actually is, such as a Hellfang Wolf or a Gravebound Colossus, with a short explanation for an unfamiliar kind. Creature type is the broad D&D category, such as Monstrosity or Undead. Keep individual names and titles distinct from the creature's kind. Add relevant revealed traits, resistances, or vulnerabilities when recorded for that creature. Later defeat or contact reports can show only the changed values. Use existing vault statistics where applicable. Custom creatures belong in the Custom Creatures folder, with mechanics in paired DM notes and encounter details in [[DM Inverse Impact Characters#Encounter Creatures|the creature records]]. Keep dice notation, rolls, and calculations out of the windows. A threat warning describes the danger to Haruto in the present encounter.
 
 HP measures his remaining ability to survive injury and combat. Recovery follows [[Gameplay Changes#Rest:|the vault's rest rules]] and healing effects.
@@ -96,7 +98,7 @@ The damaged testing yard and dungeon passages may leave repair records, ruins, o
 
 Haruto does not cause the Divine War, the Godwound, or the Sundering, and does not replace the Vineheart Party. Morlith's worship at the court does not establish him as the Skill's creator.
 
-The Divine War erupts more than a century after this story. The relationship between southern Magnica and Onyxia's later northern mountains remains open.
+The Divine War erupts more than a century after this story. Its setting is the northern mountain region of Magnica that will later become part of Onyxia. The exact court and dungeon sites, and whether they survive into that kingdom's history, remain unassigned.
 
 # Chapter Continuity
 

@@ -26,7 +26,7 @@ Dialogue belongs to the scene. Include meaningful movement, hesitation, or a bod
 
 Let dangerous moments unfold through what the character notices, anticipates, and tries to do. Show the movement that succeeds or fails, the physical consequence, and the next response. Give fear and uncertainty weight through choices, mistakes, hesitation, pain, and interrupted plans.
 
-Establish the viewpoint character's position and the important exits before movement. Anchor left and right to that viewpoint. Show turns, changes in level, and transitions between rooms. Describe an unfamiliar mechanism through its visible parts and their position relative to the character.
+Establish the viewpoint character's position and the important exits before movement. Anchor left and right to that viewpoint. Show turns, changes in level, and transitions between rooms. Describe an unfamiliar mechanism through its visible parts and their position relative to the character. Introduce a part before referring to it by a short label, and distinguish nearby parts that serve different purposes.
 
 Doors, gates, and moving machinery make appropriate sounds. Damage has consequences beyond the point of impact: falling material, altered water flow, strained supports, or disrupted machinery. People familiar with a place should notice when it behaves differently.
 
@@ -64,7 +64,7 @@ Use **stone** for construction, worked material, and individual small pieces; **
 
 ## Continuity
 
-Keep actions and consequences consistent with the story's established abilities, limitations, history, and physical surroundings. Record the specific rules and supporting lore in that story's folder.
+Keep actions and consequences consistent with the story's established abilities, limitations, history, and physical surroundings. Record the specific rules and supporting lore in that story's folder. Track where carried objects are placed and when they are picked up again. Show the transfer when it affects lighting, free hands, movement, or another character's reaction.
 
 ## Feedback & revisions
 

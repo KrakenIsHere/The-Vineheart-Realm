@@ -26,7 +26,7 @@ Green light moved beside the trough.
 
 I pulled back behind the door, leaving only a narrow gap to look through. A skeleton stood on the other side of the rail. Its head was bent, but I had seen those same lights look up beneath a helmet, just before a sword came toward my face. When the scrape began again, I waited for it to stop and for the skeleton's head to turn. Instead, it drew a long wooden scraper toward itself until the end clacked against a stop, a strip of leather hanging over its shoulder. Without a helmet, breastplate, or sword, it lifted the scraper back to the near end and began another pass through an empty trough.
 
-I watched three repetitions from behind the door without the skeleton turning toward me. Dust covered its shoulders and collected inside its rib cage; whatever it was doing, it had been doing it long enough to wear a pale line in the stone. *No sword. That is a promising difference.*
+I watched three repetitions from behind the door without the skeleton turning toward me. Dust covered its shoulders and collected inside its rib cage; whatever it was doing, it had been doing it long enough to wear a pale line in the stone. *No sword. No red window. That is a promising difference.*
 
 I considered saying hello, then remembered how the last several skeletons had responded to my attempts at conversation. Watching it finish another pass from the doorway, I noticed a second door at the far end of the aisle, on my side of the rail. I could reach it without approaching the skeleton, so I picked up the bar and stepped inside.
 
@@ -64,9 +64,7 @@ My thumb started toward the mistake. I caught myself before rubbing at the charc
 
 I knew which door I had just entered from. I no longer knew where this room was in relation to the basin. The water had turned beneath the bridge, the passage had climbed, and I had drawn all of it as though walking in a straight line. *A map works considerably better when the person making it knows where he is.*
 
-I sat on a low stone beside the entrance, facing the signpost, and drew a new circle in the remaining space. I marked the bridge behind me. Then I set two pebbles beside that doorway, large enough to see from the middle of the room. Going back was still possible: across the bridge, through the racks, and on until I found the first signpost. I made myself follow that route in my head before standing up again.
-
-I followed the return route again, this time touching none of the lines, until I could picture the first signpost and the broken crossing beyond it. I had made a bad map. I still knew how to get back to the room with the blanket. Only then did I look at the other doors.
+I sat on a low stone beside the entrance, facing the signpost, and drew a new circle in the remaining space. After marking the bridge behind me, I set two pebbles beside that doorway, large enough to see from the middle of the room. Without touching the lines, I pictured the return route: across the bridge, through the racks, and back to the first signpost, with the broken crossing beyond it. I had made a bad map. I still knew how to get back to the room with the blanket. Only then did I look at the other doors.
 
 A tap from the doorway on my right made me raise my head. Another followed, faint and uneven enough to be water dripping onto metal, or something working like the skeleton with its scraper. Cool air moved through the doorway as I stood to listen, keeping the pebbles behind me in sight.
 
@@ -242,7 +240,7 @@ She stopped rubbing her eye. "You went through the broad entrance?"
 
 I looked back toward the reservoir. I had knocked the guard under a counterweight and broken part of its doorway. Whatever the workers normally relied on, I had given Nessa a reason to check it again.
 
-She lifted the lantern from its bracket and looked past me again, toward the passage and the reservoir beyond it. When she turned back, the crease between her eyebrows had changed. "Was the door still closed when you left?"
+She lifted the lantern from its bracket and looked past me again, toward the passage and the reservoir beyond it. When she turned back, the crease between her eyebrows had changed. She hung the lantern on the bracket again before asking, "Was the door still closed when you left?"
 
 "There is an opening at the bottom now."
 
@@ -278,7 +276,7 @@ Then she pointed at the bar. "Leave that where it is for the moment."
 
 "And take a step back."
 
-I did, leaving the bar where it was. She lowered the lantern to check the space around my feet, then looked at my hands again. I wanted to tell her I wasn't dangerous to her. Instead, I stayed where she had asked me to stand.
+I did, leaving the bar where it was. She took the lantern off its bracket and lowered it to check the space around my feet, then looked at my hands again. I wanted to tell her I wasn't dangerous to her. Instead, I stayed where she had asked me to stand.
 
 "I believe you got out of that chamber," she said. "I would rather hear the rest from this side of the gate."
 

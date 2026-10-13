@@ -90,7 +90,20 @@ I crouched beside the junction and arranged three loose pebbles in a triangle, l
 
 I chose the upper passage. Beyond the first bend, it widened into a landing at the foot of a broad stone stairway. The stairs climbed along the right-hand wall, with cold air drifting down from above. That seemed more promising than going deeper. A blade scraped against stone ahead of me.
 
-Three skeletal soldiers emerged beneath a blue lamp at the far end of the landing. Rusty armor hung from their ribs, green light burned in their sockets, and all three carried swords. I had met enough skeletons by then to know they did not respond to reasonable explanations. Unfortunately, knowing what to do and keeping my hand steady while a sword came toward my face were different skills.
+Three skeletal soldiers emerged beneath a blue lamp at the far end of the landing. Rusty armor hung from their ribs, green light burned in their sockets, and all three carried swords. As they turned toward me, red windows appeared beside their helmets, each showing the same figures.
+
+> **Skeleton**
+>
+> **Creature:** Skeleton (reanimated humanoid bones).
+> **Creature Type:** Undead.
+> **Size:** Medium.
+> **Hit Points:** 13 / 13.
+> **Armor Class:** 14.
+> **Condition:** Hostile.
+>
+> **Threat:** Lethal within reach.
+
+I had met enough skeletons by then to know they did not respond to reasonable explanations. Unfortunately, knowing what to do and keeping my hand steady while a sword came toward my face were different skills.
 
 The first came at me with its sword raised. I drew my borrowed weapon, fumbling the last inch clear of the scabbard, and tried to bring the edge toward its skull without swinging. Then its blade filled the space in front of my face. I flinched. My shoulder tightened, my grip locked, and the careful movement became a frantic swing before I could stop it. The blade rang against its skull. The skull remained a skull. The skeleton tilted its head as though trying to understand the point of the demonstration.
 
