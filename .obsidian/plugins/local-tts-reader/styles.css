@@ -1,0 +1,336 @@
+/*
+ * Two highlight layers for Local TTS Reader. The word mark is drawn over the
+ * sentence mark, so they have to stay tellable apart.
+ *
+ * Colour cannot be what separates them. Both custom properties fall back to the
+ * same `--text-highlight-bg`, and main.ts feeds both from the one stored
+ * `highlight.color`, so at the default and at every custom colour the two vars
+ * hold the same value. The first attempt at NRL-54 gave the two classes
+ * identical rule bodies on top of that, which made the word mark invisible
+ * against the sentence it sat on: the feature shipped and could not be seen.
+ *
+ * So the difference is the treatment, not the hue. The sentence is an underline
+ * and the word is the filled mark. That also keeps the word looking exactly as
+ * it did before this ticket, which is the part users already recognise.
+ *
+ * No color-mix() or relative colour syntax here, however tempting for a tinted
+ * band: Obsidian's Android WebView is Chrome/88 (AGENTS.md, SPIKE-ANDROID-001),
+ * and an unsupported colour function computes to nothing rather than degrading.
+ */
+
+.local-tts-reader-sentence {
+	border-bottom: 2px solid var(--local-tts-reader-sentence-highlight, var(--text-highlight-bg));
+	/* Keeps the rule clear of descenders without shifting the line box. */
+	padding-bottom: 1px;
+}
+
+/* Drawn over the sentence rule above. */
+
+.local-tts-reader-word {
+	background-color: var(--local-tts-reader-word-highlight, var(--text-highlight-bg));
+	color: var(--text-normal);
+	border-radius: 3px;
+	box-shadow: 0 0 0 1px var(--local-tts-reader-word-highlight, var(--text-highlight-bg));
+	padding: 1px 0;
+	transition: background-color 90ms linear;
+}
+
+/* Engine status list in settings. */
+.local-tts-engine-status {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	margin: 4px 0 12px;
+}
+
+.local-tts-engine-row {
+	display: flex;
+	align-items: baseline;
+	gap: 8px;
+	font-size: var(--font-ui-smaller);
+}
+
+.local-tts-engine-name {
+	min-width: 180px;
+	color: var(--text-normal);
+}
+
+.local-tts-engine-state {
+	font-weight: var(--font-semibold);
+}
+
+.local-tts-engine-state.is-ok {
+	color: var(--text-success, #4caf50);
+}
+
+.local-tts-engine-state.is-missing {
+	color: var(--text-muted);
+}
+
+.local-tts-engine-note {
+	color: var(--text-muted);
+	font-style: italic;
+}
+
+/* Floating playback control bar. */
+
+.local-tts-control-bar {
+	position: fixed;
+	top: 0;
+	left: 50%;
+	z-index: 60;
+	display: flex;
+	align-items: center;
+	gap: 4px;
+	padding: 6px 10px;
+	background: var(--background-primary);
+	border: 1px solid var(--background-modifier-border);
+	border-top: none;
+	border-radius: 0 0 10px 10px;
+	box-shadow: var(--shadow-s);
+	opacity: 0;
+	pointer-events: none;
+	transform: translate(-50%, -100%);
+	transition:
+		transform 160ms ease,
+		opacity 160ms ease;
+}
+
+.local-tts-control-bar.is-visible {
+	opacity: 1;
+	pointer-events: auto;
+	transform: translate(-50%, 0);
+}
+
+.local-tts-cb-btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 28px;
+	height: 28px;
+	padding: 0;
+	background: transparent;
+	border: none;
+	border-radius: 4px;
+	box-shadow: none;
+	color: var(--text-normal);
+	cursor: pointer;
+}
+
+.local-tts-cb-btn:hover:not(:disabled) {
+	background: var(--background-modifier-hover);
+}
+
+/*
+ * A control the active engine cannot honour. Disabled and visibly so, rather
+ * than hidden: R-M14 allows either, and a button that disappears when the
+ * engine changes is harder to understand than one that stays put with a
+ * tooltip. The hover rules are narrowed to :not(:disabled) above and below,
+ * since lighting up on hover reads as "this works".
+ */
+.local-tts-cb-btn:disabled,
+.local-tts-cb-speed-btn:disabled,
+.local-tts-cb-speed-value.is-unavailable {
+	opacity: 0.45;
+	cursor: not-allowed;
+}
+
+.local-tts-cb-btn-primary {
+	background: var(--interactive-accent);
+	color: var(--text-on-accent);
+}
+
+.local-tts-cb-btn-primary:hover:not(:disabled) {
+	background: var(--interactive-accent-hover);
+	color: var(--text-on-accent);
+}
+
+.local-tts-cb-btn.is-loading svg {
+	animation: local-tts-spin 900ms linear infinite;
+}
+
+@keyframes local-tts-spin {
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.local-tts-cb-speed {
+	display: flex;
+	align-items: center;
+	gap: 2px;
+	margin-left: 2px;
+	padding-left: 8px;
+	border-left: 1px solid var(--background-modifier-border);
+}
+
+.local-tts-cb-speed-btn {
+	width: 20px;
+	height: 20px;
+	padding: 0;
+	background: transparent;
+	border: none;
+	border-radius: 4px;
+	box-shadow: none;
+	color: var(--text-muted);
+	font-size: 14px;
+	line-height: 1;
+	cursor: pointer;
+}
+
+.local-tts-cb-speed-btn:hover:not(:disabled) {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+}
+
+.local-tts-cb-speed-value {
+	min-width: 42px;
+	text-align: center;
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+	user-select: none;
+	cursor: ns-resize;
+}
+
+.local-tts-cb-progress {
+	min-width: 40px;
+	margin-left: 4px;
+	padding-left: 8px;
+	border-left: 1px solid var(--background-modifier-border);
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+}
+
+/*
+ * Mobile placement for the floating control bar (NRL-112, docs/adr/0032).
+ *
+ * The desktop rules above are untouched - this block only appends overrides,
+ * so `git diff -- styles.css` has zero deleted lines and desktop sizing is
+ * unchanged by construction rather than by re-measurement. `body.is-mobile`
+ * cannot match a desktop Obsidian, and it is deliberately the superset of
+ * `is-phone`: a tablet has the same safe-area inset, the same `.view-header`
+ * and the same touch input, so scoping this to phones would leave a tablet
+ * with the identical defect.
+ *
+ * `top: 0` put the whole bar inside the device safe-area inset: measured on a
+ * Pixel 9 Pro XL (Android 17, Obsidian 1.13.7, 2026-10-01) the shown bar
+ * occupied y 0-46.28 against a `--safe-area-inset-top` of 66.333336px, so it
+ * rendered beneath the Android status bar and a real `adb shell input tap` at
+ * the play/pause button's own centre changed nothing. Both terms below are
+ * Obsidian-owned variables rather than literals, so the offset tracks the
+ * device and the theme instead of freezing a number.
+ *
+ * `flex-wrap` is load-bearing, not belt-and-braces, and it is what did the
+ * work here. At 44px targets the bar's content sums to ~464px (arithmetic from
+ * the declarations in this file, not a measurement) against this device's
+ * measured 448px viewport, and a narrower phone overflows by more. Measured
+ * post-fix the bar wraps into three rows and settles at 224px wide with
+ * `scrollWidth == clientWidth`, so nothing overflows.
+ *
+ * `max-width` was expected to be the constraint that forced that wrap and
+ * MEASURED NOT TO BE: its computed value on this device is 432px, well above
+ * the 224px the bar settled at. A `position: fixed` shrink-to-fit box with
+ * `left: 50%` and `right: auto` only ever gets `100vw - left` = 224px of
+ * available width, and that is the binding constraint. The clamp is kept as
+ * the landscape and notched-side guard it was also argued for, and because
+ * `left`/`right` may not stay 0px; its left/right inset terms are both 0px on
+ * this device in portrait, so they are inert here.
+ *
+ * There is deliberately no `display: none` and no `visibility: hidden` here.
+ * R-M14 requires that a control the active engine cannot honour is disabled
+ * and visibly so rather than removed (see the comment above
+ * `.local-tts-cb-btn:disabled`), and a mobile block that hides nothing makes
+ * that true by inspection of the diff rather than by a probe.
+ */
+
+body.is-mobile .local-tts-control-bar {
+	top: calc(var(--safe-area-inset-top) + var(--view-header-height));
+	max-width: calc(100vw - var(--safe-area-inset-left) - var(--safe-area-inset-right) - 16px);
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+/*
+ * 44x44 is Obsidian's own `--input-height`, measured at 44px on the device
+ * this session, so the touch target matches the host's own controls rather
+ * than an imported guideline. srs.md:1768 requires touch-friendly targets and
+ * names no number.
+ *
+ * `min-width`/`min-height` rather than `width`/`height` is deliberate: CSS
+ * clamps the used value to max(min-width, width), so the desktop `28px` and
+ * `20px` declarations stay literally in this file and still govern desktop.
+ */
+
+body.is-mobile .local-tts-cb-btn,
+body.is-mobile .local-tts-cb-speed-btn {
+	min-width: 44px;
+	min-height: 44px;
+}
+
+/*
+ * Reserve the band the bar occupies, while it is shown (NRL-129, docs/adr/0032).
+ *
+ * The bar is `position: fixed` (:78) and so out of flow: it cannot push content
+ * down by itself. The two fixes above made it taller - at 44px targets the
+ * content no longer fits one row, so `flex-wrap` gives three rows and the bar
+ * measured 125.64px tall against the 41px it was, putting its bottom edge at
+ * y 236 instead of y 41. On a note too SHORT to scroll that is unrecoverable
+ * by scrolling: measured on the Pixel 9 Pro XL with
+ * `scrollHeight 997 == clientHeight 997`, the first chunk's sentence mark sat
+ * at y 209.6-255.6, so 26.4px of its 46px height was behind the bar, and
+ * NRL-110's `y: "center"` cannot help because there is nowhere to move to.
+ *
+ * WHY THE PANE AND NOT THE SCROLLER. Obsidian 1.13.7 already owns the phone
+ * scroller's `padding-top`:
+ * `.is-phone .mod-root .workspace-leaf-content .view-content
+ * .markdown-source-view > .cm-editor > .cm-scroller { padding-top:
+ * var(--view-top-spacing-markdown) }` at specificity (0,7,0) (app.css:20426,
+ * read from the installed asar). Padding is ONE property, so a rule there would
+ * REPLACE that value rather than add to it, and its base differs by
+ * configuration - `calc(safe-area + header + 16px)` under
+ * `.is-phone.auto-full-screen` (:21366), `var(--size-4-2)` otherwise (:18904),
+ * and on a tablet the scroller is padded by `padding: var(--file-margins)`
+ * (:3940) instead. Restating a host value we have to preserve, or reaching for
+ * `!important`, is worse than moving one box out. `.markdown-source-view`
+ * itself carries no padding declaration in this position, so our rule is
+ * uncontested at (0,5,1), and `* { box-sizing: border-box }` (:3190) with
+ * `.markdown-source-view.mod-cm6 { height: 100%; display: flex }` (:3530) means
+ * a `padding-top` here shrinks the editor's box from the top rather than
+ * overflowing it.
+ *
+ * `.view-content >` is load-bearing. Obsidian nests whole source views inside
+ * the editor, and it really does pad one of them -
+ * `.inline-embed > .markdown-embed-content > .markdown-source-view { padding:
+ * var(--embed-padding) }` (:11953) - so a descendant selector would pad every
+ * inline embed and table-cell editor by the bar's height for the duration of a
+ * read. The child boundary is the one Obsidian asserts itself at :3939.
+ *
+ * NO LITERAL, and none is needed: padding ADDS to every offset already above
+ * the first line, so firstLineTop_new = firstLineTop_old + barHeight. In both
+ * of Obsidian's mobile header configurations the first editor line already
+ * starts at or below the chrome's bottom - under `.is-phone.auto-full-screen`
+ * the scroller's own spacing is itself `calc(safe-area + header + 16px)`, and
+ * otherwise `--view-header-position` is `static` (:18908) so the header
+ * occupies real layout space above `.view-content` in a column flex
+ * (:6530). The bar's top is `calc(safe-area + header)` (above), so
+ * firstLineTop_old >= barTop and therefore firstLineTop_new >= barBottom, for
+ * any device, row count or theme. The measured case is the slack version:
+ * 209.6 + 125.64 = 335.2 against a bar bottom of 236.
+ *
+ * The height is PUBLISHED by controlBar.ts rather than written here, because
+ * the bar's height depends on how many rows `flex-wrap` produced and CSS
+ * cannot ask that. Freezing "three rows" would under-pad a narrower phone -
+ * reopening this defect - and over-pad a tablet. The `0px` fallback is the
+ * fail-safe: an unpublished height gives today's behaviour, not a wrong offset.
+ *
+ * One declaration, `padding-top`, and nothing else. That is what keeps R-M14
+ * true by inspection: there is still no `display: none` and no
+ * `visibility: hidden` anywhere in this block, so no control becomes missing
+ * rather than dimmed. Deliberately NOT inside an `@media` - block 20 of
+ * tests/highlight.test.ts scans this file flat and its own comment records that
+ * a mobile rule inside an at-rule drops out of that sweep silently.
+ */
+
+body.is-mobile.local-tts-control-bar-visible .view-content > .markdown-source-view.mod-cm6 {
+	padding-top: var(--local-tts-control-bar-height, 0px);
+}

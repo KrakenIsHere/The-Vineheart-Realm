@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "settings": {
+    "skipCodeBlocks": true,
+    "skipInlineCode": true,
+    "speakUrls": false,
+    "skipTags": true,
+    "skipTables": true,
+    "skipHeadings": false,
+    "engine": "kokoro",
+    "voiceId": "kokoro:af_heart",
+    "rate": 1,
+    "pitch": 0,
+    "timerPreset": "off",
+    "highlight": {
+      "enabled": true,
+      "sentence": true,
+      "word": true,
+      "color": ""
+    },
+    "skipFrontmatter": true,
+    "speakImageAlt": true,
+    "speakEmbeds": false,
+    "offlinePreferred": false,
+    "bufferAhead": 8,
+    "kokoroModelPath": "",
+    "kokoroDevice": "webgpu",
+    "kokoroThreads": 10,
+    "kokoroWeights": "gpu",
+    "bridgePort": 8787
+  },
+  "positions": {
+    "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.md": {
+      "filePath": "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.md",
+      "segmentId": "2ff60af9",
+      "segmentIndex": 291,
+      "sourceOffset": 24779,
+      "updatedAt": 1791994165963
+    }
+  }
+}

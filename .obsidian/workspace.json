@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 275.5
   },
   "right": {
     "id": "2266179cb9c35810",
@@ -286,11 +286,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -303,17 +303,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "note-reader:Note Reader": false,
+      "local-tts-reader:Read this note aloud": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "edef201bb432c779",
   "lastOpenFiles": [
+    "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5.md",
+    "Untitled.base",
+    "index.md",
+    "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.md",
+    "local-tts-diagnostics.log",
     "3. Characters/Non-Playable/Custom Creatures/DM Forest Slime.md",
     "3. Characters/Non-Playable/Custom Creatures/Forest Slime.md",
     "3. Characters/Non-Playable/Custom Creatures/DM Roadside Slime.md",
     "3. Characters/Non-Playable/Custom Creatures/Roadside Slime.md",
-    "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5.md",
-    "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.md",
     "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 5.md",
     "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 4.md",
     "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 3.md",
@@ -327,8 +332,6 @@
     "3. Characters/Non-Playable/NPCs Sheet.md",
     "3. Characters/Non-Playable/DM NPCs Sheet.md",
     "1. Rules/Character Creation.md",
-    "index.md",
-    "Untitled.base",
     "Table Of Contents.base",
     "6. Stories/Forgotten Stories/Isekai/Inverse Impact/DM World Implications.md",
     "4. Assets/Tools/Dice.md",
@@ -337,14 +340,12 @@
     "0. World/5. Peoples/Dwarves.md",
     "CLAUDE.md",
     "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1",
-    "3. Characters/Non-Playable/DM Stories Characters/DM Inverse Impact Characters.md",
     "3. Characters/Non-Playable/DM Stories Characters",
     "6. Stories/Forgotten Stories/Isekai/Awoken in Another World with My Absurd Skill The Softer I Touch the Harder I Hit Now I Roam the Dungeon Alone with My Skilld Skill",
     "6. Stories/Forgotten Stories/Isekai/Inverse Impact",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.6.jpg",
     "6. Stories/Forgotten Stories/Isekai",
     "6. Stories/Forgotten Stories",
-    "6. Stories",
     "4. Assets/Images/Vineheart Logo/VineHeart.png",
     "2. Sessions/Goblins in the Misty Falls Year 226 BGW/The Master Cartographer's Riddle.png",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.2.jpg",
