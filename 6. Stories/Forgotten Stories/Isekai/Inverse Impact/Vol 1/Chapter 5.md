@@ -28,7 +28,7 @@ I started again. There was a limit to how much dignity I could preserve while de
 
 "Yes. The frame was already damaged. The weight came down, then something broke higher up the shaft."
 
-While she considered that, water moved inside the pipe beside us and a chain rattled intermittently beneath the windows. "That fits," she said at last.
+Nessa looked past me toward the pipe. Water moved inside it, and a chain rattled intermittently beneath the windows. I waited with the explanation still hanging between us. At last, she looked back at me. "That fits."
 
 I would have preferred an explanation that did not. "I think I started the collapse."
 
@@ -40,9 +40,9 @@ Nessa looked at me instead of the pipe. "You said the pillar broke before you to
 
 "Yes."
 
-She watched me a moment longer, then lifted the lantern toward the stairs. I moved aside to let her pass, wondering whether she would still want me to follow.
+She watched me a moment longer. I moved aside to let her pass, wondering whether she would still want me to follow.
 
-"Then we work with what is still standing."
+Nessa lifted the lantern toward the stairs. "Then we work with what is still standing."
 
 I followed her up the first flight before she could get beyond the light. At the turn, she stopped beside a low arch leading left into a small room, while the stairs continued upward on our right toward a door with a white stripe painted across it.
 
@@ -66,7 +66,7 @@ Once Nessa hung the lantern inside, I went to the window to watch the stone weig
 
 "That is the outlet?"
 
-"The weight opens it. A chain goes over the pulley and down to the gate in the channel. When the weight comes down, the gate goes up."
+Nessa pointed to the chain above the weight. "The weight opens it. A chain goes over the pulley and down to the gate in the channel. When the weight comes down, the gate goes up."
 
 I followed her pointing finger from the cradle to the chain above it, then across the pulley toward a narrow shaft beside the reservoir wall.
 
@@ -104,7 +104,7 @@ I had been about to ask.
 
 We followed the pipe out through the covered passage and down the four steps, with the reservoir on our right now and the wall on my left. At the opening beneath the arch, I pointed out the bent rail and the empty socket where its fastening had been, and Nessa stopped well short of it.
 
-"You pushed the stone from that side?"
+Nessa aimed the lantern through the opening. "You pushed the stone from that side?"
 
 "Toward the water."
 
@@ -136,17 +136,15 @@ We left the broken crossing behind and passed through the sorting room, where th
 
 "Does anyone ask it to?"
 
-"I repair the water gates." That seemed to be the limit of the services available.
+She glanced toward the scraper and kept walking. "I repair the water gates." That seemed to be the limit of the services available.
 
 At the bottom of the stairs, I recognized my triangle of pebbles. We followed the gutter to the basin, and I stopped across from the open workroom. The workroom was as I had left it, with the wooden bar beside the door, the bench out of its way, and my coin on the table beside the food. Nessa went straight to the bundle. I had never been so relieved to watch someone untie a piece of cloth.
 
 She set the lantern on the table, took bread and cheese, filled the flask at the basin, and came back to sit on the bench. I remained near the table, holding the bar until she pointed to an empty patch of floor. "You can put that down."
 
-I did. She cut the cheese with a little knife from her apron and passed me a piece of bread with some on top. I looked at the food, then at the coin. "That was my last silver."
+I put the bar down. She cut the cheese with a little knife from her apron and passed me a piece of bread with some on top. I looked at the food, then at the coin. "That was my last silver." I kept the bread in my hand while I waited for her answer.
 
-I kept the bread in my hand while she glanced at the coin.
-
-"I will account for it when we get back."
+Nessa glanced at the coin. "I will account for it when we get back."
 
 "Does it cover the pads?"
 
@@ -154,11 +152,11 @@ I kept the bread in my hand while she glanced at the coin.
 
 "I would like to return them."
 
-"That is usually how borrowing works."
+One corner of her mouth twitched. "That is usually how borrowing works."
 
 She went back to cutting her own piece of cheese. I waited another moment, then took a bite. She had given me food without asking what my hands could do in return. At the other end of the bench, I ate cheese that was hard, salty, and considerably more welcome than its appearance suggested. Across the corridor, the basin splashed, stopped, and began trickling again, making Nessa pause to listen as she chewed.
 
-"Has it been doing that all night?"
+Nessa looked at me over her bread. "Has it been doing that all night?"
 
 "Yes."
 
@@ -180,13 +178,13 @@ Nessa glanced at its silver stitching, then at the gloves I was wearing. "Where 
 
 "A chest fell out of a shelf after I broke three skeletons."
 
-She waited.
+Her eyebrows lifted, but she said nothing.
 
 I considered whether there was a version of that sentence worth trying again. "The gloves help when I lose my balance," I said. "A little. They do not stop me breaking things on purpose."
 
 "Good to know."
 
-"They are good gloves."
+I flexed my fingers inside them. "They are good gloves."
 
 "I believe you."
 
@@ -204,11 +202,11 @@ At the doorway, she stopped. "Where were you trying to go before you fell?"
 
 "The palace."
 
-Her look reminded me that the man who had robbed me had advised against mentioning that part. Keeping it secret now would require lying to someone who had shared her bread and knew the stairs. "I was summoned," I said. "Apparently they wanted a champion."
+Her gaze moved from the empty scabbard to my face. I remembered that the man who had robbed me had advised against mentioning that part. Keeping it secret now would require lying to someone who had shared her bread and knew the stairs. "I was summoned," I said. "Apparently they wanted a champion."
 
 "You?"
 
-I looked down at my repaired foot, then at the little bar on the floor. "There were some problems with the result."
+My ears grew hot as I looked down at my repaired foot, then at the little bar on the floor. "There were some problems with the result."
 
 Nessa rested the bag against her hip. "How long ago?"
 
@@ -216,7 +214,7 @@ Nessa rested the bag against her hip. "How long ago?"
 
 I did not know how to explain a train to someone standing beside a brazier. I could explain losing a shoe. We had started with something that translated well. "They could not keep me near the terraces after the tests," I said. "They told me to stay at the lodge while they looked for a way to send me home."
 
-"They sent you alone?"
+Her voice grew quieter. "They sent you alone?"
 
 "Ordan took me to the watchpost. Then something needed repairing, and he went back. I was supposed to follow the main road."
 
@@ -240,7 +238,7 @@ It was the first plan involving the palace that began with something I could und
 
 When we reached the control room again, the water had climbed closer to the upper stain on the wall. The weight still struck the bent cover on every descent. Nessa put the bag on the cupboard and took out the wedges.
 
-"Stand here," she said, placing the lantern on the windowsill. "Tell me when the cradle comes back up."
+Nessa placed the lantern on the windowsill. "Stand here. Tell me when the cradle comes back up."
 
 I stayed at the window while she went down the five steps to the work platform. The weight moved below and a little to my right; Nessa stood on its left, outside the rails and behind the railing. Lifting a long handle beside the frame brought a catch toward the teeth of a wheel above her, while the chain rattled through another short movement. "Coming up," I said.
 
@@ -254,7 +252,7 @@ After checking the chain and catch, Nessa tried to fit a thick pin through a sec
 
 "Does that hold it?"
 
-"The catch holds the wheel. The pin keeps the handle from moving."
+She pointed to the catch, then to the pin. "The catch holds the wheel. The pin keeps the handle from moving."
 
 I nodded once her pointing finger had helped me tell the two apart.
 
@@ -284,7 +282,7 @@ I set down the lantern and fitted the wedge into the gap. Nessa remained beside 
 
 I stopped before its wedge came free. The lower bolts hadn't moved. Setting my feet wider, I fitted the end back into the gap and tried again. My right calf tightened; the iron bent beneath the wedge, slowly taking a small dent. Still nothing came loose. There was no hidden supply of ordinary strength beneath my curse. I had become very powerful at the part of the job involving making the wrong amount of effort.
 
-"Enough," Nessa said. "You will slip."
+Nessa raised a hand. "Enough. You will slip."
 
 I was about to tell her I could try once more. Then I looked down at my left foot, with its leather pad turned slightly outward, and lifted the bar clear. The lowest stair gave me somewhere to stand without needing the iron to yield. Although the weight was still, the water kept rising.
 
@@ -292,7 +290,7 @@ I was about to tell her I could try once more. Then I looked down at my left foo
 
 I could break timber. I could break stone. I had also broken enough things around both to understand why she was reaching for the chisel. "I might be able to break that part," I said.
 
-Nessa considered that before answering. It was an improvement over being asked to do it before anyone considered the room. "How much would break?" she asked.
+Nessa looked from the folded iron to the catch above it, the chisel still in her hand. "How much would break?" At least I was being asked that before putting my hand anywhere.
 
 "I do not know. I can choose where I push. I cannot promise how far something will go."
 
@@ -322,7 +320,7 @@ She went up to the window. I remained beside the lowest stair, with the moving w
 
 "Ready?" I asked.
 
-"I am clear."
+Nessa answered from the window above me. "I am clear."
 
 I kept my grip firm, with the wedge resting against the iron. It hadn't moved. Through the outlet shaft came the rush of water, and above my right shoulder the chain creaked under its load. Every part of me wanted to brace and shove, though I had just tried that and the dent was still beneath the wedge. I checked the empty wall, then the window above the steps. Nessa was clear of the platform, watching. *There is time. She is clear. The weight is stopped.* I let my shoulders loosen. Without changing the wedge's direction, I gave the bar a light push toward the wall.
 
@@ -330,7 +328,7 @@ The cover tore sideways with a sound like a pan being folded in half. A bolt hea
 
 I pulled the bar clear and tried to step back onto the stair. The pad turned beneath my left heel. For a moment, my foot was on the edge of the leather instead of the floor. I tried to bring my other leg beneath me, but my right knee hit stone before I could catch myself. Pain flashed up the leg. I bent over it, unable to finish the breath I had taken.
 
-Nessa called my name from above.
+Nessa's voice rose above the last clang. "Haruto!"
 
 "Here." I swallowed and tried again, louder. "I am here."
 
@@ -357,13 +355,13 @@ One point gone to a shoe made out of someone else's knee protection. The curse h
 
 I set the bar beside the steps. Nessa put her hand beneath my elbow and waited for me to move my good foot. I hesitated, looking at where her fingers supported my arm.
 
-"Move your foot. I have your arm."
+Nessa followed my gaze to her hand beneath my elbow. "Move your foot. I have your arm."
 
 I shifted toward the lowest stair, letting her guide my elbow without pushing against her. Nothing cracked or flew across the platform. I sat down with my right leg out and her hand still beneath my arm. I knew ordinary contact was safe. It had been easier to know that while nobody was close enough to test it.
 
 She untied the cord around the leather pad, turned it back beneath my foot, and threaded the heel loop through a different buckle. "You need this across the back," she said. "Otherwise it folds when you step away." I watched her tighten the knot and press the strap flat before checking where the pad sat.
 
-"Better?"
+She sat back on her heels. "Better?"
 
 I slid my foot along the floor. The pad moved with it instead of turning under the heel. "Much."
 
@@ -381,7 +379,7 @@ She stood, then gave the weight considerably more attention than she had given m
 
 I drew my foot beneath me. Upstairs sounded very good. I looked at the twisted sheet on the hatch. I had pictured it coming away like a loose board. It had arrived at the wall as something I would have difficulty recognizing if I had not watched it happen. "That is more damage than I wanted."
 
-"Yes." She did not hurry to make the answer kinder. "The outlet could not open with it there," she added. "Now it might."
+"Yes." Nessa looked at the twisted cover for a moment. "The outlet could not open with it there. Now it might."
 
 My knee took my weight when I stood to collect the bar, though it hurt. Nessa followed me up the five steps and hung the lantern in the control room, bringing the handle's pin only after checking that the catch remained engaged. The handle reached nearly to the room's threshold, beside a small geared wheel connected to the mechanism below. From there she could work both without standing beside the cradle.
 
@@ -395,7 +393,9 @@ I found the two lengths of chain again, one descending to the weight and the oth
 
 The weight descended. I watched it approach the bright scrape where it had stopped every time before. My fingers closed against my thigh. It passed the mark.
 
-The chain rolled over the pulley, and a wooden groan rose from the outlet shaft. I looked between the two lengths of chain, trying to keep both in sight. Then water struck something below with a roar that filled the room. I flinched toward Nessa. Her hands stayed on the handle. "Moving?"
+The chain rolled over the pulley, and a wooden groan rose from the outlet shaft. I looked between the two lengths of chain, trying to keep both in sight. Then water struck something below with a roar that filled the room. I flinched toward Nessa.
+
+Her hands stayed on the handle as she looked toward me. "Moving?"
 
 The chain on the gate's side was still traveling. So was the one above the weight. "Both chains. Yes."
 
@@ -403,7 +403,7 @@ Near the bottom of the guide, the cradle slowed. Nessa lowered the handle, and I
 
 For several breaths, we looked at the reservoir without speaking. The leaves gathered beneath the nearest lamp began to travel toward the outlet. The little circle they had been making lengthened, pulled apart, and disappeared down the side channel. A pale strip emerged beneath the old water stain on the wall.
 
-Nessa put the pin through the handle's new position. "It is draining," she said.
+Nessa put the pin through the handle's new position. The crease between her eyebrows eased as she watched the water. "It is draining."
 
 I kept my eyes on the pale strip beneath the stain. A little more stone appeared. Then more, wet and dark below the old line. "I can see it." My voice was louder than it needed to be. Nessa glanced at me, then turned back to the water. I could have watched that strip widen for the rest of the day.
 
@@ -433,9 +433,9 @@ I looked toward the weight. "And if it closes?"
 
 I looked from the weight to the stair on the far bank. We would have to go down toward the water before we could climb away from it. The stool was dry, and my knee had finally stopped aching with every movement. I brought my foot beneath me anyway. I wanted the door on the other side more than another few minutes sitting here.
 
-While she checked the chain and pin once more, I stood to try my feet. My knee was stiff from sitting, but still bent, and the leather pad stayed beneath my left foot when I stepped backward. Nessa noticed the test as she lifted the bag.
+While she checked the chain and pin once more, I stood to try my feet. My knee was stiff from sitting, but still bent, and the leather pad stayed beneath my left foot when I stepped backward.
 
-"Still holding?"
+Nessa's eyes followed my foot as she lifted the bag. "Still holding?"
 
 "Yes."
 
@@ -453,7 +453,7 @@ I looked at the ring, then at the drop beyond the stairs. "Do you do this often?
 
 She tightened the knot, tested it, and went down ahead of me. I stayed at the hatch until she had reached the first dry tread, then followed several steps behind. I set my remaining shoe flat on each step before bringing the leather pad down beside it. The repaired heel loop held. I checked it anyway. With each step, the water grew louder. Beneath the outlet shaft, foam and leaves pulled away from the wall in a current strong enough to carry them out of sight before I reached the next tread.
 
-Nessa stopped at the bottom and held the lantern low. The first stretch of ledge was clear and wide enough to walk facing forward, provided I did not decide to let anyone pass. Keeping to the wall on my right would put the reservoir on my left. Water still crossed the stone near the next pillar, but its edge was visible beneath it. "Wait there."
+Nessa stopped at the bottom and held the lantern low. "Wait there." The first stretch of ledge was clear and wide enough to walk facing forward, provided I did not decide to let anyone pass. Keeping to the wall on my right would put the reservoir on my left. Water still crossed the stone near the next pillar, but its edge was visible beneath it.
 
 She walked to the pillar and secured the first stretch of rope to an iron bracket at her waist. Then she gathered the spare length and turned back. "Now. Keep to the wall. Use the line for balance, but watch your feet."
 
@@ -557,9 +557,9 @@ A voice came from the other side.
 
 Nessa set the bag on the landing and knocked with the metal ring. Three hard knocks, then two. I had heard that pattern while staring across the reservoir. Here, it traveled through wood and came back from a space larger than the stair.
 
-"Nessa?"
+A voice came through the door. "Nessa?"
 
-She closed her eyes. "Yes."
+She closed her eyes and let out a long breath. "Yes."
 
 I climbed the last step as footsteps approached. The bolt scraped, and Nessa moved her bag clear before the door opened toward us. Daylight reached the landing. I raised my hand against it and waited for my eyes to adjust.
 
