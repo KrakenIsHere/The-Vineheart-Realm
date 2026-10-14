@@ -59,7 +59,7 @@ Testing my weight on both feet revealed that the cloth around my left sock had s
 
 * * *
 
-Yesterday, I had been **Haruto Minase**, twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet when I fell asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that was happening. People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities had disappointed them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
+Yesterday, I had been **Haruto Minase**, twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet when I fell asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that was happening. People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities seemed to disappoint them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
 
 Since then, I had been **robbed**, **chased** by slimes, and **dropped** into the **Hanging Halls** through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
@@ -80,7 +80,7 @@ The blue windows stayed at the edge of my vision as I stepped into the corridor,
 > **Designation:** Catastrophic Pacifist.
 > **Title:** Gentle Hands.
 
-The level and armor numbers were unchanged since the summoning hall, but my hit points now read five, down from the seven I remembered before anyone started giving me things to punch. I looked from the cut beneath my sleeve to the number, which offered no useful estimate of how many more mistakes I could survive. Five sounded like a quantity I should stop spending. There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own. Then I read the new designation.
+The level and armor numbers were unchanged since the summoning hall, but my hit points now read five, down from the seven I had before anyone started giving me things to punch. I looked from the cut beneath my sleeve to the number, which offered no useful estimate of how many more mistakes I could survive. Five sounded like a quantity I should stop spending. There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own. Then I read the new designation.
 
 "Catastrophic Pacifist?" The window remained politely blue. "And please stop calling it Gentle Hands. That sounds like something you book an appointment for." Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
 
@@ -129,7 +129,7 @@ The impact cracked through the corridor. The skull shot backward, dragging the h
 
 Somewhere on the other side, something enormous screamed.
 
-I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through a mouth that tasted of blood. My lip was bleeding, my hip hurt, and whatever had made that sound now knew something was happening here.
+I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through a mouth that tasted of blood. My lip was bleeding, my hip hurt, and whatever had made that sound, now knew something was happening here.
 
 "That was a flick," I told my finger.
 
@@ -149,7 +149,7 @@ I almost cried. Not because the warning was reassuring, but because the sentence
 
 Nothing exploded when I lifted the gloves by their cuffs. They were thin and dark, stitched with silver thread, and fitted over my hands once I worked off Ordan's leather pair, stiff with dirt and blood. A faint tingle moved across my knuckles, then faded. Still nothing exploded. I sat beside the chest, with a broken crate against my back, and hugged myself in relief.
 
-I turned Ordan's old gloves over in my lap, studying the split cuff and the dried blood that had stiffened the lining. He had given them to me at the palace doors with the expression of a man who knew exactly how little help they would be. I folded them and tucked them inside my jacket; they had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
+I turned Ordan's old gloves over in my lap, studying the split cuff and the dried blood that had stiffened the lining. He had given them to me at the palace doors with his mouth pulled tight. I had wondered whether he expected them to help at all. I folded them and tucked them inside my jacket; they had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
 
 The new pair fit closely enough for me to bend every finger without the leather bunching at the joints. I turned my hands beneath the lamp, following the silver stitches over my knuckles and into the seams at my wrists, looking for a buckle, a dial, or anything that would tell me how much protection I had. The window offered the same two sentences. *Minor unintended impacts. That is a very small promise.* It was still a promise. Nobody at the palace had managed even that.
 

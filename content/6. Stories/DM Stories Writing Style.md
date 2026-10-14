@@ -14,13 +14,15 @@ Use this guidance for narrative chapters in **6. Stories**. Rules and history no
 
 Use fluid narration with varied sentence lengths. Connect related actions, sensations, and reactions so the reader can follow a movement through its consequence. Keep short sentences and paragraph breaks when they serve tension, emphasis, or humor. Avoid a repeated sequence of isolated statements.
 
-Stay within the viewpoint character's knowledge. Let characters notice, infer, misunderstand, and learn. Give observations a reason to matter in the scene. Quieter moments should still have physical presence.
+Stay within the viewpoint character's knowledge. Describe other characters through their words, visible expressions, actions, and changes in voice. Their private emotions, thoughts, and motives remain the viewpoint character's interpretations unless those characters reveal them. Make guesses recognizably part of the viewpoint character's voice; they can be confident and still wrong. Let misunderstandings develop through what characters say and do, without confirming hidden feelings in narration. Give observations a reason to matter in the scene. Quieter moments should still have physical presence.
 
 ## Thoughts & dialogue
 
 Italicize direct inner thoughts. Keep spoken dialogue in quotation marks and ordinary narration in plain text.
 
-Dialogue belongs to the scene. Include meaningful movement, hesitation, or a bodily reaction when it adds to the exchange. A frightened statement should carry the speaker's fear into their next action. Choose reactions that affect the moment; every line does not need its own gesture.
+Establish who is speaking when a conversation begins. A clear exchange between two people can alternate without a tag on every line. Identify the speaker again after a long stretch of narration, an inner thought, a displayed message, or another person joining. Use names and unobtrusive tags such as "said" where ambiguity remains. Distinct voices support attribution, but readers should not have to guess from vocabulary alone.
+
+Dialogue belongs to the scene. Keep a speaker's related words and actions together, including a response that pauses and continues. Use meaningful movement, hesitation, facial expressions, or changes in voice to show a reaction and help identify the speaker. A frightened statement by the viewpoint character should carry that fear into their next action. For other characters, show what the viewpoint character can observe and leave the meaning open to interpretation. Choose reactions at meaningful turns; every line does not need its own gesture.
 
 ## Action & surroundings
 

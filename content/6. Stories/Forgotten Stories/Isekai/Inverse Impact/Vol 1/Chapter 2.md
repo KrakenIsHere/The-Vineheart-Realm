@@ -34,7 +34,7 @@ Everyone started talking. Someone applauded before deciding that it was prematur
 
 I asked about Japan, then Tokyo, then Earth, watching his face for even a flicker of recognition. With each attempt, he became more attentive and less useful. I took out my phone and held it higher, as though another few inches might bring back the signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation. "You summoned me," I said, surprised.
 
-"Yes. We called beyond our world for a champion bearing an extraordinary gift."
+Corven nodded. "Yes. We called beyond our world for a champion bearing an extraordinary gift."
 
 "On purpose?"
 
@@ -42,7 +42,7 @@ I asked about Japan, then Tokyo, then Earth, watching his face for even a flicke
 
 *I might as well introduce myself.* "My name is **Haruto Minase**. I am twenty-two. I process invoices."
 
-"A form of tribute?"
+His eyebrows drew together. "A form of tribute?"
 
 "Mostly late payments."
 
@@ -90,9 +90,9 @@ He looked away. "The invocation found you. It did not leave us a path to follow.
 
 I had to swallow before I could answer. Until he said it, some part of me had been waiting for the mistake to be corrected. My alarm began ringing. For several seconds, nobody spoke while my phone reminded me to wake up and get off a train I was no longer on. My mother would call on the weekend to ask whether I was eating properly. I could not imagine explaining this. My thumb missed the button on the first attempt. I stopped the alarm and held the silent phone against my palm, reluctant to put away the last familiar sound in the room.
 
-"Then find one."
+I lifted my eyes from the silent phone. "Then find one."
 
-"We will examine the workings."
+Corven took a breath before answering. "We will examine the workings."
 
 I put the phone away as Corven pointed to the door.
 
@@ -104,13 +104,13 @@ Below us, houses stood on terraces between workshops spilling forge light onto t
 
 The young woman from the gallery introduced herself as **Princess Elyra Obsidia**. She dismissed a servant who tried to cut her pear and asked what an invoice was.
 
-"They are reminders merchants ignore."
+I set the bread down beside my plate. "They are reminders merchants ignore."
 
 "We have people for that too."
 
 "What do you need a champion for?"
 
-"The temples disagree about what the gods intend for us. My father would like someone extraordinary on hand before the arguments become something worse."
+Elyra turned toward the window, leaving her pear untouched. "The temples disagree about what the gods intend for us. My father would like someone extraordinary on hand before the arguments become something worse."
 
 "Is there a war?"
 
@@ -122,7 +122,7 @@ A dark thread appeared among the disk's gold lines when the mage held it over my
 
 "Can you lift it?" I asked.
 
-"No."
+The mage shook her head. "No."
 
 "Suppress it?" Corven asked.
 
@@ -134,7 +134,7 @@ Corven leaned closer to the disk. "We should observe its physical effects."
 
 "You mean see what I break."
 
-"Not necessarily."
+"Not necessarily," Corven said.
 
 Elyra glanced at the untouched bowl. "We have exhausted the alternatives."
 
@@ -146,7 +146,7 @@ The testing yard was a sand-covered terrace above the workshops, with wooden tar
 
 "Did it deserve it?"
 
-"Yes." He accepted that as my qualification and showed me how to close a fist.
+"Yes." Ordan gave a small nod and showed me how to close a fist.
 
 "First, we check the claim," Corven said. "As hard as you can."
 
@@ -158,7 +158,7 @@ Corven inspected the dummy. "No split."
 
 Nothing seemed broken, but when Corven asked for another punch, I declined firmly enough that we tried pushing instead. Ordan clamped a board onto a sliding stand and stepped aside; my firm shove moved it normally, while a lighter one knocked it free of its clamps. The dwarf secured a fresh board and cleared the space behind it.
 
-"Give it a little nudge. No more pressure than you would use to test whether paint is dry."
+Ordan pointed to the center of the new board. "Give it a little nudge. No more pressure than you would use to test whether paint is dry."
 
 I brought my left fingertip to the board and paused with its rough grain against my skin. Ordan was watching from beside the shields, and nobody stood behind the target. Only then did I give the wood the slight pressure he had asked for. The clamp tore free with a shriek. Before I could pull my finger away, the board struck the wall and splinters whipped back across the sand. I ducked, lost my footing, and landed on my elbow as mortar burst outward above me. The impact drowned out whatever someone was shouting.
 
@@ -172,9 +172,9 @@ After that, everyone stood farther away while we tested ordinary movements. Hold
 
 "So I can touch things," I said.
 
-"Until you start pushing," Ordan answered, retrieving the rod from a safe distance. "This is offensive."
+Ordan retrieved the rod from a safe distance. "Until you start pushing. This is offensive."
 
-Corven made the mage write it down. *The window already has a name for it. Please do not give it ideas.* **Inverse Impact** worked as advertised. The harder I tried to strike or shove, the less happened. Ease off, and the result grew. Ease off too much, and the man responsible for the yard grew nervous. Held objects carried the effect too: a gently tossed pebble dented an iron plate, while the blunt practice sword bounced when I swung hard but cut through leather and deep into the post when I moved it carefully. Ordan folded cloth over my palm to keep splinters out, and the next target still flew.
+Corven made the mage write it down. *The window already has a name for it. Please do not give it ideas.* **Inverse Impact** worked as advertised. The harder I tried to strike or shove, the less happened. Ease off, and the result grew. Ease off too much, and Ordan shifted his shield farther in front of him. Held objects carried the effect too: a gently tossed pebble dented an iron plate, while the blunt practice sword bounced when I swung hard but cut through leather and deep into the post when I moved it carefully. Ordan folded cloth over my palm to keep splinters out, and the next target still flew.
 
 "One final test," Corven said.
 
@@ -182,7 +182,7 @@ Ordan fetched a discarded block of granite with flat, chiseled faces. He traced 
 
 "Will it mind if I touch it?"
 
-"I will mind if you touch anything else."
+Ordan stopped tracing the seam and looked at my hand. "I will mind if you touch anything else."
 
 They put it in a sand-filled trough before a stone backstop, then retreated behind shields. My hard shove accomplished little, while a lighter one dragged the granite forward.
 
@@ -192,15 +192,15 @@ I could measure the pressure in my fingertip no better than I could measure how 
 
 Someone shouted below as the loaded chain groaned, and I heard running feet before I could see who was moving. I reached toward the table for balance, only for Ordan to seize my wrist and stop my hand short of the edge. He shouted workers off the walkway while sand trickled from the joint above the damaged pier. I could not stop watching the crack, expecting the arch to follow each little fall of grit.
 
-"Do not touch the mountain." There was no joke in his voice.
+"Do not touch the mountain." Ordan's voice had lost every trace of the joke about the printer.
 
 "I was only…"
 
-"I saw."
+Ordan did not let go of my wrist. "I saw."
 
 I looked at the hand holding mine. *That will not protect either of us if I push him away.* I had been waiting for the reward, the moment everyone realized the tired man from the train was secretly useful. Instead, I remembered accepting a cup from a servant and pictured someone stumbling on a crowded train, my hand reaching out to steady them. *What happens if I am trying not to hurt someone?* "No more," I said. It came out quietly, and I had to draw another breath before I could look at Corven.
 
-"We need to establish…"
+Corven began, "We need to establish…"
 
 "You need to establish how to send me home. I need everyone to stop giving me things to hit."
 
@@ -212,25 +212,25 @@ The warning bell rang below us. One workshop after another fell silent until I c
 
 While workers cleared the terrace below, they took me into a room beside the yard and gave me a wet cloth for my knuckles. The warning bell was still ringing when Corven read the final appraisal. "Bound curse. No safe method of suppression with our available wards or charms. Uncontrolled impact hazard. Unfit for royal service."
 
-"You called me here," I said. The wet cloth had warmed against my knuckles. I unfolded it and folded it again, trying to find something to do with my hands while Corven avoided my eyes.
+"You called me here," I said. The wet cloth had warmed against my knuckles. I unfolded it and folded it again, trying to find something to do with my hands while Corven's eyes stayed on the appraisal.
 
 "The invocation will still be examined. For now, the council cannot keep you above occupied terraces."
 
 They had asked for me, yet somehow the verdict made it sound as though I had applied for the wrong job. The official decision was temporary relocation: **House Obsidia** thanked me for my cooperation and sent me to a suitable distance from inhabited structures.
 
-"The survey lodge on the southern road," he explained. "A keeper has been notified. You will have supplies."
+Corven looked down at the paper. "The survey lodge on the southern road. A keeper has been notified. You will have supplies."
 
 "And an escort?" Elyra asked.
 
-The guards were needed on the lower terraces, but the council wanted me gone today, and one councilor kept looking at the ceiling. Ordan offered to take me as far as the outer watchpost; before Corven could consider that settled, Elyra took the paper from him.
+The guards were needed on the lower terraces, but the council wanted me gone today, and one councilor kept looking at the ceiling. Ordan offered to take me as far as the outer watchpost. Corven started to fold the paper, but Elyra took it from him.
 
 "Someone goes after him tomorrow. Food, a guide, and answers."
 
 "When the supports are secure," Corven said.
 
-"Put tomorrow in writing."
+Elyra set the paper back in front of him. "Put tomorrow in writing."
 
-He added a line, then read it aloud at her insistence. "Further assistance when feasible."
+Corven added a line, then read it aloud at her insistence. "Further assistance when feasible."
 
 *I have processed invoices with better promises than that.*
 
@@ -238,23 +238,23 @@ I wanted to stay until they fixed what they had done. Then the bell sounded agai
 
 They gave me food, water, a blanket, a cloak, ten silver coins, and a sword with string around its scabbard. Ordan added leather gloves. "We tested cloth," I said.
 
-"They will protect your hands."
+Ordan held the gloves out by their cuffs. "They will protect your hands."
 
 "From what?"
 
-"Cold. Splinters. The things gloves normally protect hands from."
+"Cold. Splinters." His mouth pulled tight. "The things gloves normally protect hands from."
 
-*It would be nice to have a normal problem.*
+I took the gloves. *It would be nice to have a normal problem.*
 
 Elyra met us at the doors. She held out her hand, stopped, and closed it at her side. "I was going to apologize."
 
 "You can do that without the handshake."
 
-"I am learning." She had dust in her hair and looked tired. Whatever she had expected from a summoned champion, it had not included this.
+"I am learning." She had dust in her hair and looked tired. I doubted this was how she had expected to meet a summoned champion.
 
 "Make sure he keeps looking," I said, glancing toward Corven.
 
-"I will." I believed she intended to. It was the best thing I had been given all day.
+Elyra followed my glance. "I will." I believed she intended to. It was the best thing I had been given all day.
 
 Outside, cold air replaced the incense. There was snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me as far as the outer watchpost, where a soldier called him back to deal with a shifted chain housing. He stopped and glanced toward the city before turning to me and making me repeat the directions: main road, small bridge, three white stakes, lodge in the clearing. "No shortcuts. And Haruto? Power does not make you hard to kill."
 

@@ -126,11 +126,11 @@ At the sound of footsteps above the turn, I set the iron bar on the floor and st
 
 A boot and the edge of a lantern appeared on the stairs before a woman rounded the corner, holding the light away from her body. She came down wearing a short coat over a leather apron, her hair tied back beneath a cloth cap and gray dust marking one side of her face. A heavy wrench hung from her other hand as she stopped several steps from the gate to look at me.
 
-She raised the lantern to see me better, and I stared at the mud on her boots. One lace had a knot near its end. There was dust on her cheek, and an annoyed crease between her eyebrows. An actual person, looking back at me. "Are you alive?" I asked.
+She raised the lantern to see me better, and I stared at the mud on her boots. One lace had a knot near its end. There was dust on her cheek, and a deep crease between her eyebrows. An actual person, looking back at me. "Are you alive?" I asked.
 
 The crease deepened. "Yes."
 
-My next question disappeared. I could hear her coat shift as she adjusted the light, a small sound beneath all the machinery. She was still there. She had answered and was waiting for me to say something sensible. I had prepared questions about the exit and explanations for the food. None of them came out.
+My next question disappeared. I could hear her coat shift as she adjusted the light, a small sound beneath all the machinery. She was still there, her eyes on mine. I had prepared questions about the exit and explanations for the food. Instead, I had asked whether she was alive. I could feel my face warming, and none of the sensible questions came out.
 
 My hands started toward the bars. I kept them at my sides and bowed my head instead. I did not trust myself to remember how I was holding something while trying to speak. "Thank you."
 
@@ -148,7 +148,7 @@ As I approached the gate, she raised the lantern to examine me through the bars,
 
 "A slime has it."
 
-After considering that, she looked at the pad again. "Those are the kneeling pads from the basin workroom."
+Her mouth opened a little, then closed. She looked at the pad again. "Those are the kneeling pads from the basin workroom."
 
 I looked down at the pad. Its cord was plainly visible, wrapped around my foot exactly where a worker's knee should have been. "Are they yours?" I asked, resisting the useless impulse to hide it behind my other leg.
 
@@ -180,7 +180,7 @@ She set the lantern on a bracket beside the gate and tucked the wrench into a lo
 
 I thought of the bundle beside the clean iron, and the bench someone had moved to keep the door open. They had expected to come back. "I took one piece of bread and the bruised apple."
 
-"Then there is still something for me. You were hungry. That is what the bread is for."
+She glanced toward the arch, then back at me. "Then there is still something for me. You were hungry. That is what the bread is for."
 
 I looked at her, waiting for the rest. She only checked that the lantern was secure on its bracket. "I am not working down here," I said. It seemed like something she ought to know before deciding I had been entitled to eat it.
 
@@ -188,7 +188,7 @@ I looked at her, waiting for the rest. She only checked that the lantern was sec
 
 She rubbed a dusty knuckle beneath one eye. It left another mark. She looked tired, though she was considerably better equipped for it than I was.
 
-"My name is Haruto Minase."
+I straightened as much as my leg allowed. "My name is Haruto Minase."
 
 "Nessa."
 
@@ -198,7 +198,7 @@ Nessa glanced up the stairs. "Normally. The upper service stair is beyond that t
 
 I looked past her toward the orange light. I had been expecting her to point, open the gate, and let me follow her up. The stairs were there. The way out still wasn't. "You came down here on purpose?"
 
-"I repair the water gates. Water from the mines above drains through this reservoir. If the outlets clog, it backs up into tunnels people still use. Yesterday, I came to replace a band on a leaking pipe."
+She turned her head toward the pipe. "I repair the water gates. Water from the mines above drains through this reservoir. If the outlets clog, it backs up into tunnels people still use. Yesterday, I came to replace a band on a leaking pipe."
 
 The brighter iron around the wooden pipe made sense now, along with the tools beside the wet mug. "You finished that?"
 
@@ -216,7 +216,7 @@ The bridge, the weight, the water spilling out of the basin. Each had seemed lik
 
 I lowered my eyes to the silver stitches on my gloves, then wished I had kept looking at her. She had stopped talking.
 
-She noticed. "Were you near it?"
+Her gaze dropped to my gloves. "Were you near it?"
 
 "Very."
 
@@ -232,7 +232,7 @@ She stopped rubbing her eye. "You went through the broad entrance?"
 
 "One step."
 
-"And came back out?"
+Nessa glanced past me toward the arch. "And came back out?"
 
 "Eventually."
 
@@ -240,7 +240,7 @@ She stopped rubbing her eye. "You went through the broad entrance?"
 
 I looked back toward the reservoir. I had knocked the guard under a counterweight and broken part of its doorway. Whatever the workers normally relied on, I had given Nessa a reason to check it again.
 
-She lifted the lantern from its bracket and looked past me again, toward the passage and the reservoir beyond it. When she turned back, the crease between her eyebrows had changed. She hung the lantern on the bracket again before asking, "Was the door still closed when you left?"
+She lifted the lantern from its bracket and looked past me again, toward the passage and the reservoir beyond it. When she turned back, the crease between her eyebrows had deepened. She hung the lantern on the bracket again before asking, "Was the door still closed when you left?"
 
 "There is an opening at the bottom now."
 
@@ -278,7 +278,7 @@ Then she pointed at the bar. "Leave that where it is for the moment."
 
 I did, leaving the bar where it was. She took the lantern off its bracket and lowered it to check the space around my feet, then looked at my hands again. I wanted to tell her I wasn't dangerous to her. Instead, I stayed where she had asked me to stand.
 
-"I believe you got out of that chamber," she said. "I would rather hear the rest from this side of the gate."
+Nessa looked up from my hands to my face. "I believe you got out of that chamber. I would rather hear the rest from this side of the gate."
 
 I let out a breath I had been holding for longer than I realized. "You will let me through?"
 
@@ -286,7 +286,7 @@ I let out a breath I had been holding for longer than I realized. "You will let 
 
 "I can."
 
-She did not smile, but she no longer looked as though she was deciding where to swing the wrench.
+She did not smile. I stopped watching the wrench at her belt quite so closely.
 
 * * *
 
@@ -314,9 +314,7 @@ Her eyes went to the dried line on my forearm. She returned to the latch.
 
 "On the way toward the old lift."
 
-"We do not use that branch. From the upper galleries, we cross the bridge outside the sorting room, take the aisle beside the trough, and go down the stairs to the junction. Then we follow the gutter to the basin."
-
-She pointed to the broken crossing I had drawn. "I went that way yesterday, left the food in the workroom, and came back across to repair the pipe. When the bridge fell, it cut me off from the supplies. I have not been back since."
+Nessa followed the route on my drawing with her finger. "We do not use that branch. From the upper galleries, we cross the bridge outside the sorting room, take the aisle beside the trough, and go down the stairs to the junction. Then we follow the gutter to the basin." She pointed to the broken crossing I had drawn. "I went that way yesterday, left the food in the workroom, and came back across to repair the pipe. When the bridge fell, it cut me off from the supplies. I have not been back since."
 
 "So you do not pass the wolf or the big chamber?"
 
@@ -326,11 +324,7 @@ I had taken the wrong branch, followed the wrong stairs, and kept walking past t
 
 "These two rooms look almost the same," I said. "I thought I had come around in a circle."
 
-Nessa brought the lantern closer. I held the slate flat without pressing it against the gate. "There are more than two," she said.
-
-I stared at her.
-
-"They used the same junction wherever the galleries divided."
+Nessa brought the lantern closer. I held the slate flat without pressing it against the gate. "There are more than two." I stared at her until she went on. "They used the same junction wherever the galleries divided."
 
 "That seems unhelpful."
 
@@ -338,7 +332,7 @@ I stared at her.
 
 "That is another problem."
 
-"You cannot read them?"
+Her eyebrows lifted. "You cannot read them?"
 
 "No."
 
@@ -380,9 +374,9 @@ She looked at the empty scabbard. "Before or after you found the sword?"
 
 "Before. The sword is somewhere under the fall you heard."
 
-Nessa pressed her lips together.
+Nessa pressed her lips together. I looked at the empty scabbard, suddenly less certain whether that meant she was trying not to laugh or trying not to ask another question.
 
-"I have had a difficult few days," I said.
+My face warmed again. "I have had a difficult few days."
 
 "I was beginning to suspect that."
 
@@ -418,7 +412,7 @@ She turned the key again. This time, the bolt slid all the way back. I put the s
 
 The flooded ledge might be broken, the water was still rising, and I had no money and was hungry again. But I had heard her say we could check the route. When I looked up, she was waiting for me to give her room. Nessa eased the wrench out from beneath the rail and hooked it back onto her belt before lifting the lantern and pulling the gate toward her. The hinges ground together with a long metallic groan that carried through the windows and over the water. We both listened until the echo faded.
 
-"Come through. Keep to the side with the windows. Stay clear of the pipe."
+Nessa held the gate open. "Come through. Keep to the side with the windows. Stay clear of the pipe."
 
 I stepped across the threshold, keeping my hands close to myself. There was room beside her on the landing. "Thank you," I said again.
 

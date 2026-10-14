@@ -26,9 +26,9 @@ While I was checking the last basket, a mouse emerged from a crack beside the do
 
 Its ears moved. It stayed beside the crack.
 
-"I am having a difficult day." That seemed to be enough information. It slipped beneath the shelf, found one of the fallen seeds, and carried it back toward the doorway. I lowered the basket lid and crouched, keeping a comfortable distance between my hands and the floor.
+"I am having a difficult day." That seemed to be enough information. The mouse slipped beneath the shelf, found one of the fallen seeds, and carried it back toward the doorway. I lowered the basket lid and crouched, keeping a comfortable distance between my hands and the floor.
 
-After pausing to examine a loose thread beside my wrapped foot, the mouse decided against it and went to the basin. I watched it drink, its nose twitching between mouthfuls, until it stopped to wash its face. It was too occupied to care about the stranger beside it. I found myself breathing more quietly so I would not frighten it. The room held only the trickle and those small movements. I still glanced at the doorway whenever something clicked in the gutter. It took effort to believe I could stay here without waiting for the next attack.
+After pausing to sniff a loose thread beside my wrapped foot, the mouse went to the basin. I watched it drink, its nose twitching between mouthfuls, until it stopped to wash its face without once looking up at me. I found myself breathing more quietly so I would not frighten it. The room held only the trickle and those small movements. I still glanced at the doorway whenever something clicked in the gutter. It took effort to believe I could stay here without waiting for the next attack.
 
 I picked up a seed from the shelf and placed it beside the wall, reminding myself that carrying things and setting them down had been safe all morning. The mouse waited until my hand was well away before collecting it. "You are welcome," I said.
 
@@ -48,9 +48,7 @@ I took the sword out to practice where the corridor widened. A hard swing barely
 
 What worried me most was how difficult it was to produce the same result twice. One tap that seemed gentle broke a tile, while another broke a whole step, though afterward I found an old crack running through its underside. The stone mattered, as did the difference between what I meant to do and what my cold, shaking fingers actually did. I had no useful way to measure either before something broke. *Would a handshake destroy someone? Would a high-five remove the arm? Could I ever pet a cat again?*
 
-I stopped with the sword half raised. "No. That is unacceptable."
-
-My voice sounded small in the empty passage, but the objection was sincere. Getting home, finding food, and avoiding another sword mattered; I would still like to have something waiting on the other side of survival besides a lifetime of apologizing from across the room. I put the sword away and closed my hands carefully. I would learn to control this cursed skill, escape the dungeon, and find the people who had summoned me so I could make them finish the job properly. And someday, I would pet a cat. Normally.
+I stopped with the sword half raised. "No. That is unacceptable." My voice sounded small in the empty passage, but the objection was sincere. Getting home, finding food, and avoiding another sword mattered; I would still like to have something waiting on the other side of survival besides a lifetime of apologizing from across the room. I put the sword away and closed my hands carefully. I would learn to control this cursed skill, escape the dungeon, and find the people who had summoned me so I could make them finish the job properly. And someday, I would pet a cat. Normally.
 
 I left the splintered post and walked along the corridor again. The gutter continued beside the wall. I followed it beneath two more blue lamps, keeping clear of the loose stones I had used for practice. The floor sloped down toward a bend that hid the passage ahead.
 
@@ -79,7 +77,7 @@ I stopped just inside the doorway, afraid even of shifting my feet. For a moment
 > **Threat:** Lethal.
 > **Recommendation:** RUN.
 
-"Oh. Oh, n—" Malgorth rose in a rattle of bones sliding from its lap. Its upper hands closed around a battle-axe and a broad sword, while the lower two collected a hooked blade and something that looked like an iron door attached to a handle.
+"Oh. Oh, n—" The rest caught in my throat as Malgorth rose in a rattle of bones sliding from its lap. Its upper hands closed around a battle-axe and a broad sword, while the lower two collected a hooked blade and something that looked like an iron door attached to a handle.
 
 "Oh no!" Its first step shifted bones across the floor. The old sword moved with its chest, apparently more of an accessory than a wound. I backed toward the threshold, keeping my eyes on the nearest weapon.
 
@@ -107,7 +105,7 @@ A small, deliberate push split the haft. The hooked end dropped beside my knee, 
 
 Malgorth looked at the short piece of wood in its lower hand and let it fall. Three weapons remained.
 
-The broad sword scraped over the top of the pillar. I crouched until my nose almost touched my knee. Its edge knocked stone loose above me, and the pieces landed on my shoulders. The monster had no reason to let me finish congratulating myself. An axe strike stopped me from getting around the other side, scattering fragments beneath my shoe. I almost fell with my weight half shifted. My calf had begun to throb, hurting when I stood on it and more when I tried to move quickly.
+The broad sword scraped over the top of the pillar. I crouched until my nose almost touched my knee. Its edge knocked stone loose above me, and the pieces landed on my shoulders. Malgorth gave me no time to finish congratulating myself. An axe strike stopped me from getting around the other side, scattering fragments beneath my shoe. I almost fell with my weight half shifted. My calf had begun to throb, hurting when I stood on it and more when I tried to move quickly.
 
 The entrance slab was only a few paces away. If I could get a hand against it and choose where to push, I might make an opening. I looked at the doorway while Malgorth worked the axe out of the floor. Above the slab, a chain ran to a wheel fixed beneath the ceiling. A second length crossed toward the counterweight's frame. I could not tell what would come down if I broke the stone holding them. The platform upstairs had looked usable until a piece fell out of it. This mechanism was attached to something that could put an axe through the floor. I would have to reach the slab before I could make any of those questions matter.
 
@@ -192,7 +190,7 @@ Part of my sword's hilt showed beneath chunks of stone piled against the broken 
 
 The cloak had a small tear where the hook caught it. I brought its edges together over my knees and felt the ring's warmth return as the sweat cooled on my hand. I had survived. It seemed reasonable to spend a moment understanding that before I tried to do anything else. Then I looked back at the waiting question. For once, the window was offering information instead of documenting my humiliation after the event. *An explanation. That would be new.*
 
-I stared at YES. The letters brightened under my gaze. "How much worse could this possibly get?" "Yes," I said.
+I stared at YES. The letters brightened under my gaze. "How much worse could this possibly get?" The question came out hoarse. I swallowed the dust in my throat and made myself answer. "Yes."
 
 > **Additional condition:** Affection Multiplier.
 
