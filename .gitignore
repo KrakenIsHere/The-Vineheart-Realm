@@ -1,1 +1,5 @@
 /.obsidian/plugins/smart-second-brain
+# Local text-to-speech model files
+*.onnx
+*.onnx.backup
+
