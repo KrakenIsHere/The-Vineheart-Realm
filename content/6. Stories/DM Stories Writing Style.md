@@ -24,6 +24,8 @@ Establish who is speaking when a conversation begins. A clear exchange between t
 
 Dialogue belongs to the scene. Keep a speaker's related words and actions together, including a response that pauses and continues. Use meaningful movement, hesitation, facial expressions, or changes in voice to show a reaction and help identify the speaker. A frightened statement by the viewpoint character should carry that fear into their next action. For other characters, show what the viewpoint character can observe and leave the meaning open to interpretation. Choose reactions at meaningful turns; every line does not need its own gesture.
 
+Keep the reader close to the viewpoint character's feelings while they speak and act. Name those feelings directly when it helps: disbelief, fear, anger, relief, pleasure, or another emotion that fits the moment. Use a mix of direct feeling, vocal delivery, and personal thought. A brief phrase such as "in disbelief" can clarify a line's emotional delivery. Let humor grow from the character's experience, with room for the feeling behind it to register. Add emotional detail where it changes how a line is understood; keep the passage brief when the surrounding prose already carries that feeling.
+
 ## Action & surroundings
 
 Let dangerous moments unfold through what the character notices, anticipates, and tries to do. Show the movement that succeeds or fails, the physical consequence, and the next response. Give fear and uncertainty weight through choices, mistakes, hesitation, pain, and interrupted plans.

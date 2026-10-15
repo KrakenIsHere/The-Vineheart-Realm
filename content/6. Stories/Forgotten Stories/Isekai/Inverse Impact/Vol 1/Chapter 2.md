@@ -84,13 +84,13 @@ Corven followed my finger to a patch of empty air. "What do you see?"
 
 By the time I finished reading the windows aloud, nobody was smiling. The mage went to fetch another instrument while I searched for a button marked CANCEL. There was none.
 
-"Send me back," I said, lowering my hand. I watched Corven instead of the window, waiting for him to call someone over or point toward whatever had brought me here.
+"Send me back," I said urgently, lowering my hand. I watched Corven instead of the window, waiting for him to call someone over or point toward whatever had brought me here.
 
 He looked away. "The invocation found you. It did not leave us a path to follow."
 
 I had to swallow before I could answer. Until he said it, some part of me had been waiting for the mistake to be corrected. My alarm began ringing. For several seconds, nobody spoke while my phone reminded me to wake up and get off a train I was no longer on. My mother would call on the weekend to ask whether I was eating properly. I could not imagine explaining this. My thumb missed the button on the first attempt. I stopped the alarm and held the silent phone against my palm, reluctant to put away the last familiar sound in the room.
 
-I lifted my eyes from the silent phone. "Then find one."
+I lifted my eyes from the silent phone. "Then find one." I was scared enough that it came out as an order.
 
 Corven took a breath before answering. "We will examine the workings."
 
@@ -212,7 +212,7 @@ The warning bell rang below us. One workshop after another fell silent until I c
 
 While workers cleared the terrace below, they took me into a room beside the yard and gave me a wet cloth for my knuckles. The warning bell was still ringing when Corven read the final appraisal. "Bound curse. No safe method of suppression with our available wards or charms. Uncontrolled impact hazard. Unfit for royal service."
 
-"You called me here," I said. The wet cloth had warmed against my knuckles. I unfolded it and folded it again, trying to find something to do with my hands while Corven's eyes stayed on the appraisal.
+"You called me here," I said, my voice shaking with anger. The wet cloth had warmed against my knuckles. I unfolded it and folded it again, trying to find something to do with my hands while Corven's eyes stayed on the appraisal.
 
 "The invocation will still be examined. For now, the council cannot keep you above occupied terraces."
 
@@ -248,11 +248,11 @@ I took the gloves. *It would be nice to have a normal problem.*
 
 Elyra met us at the doors. She held out her hand, stopped, and closed it at her side. "I was going to apologize."
 
-"You can do that without the handshake."
+"You can do that without the handshake," I said gently.
 
 "I am learning." She had dust in her hair and looked tired. I doubted this was how she had expected to meet a summoned champion.
 
-"Make sure he keeps looking," I said, glancing toward Corven.
+"Please make sure he keeps looking," I said, glancing toward Corven.
 
 Elyra followed my glance. "I will." I believed she intended to. It was the best thing I had been given all day.
 
@@ -288,7 +288,7 @@ He laughed. They searched my outer pockets, pocketed the foreign coins, and disc
 
 He gave me a flat look. I had reached the limit of his generosity.
 
-I stayed on my knees until the last man disappeared around the bend. When I tried to stand, the bruise under my ribs made me stop halfway and wait for a breath that did not catch. I collected my wallet and the scattered cards, brushing the road dust off them before putting them away. The lodge was still somewhere ahead. I hoped its keeper would believe a story as stupid as the one I actually had.
+I stayed on my knees until the last man disappeared around the bend. When I tried to stand, the bruise under my ribs made me stop halfway and wait for a breath that did not catch. I collected my wallet and the scattered cards, brushing the road dust off them before putting them away. I took the silver from the wall, hating that I could not afford to leave it. The lodge was still somewhere ahead. I hoped its keeper would believe a story as stupid as the one I actually had.
 
 * * *
 

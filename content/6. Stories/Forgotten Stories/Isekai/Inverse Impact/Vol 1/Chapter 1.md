@@ -59,13 +59,13 @@ Testing my weight on both feet revealed that the cloth around my left sock had s
 
 * * *
 
-Yesterday, I had been **Haruto Minase**, twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet when I fell asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that was happening. People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities seemed to disappoint them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
+Yesterday, I had been Haruto Minase, twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet when I fell asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that was happening. People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities seemed to disappoint them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
 
-Since then, I had been **robbed**, **chased** by slimes, and **dropped** into the **Hanging Halls** through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
+Since then, I had been robbed, chased by slimes, and dropped into the Hanging Halls through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
 The sword at my hip had come from a rack beside an empty guardroom, after several corridors spent insisting I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead. I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. If rescue depended on someone calling me, there were already several larger problems with the plan.
 
-The blue windows stayed at the edge of my vision as I stepped into the corridor, following every turn of my head. *If they know what that monster was, perhaps they know the way out.* "Can you tell me where the exit is?" When the writing stayed exactly as it was, I tried a request that sounded more like something a window might understand. "Show me my status." The wolf's assessment faded beneath a larger window bearing my name.
+The blue windows stayed at the edge of my vision as I stepped into the corridor, following every turn of my head. *If it knew what that monster was, perhaps it knows the way out.* "Can you tell me where the exit is?" When the writing stayed exactly as it was, I tried a request that sounded more like something a window might understand. "Show me my status." The wolf's assessment faded beneath a larger window bearing my name.
 
 > **Name:** Haruto Minase.
 >
@@ -82,9 +82,9 @@ The blue windows stayed at the edge of my vision as I stepped into the corridor,
 
 The level and armor numbers were unchanged since the summoning hall, but my hit points now read five, down from the seven I had before anyone started giving me things to punch. I looked from the cut beneath my sleeve to the number, which offered no useful estimate of how many more mistakes I could survive. Five sounded like a quantity I should stop spending. There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own. Then I read the new designation.
 
-"Catastrophic Pacifist?" The window remained politely blue. "And please stop calling it Gentle Hands. That sounds like something you book an appointment for." Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
+"Catastrophic Pacifist?" I snapped. The window remained politely blue. "And please stop calling it Gentle Hands. That sounds like something you book an appointment for." Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
 
-The passage divided ahead, with one branch climbing beneath an arch with a cracked corner and the other sloping down beside a pair of bronze rails. Blue lamps lit both ways, and the same damp smell came from each. I stopped at the junction and looked from the upper arch to the lower passage, hoping for the kind of obvious difference a person in a story ought to notice. I studied the marks cut into the wall beside the upper branch: a square, three short lines, and something shaped like a hook. They could have meant EXIT, STORAGE, or PLEASE DO NOT FEED THE WOLF. The translation spell had given me speech and apparently left signs as an exercise.
+The passage divided ahead, with one branch climbing beneath an arch with a cracked corner and the other sloping down beside a pair of bronze rails. Blue lamps lit both ways, and the same damp smell came from each. I stopped at the junction and looked from the upper arch to the lower passage, hoping for the kind of obvious difference a person in a story ought to notice. I studied the marks cut into the wall beside the upper branch: a square, three short lines, and something shaped like a hook. They could have meant EXIT, STORAGE, or PLEASE DO NOT FEED THE WOLF. The translation spell had given me speech and apparently left reading out of the deal.
 
 I crouched beside the junction and arranged three loose pebbles in a triangle, lifting and placing each one without pressing it into the floor. Carrying and placing them was harmless; I had learned enough about my hands to keep it at that. The arrangement looked deliberate enough to recognize if I came back, and perhaps someone passing through would realize an intelligent creature had been here. I moved one pebble to make the triangle more even, then decided I had spent quite enough time advertising my intelligence.
 
@@ -121,7 +121,7 @@ I watched the first one's hands. When it raised the blade, its elbow left a smal
 
 Rubble was piled unevenly beside the base. I shifted toward it, making the skeleton change direction. The move hurt. It still felt better than giving it a clear path to my head. I edged around the base, keeping low enough that the stone still covered my head. The first skeleton followed with its sword near its knee. Its boot caught between two stones as it stepped over the rubble, and the blade dipped while it looked down.
 
-I brought my good foot beneath me. My hip hurt when I rose, and for a moment I was certain I would be too slow. Its forehead came within reach. I lifted my hand before it could look up. "No hard feelings."
+I brought my good foot beneath me. My hip hurt when I rose, and for a moment I was certain I would be too slow. Its forehead came within reach. I lifted my hand before it could look up. "No hard feelings," I said shakily.
 
 I flicked it.
 
@@ -131,7 +131,7 @@ Somewhere on the other side, something enormous screamed.
 
 I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through a mouth that tasted of blood. My lip was bleeding, my hip hurt, and whatever had made that sound, now knew something was happening here.
 
-"That was a flick," I told my finger.
+"That was a flick?" I asked my finger in disbelief.
 
 A treasure chest dropped from the ceiling.
 
@@ -181,13 +181,13 @@ A handwheel and a lever were fixed to the railing on the right of the opening, w
 
 High up the shaft, light shone through a break in the stonework. For a moment, the pale patch looked like sky, but leaning sideways changed the angle enough to reveal its glass cage. Another blue lamp. *Maybe the platform could get me closer to the surface.*
 
-I moved beside the handwheel and followed its short metal shaft with my eyes to a large toothed gear, where a catch rested between two teeth. An iron cover hid the rest of the machinery, leaving me with no idea what the lever did. I assumed the catch was keeping the platform from dropping at an overly exciting speed.
+I moved beside the handwheel and followed its short metal shaft with my eyes to a large toothed gear, where a catch rested between two teeth. An iron cover hid the rest of the machinery, leaving me with no idea what the lever did. I assumed the catch was keeping the platform from dropping. Imagining the speeds a drop that long could achieve made me shudder.
 
 A dusty painted board rested on the walkway beside the controls. Holding it by the edges beneath the lamp over the gate, I could make out one figure at the wheel and another inside the platform with a load of boxes. Two people. I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't investigate without getting in, or stop it if anything started moving in a way I disliked.
 
 I closed both hands around the cold rim of the handwheel and tried a firm, steady turn, the same sort of pressure that had moved a board normally in the training yard. The mechanism resisted before scraping through a short movement that tightened the chain overhead and raised the platform a few inches. When I stopped, it stayed where it was.
 
-I was beginning to think this might work when something clicked beneath the platform and a narrow strip of metal came free. I stopped turning the wheel and watched it fall past the blue light. The silence lasted long enough for me to imagine standing where that piece had been.
+For a moment, I thought I might actually get out, and the relief nearly made me laugh. I started turning the wheel again. Then something clicked beneath the platform and a narrow strip of metal came free. I stopped turning and watched it fall past the blue light. The silence lasted long enough for me to imagine standing where that piece had been.
 
 When it finally struck something below, I took my hands off the wheel and stepped back from the opening. The catch held. The stone beneath my feet was solid. I stayed there until I could look at the platform without wanting to move farther away.
 
