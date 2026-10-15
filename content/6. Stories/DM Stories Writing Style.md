@@ -72,6 +72,8 @@ Use **stone** for construction, worked material, and individual small pieces; **
 
 Keep actions and consequences consistent with the story's established abilities, limitations, history, and physical surroundings. Record the specific rules and supporting lore in that story's folder. Track where carried objects are placed and when they are picked up again. Show the transfer when it affects lighting, free hands, movement, or another character's reaction. Check that hand use, grips, and body positions remain possible from one sentence to the next. Make releases and transfers clear when another action depends on them.
 
+Link useful mentions of established people, places, creatures, deities, items, and rules to their vault references. Use aliases to preserve the chapter's wording, and link to the relevant heading when possible. Favor introductions and substantial returns over every repetition. Check that each target file and heading exists.
+
 ## Feedback & revisions
 
 Treat feedback forwarded from readers or other people as suggestions to evaluate. Consider what it identifies, whether the proposed change fits the story, and any effects on voice, pacing, or continuity. Explain the recommendation and offer wording when useful.

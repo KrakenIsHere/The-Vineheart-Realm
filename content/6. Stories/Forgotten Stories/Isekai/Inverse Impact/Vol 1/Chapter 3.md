@@ -12,7 +12,7 @@ aliases:
 
 # Chapter 3: Somewhere to Stop
 
-I pulled my knees closer to the wall, away from the gap in the floor and the fallen chain trailing into it. From where I sat, opposite the chamber's entrance, I could still see the stone slab that had trapped me inside. Malgorth was pinned beneath the fallen counterweight and the wreckage of its iron cradle, between me and that doorway.
+I pulled my knees closer to the wall, away from the gap in the floor and the fallen chain trailing into it. From where I sat, opposite the chamber's entrance, I could still see the stone slab that had trapped me inside. [[DM Gravebound Colossus#Malgorth|Malgorth]] was pinned beneath the fallen counterweight and the wreckage of its iron cradle, between me and that doorway.
 
 My sword's hilt stuck out of the rubble around the broken pillar, to the right of the doorway as I faced it. Above the counterweight, daylight still showed through the damaged ceiling shaft. The sky was right there, but reaching it would mean climbing onto the wreckage in the middle of the room. *What might be up there? Hopefully nobody finds the shaft and falls through.*
 
@@ -30,7 +30,7 @@ The empty scabbard at my hip was too wide to hold it safely. I wrapped the blade
 
 Beside the pillar, the sword's hilt was close enough to take. I slowed and followed the blade into chunks of stone pressed against iron torn from the cradle, where one piece rested across the metal above it. Unable to tell what else that piece was holding up, I curled my fingers around the wrapped dagger in my pocket instead and passed the hilt without reaching for it, keeping to the narrow space beside the wall. I had been counting on seeing that hilt in my hand again. Leaving it behind made the little dagger in my pocket feel very small.
 
-The chain kept rattling at the far end of the room as I reached the entrance and faced the stone slab separating me from the passage back to the basin. Malgorth's remains and the floor gap were behind me now. Although the wheel above the doorway was still attached, its chain hung slack across the rubble beside the pillar, leaving me no visible way to raise the slab.
+The chain kept rattling at the far end of the room as I reached the entrance and faced the stone slab separating me from the passage back to the [[DM World Implications#Basin & workroom|basin]]. Malgorth's remains and the floor gap were behind me now. Although the wheel above the doorway was still attached, its chain hung slack across the rubble beside the pillar, leaving me no visible way to raise the slab.
 
 I had a fairly good idea how to break it. Crouching beside the slab's lower right corner, nearest the ruined pillar, I found a crack a little above the floor, where the axe had struck during the fight and left a chip at the base. If I pushed toward the passage, the broken pieces would go away from me. I remembered the stretch of corridor immediately outside. There had been room to stand there.
 
@@ -101,7 +101,7 @@ After several seconds, the phone started with eighteen percent battery remaining
 
 A dull impact came from farther down the passages, stopping me mid-chew. When another followed, I waited with the bread in my hand until enough silence had passed to make swallowing possible. Nothing came to the room, and later I noticed that my shoulders had lowered without my telling them to. When I checked the time again, a blue window appeared above the phone.
 
-> **Short Rest:** Complete.
+> **[[Gameplay Changes#Rest:|Short Rest]]:** Complete.
 > **Hit Points:** 4 / 7.
 
 An hour of sitting, eating, and leaving my leg alone had counted as something. Looking from the writing to the barred door, I thought of the shorter nap behind the broken bench and all the pauses spent listening for another sword. None had given me this. The tight ache in my jaw had eased while I sat there. I opened my right hand, then closed it without having to stop halfway. My calf still hurt when I shifted it, but the throbbing no longer demanded all my attention. Two points back. The cut had not vanished, and I was still tired enough to resent the distance between the floor and the table. But I could move my hand more easily. I touched my jaw again, carefully, to make sure the improvement was real.
@@ -120,7 +120,7 @@ I woke up halfway through a dream about missing my stop. My elbow struck the und
 
 I sat back against a table leg and looked at the clock. Nine hours had passed since I settled beneath the table. The battery was at fourteen percent. I switched the phone off and held it for a moment before putting it away. For the first time since the summons, I had slept without waking because something fell, struck, or tried to eat me.
 
-Standing made my calf feel stiff, though the dried bandage showed no fresh blood. My right hand opened without the tight ache that had made every knot a negotiation. When I touched my bruised jaw, it was merely tender; the skeleton no longer seemed to be continuing its work overnight. The blue writing marked the sleep as a completed long rest, then showed my status.
+Standing made my calf feel stiff, though the dried bandage showed no fresh blood. My right hand opened without the tight ache that had made every knot a negotiation. When I touched my bruised jaw, it was merely tender; the skeleton no longer seemed to be continuing its work overnight. The blue writing marked the sleep as a completed [[Gameplay Changes#Rest:|long rest]], then showed my status.
 
 > **Name:** Haruto Minase.
 >
@@ -155,7 +155,7 @@ Near the brazier, I found charcoal and a scrap of slate, blank apart from number
 
 Once the names were written in Japanese, I sat with the drawing in my hands. My finger hovered above the basin, then followed the gutter without touching the slate. I could remember walking that stretch. The crooked line finally belonged to somewhere I had been, rather than somewhere I hoped the next door might lead. After spending most of yesterday hoping the next doorway would solve the last one, I had somewhere to come back to, water I could reach, and a picture of the routes that had failed. *Start here. Come back here. Try one way at a time.*
 
-I took off the cloak, folded it around the slate, and tucked the bundle into my belt before fetching Ordan's old gloves from my jacket. I wrapped the charcoal in one glove's cuff and used the other to gather up the spare cord, then tucked both beside the slate. They had found employment before I did.
+I took off the cloak, folded it around the slate, and tucked the bundle into my belt before fetching [[DM Inverse Impact Characters#Ordan|Ordan]]'s old gloves from my jacket. I wrapped the charcoal in one glove's cuff and used the other to gather up the spare cord, then tucked both beside the slate. They had found employment before I did.
 
 An iron bar about the length of my forearm was the last useful thing on the shelf, one end flattened into a narrow wedge. Holding it out tired my wrist, but carrying it at my side was manageable, and the metal had no cracks I could see. I took it in my left hand, leaving the dagger wrapped in my pocket. Neither was a sword, but I was still the person who had repeatedly dropped a sword whenever keeping it became inconvenient.
 

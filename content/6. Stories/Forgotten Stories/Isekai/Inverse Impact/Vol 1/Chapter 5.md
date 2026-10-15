@@ -14,7 +14,7 @@ aliases:
 
 "It broke the pillar first," I said, too quickly.
 
-Nessa stood beside me on the landing, with the open gate behind us. Through the narrow windows on our left, I could see the reservoir. The wooden pipe ran along the wall on our right. Ahead, the stairs climbed around the corner where her lantern light had first appeared.
+[[DM Inverse Impact Characters#Nessa|Nessa]] stood beside me on the landing, with the open gate behind us. Through the narrow windows on our left, I could see the [[DM World Implications#Reservoir & service route|reservoir]]. The wooden pipe ran along the wall on our right. Ahead, the stairs climbed around the corner where her lantern light had first appeared.
 
 Her eyes moved from my face to the empty scabbard. "Start before the pillar."
 
@@ -88,7 +88,7 @@ For a moment, I felt useless all over again. Then I glanced at the crushed wedge
 
 I moved away from the window to give her room. A cupboard stood beside a stool and a board of unreadable markings, with a coil of thick rope hanging alongside it. From its bottom shelf, Nessa took a cloth bag and shook it open, revealing rust stains around a hole near the seam. "First, I want something to eat," she said.
 
-"The workroom?"
+"The [[DM World Implications#Basin & workroom|workroom]]?"
 
 "You made a route to it. Show me." She slung the empty bag over her shoulder and took the lantern from its hook.
 
@@ -128,7 +128,7 @@ At the broken crossing, she held the lantern toward the fallen iron. She examine
 
 She held the lantern steady over the gap. I followed its light down to the carts, trying to picture her above them, carrying the bundle I had found. The hanging chain tapped a cart. I had been pleased to find daylight after the collapse. Nessa had come back to a crossing that wasn't there. When she lowered the lantern, I stepped out of her way and let her choose the next passage.
 
-We left the broken crossing behind and passed through the sorting room, where the skeleton still dragged its scraper along the trough. Nessa followed the aisle to the door at the stairs without looking toward it, while I kept pace with her and watched the wooden handle rise and fall beyond the rail.
+We left the broken crossing behind and passed through the sorting room, where the [[M.M. Monsters S#Skeletons|skeleton]] still dragged its scraper along the trough. Nessa followed the aisle to the door at the stairs without looking toward it, while I kept pace with her and watched the wooden handle rise and fall beyond the rail.
 
 "Does it ever stop?" I whispered.
 
@@ -192,7 +192,7 @@ It occurred to me that I was defending the most reassuring gift I had found in a
 
 At the doorway, she stopped. "Where were you trying to go before you fell?"
 
-"A survey lodge. On the southern road. Past a small bridge and three white stakes."
+"A [[DM World Implications#Survey lodge|survey lodge]]. On the southern road. Past a small bridge and three white stakes."
 
 "The survey road is above the old workings. You came down through the forest?"
 
@@ -200,7 +200,7 @@ At the doorway, she stopped. "Where were you trying to go before you fell?"
 
 "Did someone send you to the lodge?"
 
-"The palace."
+"The [[DM World Implications#Mountain court|palace]]."
 
 Her gaze moved from the empty scabbard to my face. I remembered that the man who had robbed me had advised against mentioning that part. Keeping it secret now would require lying to someone who had shared her bread and knew the stairs. "I was summoned," I said. "Apparently they wanted a champion."
 
@@ -216,7 +216,7 @@ I did not know how to explain a train to someone standing beside a brazier. I co
 
 Her voice grew quieter. "They sent you alone?"
 
-"Ordan took me to the watchpost. Then something needed repairing, and he went back. I was supposed to follow the main road."
+"[[DM Inverse Impact Characters#Ordan|Ordan]] took me to the watchpost. Then something needed repairing, and he went back. I was supposed to follow the main road."
 
 "What happened?"
 
@@ -465,13 +465,13 @@ At the darker patch I had seen from above, Nessa used the flat end of the wrench
 
 Then something struck iron inside the wall on my right. Nessa stopped.
 
-A recessed doorway opened a few paces ahead, its frame filled with bars. Beyond them, water dripped from the ceiling of a short vestibule leading to another barred gate farther inside. The next impact came from beyond the inner gate, accompanied by the low cry I had heard beneath Malgorth's chamber and across the reservoir. From here, it sounded like something straining to finish a breath it no longer needed.
+A recessed doorway opened a few paces ahead, its frame filled with bars. Beyond them, water dripped from the ceiling of a short vestibule leading to another barred gate farther inside. The next impact came from beyond the inner gate, accompanied by the low cry I had heard beneath [[DM Gravebound Colossus#Malgorth|Malgorth]]'s chamber and across the reservoir. From here, it sounded like something straining to finish a breath it no longer needed.
 
 A shape moved behind the inner bars as Nessa turned her lantern toward the recess. It had two arms. That was the first thing I checked. They belonged to a body much larger than mine, with a broad belly beneath a torn leather covering and gray skin hanging loose along one shoulder. One side of its mouth had collapsed, leaving teeth visible where the lip should have been. As it stepped toward the gate, a chain dragged from the shackle around its ankle, stretching back into the dark.
 
 The red writing appeared beside its head.
 
-> **Ogre Zombie**
+> **[[M.M. Monsters Z#Ogre Zombie|Ogre Zombie]]**
 >
 > **Creature:** Ogre Zombie (reanimated ogre).
 > **Creature Type:** Undead.

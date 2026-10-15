@@ -12,7 +12,7 @@ aliases:
 
 # Chapter 4: Signs of life?
 
-Leaving the basin workroom, I followed the gutter back toward the junction with my pebbles. The basin and, farther beyond it, Malgorth's chamber were behind me. I kept the gutter on my left until the passage rose and the water disappeared through a hole beneath the wall. I recognized the triangle before I reached it, the fourth stone still across its upper side. That small success improved my opinion of the entire morning.
+Leaving the [[DM World Implications#Basin & workroom|basin workroom]], I followed the gutter back toward the junction with my pebbles. The basin and, farther beyond it, [[DM World Implications#Malgorth's chamber|Malgorth's chamber]] were behind me. I kept the gutter on my left until the passage rose and the water disappeared through a hole beneath the wall. I recognized the triangle before I reached it, the fourth stone still across its upper side. That small success improved my opinion of the entire morning.
 
 Instead of trying the upper route to the broken lift again, I examined a dark recess opposite the two passages I knew. What I had mistaken for another empty nook opened onto a narrow staircase, hidden from the blue lamps by a turn in the wall. A scuff in the dust on the lowest step made me kneel, keeping my hands on my knees. Someone's heel had disturbed the pale layer, leaving a darker oval patterned with ridges. My remaining shoe had ridges too, but I had never stood on this step. I looked up the steps, caught by the possibility of following someone who actually knew where they were going.
 
@@ -24,7 +24,7 @@ Beyond it was a long room divided down the middle by a rail. On the left, where 
 
 Green light moved beside the trough.
 
-I pulled back behind the door, leaving only a narrow gap to look through. A skeleton stood on the other side of the rail. Its head was bent, but I had seen those same lights look up beneath a helmet, just before a sword came toward my face. When the scrape began again, I waited for it to stop and for the skeleton's head to turn. Instead, it drew a long wooden scraper toward itself until the end clacked against a stop, a strip of leather hanging over its shoulder. Without a helmet, breastplate, or sword, it lifted the scraper back to the near end and began another pass through an empty trough.
+I pulled back behind the door, leaving only a narrow gap to look through. A [[M.M. Monsters S#Skeletons|skeleton]] stood on the other side of the rail. Its head was bent, but I had seen those same lights look up beneath a helmet, just before a sword came toward my face. When the scrape began again, I waited for it to stop and for the skeleton's head to turn. Instead, it drew a long wooden scraper toward itself until the end clacked against a stop, a strip of leather hanging over its shoulder. Without a helmet, breastplate, or sword, it lifted the scraper back to the near end and began another pass through an empty trough.
 
 I watched three repetitions from behind the door without the skeleton turning toward me. Dust covered its shoulders and collected inside its rib cage; whatever it was doing, it had been doing it long enough to wear a pale line in the stone. I wondered whether it knew the trough was empty. Watching it lift the scraper again, I was suddenly sorry I could not ask. *No sword. No red window. That is a promising difference.*
 
@@ -94,7 +94,7 @@ I looked at the narrow strip of walkway beside the wall. That was where I would 
 
 I collected the slate and bar, climbed through, and marked my new opening on the map before looking out over the water.
 
-A broad reservoir spread below the railing, its surface streaked with trembling reflections from the blue lamps. Stone pillars rose through it to support beams overhead, with weights hanging from chains inside tall iron frames between them. Most were still, but one at the far end kept descending a little, catching with a metallic bang, and jerking upward again. It never completed the journey. That was the sound I had heard through several walls.
+A broad [[DM World Implications#Reservoir & service route|reservoir]] spread below the railing, its surface streaked with trembling reflections from the blue lamps. Stone pillars rose through it to support beams overhead, with weights hanging from chains inside tall iron frames between them. Most were still, but one at the far end kept descending a little, catching with a metallic bang, and jerking upward again. It never completed the journey. That was the sound I had heard through several walls.
 
 High on the opposite side, a gallery ran past closed doors, while arches lower down admitted water. Leaves turned in a slow circle where two currents met beneath a lamp. Nearer to me, a row of iron brackets showed just above the surface beside the pillars, joined by a narrow stone ledge I could make out beneath the water. I had been imagining a dungeon that happened to contain machinery. From here, I could see how much of it had been built to move things. Water, stone, carts, people. The suspended slabs and weights were parts of a place people had needed to work. I tried to picture carts crossing above the water while people shouted directions to one another. For a moment, I wanted to see the place working, just to understand how anyone had managed it.
 
@@ -190,7 +190,7 @@ She rubbed a dusty knuckle beneath one eye. It left another mark. She looked tir
 
 I straightened as much as my leg allowed. "My name is Haruto Minase."
 
-"Nessa."
+"[[DM Inverse Impact Characters#Nessa|Nessa]]."
 
 I repeated her name. It felt good to have one. The skeletons had not offered theirs, and I had learned Malgorth's at a time when introductions were becoming impractical. "Do you know a way out?" I asked.
 

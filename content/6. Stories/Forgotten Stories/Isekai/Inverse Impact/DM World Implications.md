@@ -100,6 +100,32 @@ Haruto does not cause the Divine War, the Godwound, or the Sundering, and does n
 
 The Divine War erupts more than a century after this story. Its setting is the northern mountain region of Magnica that will later become part of Onyxia. The exact court and dungeon sites, and whether they survive into that kingdom's history, remain unassigned.
 
+# Locations
+
+## Mountain court
+
+The unnamed court stands in a city inside the northern mountains of **Magnica**, around **312 BGW**. **House Obsidia** rules it. The invocation hall, breakfast chamber, testing yard, workshops, and outer watchpost belong to this setting. Its exact site remains unassigned.
+
+## Survey lodge
+
+A keeper's lodge on the southern survey road, past a small bridge and three white stakes. The court sends Haruto there after the tests. He does not reach it in these chapters.
+
+## Hanging Halls
+
+Haruto's name for the old underground workings he enters after falling through the forest floor. Rails, lifts, counterweights, sorting rooms, and drainage channels connect its levels. Its builders, original name, and exact site remain unassigned. No connection to a modern location is established.
+
+### Basin & workroom
+
+The basin and open storeroom share one corridor wall. The maintenance workroom is opposite, up three steps, with a door that can be barred. Water crews keep food, bedding, tools, and kneeling pads there.
+
+### Malgorth's chamber
+
+Beyond the basin, the gutter leads down past two blue lamps and a bend to a broad entrance. A counterweight hangs in the chamber's center before the collapse. Malgorth guards the room. See [[#Chapter 3|the recorded layout after the collapse]].
+
+### Reservoir & service route
+
+The reservoir receives mine drainage through several channels. Its galleries, control room, outlet weight, and lower inspection ledge provide the route Nessa uses in Chapters 4 and 5. The service stair reaches an unnamed covered work yard beside a road. See [[#Chapter 4|the damaged routes]] and [[#Chapter 5 Draft|the outlet repair and surface route]].
+
 # Chapter Continuity
 
 Read the chapters in order: [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1|1]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5|1.5]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 2|2]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 3|3]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 4|4]] → [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 5|5]].

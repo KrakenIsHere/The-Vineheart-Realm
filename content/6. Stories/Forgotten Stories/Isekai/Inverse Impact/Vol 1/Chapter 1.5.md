@@ -12,11 +12,11 @@ aliases:
 
 # Chapter 1.5: The Gentle Calamity
 
-Now that things had gone quiet, I could hear water running along the lower passage. I took that branch and followed the gutter along the wall, still turning at small sounds, until its water gathered in a shallow basin. My first handful scarcely reached my mouth before I wanted another. I drank, then sat with my shoulder beside the basin and let my feet stop carrying me for a while. Behind me were the failing lift, the wolf, and a series of freshly opened holes that seemed more useful to monsters than to rescuers.
+Now that things had gone quiet, I could hear water running along the lower passage. I took that branch and followed the gutter along the wall, still turning at small sounds, until its water gathered in a [[DM World Implications#Basin & workroom|shallow basin]]. My first handful scarcely reached my mouth before I wanted another. I drank, then sat with my shoulder beside the basin and let my feet stop carrying me for a while. Behind me were the failing lift, the wolf, and a series of freshly opened holes that seemed more useful to monsters than to rescuers.
 
 The water tasted of stone and the metal basin. I drank more slowly after the first handful, then wet a corner of my shirt and wiped the dust from my lip. The cut on my forearm had dried into a stiff line beneath the sleeve. I rinsed around it and tied a strip of cloth over it, awkwardly, with my teeth helping more than my right hand. The window still listed me as injured, and the ache under my ribs caught me whenever I shifted. I settled back more carefully and drew the cloak around my shoulders against the draft, grateful for the ring's faint warmth in my cold hand.
 
-I stretched out my legs and checked my pockets, finding my wallet and the phone I was afraid to turn on. Ordan's old gloves were still tucked inside my jacket, and the sword at my hip had survived the wolf with two fresh tooth marks in its blade. With the cloak, ring, and new gloves, I had more useful things than before, but nothing to eat. My stomach had been reminding me of that for some time; water had only given it something else to complain about.
+I stretched out my legs and checked my pockets, finding my wallet and the phone I was afraid to turn on. [[DM Inverse Impact Characters#Ordan|Ordan]]'s old gloves were still tucked inside my jacket, and the sword at my hip had survived the wolf with two fresh tooth marks in its blade. With the cloak, ring, and new gloves, I had more useful things than before, but nothing to eat. My stomach had been reminding me of that for some time; water had only given it something else to complain about.
 
 Through the narrow doorway beside the basin, I could see shelves crowded with broken baskets and several lidded pottery jars. I drew my feet beneath me and got up at the thought of bread, too quickly for my bruised hip. After waiting for the ache to ease, I shuffled through the doorway and approached the shelves. I would have accepted bread old enough to require a formal apology.
 
@@ -64,9 +64,9 @@ Its golden eyes opened.
 
 I stopped just inside the doorway, afraid even of shifting my feet. For a moment, neither of us moved. Then its gaze settled on me. A red window replaced the blue one.
 
-> **Grave Tyrant Malgorth**
+> **[[DM Gravebound Colossus#Malgorth|Grave Tyrant Malgorth]]**
 >
-> **Creature:** Gravebound Colossus (assembled zombie).
+> **Creature:** [[Gravebound Colossus]] (assembled zombie).
 > **Creature Type:** Undead.
 > **Size:** Huge.
 > **Hit Points:** 168 / 168.
@@ -192,7 +192,7 @@ The cloak had a small tear where the hook caught it. I brought its edges togethe
 
 I stared at YES. The letters brightened under my gaze. "How much worse could this possibly get?" The question came out hoarse. I swallowed the dust in my throat and made myself answer. "Yes."
 
-> **Additional condition:** Affection Multiplier.
+> **Additional condition:** [[DM World Implications#Affection & equipment|Affection Multiplier]].
 
 "Affection?" More writing appeared beneath the heading.
 

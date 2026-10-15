@@ -16,7 +16,7 @@ The monster died because I patted it on the head. I did not punch it, stab it, o
 
 "Good doggy."
 
-The **Hellfang Wolf** disappeared.
+The **[[Hellfang Wolf]]** disappeared.
 
 There was a sound like thunder trapped in a cupboard. The rotten beams burst apart as the beast tore free and went backward through a stone wall whose mortar had been falling out long before I arrived. My sword clattered at my feet. I ducked behind my raised forearm, coughing as dust rolled through the hole and chunks of stone tumbled into the chamber beyond. When I could see again, a tuft of fur drifted past my face and settled among the rubble. My left palm was still open. I stayed where I was until the echoes stopped. A moment earlier, the wolf's shoulders had been as high as my waist, and its teeth had looked entirely capable of removing the hand I had just used. Now I could see into the next room. It had acquired a wolf. I was in no hurry to ask whether it wanted one.
 
@@ -24,7 +24,7 @@ I stared at my hand. My hand stared back, offering no explanation for its behavi
 
 The blue window unfolded in front of my face again, close enough to make me flinch and hold my hand against my chest while I read. Unlike the marks on the dungeon walls, the writing was in Japanese, just as it had been in the summoning hall. That remained its one considerate feature.
 
-> **Unique Skill:** Inverse Impact
+> **Unique Skill:** [[DM World Implications#The Inverse Impact Skill|Inverse Impact]]
 >
 > The less physical force the bearer intentionally applies, the greater the resulting impact.
 >
@@ -59,9 +59,9 @@ Testing my weight on both feet revealed that the cloth around my left sock had s
 
 * * *
 
-Yesterday, I had been Haruto Minase, twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet when I fell asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that was happening. People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities seemed to disappoint them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
+Yesterday, I had been [[DM Inverse Impact Characters#Haruto Minase|Haruto Minase]], twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet when I fell asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that was happening. People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities seemed to disappoint them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
 
-Since then, I had been robbed, chased by slimes, and dropped into the Hanging Halls through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
+Since then, I had been robbed, chased by slimes, and dropped into the [[DM World Implications#Hanging Halls|Hanging Halls]] through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
 The sword at my hip had come from a rack beside an empty guardroom, after several corridors spent insisting I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead. I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. I missed the sound of a message arriving. If rescue depended on someone calling me, there were already several larger problems with the plan.
 
@@ -92,7 +92,7 @@ I chose the upper passage. Beyond the first bend, it widened into a landing at t
 
 Three skeletal soldiers emerged beneath a blue lamp at the far end of the landing. Rusty armor hung from their ribs, green light burned in their sockets, and all three carried swords. As they turned toward me, red windows appeared beside their helmets, each showing the same figures.
 
-> **Skeleton**
+> **[[M.M. Monsters S#Skeleton|Skeleton]]**
 >
 > **Creature:** Skeleton (reanimated humanoid bones).
 > **Creature Type:** Undead.
@@ -139,7 +139,7 @@ It struck the floor beside the scattered bones, bounced once, and shed a cloud o
 
 The latch broke off and the lid swung open, revealing a black cloak, a pair of gloves, and a silver ring. I waited for teeth, poison, or an angry little person to emerge, then left the shelter of the statue when none did. Picking my way through the bones to the chest, I decided it was already the most welcoming thing I had met underground. When I reached toward the gloves, a new window appeared.
 
-> **Gloves of Delicate Control**
+> **[[DM World Implications#Affection & equipment|Gloves of Delicate Control]]**
 >
 > Dampens minor unintended impacts.
 >
@@ -147,7 +147,7 @@ The latch broke off and the lid swung open, revealing a black cloak, a pair of g
 
 I almost cried. Not because the warning was reassuring, but because the sentence before it contained the possibility that something might help me. "Thank God. Any available deity of such generosity!"
 
-Nothing exploded when I lifted the gloves by their cuffs. They were thin and dark, stitched with silver thread, and fitted over my hands once I worked off Ordan's leather pair, stiff with dirt and blood. A faint tingle moved across my knuckles, then faded. Still nothing exploded. I sat beside the chest, with a broken crate against my back, and hugged myself in relief.
+Nothing exploded when I lifted the gloves by their cuffs. They were thin and dark, stitched with silver thread, and fitted over my hands once I worked off [[DM Inverse Impact Characters#Ordan|Ordan]]'s leather pair, stiff with dirt and blood. A faint tingle moved across my knuckles, then faded. Still nothing exploded. I sat beside the chest, with a broken crate against my back, and hugged myself in relief.
 
 I turned Ordan's old gloves over in my lap, studying the split cuff and the dried blood that had stiffened the lining. He had given them to me at the palace doors with his mouth pulled tight. I had wondered whether he expected them to help at all. I folded them and tucked them inside my jacket; they had kept enough splinters out of my hands to deserve better than being left beside a broken chest.
 
@@ -157,13 +157,13 @@ As I shifted to stand, I lost my balance and pushed lightly against the stone le
 
 The cloak smelled of cedar and old cupboards. I breathed it in, surprised by how comforting it was. As I lifted it from the chest, the writing changed.
 
-> **Traveler's Cloak**
+> **[[DM World Implications#Affection & equipment|Traveler's Cloak]]**
 >
 > Keeps the wearer dry and improves personal insulation.
 
 I pulled the cloak around my shoulders, relieved to have the cold draft off my back. When I picked up the silver ring, another window appeared.
 
-> **Ring of Mild Warmth**
+> **[[DM World Implications#Affection & equipment|Ring of Mild Warmth]]**
 >
 > Provides a steady, gentle warmth to the wearer.
 >
