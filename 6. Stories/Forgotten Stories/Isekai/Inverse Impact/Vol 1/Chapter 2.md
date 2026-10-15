@@ -30,7 +30,7 @@ I heard Japanese, though his mouth formed entirely different sounds. "Yes."
 
 Everyone started talking. Someone applauded before deciding that it was premature. I stood with my convenience-store bag while strangers celebrated the discovery that I could answer a question.
 
-"You are in the royal invocation hall of **House Obsidia**, in the northern mountains of **Magnica**," the man said. "I am **High Magister Corven**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
+"You are in the royal invocation hall of **[[DM World Implications#Mountain court|House Obsidia]]**, in the northern mountains of **[[DM World Implications#Historical Placement|Magnica]]**," the man said. "I am **[[DM Inverse Impact Characters#High Magister Corven|High Magister Corven]]**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
 
 I asked about Japan, then Tokyo, then Earth, watching his face for even a flicker of recognition. With each attempt, he became more attentive and less useful. I took out my phone and held it higher, as though another few inches might bring back the signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation. "You summoned me," I said, surprised.
 
@@ -40,7 +40,7 @@ Corven nodded. "Yes. We called beyond our world for a champion bearing an extrao
 
 "Yes."
 
-*I might as well introduce myself.* "My name is **Haruto Minase**. I am twenty-two. I process invoices."
+*I might as well introduce myself.* "My name is **[[DM Inverse Impact Characters#Haruto Minase|Haruto Minase]]**. I am twenty-two. I process invoices."
 
 His eyebrows drew together. "A form of tribute?"
 
@@ -72,7 +72,7 @@ A blue window unfolded so close to my face that I recoiled, catching myself with
 
 It looked like a status screen from a game: level two, no armor, and no spells, with little plus signs beside Dexterity and Charisma and a minus beside Strength. I did not know what the scale went up to, but apparently carrying invoices had done less for my muscles than I hoped. I looked at the guards' breastplates with renewed interest as a second window appeared beneath the first.
 
-> **Unique Skill:** Inverse Impact
+> **Unique Skill:** [[DM World Implications#The Inverse Impact Skill|Inverse Impact]]
 >
 > The less physical force the bearer intentionally applies, the greater the resulting impact.
 >
@@ -102,7 +102,7 @@ They led me along a corridor to a chamber overlooking the city inside the mounta
 
 Below us, houses stood on terraces between workshops spilling forge light onto the streets. Loaded baskets creaked upward on chains, and a woman carrying a sleeping child waited for a cart to cross a bridge. I leaned closer to the window, forgetting the bread in my hand as I followed one basket all the way to a workshop door. People actually lived here. For a moment, the view looked less like a fantasy illustration and more like somewhere people had to get through a morning.
 
-The young woman from the gallery introduced herself as **Princess Elyra Obsidia**. She dismissed a servant who tried to cut her pear and asked what an invoice was.
+The young woman from the gallery introduced herself as **[[DM Inverse Impact Characters#Princess Elyra Obsidia|Princess Elyra Obsidia]]**. She dismissed a servant who tried to cut her pear and asked what an invoice was.
 
 I set the bread down beside my plate. "They are reminders merchants ignore."
 
@@ -140,7 +140,7 @@ Elyra glanced at the untouched bowl. "We have exhausted the alternatives."
 
 * * *
 
-The testing yard was a sand-covered terrace above the workshops, with wooden targets arranged against a thick wall. **Ordan**, the dwarf responsible for them, had copper wire in his gray beard and more apron pockets than my entire wardrobe. "Ever struck anything?" he asked.
+The testing yard was a sand-covered terrace above the workshops, with wooden targets arranged against a thick wall. **[[DM Inverse Impact Characters#Ordan|Ordan]]**, the dwarf responsible for them, had copper wire in his gray beard and more apron pockets than my entire wardrobe. "Ever struck anything?" he asked.
 
 "A printer."
 
@@ -218,7 +218,7 @@ While workers cleared the terrace below, they took me into a room beside the yar
 
 They had asked for me, yet somehow the verdict made it sound as though I had applied for the wrong job. The official decision was temporary relocation: **House Obsidia** thanked me for my cooperation and sent me to a suitable distance from inhabited structures.
 
-Corven looked down at the paper. "The survey lodge on the southern road. A keeper has been notified. You will have supplies."
+Corven looked down at the paper. "The [[DM World Implications#Survey lodge|survey lodge]] on the southern road. A keeper has been notified. You will have supplies."
 
 "And an escort?" Elyra asked.
 
@@ -294,7 +294,7 @@ I stayed on my knees until the last man disappeared around the bend. When I trie
 
 As the shadows lengthened, something green flowed out of a ditch, rising to my knee with pebbles and a small animal bone turning slowly inside it. *A slime. Of COURSE there are slimes.* "I have nothing worth eating," I told it, edging toward the opposite side of the road. I kept watching the little bone turn inside it. The slime flowed after me. Red writing appeared above its quivering surface.
 
-> **Forest Slime**
+> **[[Forest Slime]]**
 >
 > **Creature:** Forest Slime (small predatory ooze).
 > **Creature Type:** Ooze.
@@ -325,11 +325,11 @@ My phone lit through a new crack, showing forty-eight percent battery. By its fl
 
 I climbed the sacks to look for a gap, but something shifted overhead before I got far. I climbed down again. *I can break stone. I can also be crushed by stone.*
 
-My calls for help echoed through air that smelled of damp limestone and old iron. Beneath the dust, tracks crossed the floor and continued through an arch. Someone had built all of this, then left it behind. I could not tell how long ago. Blue lamps brightened inside glass cages along the wall, and I switched off the flashlight and put the phone away before following them past enormous slabs hanging from chains. I called the place the **Hanging Halls**. Someone who knew its proper name would ideally also know the exit.
+My calls for help echoed through air that smelled of damp limestone and old iron. Beneath the dust, tracks crossed the floor and continued through an arch. Someone had built all of this, then left it behind. I could not tell how long ago. Blue lamps brightened inside glass cages along the wall, and I switched off the flashlight and put the phone away before following them past enormous slabs hanging from chains. I called the place the **[[DM World Implications#Hanging Halls|Hanging Halls]]**. Someone who knew its proper name would ideally also know the exit.
 
 Steel scraped beyond the next arch. I stopped beside the iron frame holding one of the suspended slabs, listening until the scrape came again, closer this time. A skeleton stepped into the lamplight. Rusty armor shifted over its ribs, and green light burned inside sockets with nothing behind them. I looked past it for a person, for someone holding it up or making it move. Its sword dragged along the floor as it came toward me, and red writing appeared beside its helmet.
 
-> **Skeleton**
+> **[[M.M. Monsters S#Skeleton|Skeleton]]**
 >
 > **Creature:** Skeleton (reanimated humanoid bones).
 > **Creature Type:** Undead.
@@ -370,7 +370,7 @@ The sound of breathing stopped me outside the next doorway. Beneath a blue lamp,
 
 I waited for it to come after me. The beams creaked under its struggling front legs, but held. Its jaws were still free. A red window appeared beside its head.
 
-> **Hellfang Wolf**
+> **[[Hellfang Wolf]]**
 >
 > **Creature:** Hellfang Wolf (mutated wolf).
 > **Creature Type:** Monstrosity.
