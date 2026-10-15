@@ -22,7 +22,7 @@ Through the narrow doorway beside the basin, I could see shelves crowded with br
 
 I lifted the first lid, found an empty jar, and set the lid aside before moving along the shelf. A pale growth covered the clumped grains in the next jar, so I lowered its lid again and tried the third. That one had cracked, spilling dark seeds across the shelf, some partly eaten. I picked up a few and carried them beneath the lamp, hoping whatever small creature had found meals here knew something I did not. The seeds were shriveled, hard, and unfamiliar. I lifted one toward my mouth, then hesitated; I could not tell whether I was looking at spoiled food, perfectly normal food, or something people here fed exclusively to animals. I took them back to the shelf and put them down, keeping my face clear of whatever was growing beneath the lower shelf. The translation spell had not provided grocery training.
 
-While I was checking the last basket, a mouse emerged from a crack beside the door, and we both stopped: it with its nose lifted, me with a basket lid in my hand. It was small, brown, and entirely without armor, and no window appeared beside it. Its only apparent qualification for living here was that it could fit through places I could not. "Hello," I said quietly.
+While I was checking the last basket, a mouse emerged from a crack beside the door, and we both stopped: it with its nose lifted, me with a basket lid in my hand. It was small, brown, and entirely without armor, and no window appeared beside it. Its only apparent qualification for living here was that it could fit through places I could not. "Hello," I said quietly, absurdly glad of the company.
 
 Its ears moved. It stayed beside the crack.
 
@@ -48,7 +48,7 @@ I took the sword out to practice where the corridor widened. A hard swing barely
 
 What worried me most was how difficult it was to produce the same result twice. One tap that seemed gentle broke a tile, while another broke a whole step, though afterward I found an old crack running through its underside. The stone mattered, as did the difference between what I meant to do and what my cold, shaking fingers actually did. I had no useful way to measure either before something broke. *Would a handshake destroy someone? Would a high-five remove the arm? Could I ever pet a cat again?*
 
-I stopped with the sword half raised. "No. That is unacceptable." My voice sounded small in the empty passage, but the objection was sincere. Getting home, finding food, and avoiding another sword mattered; I would still like to have something waiting on the other side of survival besides a lifetime of apologizing from across the room. I put the sword away and closed my hands carefully. I would learn to control this cursed skill, escape the dungeon, and find the people who had summoned me so I could make them finish the job properly. And someday, I would pet a cat. Normally.
+I stopped with the sword half raised. "No. That is unacceptable." It came out with more anger than I expected. Getting home, finding food, and avoiding another sword mattered; I would still like to have something waiting on the other side of survival besides a lifetime of apologizing from across the room. I put the sword away and closed my hands carefully. I would learn to control this cursed skill, escape the dungeon, and find the people who had summoned me so I could make them finish the job properly. And someday, I would pet a cat. Normally.
 
 I left the splintered post and walked along the corridor again. The gutter continued beside the wall. I followed it beneath two more blue lamps, keeping clear of the loose stones I had used for practice. The floor sloped down toward a bend that hid the passage ahead.
 
@@ -166,7 +166,7 @@ When the falling stopped, one horn and part of a scaled hand showed beneath the 
 > **Designation:** Gentle Calamity.
 > **Title:** Gentle Hands.
 
-I read my new designation twice. "Gentle Calamity?"
+I read my new designation twice, too exhausted to find it funny. "Gentle Calamity?"
 
 I looked at the buried monster, the broken cradle, and the shaft I had briefly mistaken for a rescue plan. My calf was bleeding. My sword was trapped somewhere under the debris. The new designation had left my level and armor exactly where they were, and my hit points had fallen to two. I had won the fight by being gentle, and all the damage was now my problem. "Could we concentrate on the calamity part? I think that is the useful information."
 
@@ -180,7 +180,7 @@ I crawled out from under the stones and sat against the wall. My stomach cramped
 
 Before answering, I pulled the torn fabric clear of my calf. Blood had made it stick, and lifting it brought back the sting I had barely noticed during the fight. I folded the loose flap into a pad and held it over the cut, then took a strip from the cloth around my other ankle to keep it in place. The knot would not come together, and I watched my stiff right fingers miss the same loop twice before stopping when they cramped. After a breath, I tried again and managed to make it hold. The bleeding slowed, though the pain remained, and I leaned my head against the wall to listen to the machinery settle.
 
-Through the gap in the shaft, the daylight had a warmer color than the lamps. I could see a little cloud moving past it. Somewhere above me, wind was crossing a mountain. People were walking along roads, eating meals, and doing things that would not fit under **Catastrophic Pacifist**. "Help," I called.
+Through the gap in the shaft, the daylight had a warmer color than the lamps. I could see a little cloud moving past it. Somewhere above me, wind was crossing a mountain. People were walking along roads, eating meals, and doing things that would not fit under **Catastrophic Pacifist**. "Help," I called, desperate for someone to answer.
 
 My voice traveled up the shaft. I kept my head lifted after it, waiting so hard that every little shift of stone sounded almost like an answer. Nothing came. I tried again, louder, and the dust in my throat made me cough. A few grains fell from the broken cover. I watched them land on my knees.
 
@@ -206,7 +206,7 @@ I stared at YES. The letters brightened under my gaze. "How much worse could thi
 
 I sat very still. I glanced at Malgorth. I had not become emotionally attached to it. "There, there" had been a desperate attempt to keep my shoulders loose. Apparently the window had saved this detail until after I had formed plans involving an animal I actually wanted to touch.
 
-I thought of the mouse beside the basin and the impulse to rub a finger between its ears. I had been worried about shaking hands. I had been worried about using a sword. Before entering this room, I had made what seemed a reasonable decision: surviving long enough to pet a cat was a goal worth pursuing. *A cat I actually like would be worse.* I lowered my hand into my lap. "No."
+I thought of the mouse beside the basin and the impulse to rub a finger between its ears. I had been worried about shaking hands. I had been worried about using a sword. Before entering this room, I had made what seemed a reasonable decision: surviving long enough to pet a cat was a goal worth pursuing. *A cat I actually like would be worse.* I lowered my hand into my lap. "No," I said miserably.
 
 A final line appeared beneath the explanation.
 

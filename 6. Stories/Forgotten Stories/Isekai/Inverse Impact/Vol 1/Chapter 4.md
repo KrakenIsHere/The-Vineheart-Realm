@@ -56,7 +56,7 @@ I stood and crossed the rest of the bridge, holding onto the thought of trees so
 
 Beyond the bridge, a door stood open beneath a mark shaped like a hook. The same shape had appeared on other walls. I copied it onto the edge of my slate, hoping that enough examples might eventually mean something. Then I went through. Beyond the door, a blue lamp hung over a signpost in the center of a round room with three other doorways. I stopped at the sight.
 
-"I have come around in a circle?" The left-hand doorway should lead back through the cool passage. The one behind me ought to be the slope from the broken walkway. Except I had just crossed a channel, and there had been no channel between the first round room and the walkway. At the signpost, I found narrower boards than I remembered, one pointing toward the wall between two doorways. None of the entrances had pebbles beside it. This was another round room.
+"I have come around in a circle?" My voice rose in dismay. The left-hand doorway should lead back through the cool passage. The one behind me ought to be the slope from the broken walkway. Except I had just crossed a channel, and there had been no channel between the first round room and the walkway. At the signpost, I found narrower boards than I remembered, one pointing toward the wall between two doorways. None of the entrances had pebbles beside it. This was another round room.
 
 I looked back at the doorway I had just used, reminding myself that the bridge was behind me and the racks farther back. I knew that, even though every board on the post seemed to insist I had already been here. Under the lamp, I turned the slate twice before finding the line I wanted. I had squeezed the rack room's two doors together so tightly that the bridge appeared to belong to both. Below them, I had joined this room to the first one without checking.
 
@@ -154,7 +154,7 @@ I looked down at the pad. Its cord was plainly visible, wrapped around my foot e
 
 "The water crews keep them there. They save our knees when we work on the pipes."
 
-"I left a silver coin."
+"I left a silver coin," I blurted.
 
 "For the pads?"
 
@@ -214,7 +214,7 @@ I had seen the brackets above the water and the ledge beneath them. They had bee
 
 The bridge, the weight, the water spilling out of the basin. Each had seemed like another broken thing in a place full of them. Nessa had crossed that bridge. She had brought bread down a passage and expected to go back the same way.
 
-I lowered my eyes to the silver stitches on my gloves, then wished I had kept looking at her. She had stopped talking.
+I lowered my eyes to the silver stitches on my gloves, sick with guilt, then wished I had kept looking at her. She had stopped talking.
 
 Her gaze dropped to my gloves. "Were you near it?"
 
@@ -280,7 +280,7 @@ I did, leaving the bar where it was. She took the lantern off its bracket and lo
 
 Nessa looked up from my hands to my face. "I believe you got out of that chamber. I would rather hear the rest from this side of the gate."
 
-I let out a breath I had been holding for longer than I realized. "You will let me through?"
+I let out a breath I had been holding for longer than I realized. "You will let me through?" I could hear the hope in my own voice.
 
 "If you can walk without breaking anything."
 

@@ -12,7 +12,7 @@ aliases:
 
 # Chapter 5: I Would Like to Be Useful
 
-"It broke the pillar first," I said.
+"It broke the pillar first," I said, too quickly.
 
 Nessa stood beside me on the landing, with the open gate behind us. Through the narrow windows on our left, I could see the reservoir. The wooden pipe ran along the wall on our right. Ahead, the stairs climbed around the corner where her lantern light had first appeared.
 
@@ -34,7 +34,7 @@ I would have preferred an explanation that did not. "I think I started the colla
 
 Nessa looked at me instead of the pipe. "You said the pillar broke before you touched the guard."
 
-"It did. But I sent it into the machinery." I nearly added that it had been trying to kill me, but she had heard that part already. Beside us, the chain rattled again and water knocked against the wooden planks. I kept my hands at my sides. "I needed to get away," I said. "I did not know you were down here."
+"It did. But I sent it into the machinery." I nearly added that it had been trying to kill me, but she had heard that part already. Beside us, the chain rattled again and water knocked against the wooden planks. I kept my hands at my sides, ashamed and defensive. "I needed to get away," I said. "I did not know you were down here."
 
 "You know now."
 
@@ -80,11 +80,11 @@ A wrench and two wooden wedges rested well clear of the moving cradle on the pla
 
 "Stop the weight above the damage. Remove that bent cover. Then let it descend far enough to lift the gate."
 
-"Can I help?"
+"Can I help?" I asked eagerly.
 
 She glanced at my hands. "You can carry things."
 
-I glanced at the crushed wedge. I had asked because I could break almost anything she pointed to, and she needed something unbroken to hold that weight. "All right," I said, before she had to explain it.
+For a moment, I felt useless all over again. Then I glanced at the crushed wedge. I had asked because I could break almost anything she pointed to, and she needed something unbroken to hold that weight. "All right," I said, before she had to explain it.
 
 I moved away from the window to give her room. A cupboard stood beside a stool and a board of unreadable markings, with a coil of thick rope hanging alongside it. From its bottom shelf, Nessa took a cloth bag and shook it open, revealing rust stains around a hole near the seam. "First, I want something to eat," she said.
 
@@ -288,7 +288,7 @@ I was about to tell her I could try once more. Then I looked down at my left foo
 
 "We can chisel the heads off," she said, looking at the two bolts still holding the fold. "It will take time."
 
-I could break timber. I could break stone. I had also broken enough things around both to understand why she was reaching for the chisel. "I might be able to break that part," I said.
+I could break timber. I could break stone. I had also broken enough things around both to understand why she was reaching for the chisel. "I might be able to break that part," I said hesitantly.
 
 Nessa looked from the folded iron to the catch above it, the chisel still in her hand. "How much would break?" At least I was being asked that before putting my hand anywhere.
 
@@ -407,7 +407,7 @@ Nessa put the pin through the handle's new position. The crease between her eyeb
 
 I kept my eyes on the pale strip beneath the stain. A little more stone appeared. Then more, wet and dark below the old line. "I can see it." My voice was louder than it needed to be. Nessa glanced at me, then turned back to the water. I could have watched that strip widen for the rest of the day.
 
-With a stopped weight, a cleared platform, and someone who knew which part could be broken, I had managed to do something useful. My knee hurt, and the iron cover would not be going back into place. The water was going down. For once, I could tell which part of the result I wanted to keep.
+With a stopped weight, a cleared platform, and someone who knew which part could be broken, I had managed to do something useful. My knee hurt, and the iron cover would not be going back into place. The water was going down. For once, I was proud of what I had broken.
 
 * * *
 
@@ -579,7 +579,7 @@ The trees moved beyond the yard. There was a road beside them, with room to walk
 
 Nessa glanced back. "Coming?"
 
-"Yes." I followed her.
+"Yes." The word came out on a laugh. I followed her.
 
 ---
 

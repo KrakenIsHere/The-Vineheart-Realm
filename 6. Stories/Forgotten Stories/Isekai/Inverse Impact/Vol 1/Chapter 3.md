@@ -91,7 +91,7 @@ I took a piece of flatbread and the bruised apple. The bread resisted when I tor
 
 I ate slowly, sitting at the end of the bench while my stomach adjusted to having work again, then went back across the corridor to wash the dagger at the basin. After cutting away the apple's soft patch with a firm stroke, I returned to the workroom with the rest of the fruit. It was sour enough to make my jaw ache, but I ate it anyway and set my one remaining silver coin on the table beside the bundle.
 
-"I will explain," I told the empty room. There was probably a local price for what I had taken, and I hoped one silver was a generous one. It had been the total available in my budget.
+"I will explain," I told the empty room, still uneasy about taking a stranger's food. There was probably a local price for what I had taken, and I hoped one silver was a generous one. It had been the total available in my budget.
 
 Beside the door, a wooden bar stood ready to fit into two iron brackets, one on either side of the doorway. Someone could secure this room from inside; the bench had probably been there to keep it partly open. After checking both ends of the bar for rot, I closed the door with firm pressure, its lower edge scraping the threshold before the latch clicked. Wood knocked against iron as I fitted the bar into its brackets. I pulled firmly on the handle, watching the bar press against both brackets. The wood creaked but stayed seated. I let go before changing the pressure, then tried to imagine how much warning that sound would give me if something tested it from outside.
 
@@ -135,7 +135,7 @@ Standing made my calf feel stiff, though the dried bandage showed no fresh blood
 > **Designation:** Gentle Calamity.
 > **Title:** Gentle Hands.
 
-I read the hit points twice, just to be certain. Seven. The level had not changed. Defeating Malgorth had not taught me swordsmanship while I slept, and there were still no spells. But the number that had fallen every time something hit me was full again.
+I read the hit points twice, just to be certain. Seven. Relief made me laugh under my breath. The level had not changed. Defeating Malgorth had not taught me swordsmanship while I slept, and there were still no spells. But the number that had fallen every time something hit me was full again.
 
 The hour before bed had brought me from two to four, and a full sleep had finished the job. I shifted my weight cautiously, waiting for the calf to stop me, but it stayed sore and held. Beneath the bandage's edge, the cut had closed into a thin, tender line, and yesterday's scrape on my forearm had dried as well. I still needed to keep the wounds clean and had no wish to test them on another staircase, but I could stand here deciding where to go. Yesterday, I had barely managed to reach the door. *This would have been useful information before I tried fighting a house.*
 
@@ -159,7 +159,7 @@ I took off the cloak, folded it around the slate, and tucked the bundle into my 
 
 An iron bar about the length of my forearm was the last useful thing on the shelf, one end flattened into a narrow wedge. Holding it out tired my wrist, but carrying it at my side was manageable, and the metal had no cracks I could see. I took it in my left hand, leaving the dagger wrapped in my pocket. Neither was a sword, but I was still the person who had repeatedly dropped a sword whenever keeping it became inconvenient.
 
-At the door, I stopped and looked back at the table. Whoever had left edible food here must have a route they used. It might lead to the surface or another part of the dungeon I would prefer not to meet, assuming I had not already destroyed it by accident. Finding it still seemed more useful than trying the broken lift again.
+At the door, I stopped and looked back at the table. Whoever had left edible food here must have a route they used. It might lead to the surface or another part of the dungeon I would prefer not to meet, assuming I had not already destroyed it by accident. Finding it still seemed more useful than trying the broken lift again. I was nervous about leaving, but eager to find the people who used this room.
 
 At the threshold, I listened before taking my first step. The wooden bar stood beside its brackets, ready if I came back. I looked once more at the table and the folded blanket, then stepped into the corridor with the iron tool at my side. The door stayed open, with the bench beside it.
 
