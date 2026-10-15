@@ -1255,3 +1255,6 @@ kokoro=true
 [2026-10-15T19:47:19.216Z] .obsidian/plugins/local-tts-reader: playback started
 kokoro
 
+[2026-10-15T19:57:40.531Z] .obsidian/plugins/local-tts-reader: kokoro
+dropped 204 queued request(s)
+
