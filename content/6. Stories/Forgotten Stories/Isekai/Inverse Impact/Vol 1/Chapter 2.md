@@ -142,11 +142,11 @@ Elyra glanced at the untouched bowl. "We have exhausted the alternatives."
 
 The testing yard was a sand-covered terrace above the workshops, with wooden targets arranged against a thick wall. **Ordan**, the dwarf responsible for them, had copper wire in his gray beard and more apron pockets than my entire wardrobe. "Ever struck anything?" he asked.
 
-"A printer."
+"A printer." 
 
-"Did it deserve it?"
+Ordan gave a small nod and showed me how to close a fist. "Did it deserve it?"
 
-"Yes." Ordan gave a small nod and showed me how to close a fist.
+"Yes." I answered confidently.
 
 "First, we check the claim," Corven said. "As hard as you can."
 
@@ -192,7 +192,7 @@ I could measure the pressure in my fingertip no better than I could measure how 
 
 Someone shouted below as the loaded chain groaned, and I heard running feet before I could see who was moving. I reached toward the table for balance, only for Ordan to seize my wrist and stop my hand short of the edge. He shouted workers off the walkway while sand trickled from the joint above the damaged pier. I could not stop watching the crack, expecting the arch to follow each little fall of grit.
 
-"Do not touch the mountain." Ordan's voice had lost every trace of the joke about the printer.
+"Do NOT touch the mountain!" Ordan's face was unmistakably serious, with a hint of fear.
 
 "I was only…"
 
