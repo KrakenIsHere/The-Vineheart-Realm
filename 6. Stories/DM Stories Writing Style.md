@@ -16,6 +16,8 @@ Use fluid narration with varied sentence lengths. Connect related actions, sensa
 
 Stay within the viewpoint character's knowledge. Describe other characters through their words, visible expressions, actions, and changes in voice. Their private emotions, thoughts, and motives remain the viewpoint character's interpretations unless those characters reveal them. Make guesses recognizably part of the viewpoint character's voice; they can be confident and still wrong. Let misunderstandings develop through what characters say and do, without confirming hidden feelings in narration. Give observations a reason to matter in the scene. Quieter moments should still have physical presence.
 
+Keep emotional presence in passages without speech too. An important observation can prompt an imagined consequence, a memory, a want, or a physical reaction. A long drop can make someone imagine falling; a familiar smell can bring comfort or longing. Keep imagined events distinct from things that actually happen. Use these connections where they matter, without adding a reaction to every description or repeating a feeling the scene already makes clear.
+
 ## Thoughts & dialogue
 
 Italicize direct inner thoughts. Keep spoken dialogue in quotation marks and ordinary narration in plain text.
@@ -68,7 +70,7 @@ Use **stone** for construction, worked material, and individual small pieces; **
 
 ## Continuity
 
-Keep actions and consequences consistent with the story's established abilities, limitations, history, and physical surroundings. Record the specific rules and supporting lore in that story's folder. Track where carried objects are placed and when they are picked up again. Show the transfer when it affects lighting, free hands, movement, or another character's reaction.
+Keep actions and consequences consistent with the story's established abilities, limitations, history, and physical surroundings. Record the specific rules and supporting lore in that story's folder. Track where carried objects are placed and when they are picked up again. Show the transfer when it affects lighting, free hands, movement, or another character's reaction. Check that hand use, grips, and body positions remain possible from one sentence to the next. Make releases and transfers clear when another action depends on them.
 
 ## Feedback & revisions
 

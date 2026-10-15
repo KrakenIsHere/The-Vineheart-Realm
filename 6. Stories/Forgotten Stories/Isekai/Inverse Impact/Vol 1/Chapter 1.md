@@ -63,7 +63,7 @@ Yesterday, I had been Haruto Minase, twenty-two years old, underpaid *whenever a
 
 Since then, I had been robbed, chased by slimes, and dropped into the Hanging Halls through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
-The sword at my hip had come from a rack beside an empty guardroom, after several corridors spent insisting I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead. I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. If rescue depended on someone calling me, there were already several larger problems with the plan.
+The sword at my hip had come from a rack beside an empty guardroom, after several corridors spent insisting I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead. I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. I missed the sound of a message arriving. If rescue depended on someone calling me, there were already several larger problems with the plan.
 
 The blue windows stayed at the edge of my vision as I stepped into the corridor, following every turn of my head. *If it knew what that monster was, perhaps it knows the way out.* "Can you tell me where the exit is?" When the writing stayed exactly as it was, I tried a request that sounded more like something a window might understand. "Show me my status." The wolf's assessment faded beneath a larger window bearing my name.
 
@@ -111,7 +111,7 @@ The first came at me with its sword raised. I drew my borrowed weapon, fumbling 
 
 My heel caught a fallen stone. I went backward and landed hard on my hip, losing the sword as I tried to keep my head off the floor. I reached for it, then pulled my hand back when three sets of boots entered the space in front of me. I needed air. I needed to get out from under the blades. *I know what to do. My hand needs to stop arguing.*
 
-Beside me stood the base of a broken statue, its carved feet all that remained at the foot of the stairs. Two skeletons approached while the third waited behind them with its sword raised. They were slow enough for me to follow the blades. I started to reach for my sword, but it was between me and the skeleton on the right. Getting it back would mean putting my face at sword height.
+Beside me stood the base of a broken statue, its carved feet all that remained at the foot of the stairs. Two skeletons approached while the third waited behind them with its sword raised. They were slow enough for me to follow the blades. I started to reach for my sword, but it was between me and the skeleton on the right. Getting it back would mean putting my face at sword height. The thought of that edge catching beneath my jaw dried my mouth.
 
 The nearest blade struck the carved ankle above me with a crack. I ducked so sharply that a chip fell inside my collar, cold against the sweat at my neck. There was no time to shake it out. I crawled around the base, dragging my wrapped foot through dust and stopping for half a breath when my hip protested. The skeleton's boots followed. I moved again before its sword cleared the statue.
 
@@ -129,7 +129,7 @@ The impact cracked through the corridor. The skull shot backward, dragging the h
 
 Somewhere on the other side, something enormous screamed.
 
-I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through a mouth that tasted of blood. My lip was bleeding, my hip hurt, and whatever had made that sound, now knew something was happening here.
+I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through a mouth that tasted of blood. My lip was bleeding, my hip hurt, and I was afraid that whatever had made that sound now knew something was happening here.
 
 "That was a flick?" I asked my finger in disbelief.
 
@@ -155,7 +155,7 @@ The new pair fit closely enough for me to bend every finger without the leather 
 
 As I shifted to stand, I lost my balance and pushed lightly against the stone ledge beside me. The silver stitches warmed across my palm. A chip snapped off, but the rest of the ledge stayed where it was. Yesterday, a similarly careful push had broken a great deal more stone. "Right. Less leaning." Holding things and resting my hands were safe, but pushing to keep myself upright was a different matter. The gloves had turned this particular mistake into a chip instead of a hole. I would have preferred a railing I could trust, but I was prepared to be grateful in installments.
 
-The cloak smelled of cedar and old cupboards. As I lifted it from the chest, the writing changed.
+The cloak smelled of cedar and old cupboards. I breathed it in, surprised by how comforting it was. As I lifted it from the chest, the writing changed.
 
 > **Traveler's Cloak**
 >
@@ -183,7 +183,7 @@ High up the shaft, light shone through a break in the stonework. For a moment, t
 
 I moved beside the handwheel and followed its short metal shaft with my eyes to a large toothed gear, where a catch rested between two teeth. An iron cover hid the rest of the machinery, leaving me with no idea what the lever did. I assumed the catch was keeping the platform from dropping. Imagining the speeds a drop that long could achieve made me shudder.
 
-A dusty painted board rested on the walkway beside the controls. Holding it by the edges beneath the lamp over the gate, I could make out one figure at the wheel and another inside the platform with a load of boxes. Two people. I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't investigate without getting in, or stop it if anything started moving in a way I disliked.
+A dusty painted board rested on the walkway beside the controls. Holding it by the edges beneath the lamp over the gate, I could make out one figure at the wheel and another inside the platform with a load of boxes. Two people. I stared at the second figure, jealous of the painted passenger for having someone at the wheel. I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't investigate without getting in, or stop it if anything started moving in a way I disliked.
 
 I closed both hands around the cold rim of the handwheel and tried a firm, steady turn, the same sort of pressure that had moved a board normally in the training yard. The mechanism resisted before scraping through a short movement that tightened the chain overhead and raised the platform a few inches. When I stopped, it stayed where it was.
 
