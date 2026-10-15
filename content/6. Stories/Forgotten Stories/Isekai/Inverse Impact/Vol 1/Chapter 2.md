@@ -100,7 +100,7 @@ I put the phone away as Corven pointed to the door.
 
 They led me along a corridor to a chamber overlooking the city inside the mountain, where breakfast waited beside the window. I sat with my bag between my feet and watched a servant pour water, needing something ordinary to follow. The bread was warm enough to steam when I broke it. After a hesitant bite, I ate it with salty cheese, then opened the sandwich from my bag. Being kidnapped had done nothing to reduce my appetite.
 
-Below us, houses stood on terraces between workshops spilling forge light onto the streets. Loaded baskets creaked upward on chains, and a woman carrying a sleeping child waited for a cart to cross a bridge. For a moment, the view looked less like a fantasy illustration and more like somewhere people had to get through a morning.
+Below us, houses stood on terraces between workshops spilling forge light onto the streets. Loaded baskets creaked upward on chains, and a woman carrying a sleeping child waited for a cart to cross a bridge. I leaned closer to the window, forgetting the bread in my hand as I followed one basket all the way to a workshop door. People actually lived here. For a moment, the view looked less like a fantasy illustration and more like somewhere people had to get through a morning.
 
 The young woman from the gallery introduced herself as **Princess Elyra Obsidia**. She dismissed a servant who tried to cut her pear and asked what an invoice was.
 
@@ -116,7 +116,7 @@ Elyra turned toward the window, leaving her pear untouched. "The temples disagre
 
 "There are sermons. At present, that is quite enough."
 
-When the mage checked my translation, she explained that it would stay with me. Reading was another matter, as she demonstrated with a slate whose writing remained entirely unhelpful. Most of the morning went to proving I was ordinary. I carried weights, failed to make a copper bowl ring without touching it, and showed a guard a fighting stance I remembered from a boxing game. He corrected my feet, shoulders, and both hands before deciding that was enough.
+When the mage checked my translation, she explained that it would stay with me. Reading was another matter, as she demonstrated with a slate whose writing remained entirely unhelpful. I took the slate from her and turned it over, hoping for something I could recognize on the other side, embarrassed by how much I needed that small success. Most of the morning went to proving I was ordinary. I carried weights, failed to make a copper bowl ring without touching it, and showed a guard a fighting stance I remembered from a boxing game. He corrected my feet, shoulders, and both hands before deciding that was enough.
 
 A dark thread appeared among the disk's gold lines when the mage held it over my palm. It followed both my hands and the spoon I held, passing through the gold light even after she traced a charm around my wrist and closed it. "It is a curse," she said. "The binding runs through him."
 
@@ -142,11 +142,11 @@ Elyra glanced at the untouched bowl. "We have exhausted the alternatives."
 
 The testing yard was a sand-covered terrace above the workshops, with wooden targets arranged against a thick wall. **Ordan**, the dwarf responsible for them, had copper wire in his gray beard and more apron pockets than my entire wardrobe. "Ever struck anything?" he asked.
 
-"A printer." 
+"A printer."
 
 Ordan gave a small nod and showed me how to close a fist. "Did it deserve it?"
 
-"Yes." I answered confidently.
+"Yes," I answered confidently.
 
 "First, we check the claim," Corven said. "As hard as you can."
 
@@ -168,7 +168,7 @@ I drew my still-extended finger into my lap and checked it for damage. There was
 
 "Yes," Corven answered softly. "You did."
 
-After that, everyone stood farther away while we tested ordinary movements. Holding my phone, eating, and adjusting my clothes all behaved normally, as did resting my palm on the weighted sled Ordan brought out. It stayed put until I pushed; a hard push through a wooden rod barely moved it, but a light one drove it across the sand.
+After that, everyone stood farther away while we tested ordinary movements. Holding my phone, eating, and adjusting my clothes all behaved normally, as did resting my palm on the weighted sled Ordan brought out. I had been afraid even to pick up the phone; having it survive my hands made me want to keep holding it. The sled stayed put until I pushed; a hard push through a wooden rod barely moved it, but a light one drove it across the sand.
 
 "So I can touch things," I said.
 
@@ -184,13 +184,13 @@ Ordan fetched a discarded block of granite with flat, chiseled faces. He traced 
 
 Ordan stopped tracing the seam and looked at my hand. "I will mind if you touch anything else."
 
-They put it in a sand-filled trough before a stone backstop, then retreated behind shields. My hard shove accomplished little, while a lighter one dragged the granite forward.
+They set it in a sand-filled trough on a low table in front of a stone backstop, then retreated behind shields. My hard shove accomplished little, while a lighter one dragged the granite forward.
 
 "Less force," Corven said. "Only slightly."
 
 I could measure the pressure in my fingertip no better than I could measure how badly I wanted to go home. Still, I gave the granite the smallest nudge I could manage. The trough burst beneath my hand, and I snatched my arm back as granite tore through the backstop in a cloud of pale dust. A chunk struck the pier supporting the walkway, opening a crack beneath its arch.
 
-Someone shouted below as the loaded chain groaned, and I heard running feet before I could see who was moving. I reached toward the table for balance, only for Ordan to seize my wrist and stop my hand short of the edge. He shouted workers off the walkway while sand trickled from the joint above the damaged pier. I could not stop watching the crack, expecting the arch to follow each little fall of grit.
+Someone shouted below as the loaded chain groaned, and I heard running feet before I could see who was moving. I reached toward the table for balance, only for Ordan to seize my wrist and stop my hand short of the edge. He shouted workers off the walkway while sand trickled from the joint above the damaged pier. I could not stop watching the crack, expecting the arch to follow each little fall of grit. Every footstep below made me picture someone still beneath it, and I wanted to shout for them to run faster.
 
 "Do NOT touch the mountain!" Ordan's face was unmistakably serious, with a hint of fear.
 
@@ -206,7 +206,7 @@ Corven began, "We need to establish…"
 
 Elyra came through the gate and stopped several paces away. "No more," she repeated.
 
-The warning bell rang below us. One workshop after another fell silent until I could hear the sand slipping from the damaged joint. The pier had not fallen. I lowered myself into the sand, keeping both hands in my lap. When Ordan let go of my wrist, I left it where he had put it. Nobody asked for another demonstration.
+The warning bell rang below us. One workshop after another fell silent until I could hear the sand slipping from the damaged joint. The pier had not fallen. When Ordan released my wrist, I lowered myself into the sand and rested both hands in my lap. Nobody asked for another demonstration.
 
 * * *
 
@@ -258,7 +258,7 @@ Elyra followed my glance. "I will." I believed she intended to. It was the best 
 
 Outside, cold air replaced the incense. There was snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me as far as the outer watchpost, where a soldier called him back to deal with a shifted chain housing. He stopped and glanced toward the city before turning to me and making me repeat the directions: main road, small bridge, three white stakes, lodge in the clearing. "No shortcuts. And Haruto? Power does not make you hard to kill."
 
-I nodded and followed the main road into the forest. With the trees ahead of me, his warning sounded less like advice and more like something I would be tested on.
+I nodded and followed the main road into the forest. I glanced back once, hoping Ordan might have remembered something that would bring him after me. He was still at the watchpost. With the trees ahead of me, his warning sounded less like advice and more like something I would be tested on.
 
 * * *
 
@@ -305,7 +305,7 @@ As the shadows lengthened, something green flowed out of a ditch, rising to my k
 >
 > **Threat:** Acidic contact.
 
-A fallen branch was close enough to pick up without taking my eyes off it. I lowered the tip between us, trying to keep the jelly at a distance. Its surface gathered beneath itself, then sprang. I swung hard before I could stop myself. The blow scarcely slowed the slime. Cold jelly wrapped around my shin, and I dragged my foot backward as a sting spread through my pants. It came with me. *Soft. Do it softly.*
+A fallen branch was close enough to pick up without taking my eyes off it. I lowered the tip between us, trying to keep the jelly at a distance. Its surface gathered beneath itself, then sprang. I swung hard before I could stop myself. The blow scarcely slowed the slime. Cold jelly wrapped around my shin, and I dragged my foot backward as a sting spread through my pants. It came with me. I remembered the bone suspended inside it, and a sick, frantic disgust joined the pain. *Soft. Do it softly.*
 
 I forced myself to stop swinging. With my shin stinging and the branch shaking in both hands, I lowered its tip against the jelly and gave a tiny push. The slime tore away from my leg and flew across the road, bursting against a tree in a shower of wet leaves. I pulled my foot beneath me and stared at the damp patch on my pants. "That worked!"
 
@@ -325,7 +325,7 @@ My phone lit through a new crack, showing forty-eight percent battery. By its fl
 
 I climbed the sacks to look for a gap, but something shifted overhead before I got far. I climbed down again. *I can break stone. I can also be crushed by stone.*
 
-My calls for help echoed through air that smelled of damp limestone and old iron. Beneath the dust, tracks crossed the floor and continued through an arch. Someone had built all of this, then left it behind. I could not tell how long ago. Blue lamps brightened inside glass cages along the wall, and I switched off the flashlight to follow them past enormous slabs hanging from chains. I called the place the **Hanging Halls**. Someone who knew its proper name would ideally also know the exit.
+My calls for help echoed through air that smelled of damp limestone and old iron. Beneath the dust, tracks crossed the floor and continued through an arch. Someone had built all of this, then left it behind. I could not tell how long ago. Blue lamps brightened inside glass cages along the wall, and I switched off the flashlight and put the phone away before following them past enormous slabs hanging from chains. I called the place the **Hanging Halls**. Someone who knew its proper name would ideally also know the exit.
 
 Steel scraped beyond the next arch. I stopped beside the iron frame holding one of the suspended slabs, listening until the scrape came again, closer this time. A skeleton stepped into the lamplight. Rusty armor shifted over its ribs, and green light burned inside sockets with nothing behind them. I looked past it for a person, for someone holding it up or making it move. Its sword dragged along the floor as it came toward me, and red writing appeared beside its helmet.
 
@@ -356,15 +356,15 @@ Two more skeletons came through the arch, their red windows overlapping as they 
 
 The third crowded in before the pieces had stopped moving. Its sword struck the stair railing beside my ear. I flinched toward the wall, brought my left hand forward, and tapped its breastplate away from me. Bones and armor clattered up the steps. I kept backing down until I had stone between me and the doorway.
 
-At the bottom, I caught the handle of a wooden door and pushed firmly into a small room. A broken bench stood inside. I pulled the door shut, dragged the bench into place with steady pressure, and wedged it beneath the handle. For a moment, I kept hold of the wood, listening for another sword. Then I sank to the floor. The shallow cut stopped bleeding beneath my sleeve, but my bare sock was full of grit. I could still hear the blade striking the railing whenever the room went quiet enough.
+At the bottom, I caught the handle of a wooden door and pushed firmly into a small room. A broken bench stood inside. I pulled the door shut, dragged the bench into place with steady pressure, and wedged it beneath the handle. For a moment, I kept hold of the wood, listening for another sword. Then I sank to the floor. The shallow cut stopped bleeding beneath my sleeve, but my bare sock was full of grit. I took out the phone to check the time, then let it rest in my lap while I listened. I could still hear the blade striking the railing whenever the room went quiet enough.
 
-My phone slipping from my lap woke me, and for a second I reached for the alarm beside my bed. The bench and the blue light beneath the door brought me back. I had slept for less than an hour, barely enough to call a nap; my hand still hurt, and the cut on my forearm pulled beneath the stiff, bloodstained sleeve.
+My phone slipping from my lap woke me, and for a second I reached for the alarm beside my bed. The bench and the blue light beneath the door brought me back. I kept my hand out for a moment, aching for the bed I had expected to find. I had slept for less than an hour, barely enough to call a nap; my hand still hurt, and the cut on my forearm pulled beneath the stiff, bloodstained sleeve.
 
 The clock had crossed into another day. The date belonged to a world where people would be arriving at work and wondering why I had not answered a message. *I would happily process an invoice right now.*
 
 After listening at the door, I shifted the bench and stepped back into the passage. Running water had replaced the scrape of swords, though its channel was beyond a broken section of floor and out of reach. I followed more corridors, using the flashlight wherever the lamps stayed dark, and began counting downward stairways. At twenty-three, I found one I was almost certain I had counted already. *Wonderful. I am lost in three dimensions.*
 
-A rack beside an empty guardroom held spare weapons. I found dry canvas in a crate and tied it around my left sock. Then I chose a rusty sword with an intact hilt. Perhaps the next creature would not present a forehead at a convenient height. "You are borrowed," I told it. "Please behave." A strap beside the rack held its scabbard at my hip. I continued until the phone reached eighteen percent, then switched it off.
+A rack beside an empty guardroom held spare weapons. I found dry canvas in a crate, then set the phone on the floor while I tied the cloth around my left sock. Then I chose a rusty sword with an intact hilt. Perhaps the next creature would not present a forehead at a convenient height. "You are borrowed," I told it. "Please behave." A strap beside the rack held its scabbard at my hip. I picked up the phone and continued until it reached eighteen percent, then switched it off and put it away.
 
 The sound of breathing stopped me outside the next doorway. Beneath a blue lamp, two fallen beams pinned a wolf across the room's entrance, one rotten length trapping its front legs against the other. Six red eyes followed the movement of my hand. Its lips drew back, and a snap of its jaws sent me a step away from the doorway. The teeth had closed on empty air where I had been about to stand.
 
