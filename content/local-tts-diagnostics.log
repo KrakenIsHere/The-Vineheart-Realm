@@ -1258,3 +1258,21 @@ kokoro
 [2026-10-15T19:57:40.531Z] .obsidian/plugins/local-tts-reader: kokoro
 dropped 204 queued request(s)
 
+[2026-10-16T15:25:48.554Z] .obsidian/plugins/local-tts-reader: plugin loaded
+
+
+[2026-10-16T15:25:48.987Z] .obsidian/plugins/local-tts-reader: kokoro
+backend choice: GPU (amd rdna-3) with onnx/model.onnx
+
+[2026-10-16T15:25:49.781Z] .obsidian/plugins/local-tts-reader: kokoro
+backend plan: webgpu/1t -> wasm/10t -> wasm/1t
+
+[2026-10-16T15:25:50.864Z] .obsidian/plugins/local-tts-reader: kokoro
+loaded on webgpu with 1 thread(s) in 1082ms
+
+[2026-10-16T15:25:50.864Z] .obsidian/plugins/local-tts-reader: kokoro
+kokoro ready on GPU (WebGPU)
+
+[2026-10-16T15:25:50.864Z] .obsidian/plugins/local-tts-reader: engine prewarmed
+kokoro in 2070ms
+

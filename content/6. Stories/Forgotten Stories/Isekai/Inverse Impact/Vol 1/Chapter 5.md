@@ -258,7 +258,7 @@ I nodded once her pointing finger had helped me tell the two apart.
 
 "Come down. Stay on the steps until I tell you where to stand."
 
-With the lantern from the sill, I followed her onto a platform with room for two beside the railing, provided neither decided to be somewhere else suddenly. The hatch was behind Nessa near the wall, and below the railing the cover's lower edge bent into the cradle's path. She placed the wedges beneath a ledge on the cradle, using the head of her wrench to slide them into the gap from the side. Her hands stayed outside the frame. "If the catch slips, those should stop it before the bend," she said. "We still keep out from underneath."
+With the lantern from the sill, I followed her onto a platform with room for two beside the railing, provided neither of us moved too suddenly. The hatch was behind Nessa near the wall, and below the railing the cover's lower edge bent into the cradle's path. She placed the wedges beneath a ledge on the cradle, using the head of her wrench to slide them into the gap from the side. Her hands stayed outside the frame. "If the catch slips, those should stop it before the bend," she said. "We still keep out from underneath."
 
 I followed the chain upward with my eyes, from the polished links crossing the pulley to the rust darkening them again farther along. I had watched a chain tear stone out of a ceiling. I pictured the chain parting above us, then caught myself measuring the distance to the steps.
 
@@ -280,7 +280,7 @@ She studied the bar, then pointed to a space at the top of the fold. "Here. Away
 
 I set down the lantern and fitted the wedge into the gap. Nessa remained beside the steps, where she could see both my hand and the catch above the weight. I pushed firmly, watching the folded edge. It moved away from the cradle with a creak, and I held the pressure, hoping the lower part would follow. The bar started sliding sideways.
 
-I stopped before its wedge came free. The lower bolts hadn't moved. Setting my feet wider, I fitted the end back into the gap and tried again. My right calf tightened; the iron bent beneath the wedge, slowly taking a small dent. Still nothing came loose. There was no hidden supply of ordinary strength beneath my curse. I had become very powerful at the part of the job involving making the wrong amount of effort.
+I stopped before its wedge came free. The lower bolts hadn't moved. Setting my feet wider, I fitted the end back into the gap and tried again. My right calf tightened; the iron bent beneath the wedge, slowly taking a small dent. Still nothing came loose. There was no hidden supply of ordinary strength beneath my curse. I could send stone flying with a fingertip. Getting this cover loose without wrecking everything around it was apparently asking too much.
 
 Nessa raised a hand. "Enough. You will slip."
 
@@ -288,7 +288,7 @@ I was about to tell her I could try once more. Then I looked down at my left foo
 
 "We can chisel the heads off," she said, looking at the two bolts still holding the fold. "It will take time."
 
-I could break timber. I could break stone. I had also broken enough things around both to understand why she was reaching for the chisel. "I might be able to break that part," I said hesitantly.
+I could break timber and stone. I had also seen how much else could come down with them. "I might be able to break that part," I said hesitantly.
 
 Nessa looked from the folded iron to the catch above it, the chisel still in her hand. "How much would break?" At least I was being asked that before putting my hand anywhere.
 
@@ -377,11 +377,11 @@ She stood, then gave the weight considerably more attention than she had given m
 
 "Enough to try. From upstairs."
 
-I drew my foot beneath me. Upstairs sounded very good. I looked at the twisted sheet on the hatch. I had pictured it coming away like a loose board. It had arrived at the wall as something I would have difficulty recognizing if I had not watched it happen. "That is more damage than I wanted."
+I drew my foot beneath me. Upstairs sounded very good. I looked at the twisted sheet on the hatch. I had pictured it coming away like a loose board. Now the sheet was so twisted I could barely recognize it. "That is more damage than I wanted."
 
 "Yes." Nessa looked at the twisted cover for a moment. "The outlet could not open with it there. Now it might."
 
-My knee took my weight when I stood to collect the bar, though it hurt. Nessa followed me up the five steps and hung the lantern in the control room, bringing the handle's pin only after checking that the catch remained engaged. The handle reached nearly to the room's threshold, beside a small geared wheel connected to the mechanism below. From there she could work both without standing beside the cradle.
+My knee took my weight when I stood to collect the bar, though it hurt. After checking that the catch was still engaged, Nessa removed the handle's pin and followed me up the five steps. She hung the lantern in the control room. The handle reached nearly to the room's threshold, beside a small geared wheel connected to the mechanism below. From there she could work both without standing beside the cradle.
 
 "Watch the gate shaft," she said. "If the chain stops while the weight keeps moving, tell me."
 
@@ -441,7 +441,7 @@ Nessa's eyes followed my foot as she lifted the bag. "Still holding?"
 
 "Then put the bar on the bag. You will want a hand free."
 
-She made a loop with a short length of spare cord and secured the bar along the bag's outside, wedge down. I held the bag still while she worked. Carrying something had never seemed especially useful before this place. Now it gave me a job I could do without checking the far wall first. With the bag over one shoulder, the rope over the other, and the lantern in hand, she led me down to the platform.
+She made a loop with a short length of spare cord and secured the bar along the bag's outside, wedge down. I held the bag still while she worked. Holding the bag steady gave me a useful job that did not involve checking the far wall first. With the bag over one shoulder, the rope over the other, and the lantern in hand, she led me down to the platform.
 
 The torn cover still rested across the hatch, so Nessa got her wrench beneath its loose corner and tipped it against the empty back wall. Iron scraped over stone and settled with a heavy clang, and I remained on the steps until she had moved clear.
 
@@ -513,7 +513,7 @@ There had been no fight, and the writing stayed red behind me until the pillar h
 
 * * *
 
-We turned left along the far bank. The wall remained on my right, the water on my left. Ahead, the little stair climbed toward the open doorway with the rag. Between us and its first tread, water still crossed the ledge in a narrow sheet. Nessa stopped before it. At the foot of the stairs, water poured through a shallow drain whose shifted metal cover left a dark gap along one side. The ledge continued beneath it, with enough stone beside the wall for one foot, but a stronger pulse of water tilted the cover.
+We turned left along the far bank. The wall remained on my right, the water on my left. Ahead, the little stair climbed toward the open doorway with the rag. Between us and its first tread, water still crossed the ledge in a narrow sheet. Nessa stopped before it. At the foot of the stairs, water poured through a shallow drain whose shifted metal cover left a dark gap along one side. There was barely enough stone between the drain and the wall for one foot. As I watched, a stronger pulse of water tilted the loose cover.
 
 "I do not trust that," I said, stopping before the water reached my feet.
 
@@ -551,7 +551,7 @@ Nessa looked at it, then at me. "It has had a quiet day."
 
 I climbed slowly, my right knee hurting on the higher steps as I led with my good leg and brought the other up once I had somewhere firm to stand. Nessa waited whenever she reached the edge of the lantern's light. Her waiting meant I could concentrate on the next step without worrying about losing her light.
 
-Near the top, a draft reached the sweat at my neck. I stopped with one foot on the next step. Wet wood. Pine. I had found leaves in the water and cold air in several passages. This air came from beneath a door at the top of a staircase someone had built to use. I lifted my head toward it, listening.
+Near the top, a draft reached the sweat at my neck. I stopped with one foot on the next step. Wet wood. Pine. I had found leaves in the water and cold air in several passages. This air came from beneath a door I could actually reach. I lifted my head toward it, listening.
 
 A voice came from the other side.
 
@@ -569,7 +569,7 @@ The sky kept going.
 
 A man in a heavy coat stood beside the door with a lamp he no longer needed. He looked at Nessa, then at me. His eyes stopped at my empty scabbard and continued down to the leather pad under my foot. "Who is that?"
 
-I lowered my hand. My introduction had reached the point where several parts needed deciding before I opened my mouth. Summoned champion. Civilian. The person responsible for some of the repairs they were about to need.
+I lowered my hand. I hesitated, trying to decide which version of myself to introduce. Summoned champion. Civilian. The person responsible for some of the repairs they were about to need.
 
 Nessa picked up the bag. "Haruto. He is with me."
 

@@ -26,7 +26,7 @@ He tried again, louder. It was interesting to discover that this approach to for
 
 "Can you understand me?" the older man asked.
 
-I heard Japanese, though his mouth formed entirely different sounds. "Yes."
+I heard Japanese, though his lips did not match the words. "Yes."
 
 Everyone started talking. Someone applauded before deciding that it was premature. I stood with my convenience-store bag while strangers celebrated the discovery that I could answer a question.
 
@@ -116,7 +116,7 @@ Elyra turned toward the window, leaving her pear untouched. "The temples disagre
 
 "There are sermons. At present, that is quite enough."
 
-When the mage checked my translation, she explained that it would stay with me. Reading was another matter, as she demonstrated with a slate whose writing remained entirely unhelpful. I took the slate from her and turned it over, hoping for something I could recognize on the other side, embarrassed by how much I needed that small success. Most of the morning went to proving I was ordinary. I carried weights, failed to make a copper bowl ring without touching it, and showed a guard a fighting stance I remembered from a boxing game. He corrected my feet, shoulders, and both hands before deciding that was enough.
+When the mage checked my translation, she explained that it would stay with me. Reading was another matter, as she demonstrated with a slate whose writing remained entirely unhelpful. I took the slate from her and turned it over, embarrassed by how badly I wanted to find even one familiar word. Most of the morning went to proving I was ordinary. I carried weights, failed to make a copper bowl ring without touching it, and showed a guard a fighting stance I remembered from a boxing game. He corrected my feet, shoulders, and both hands before deciding that was enough.
 
 A dark thread appeared among the disk's gold lines when the mage held it over my palm. It followed both my hands and the spoon I held, passing through the gold light even after she traced a charm around my wrist and closed it. "It is a curse," she said. "The binding runs through him."
 
@@ -164,7 +164,7 @@ I brought my left fingertip to the board and paused with its rough grain against
 
 By the time the ringing in my ears faded, part of the board was sticking through the stone and dust was settling on Elyra's coat. Ordan got up and opened his mouth at the sight of the ruined stand, but nothing came out.
 
-I drew my still-extended finger into my lap and checked it for damage. There was no burn, no wound, no sign that it had done anything unusual. The wall had considerably more evidence. "I did less," I said.
+I lowered my hand into my lap and checked the fingertip for damage. There was no burn, no wound, no sign that it had done anything unusual. The wall had considerably more evidence. "I did less," I said.
 
 "Yes," Corven answered softly. "You did."
 
@@ -198,7 +198,7 @@ Someone shouted below as the loaded chain groaned, and I heard running feet befo
 
 Ordan did not let go of my wrist. "I saw."
 
-I looked at the hand holding mine. *That will not protect either of us if I push him away.* I had been waiting for the reward, the moment everyone realized the tired man from the train was secretly useful. Instead, I remembered accepting a cup from a servant and pictured someone stumbling on a crowded train, my hand reaching out to steady them. *What happens if I am trying not to hurt someone?* "No more," I said. It came out quietly, and I had to draw another breath before I could look at Corven.
+I looked at Ordan's hand around my wrist. *That will not protect either of us if I push him away.* I had been waiting for the reward, the moment everyone realized the tired man from the train was secretly useful. Instead, I remembered accepting a cup from a servant and pictured someone stumbling on a crowded train, my hand reaching out to steady them. *What happens if I am trying not to hurt someone?* "No more," I said. It came out quietly, and I had to draw another breath before I could look at Corven.
 
 Corven began, "We need to establish…"
 
@@ -309,7 +309,7 @@ A fallen branch was close enough to pick up without taking my eyes off it. I low
 
 I forced myself to stop swinging. With my shin stinging and the branch shaking in both hands, I lowered its tip against the jelly and gave a tiny push. The slime tore away from my leg and flew across the road, bursting against a tree in a shower of wet leaves. I pulled my foot beneath me and stared at the damp patch on my pants. "That worked!"
 
-More wet sounds came from the ditch as three slimes climbed its sides and two more emerged among the roots, red warnings appearing over them as they flowed toward me. One stood directly in the way of the lodge. I fled into the woods, ducking under branches that snagged my jacket and dragged me off course. Each breath pulled at the bruise beneath my ribs, but the wet sounds behind me kept me moving. At the bottom of a slope, mud held my left shoe as my foot came free. I nearly turned back for it. Then jelly flowed over the heel, and I decided it had served with distinction.
+More wet sounds came from the ditch as three slimes climbed its sides and two more emerged among the roots, red warnings appearing over them as they flowed toward me. One blocked the road ahead. I fled into the woods, ducking under branches that snagged my jacket and dragged me off course. Each breath pulled at the bruise beneath my ribs, but the wet sounds behind me kept me moving. At the bottom of a slope, mud held my left shoe as my foot came free. I nearly turned back for it. Then jelly flowed over the heel, and I decided it had served with distinction.
 
 On the far side of a gully, old stones showed beneath the moss. I scrambled toward what I took for a path, only for the ground to flex beneath my next step and open. I caught a root and felt it stretch beneath my weight. For an instant, I stopped falling. Then it tore free, and my hip struck rock as I slid into the shaft, scraping my feet against the wall in search of something that would hold.
 
@@ -364,7 +364,7 @@ The clock had crossed into another day. The date belonged to a world where peopl
 
 After listening at the door, I shifted the bench and stepped back into the passage. Running water had replaced the scrape of swords, though its channel was beyond a broken section of floor and out of reach. I followed more corridors, using the flashlight wherever the lamps stayed dark, and began counting downward stairways. At twenty-three, I found one I was almost certain I had counted already. *Wonderful. I am lost in three dimensions.*
 
-A rack beside an empty guardroom held spare weapons. I found dry canvas in a crate, then set the phone on the floor while I tied the cloth around my left sock. Then I chose a rusty sword with an intact hilt. Perhaps the next creature would not present a forehead at a convenient height. "You are borrowed," I told it. "Please behave." A strap beside the rack held its scabbard at my hip. I picked up the phone and continued until it reached eighteen percent, then switched it off and put it away.
+A rack beside an empty guardroom held spare weapons. I found dry canvas in a crate, then set the phone on the floor while I tied the cloth around my left sock. Then I chose a rusty sword with an intact hilt. Perhaps the next creature would not present a forehead at a convenient height. "You are borrowed," I told it. "Please behave." I used a strap from beside the rack to secure the scabbard at my hip. I picked up the phone and continued until it reached eighteen percent, then switched it off and put it away.
 
 The sound of breathing stopped me outside the next doorway. Beneath a blue lamp, two fallen beams pinned a wolf across the room's entrance, one rotten length trapping its front legs against the other. Six red eyes followed the movement of my hand. Its lips drew back, and a snap of its jaws sent me a step away from the doorway. The teeth had closed on empty air where I had been about to stand.
 

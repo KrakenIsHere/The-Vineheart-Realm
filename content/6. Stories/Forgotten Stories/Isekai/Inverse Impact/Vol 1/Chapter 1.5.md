@@ -28,7 +28,7 @@ Its ears moved. It stayed beside the crack.
 
 "I am having a difficult day." That seemed to be enough information. The mouse slipped beneath the shelf, found one of the fallen seeds, and carried it back toward the doorway. I lowered the basket lid and crouched, keeping a comfortable distance between my hands and the floor.
 
-After pausing to sniff a loose thread beside my wrapped foot, the mouse went to the basin. I watched it drink, its nose twitching between mouthfuls, until it stopped to wash its face without once looking up at me. I found myself breathing more quietly so I would not frighten it. The room held only the trickle and those small movements. I still glanced at the doorway whenever something clicked in the gutter. It took effort to believe I could stay here without waiting for the next attack.
+After pausing to sniff a loose thread beside my wrapped foot, the mouse went to the basin. I watched it drink, its nose twitching between mouthfuls, until it stopped to wash its face without once looking up at me. I found myself breathing more quietly so I would not frighten it. I listened to the water trickling as the mouse washed its face. I still glanced at the doorway whenever something clicked in the gutter. It took effort to believe I could stay here without waiting for the next attack.
 
 I picked up a seed from the shelf and placed it beside the wall, reminding myself that carrying things and setting them down had been safe all morning. The mouse waited until my hand was well away before collecting it. "You are welcome," I said.
 
@@ -97,7 +97,7 @@ I looked at the four weapons gathering above the pillar. *So the more terrified 
 
 The hook scraped around the pillar. I tried to pull the cloak in after my knee, but the blade caught its edge and the collar snapped tight against my throat. My next breath stopped halfway in. I bent backward, shoulder scraping stone, and got my left fingertips beneath the collar. A firm pull gave me enough room to breathe, though the fabric stayed taut. Every movement of the hook tugged me toward the pillar's edge.
 
-I could let the cloak go. That would leave me with cold hands, a bleeding leg, and three useful items of which one had recently become a leash. I hated how long it took to make a decision that obvious.
+I could let the cloak go. I hated how reluctant I was to lose it, even with the collar cutting into my throat.
 
 The hook grated against the pillar. Its shaft was wood, bound with dark metal near the blade. I had cut a post with this sword a few minutes earlier. I looked at the shaft, then at my blade, and tried to remember the movement instead of the monster holding the other end. I lowered the sword toward the shaft, stopping when the edge settled against wood. My right hand wanted to squeeze harder. I loosened my shoulder instead, keeping the blade in place while the collar pressed against my throat.
 
@@ -107,7 +107,7 @@ Malgorth looked at the short piece of wood in its lower hand and let it fall. Th
 
 The broad sword scraped over the top of the pillar. I crouched until my nose almost touched my knee. Its edge knocked stone loose above me, and the pieces landed on my shoulders. Malgorth gave me no time to finish congratulating myself. An axe strike stopped me from getting around the other side, scattering fragments beneath my shoe. I almost fell with my weight half shifted. My calf had begun to throb, hurting when I stood on it and more when I tried to move quickly.
 
-The entrance slab was only a few paces away. If I could get a hand against it and choose where to push, I might make an opening. I looked at the doorway while Malgorth worked the axe out of the floor. Above the slab, a chain ran to a wheel fixed beneath the ceiling. A second length crossed toward the counterweight's frame. I could not tell what would come down if I broke the stone holding them. The platform upstairs had looked usable until a piece fell out of it. This mechanism was attached to something that could put an axe through the floor. I would have to reach the slab before I could make any of those questions matter.
+The entrance slab was only a few paces away. If I could get a hand against it and choose where to push, I might make an opening. I looked at the doorway while Malgorth worked the axe out of the floor. Above the slab, a chain ran to a wheel fixed beneath the ceiling. A second length crossed toward the counterweight's frame. I could not tell what would come down if I broke the stone holding them. The platform upstairs had looked usable until a piece fell out of it. And while I tried to work it out, something capable of putting an axe through the floor was still trying to kill me. I would have to reach the slab before I could make any of those questions matter.
 
 I put one foot toward the entrance while Malgorth worked the axe free. Its lower arm moved at once. The iron door swept through the space in front of me, close enough that I could see the raised rust around its dents. I pulled back behind the pillar, scraping my injured calf against a broken step. The pain made me hold the leg still for a moment. The doorway was only a few paces away, but I could not find a way to take the first one.
 
@@ -180,7 +180,7 @@ I crawled out from under the stones and sat against the wall. My stomach cramped
 
 Before answering, I pulled the torn fabric clear of my calf. Blood had made it stick, and lifting it brought back the sting I had barely noticed during the fight. I folded the loose flap into a pad and held it over the cut, then took a strip from the cloth around my other ankle to keep it in place. The knot would not come together, and I watched my stiff right fingers miss the same loop twice before stopping when they cramped. I had to fight the ridiculous urge to fling the cloth away. After a breath, I tried again and managed to make it hold. The bleeding slowed, though the pain remained, and I leaned my head against the wall to listen to the machinery settle.
 
-Through the gap in the shaft, the daylight had a warmer color than the lamps. I could see a little cloud moving past it. Somewhere above me, wind was crossing a mountain. People were walking along roads, eating meals, and doing things that would not fit under **Catastrophic Pacifist**. "Help," I called, desperate for someone to answer.
+Through the gap in the shaft, the daylight had a warmer color than the lamps. I could see a little cloud moving past it. Somewhere above me, wind was crossing a mountain. I pictured walking down an ordinary road, buying lunch, and getting through a day without breaking anything. "Help," I called, desperate for someone to answer.
 
 My voice traveled up the shaft. I kept my head lifted after it, waiting so hard that every little shift of stone sounded almost like an answer. Nothing came. I tried again, louder, and the dust in my throat made me cough. A few grains fell from the broken cover. I watched them land on my knees.
 
@@ -216,7 +216,7 @@ For a moment, I could hear nothing except my own breathing. Then I shouted, "NOO
 
 The word rose through the shaft and came back at me from the upper passages as something below the chamber shifted with a slow, heavy scrape. A chain hanging through a crack in the floor drew taut, and I watched one link fall, then another. Whatever was pulling it was much farther down than I wanted anything to be.
 
-A low sound from beneath the floor stopped my shouting, growing until I could feel it through the wall at my back. *Please be machinery.*
+A low sound rose from beneath the floor until I could feel it through the wall at my back. *Please be machinery.*
 
 Something roared. It sounded awake.
 

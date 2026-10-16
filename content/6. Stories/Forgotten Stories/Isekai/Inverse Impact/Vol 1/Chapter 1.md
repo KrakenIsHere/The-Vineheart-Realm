@@ -30,7 +30,7 @@ The blue window unfolded in front of my face again, close enough to make me flin
 >
 > **Warning:** Excessive tenderness may cause catastrophic results.
 
-I read the warning three times. I already knew the force rule from yesterday's tests, which had come at considerable expense to people who owned a training yard, and from surviving skeletons with it. The part about "excessive tenderness" was new. Apparently the window had decided that breaking things was no longer embarrassing enough without a description of my technique.
+I read the warning three times. I had learned the force rule during yesterday's tests, at considerable expense to the owners of a training yard. The skeletons had given me plenty of practice since. The part about "excessive tenderness" was new. Apparently the window had decided that breaking things was no longer embarrassing enough without a description of my technique.
 
 "Excessive tenderness?"
 
@@ -63,7 +63,7 @@ Yesterday, I had been [[DM Inverse Impact Characters#Haruto Minase|Haruto Minase
 
 Since then, I had been robbed, chased by slimes, and dropped into the [[DM World Implications#Hanging Halls|Hanging Halls]] through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
-The sword at my hip had come from a rack beside an empty guardroom, after several corridors spent insisting I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead. I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. I missed the sound of a message arriving. If rescue depended on someone calling me, there were already several larger problems with the plan.
+I had found the sword on a rack beside an empty guardroom, after walking through several corridors telling myself I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead. I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. I missed the sound of a message arriving. If rescue depended on someone calling me, there were already several larger problems with the plan.
 
 The blue windows stayed at the edge of my vision as I stepped into the corridor, following every turn of my head. *If it knew what that monster was, perhaps it knows the way out.* "Can you tell me where the exit is?" When the writing stayed exactly as it was, I tried a request that sounded more like something a window might understand. "Show me my status." The wolf's assessment faded beneath a larger window bearing my name.
 
@@ -82,7 +82,7 @@ The blue windows stayed at the edge of my vision as I stepped into the corridor,
 
 The level and armor numbers were unchanged since the summoning hall, but my hit points now read five, down from the seven I had before anyone started giving me things to punch. I looked from the cut beneath my sleeve to the number, which offered no useful estimate of how many more mistakes I could survive. Five sounded like a quantity I should stop spending. There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own. Then I read the new designation.
 
-"Catastrophic Pacifist?" I snapped. The window remained politely blue. "And please stop calling it Gentle Hands. That sounds like something you book an appointment for." I hissed. Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
+"Catastrophic Pacifist?" I snapped. The window remained politely blue. "And please stop calling it Gentle Hands. That sounds like something you book an appointment for," I hissed. Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
 
 The passage divided ahead, with one branch climbing beneath an arch with a cracked corner and the other sloping down beside a pair of bronze rails. Blue lamps lit both ways, and the same damp smell came from each. I stopped at the junction and looked from the upper arch to the lower passage, hoping for the kind of obvious difference a person in a story ought to notice. I studied the marks cut into the wall beside the upper branch: a square, three short lines, and something shaped like a hook. They could have meant EXIT, STORAGE, or PLEASE DO NOT FEED THE WOLF. The translation spell had given me speech and apparently left reading out of the deal.
 
@@ -181,23 +181,27 @@ A handwheel and a lever were fixed to the railing on the right of the opening, w
 
 High up the shaft, light shone through a break in the stonework. For a moment, the pale patch looked like sky, but leaning sideways changed the angle enough to reveal its glass cage. Another blue lamp. *Maybe the platform could get me closer to the surface.*
 
+*I want to go home. I will settle for outside, if this thing can manage that.*
+
 I moved beside the handwheel and followed its short metal shaft with my eyes to a large toothed gear, where a catch rested between two teeth. An iron cover hid the rest of the machinery, leaving me with no idea what the lever did. I assumed the catch was keeping the platform from dropping. Imagining the speeds a drop that long could achieve made me shudder.
 
-A dusty painted board rested on the walkway beside the controls. Holding it by the edges beneath the lamp over the gate, I could make out one figure at the wheel and another inside the platform with a load of boxes. Two people. I stared at the second figure, jealous of the painted passenger for having someone at the wheel. I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't investigate without getting in, or stop it if anything started moving in a way I disliked.
+A dusty painted board rested on the walkway beside the controls. Holding it by the edges beneath the lamp over the gate, I could make out one figure at the wheel and another inside the platform with a load of boxes. Two people. I stared at the second figure, jealous of the painted passenger for having someone at the wheel. I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't check without getting in. If it started moving with me aboard, I had no idea how I would stop it.
 
 I closed both hands around the cold rim of the handwheel and tried a firm, steady turn, the same sort of pressure that had moved a board normally in the training yard. The mechanism resisted before scraping through a short movement that tightened the chain overhead and raised the platform a few inches. When I stopped, it stayed where it was.
 
-For a moment, I thought I might actually get out, and the relief nearly made me laugh. I started turning the wheel again. Then something clicked beneath the platform and a narrow strip of metal came free. I stopped turning and watched it fall past the blue light. The silence lasted long enough for me to imagine standing where that piece had been.
+For a moment, I thought I might actually get out, and the relief nearly made me laugh. I started turning the wheel again. Then something clicked beneath the platform and a narrow strip of metal came free. I stopped turning and watched it fall past the blue light. While I waited to hear it land, I imagined the platform giving way beneath my feet.
 
 When it finally struck something below, I took my hands off the wheel and stepped back from the opening. The catch held. The stone beneath my feet was solid. I stayed there until I could look at the platform without wanting to move farther away.
 
 Crouching on the walkway let me see beneath the platform's raised edge, where two iron supports were bent and a third had pulled partly out of its joint. I returned to the railing and leaned just far enough to look up the shaft. The rails continued past the higher lamp, but the landing beside it was choked with rubble. There was no clear opening, and no way to tell whether the platform would reach it before its remaining supports gave up. I waited a little longer, as though a better answer might become visible. Then I left the platform where it was and stepped away from the controls.
 
+*All that way up, just to turn around and go back down.*
+
 I went back down the stairs, past the fallen chest and the remains of the skeletons. I kept looking over my shoulder. Leaving something that might have been an exit felt worse than finding a wall. But the platform had lost a piece before I put my weight on it. My skill could not hold its floor together, and the gloves would do very little if I fell through it.
 
 Back at the junction, my three pebbles were still arranged beside the arch. I sighed and added a fourth across the upper side of the triangle.
 
-*Of course. One thing that might get me out of here, is falling apart.*
+*Wonderful choice... A lift to take me up and out, OR to drop me to my death.* "Probably death."
 
 ---
 
