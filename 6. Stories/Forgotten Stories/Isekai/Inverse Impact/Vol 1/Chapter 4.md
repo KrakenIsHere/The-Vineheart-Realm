@@ -42,7 +42,7 @@ On the far side, steps climbed toward a row of lamps. I could see where the walk
 
 I drew the broken crossing on the slate, then lifted the latch of the door on the right with a click and pushed firmly. Its hinges gave a dry squeal as it opened onto a closet with shelves of dried pigment and wooden signs: a black hand raised beneath a red line, two people beside a wheel like the board near the broken lift, and several with writing but no pictures at all. I held the hand sign toward the light. It might mean stop. It might mean gloves required. It might be an advertisement for a profession I no longer wanted associated with my title.
 
-I put the sign back, then followed the corridor to the left from the landing. It sloped upward and passed beneath a low arch before opening into a round chamber with three other exits. A signpost stood beneath a blue lamp in the center, its boards pointing in different directions. Every sign had writing. I went around the post, checking the boards for pictures, then checked their backs in case someone had put the useful side out of sight. None did. "An impressive amount of writing for very little help," I said.
+I put the sign back, then followed the corridor to the left from the landing. It sloped upward and passed beneath a low arch before opening into a round chamber with three other exits. A signpost stood beneath a blue lamp in the center, its boards pointing in different directions. Every sign had writing. I went around the post, checking the boards for pictures, then checked their backs in case someone had put the useful side out of sight. There were no pictures on the backs either. "An impressive amount of writing for very little help," I said.
 
 I put three pebbles beside the doorway I had entered, with a gap pointing back toward it. The way to the right had stairs going down. The opening ahead led uphill. The one on the left was level, with cooler air moving out of it. For once, I chose the air instead of the stairs.
 
@@ -84,7 +84,7 @@ The filling beneath the arch had cracked around one stone. After checking the wa
 
 With my shoulder clear of the gap, I gave a light push.
 
-The stone vanished from beneath my hand. A bang struck from the other side of the wall, loud enough to make me duck. Through the hole, I saw the upper railing bow outward. A fastening tore free with a burst of stone chips, and the piece I had pushed tipped over the bent iron. The splash came a moment later. Its echoes were still crossing the water when something shifted above my wrist.
+The stone vanished from beneath my hand. A bang came from the other side of the wall, loud enough to make me duck. Through the hole, I saw the upper railing bow outward. A fastening tore free with a burst of stone chips, and the piece I had pushed tipped over the bent iron. The splash came a moment later. Its echoes were still crossing the water when something shifted above my wrist.
 
 I snatched my hand back and stepped away. Two smaller stones slid into the space their support had left. One lodged in the opening; the other fell toward me, struck the floor, and scattered dust over the toe of my shoe. I backed down a step and waited beside the wall until the last trickle of grit stopped and the filling was still. Then I picked up the iron bar, fitted its wedge beneath one of the fallen pieces, and put my shoulder behind a firm, steady push that moved it a few inches. I did the same with the next piece, keeping each movement short and watching the stone instead of easing off in an effort to be careful. The bar could carry the curse as easily as a sword.
 
@@ -96,7 +96,7 @@ I collected the slate and bar, climbed through, and marked my new opening on the
 
 A broad [[DM World Implications#Reservoir & service route|reservoir]] spread below the railing, its surface streaked with trembling reflections from the blue lamps. Stone pillars rose through it to support beams overhead, with weights hanging from chains inside tall iron frames between them. Most were still, but one at the far end kept descending a little, catching with a metallic bang, and jerking upward again. It never completed the journey. That was the sound I had heard through several walls.
 
-High on the opposite side, a gallery ran past closed doors, while arches lower down admitted water. Leaves turned in a slow circle where two currents met beneath a lamp. Nearer to me, a row of iron brackets showed just above the surface beside the pillars, joined by a narrow stone ledge I could make out beneath the water. I had been imagining a dungeon that happened to contain machinery. From here, I could see how much of it had been built to move things. Water, stone, carts, people. The suspended slabs and weights were parts of a place people had needed to work. I tried to picture carts crossing above the water while people shouted directions to one another. For a moment, I wanted to see the place working, just to understand how anyone had managed it.
+High on the opposite side, a gallery ran past closed doors, while arches lower down admitted water. Leaves turned in a slow circle where two currents met beneath a lamp. Nearer to me, iron brackets showed just above the water beside the pillars. Beneath them, I could make out a narrow stone ledge running along the wall. I had been imagining a dungeon that happened to contain machinery. From here, I could see how much of it had been built to move things. Water, stone, carts, people. The suspended slabs and weights were parts of a place people had needed to work. I tried to picture carts crossing above the water while people shouted directions to one another. For a moment, I wanted to see the place working, just to understand how anyone had managed it.
 
 From beside the wall, clear of the bent railing, I spotted an open door on the far gallery. A pale rag moved in the draft from its handle, above a bucket with a wooden lid. The bucket was whole, and the rag was white where the dust had not reached it. I drew the reservoir with plenty of room around it, marking my opening on one edge and the open door opposite. Then I looked up at the rag again. Someone might come back for that bucket. If they did, I wanted to be where they could see me.
 
@@ -110,7 +110,7 @@ To my right, the walkway continued past three lamps and climbed four shallow ste
 
 Water rushed inside a square wooden pipe along the wall, swelling and fading behind planks held together by iron bands. Those near my opening were rusty, but farther along one had been replaced with brighter metal. I stopped at the new band, comparing its shape with the old ones and the lighter wood beneath it. Someone had stood right here with tools and a piece that fit, repairing something instead of abandoning it. *They did not fly across the reservoir. There is a route.*
 
-Beside the repair, a clear pattern of small squares marked the damp floor. I followed the boot prints to the first step, where they overlapped older marks heading the other way. People came through here more than once. I went slowly, keeping the wall on my right and the reservoir on my left. The railing was intact beyond the section my stone had bent. I stayed away from the torn fastening and watched where the prints placed their weight.
+Beside the repair, a clear pattern of small squares marked the damp floor. I followed the boot prints to the first step, where they overlapped older marks heading the other way. People came through here more than once. I went slowly, keeping the wall on my right and the reservoir on my left. The railing was intact beyond the section my stone had bent. I stayed away from the torn fastening and watched where the people before me had stepped.
 
 Halfway up the steps, a chain clanked below me. I stopped with my right foot on the next tread. The low cry that followed came from beneath the opposite gallery, rough enough to carry over the rushing water. I had heard it under Malgorth's chamber. A ripple widened beside one of the submerged pillars. I watched its edge reach another reflection, and kept watching after both had broken apart. There was no head, no hand, and nothing I could point to. I imagined a pale hand closing around my ankle beneath that surface and made myself look back toward the arch.
 
@@ -132,7 +132,7 @@ The crease deepened. "Yes."
 
 My next question disappeared. I could hear her coat shift as she adjusted the light, a small sound beneath all the machinery. She was still there, her eyes on mine. I had prepared questions about the exit and explanations for the food. Instead, I had asked whether she was alive. I could feel my face warming, and none of the sensible questions came out.
 
-My hands started toward the bars. I kept them at my sides and bowed my head instead. I did not trust myself to remember how I was holding something while trying to speak. "Thank you."
+My hands started toward the bars. I kept them at my sides and bowed my head instead. I was afraid I would pull on the bars without thinking. "Thank you."
 
 "For what?"
 
@@ -192,7 +192,7 @@ I straightened as much as my leg allowed. "My name is Haruto Minase."
 
 "[[DM Inverse Impact Characters#Nessa|Nessa]]."
 
-I repeated her name. It felt good to have one. The skeletons had not offered theirs, and I had learned Malgorth's at a time when introductions were becoming impractical. "Do you know a way out?" I asked.
+I repeated her name. It felt good to know the name of someone I could actually talk to. The skeletons had not offered theirs, and I had learned Malgorth's at a time when introductions were becoming impractical. "Do you know a way out?" I asked.
 
 Nessa glanced up the stairs. "Normally. The upper service stair is beyond that turn. Part of its landing fell when the old shaft came apart. I can reach the stairs, but I cannot cross the gap at the top."
 
@@ -250,7 +250,7 @@ She lifted the lantern from its bracket and looked past me again, toward the pas
 
 "With that?"
 
-"No. My hand." I raised my left hand to show her, palm toward myself. She took a small step back. The lantern stayed on its bracket, leaving her face farther from the light. I lowered the hand at once. For the first time since she had come down the stairs, I wished the gate were wider between us. "I should explain that part."
+"No. My hand." I raised my left hand to show her, palm toward myself. She took a small step back. The lantern stayed on its bracket, leaving her face farther from the light. I lowered the hand at once. For the first time since she had come down the stairs, I wished there were more space between us. "I should explain that part."
 
 "Yes."
 
@@ -278,7 +278,7 @@ Then she pointed at the bar. "Leave that where it is for the moment."
 
 I did, leaving the bar where it was. She took the lantern off its bracket and lowered it to check the space around my feet, then looked at my hands again. I wanted to tell her I wasn't dangerous to her. Instead, I stayed where she had asked me to stand.
 
-Nessa looked up from my hands to my face. "I believe you got out of that chamber. I would rather hear the rest from this side of the gate."
+Nessa looked up from my hands to my face. "I believe you got out of that chamber. I would rather hear the rest with you over here."
 
 I let out a breath I had been holding for longer than I realized. "You will let me through?" I could hear the hope in my own voice.
 
@@ -324,7 +324,7 @@ I had taken the wrong branch, followed the wrong stairs, and kept walking past t
 
 "These two rooms look almost the same," I said. "I thought I had come around in a circle."
 
-Nessa brought the lantern closer. I held the slate flat without pressing it against the gate. "There are more than two." I stared at her until she went on. "They used the same junction wherever the galleries divided."
+Nessa brought the lantern closer as I held the slate flat, keeping it clear of the gate. "There are more than two," she said. I stared at her until she went on. "They used the same junction wherever the galleries divided."
 
 "That seems unhelpful."
 
@@ -380,7 +380,7 @@ My face warmed again. "I have had a difficult few days."
 
 "I was beginning to suspect that."
 
-When she straightened to try the upper latch, it moved partway and stopped with a metallic scrape. She tried it again. I watched the gap beside the bolt, willing the little piece of iron to finish moving. Above the hinge, a thin crack ran through mortar too fresh to have collected any dust.
+When she straightened to try the upper latch, it moved partway and stopped with a metallic scrape. She tried it again. I watched the gap beside the bolt, willing the little piece of iron to finish moving. Above the hinge, a thin crack split the mortar, its edges still free of dust.
 
 "This opened properly yesterday," she said. "The frame has shifted."
 
