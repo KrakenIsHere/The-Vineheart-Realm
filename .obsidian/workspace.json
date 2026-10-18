@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 274.5
   },
   "right": {
     "id": "2266179cb9c35810",
@@ -316,7 +316,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 394.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,8 +334,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "edef201bb432c779",
+  "active": "15619512660efef4",
   "lastOpenFiles": [
+    "state/inuse.41392.lock",
+    "state/inuse.4112.lock",
+    "state",
     "3. Characters/Non-Playable/Custom Creatures/The Soul Bound.md",
     "3. Characters/Non-Playable/Custom Creatures/The Soul Bound/The Soul Bound.md",
     "3. Characters/Non-Playable/Custom Creatures/Hellfang Wolf/DM Hellfang Wolf.md",
@@ -366,11 +370,8 @@
     "3. Characters/Non-Playable/Custom Creatures/Hellfang Wolf.md",
     "3. Characters/Non-Playable/Custom Creatures/Gravebound Colossus.md",
     "3. Characters/Non-Playable/Custom Creatures/DM Gravebound Colossus.md",
-    "3. Characters/Non-Playable/NPCs Sheet.md",
     "Table Of Contents.base",
     "4. Assets/Books/5e/Dungeon Master's Guide.pdf",
-    "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1",
-    "3. Characters/Non-Playable/DM Stories Characters",
     "0. World/3. Locations/0. World/The Vineheart Realm V0.6.jpg",
     "4. Assets/Images/Vineheart Logo/VineHeart.png",
     "2. Sessions/Goblins in the Misty Falls Year 226 BGW/The Master Cartographer's Riddle.png",

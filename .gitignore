@@ -2,4 +2,4 @@
 # Local text-to-speech model files
 *.onnx
 *.onnx.backup
-
+local-tts-diagnostics.log
