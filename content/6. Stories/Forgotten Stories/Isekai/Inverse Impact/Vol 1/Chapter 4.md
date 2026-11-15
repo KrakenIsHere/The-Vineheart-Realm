@@ -124,9 +124,9 @@ The voice stopped. I leaned close enough to see the turn in the stairs, keeping 
 
 At the sound of footsteps above the turn, I set the iron bar on the floor and stepped back far enough to leave it in plain sight. My empty scabbard still hung at my hip. I wished I had removed that as well.
 
-A boot and the edge of a lantern appeared on the stairs before a woman rounded the corner, holding the light away from her body. She came down wearing a short coat over a leather apron, her hair tied back beneath a cloth cap and gray dust marking one side of her face. A heavy wrench hung from her other hand as she stopped several steps from the gate to look at me.
+A boot and the edge of a lantern appeared on the stairs before a woman rounded the corner, holding the light away from her body. She was a little shorter than me, solidly built, with broad shoulders beneath a short coat and a leather apron. Dark hair was tied back beneath her cloth cap, and gray dust marked her brown cheek. A heavy wrench hung from her other hand as she stopped several steps from the gate to look at me.
 
-She raised the lantern to see me better, and I stared at the mud on her boots. One lace had a knot near its end. There was dust on her cheek, and a deep crease between her eyebrows. An actual person, looking back at me. "Are you alive?" I asked.
+She raised the lantern to see me better, and I stared at the mud on her boots. One lace had a knot near its end. Her face was broad, with a strong nose and a deep crease between her eyebrows. Two short tusks rose past her lower lip. An actual person, looking back at me. "Are you alive?" I asked.
 
 The crease deepened. "Yes."
 

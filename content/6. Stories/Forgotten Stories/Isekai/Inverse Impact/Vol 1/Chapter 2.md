@@ -18,11 +18,11 @@ When I opened my eyes, I was beneath a chandelier. I waited for the carriage to 
 
 Hundreds of pale crystals glowed inside an iron ring above me, casting moving reflections across a vaulted black ceiling while the air smelled of incense and hot metal. The polished stone beneath my back was marked with a circle of silver lines and surrounded by candles that had burned down to puddles. A man sat against a pillar with his shoes off. *Apparently the budget went to the ceiling.*
 
-I sat up too quickly and had to wait for the ceiling to stop tilting. The people around me made the same startled noise, several retreating with a scrape of shoes on stone. Robes. Armor. A real sword hanging beside someone's knee. An older man approached, his white sleeve singed and his beard trimmed to a silver point. I shifted my feet beneath me as he spoke, keeping my convenience-store bag close. Nothing he said made sense.
+I sat up too quickly and had to wait for the ceiling to stop tilting. The people around me made the same startled noise, several retreating with a scrape of shoes on stone. Robes. Armor. A real sword hanging beside a lean guard's knee. A tall older man approached in white robes that hung straight from narrow shoulders. His face was long and deeply lined, his beard trimmed to a silver point. When he leaned closer, I could see the slight points of his ears beneath his silver hair. One sleeve had been singed brown at the cuff. I shifted my feet beneath me as he spoke, keeping my convenience-store bag close. Nothing he said made sense.
 
 "Sorry. Where is this?" My voice was thin enough that I cleared my throat and tried to sit straighter.
 
-He tried again, louder. It was interesting to discover that this approach to foreign languages apparently existed everywhere. A young mage pushed past him carrying a crystal disk, and gold light unwound above my head. For a moment, the announcement from the train returned, stretched into one long note.
+He tried again, louder. It was interesting to discover that this approach to foreign languages apparently existed everywhere. A slight young mage pushed past him carrying a crystal disk, the top of her head scarcely reaching his elbow. Brown curls brushed her round cheeks and pointed ears, and her sleeves were rolled to her elbows. Gold light unwound above my head. For a moment, the announcement from the train returned, stretched into one long note.
 
 "Can you understand me?" the older man asked.
 
@@ -32,7 +32,9 @@ Everyone started talking. Someone applauded before deciding that it was prematur
 
 "You are in the royal invocation hall of **[[DM World Implications#Mountain court|House Obsidia]]**, in the northern mountains of **[[DM World Implications#Historical Placement|Magnica]]**," the man said. "I am **[[DM Inverse Impact Characters#High Magister Corven|High Magister Corven]]**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
 
-I asked about Japan, then Tokyo, then Earth, watching his face for even a flicker of recognition. With each attempt, he became more attentive and less useful. I took out my phone and held it higher, as though another few inches might bring back the signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation. "You summoned me." I lowered the phone and waited for him to deny it.
+I asked about Japan, then Tokyo, then Earth, watching his face for even a flicker of recognition. With each attempt, he became more attentive and less useful. I took out my phone and held it higher, as though another few inches might bring back the signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation.
+
+"You summoned me." I whispered in disbelief. I lowered the phone and waited for him to deny it.
 
 Corven nodded. "Yes. We called beyond our world for a champion bearing an extraordinary gift."
 
@@ -46,7 +48,7 @@ His eyebrows drew together. "A form of tribute?"
 
 "Mostly late payments."
 
-Someone in the gallery made a choking sound. A young woman beside a crowned man pressed her hand over her mouth, then became interested in the railing.
+Someone in the gallery made a choking sound. A young woman with a long dark braid pressed her hand over her mouth, then became interested in the railing. Beside her, a broad-shouldered [[DM Inverse Impact Characters#The Obsidia monarch|man]] with a close-cut iron-gray beard watched from beneath a narrow crown.
 
 A blue window unfolded so close to my face that I recoiled, catching myself with a hurried step. It followed. I reached toward its edge, stopped before touching anything, and read the first line twice. Whatever else was happening to me, at least its writing was in Japanese.
 
@@ -70,7 +72,7 @@ A blue window unfolded so close to my face that I recoiled, catching myself with
 > **Designation:** Civilian.
 > **Title:** None.
 
-It looked like a status screen from a game: level two, no armor, and no spells, with little plus signs beside Dexterity and Charisma and a minus beside Strength. I did not know what the scale went up to, but apparently carrying invoices had done less for my muscles than I hoped. I looked at the guards' breastplates with renewed interest as a second window appeared beneath the first.
+It looked like a status screen from a game: level two, no armor, and no spells, with little plus signs beside Dexterity and Charisma and a minus beside Strength. I did not know what the scale went up to. Looking down at the thin wrists sticking out of my work jacket, I suspected carrying invoices had done less for my muscles than I hoped. I looked at the guards' breastplates with renewed interest as a second window appeared beneath the first.
 
 > **Unique Skill:** [[DM World Implications#The Inverse Impact Skill|Inverse Impact]]
 >
@@ -82,7 +84,7 @@ It looked like a status screen from a game: level two, no armor, and no spells, 
 
 Corven followed my finger to a patch of empty air. "What do you see?"
 
-By the time I finished reading the windows aloud, nobody was smiling. The mage went to fetch another instrument while I searched for a button marked CANCEL. There was none.
+By the time I finished reading the windows aloud, nobody was smiling. Corven turned to the young mage. "**[[DM Inverse Impact Characters#The appraising mage|Mira]]**. An appraisal, please." She went to fetch another instrument while I searched for a button marked CANCEL. There was none.
 
 "Send me back," I said urgently, lowering my hand. I watched Corven instead of the window, waiting for him to call someone over or point toward whatever had brought me here.
 
@@ -98,11 +100,11 @@ When Corven pointed to the door, I put the phone away and followed him, the bag 
 
 * * *
 
-They led me along a corridor to a chamber overlooking the city inside the mountain, where breakfast waited beside the window. I sat with my bag between my feet and watched a servant pour water, needing something ordinary to follow. The bread was warm enough to steam when I broke it. After a hesitant bite, I ate it with salty cheese, then opened the sandwich from my bag. Being kidnapped had done nothing to reduce my appetite.
+They led me along a corridor to a chamber overlooking the city inside the mountain, where food waited beside the window. I sat with my bag between my feet and watched a [[DM Inverse Impact Characters#Lenna Marr|servant]] pour water, needing something ordinary to follow. She was scarcely taller than the table, with a thin frame, brown skin, and gray hair twisted into a low knot above the collar of her plain dark dress. The bread was warm enough to steam when I broke it. After a hesitant bite, I ate it with salty cheese, then opened the sandwich from my bag. Being kidnapped had done nothing to reduce my appetite.
 
 Below us, houses stood on terraces between workshops spilling forge light onto the streets. Loaded baskets creaked upward on chains, and a woman carrying a sleeping child waited for a cart to cross a bridge. I leaned closer to the window, forgetting the bread in my hand as I followed one basket all the way to a workshop door. People actually lived here. For a moment, the view looked less like a fantasy illustration and more like somewhere people had to get through a morning.
 
-The young woman from the gallery introduced herself as **[[DM Inverse Impact Characters#Princess Elyra Obsidia|Princess Elyra Obsidia]]**. She dismissed a servant who tried to cut her pear and asked what an invoice was.
+The young woman from the gallery introduced herself as **[[DM Inverse Impact Characters#Princess Elyra Obsidia|Princess Elyra Obsidia]]**. She looked about my age, slender in a fitted dark coat with small silver clasps. Her brown skin and dark eyes were easier to make out here than they had been in the gallery. The long braid slid over her shoulder as she pulled out a chair. She dismissed the gray-haired servant before the woman could cut her a pear and asked me what an invoice was.
 
 I set the bread down beside my plate. "They are reminders merchants ignore."
 
@@ -110,19 +112,23 @@ I set the bread down beside my plate. "They are reminders merchants ignore."
 
 "What do you need a champion for?"
 
-Elyra turned toward the window, leaving her pear untouched. "The temples disagree about what the gods intend for us. My father would like someone extraordinary on hand before the arguments become something worse."
+Elyra turned toward the window, leaving her pear untouched. "The temples disagree about what the gods intend for us."
 
 "Is there a war?"
 
-"There are sermons. At present, that is quite enough."
+"No." Elyra glanced toward the city. "But my father wants a champion ready if the temples' arguments turn into fighting."
 
-When the mage checked my translation, she explained that it would stay with me. Reading was another matter, as she demonstrated with a slate whose writing remained entirely unhelpful. I took the slate from her and turned it over, embarrassed by how badly I wanted to find even one familiar word. Most of the morning went to proving I was ordinary. I carried weights, failed to make a copper bowl ring without touching it, and showed a guard a fighting stance I remembered from a boxing game. He corrected my feet, shoulders, and both hands before deciding that was enough.
+Mira returned, carrying her crystal disk and a slate. "May I check the translation?" I turned toward her, still trying to decide how reassuring the princess's answer had been.
 
-A dark thread appeared among the disk's gold lines when the mage held it over my palm. It followed both my hands and the spoon I held, passing through the gold light even after she traced a charm around my wrist and closed it. "It is a curse," she said. "The binding runs through him."
+After checking the translation, Mira explained that the spell would stay with me. Reading was another matter. She held out the slate, whose writing remained entirely unhelpful. I took it from her and turned it over, embarrassed by how badly I wanted to find even one familiar word.
+
+Most of the morning went to proving I was ordinary. After I carried weights, Mira set a copper bowl in front of me and asked me to make it ring like a bell using magic, without touching it. I had no idea how to begin, and the bowl remained silent. Next, I showed the [[DM Inverse Impact Characters#Tavin Rusk|lean guard from the summoning hall]] a fighting stance I remembered from a boxing game. Up close, I could see an old scar splitting one eyebrow. His cropped black hair left his long, pointed ears uncovered. He unfolded his long arms and corrected my feet, shoulders, and both hands before deciding that was enough.
+
+A dark thread appeared among the disk's gold lines when Mira held it over my palm. It followed both my hands and the spoon I held, passing through the gold light even after she traced a charm around my wrist and closed it. "It is a curse," she said. "The binding runs through him."
 
 "Can you lift it?" I asked.
 
-The mage shook her head. "No."
+Mira shook her head. "No."
 
 "Suppress it?" Corven asked.
 
@@ -140,7 +146,7 @@ Elyra glanced at the untouched bowl. "We have exhausted the alternatives."
 
 * * *
 
-The testing yard was a sand-covered terrace above the workshops, with wooden targets arranged against a thick wall. **[[DM Inverse Impact Characters#Ordan|Ordan]]**, the dwarf responsible for them, had copper wire in his gray beard and more apron pockets than my entire wardrobe. "Ever struck anything?" he asked.
+The testing yard was a sand-covered terrace above the workshops, with wooden targets arranged against a thick wall. **[[DM Inverse Impact Characters#Ordan|Ordan]]**, the dwarf responsible for them, stood a head shorter than me and much broader across the shoulders. His sleeves were rolled back from thick forearms, and copper wire held sections of his gray beard together. He had more apron pockets than my entire wardrobe. "Ever struck anything?" he asked.
 
 "A printer."
 
@@ -174,7 +180,7 @@ After that, everyone stood farther away while we tested ordinary movements. Hold
 
 Ordan retrieved the rod from a safe distance. "Until you start pushing. This is offensive."
 
-Corven made the mage write it down. *The window already has a name for it. Please do not give it ideas.* **Inverse Impact** worked as advertised. The harder I tried to strike or shove, the less happened. Ease off, and the result grew. Ease off too much, and Ordan shifted his shield farther in front of him. Held objects carried the effect too: a gently tossed pebble dented an iron plate, while the blunt practice sword bounced when I swung hard but cut through leather and deep into the post when I moved it carefully. Ordan folded cloth over my palm to keep splinters out, and the next target still flew.
+Corven made Mira write it down. *The window already has a name for it. Please do not give it ideas.* **Inverse Impact** worked as advertised. The harder I tried to strike or shove, the less happened. Ease off, and the result grew. Ease off too much, and Ordan shifted his shield farther in front of him. Held objects carried the effect too: a gently tossed pebble dented an iron plate, while the blunt practice sword bounced when I swung hard but cut through leather and deep into the post when I moved it carefully. Ordan folded cloth over my palm to keep splinters out, and the next target still flew.
 
 "One final test," Corven said.
 
@@ -198,7 +204,7 @@ Someone shouted below as the loaded chain groaned, and I heard running feet befo
 
 Ordan did not let go of my wrist. "I saw."
 
-I looked at Ordan's hand around my wrist. *That will not protect either of us if I push him away.* I had been waiting for the reward, the moment everyone realized the tired man from the train was secretly useful. Instead, I remembered accepting a cup from a servant and pictured someone stumbling on a crowded train, my hand reaching out to steady them. *What happens if I am trying not to hurt someone?* "No more," I said. It came out quietly, and I had to draw another breath before I could look at Corven.
+I looked at Ordan's hand around my wrist. *That will not protect either of us if I push him away.* I had been waiting for the reward, the moment everyone realized the tired man from the train was secretly useful. Instead, I remembered accepting a cup from the gray-haired servant and pictured someone stumbling on a crowded train, my hand reaching out to steady them. *What happens if I am trying not to hurt someone?* "No more," I said. It came out quietly, and I had to draw another breath before I could look at Corven.
 
 Corven began, "We need to establish…"
 
@@ -210,7 +216,7 @@ The warning bell rang below us. One workshop after another fell silent until I c
 
 * * *
 
-While workers cleared the terrace below, they took me into a room beside the yard and gave me a wet cloth for my knuckles. The warning bell was still ringing when Corven read the final appraisal. "Bound curse. No safe method of suppression with our available wards or charms. Uncontrolled impact hazard. Unfit for royal service."
+While workers cleared the terrace below, the lean guard took me into a room beside the yard. The gray-haired servant brought a wet cloth for my knuckles. The warning bell was still ringing when Corven read the final appraisal. "Bound curse. No safe method of suppression with our available wards or charms. Uncontrolled impact hazard. Unfit for royal service."
 
 "You called me here," I said, my voice shaking with anger. The wet cloth had warmed against my knuckles. I unfolded it and folded it again, trying to find something to do with my hands while Corven's eyes stayed on the appraisal.
 
@@ -222,7 +228,7 @@ Corven looked down at the paper. "The [[DM World Implications#Survey lodge|surve
 
 "And an escort?" Elyra asked.
 
-The guards were needed on the lower terraces, but the council wanted me gone today, and one councilor kept looking at the ceiling. Ordan offered to take me as far as the outer watchpost. Corven started to fold the paper, but Elyra took it from him.
+The guards were needed on the lower terraces, but the council wanted me gone today, and a small, bald [[DM Inverse Impact Characters#Varric Soll|councilor]] with pointed ears and a tight green waistcoat kept looking at the ceiling. Ordan offered to take me as far as the outer watchpost. Corven started to fold the paper, but Elyra took it from him.
 
 "Someone goes after him tomorrow. Food, a guide, and answers."
 
@@ -236,7 +242,7 @@ Corven added a line, then read it aloud at her insistence. "Further assistance w
 
 I wanted to stay until they fixed what they had done. Then the bell sounded again, and I remembered the woman carrying her child below the yard. *Being right will not make me safe to keep here.*
 
-They gave me food, water, a blanket, a cloak, ten silver coins, and a sword with string around its scabbard. Ordan added leather gloves. "We tested cloth," I said.
+The gray-haired servant gave me food, water, a blanket, a cloak, ten silver coins, and a sword with string around its scabbard. Ordan added leather gloves. "We tested cloth," I said.
 
 Ordan held the gloves out by their cuffs. "They will protect your hands."
 
@@ -256,17 +262,17 @@ Elyra met us at the doors. She held out her hand, stopped, and closed it at her 
 
 Elyra followed my glance. "I will." I believed she intended to. It was the best thing I had been given all day.
 
-Outside, cold air replaced the incense. There was snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me as far as the outer watchpost, where a soldier called him back to deal with a shifted chain housing. He stopped and glanced toward the city before turning to me and making me repeat the directions: main road, small bridge, three white stakes, lodge in the clearing. "No shortcuts. And Haruto? Power does not make you hard to kill."
+Outside, cold air replaced the incense. There was snow on the upper slopes; below, a road wound through forest toward a small bridge. Ordan walked with me as far as the outer watchpost, where a square-built [[DM Inverse Impact Characters#Hessa Dorn|soldier]], shorter even than Ordan, called him back to deal with a shifted chain housing. A red braid hung beneath her helmet. He stopped and glanced toward the city before turning to me and making me repeat the directions: main road, small bridge, three white stakes, lodge in the clearing. "No shortcuts. And Haruto? Power does not make you hard to kill."
 
 I nodded and followed the main road into the forest. I glanced back once, hoping Ordan might have remembered something that would bring him after me. He was still at the watchpost. With the trees ahead of me, his warning sounded less like advice and more like something I would be tested on.
 
 * * *
 
-Four men stepped onto the road where it narrowed between a low stone wall and thick trees. I slowed, hoping they only wanted directions, until the nearest turned a knife in his hand. One of the others held a bow. I could hear my own footsteps stop.
+Four [[DM Inverse Impact Characters#The road bandits|men]] stepped onto the road where it narrowed between a low stone wall and thick trees. I slowed, hoping they only wanted directions, until the nearest turned a knife in his hand. He was taller than me, heavy through the shoulders and stomach. A lean man with long arms stood farther back, holding a bow. His tied-back hair left sharply pointed ears visible. I could hear my own footsteps stop.
 
 "Bag and belt," the largest said.
 
-My hand stopped halfway to the sword as one of the men with knives walked around me, cutting off the road back to the city. The largest had a shaving cut beneath his chin, and the man beside him looked younger than me. None wore a skull helmet or provided any other reassuring evidence that hurting them would be uncomplicated. *I could tap him.*
+My hand stopped halfway to the sword as a squat, thick-necked man with a knife walked around me, cutting off the road back to the city. One of the short tusks rising past his lower lip had a chipped tip. The largest had a shaving cut beneath his heavy jaw. The man beside him looked younger than me, with narrow shoulders and the beginnings of a blond beard. A slight point showed at the tip of one ear through his untidy hair. None wore a skull helmet or provided any other reassuring evidence that hurting them would be uncomplicated. *I could tap him.*
 
 The largest man was within reach. I looked from the skin beneath his jaw to my gloved hand and remembered the granite breaking against the wall, curling my fingers away from him. There was no version of that experiment I wanted to perform on a person.
 
