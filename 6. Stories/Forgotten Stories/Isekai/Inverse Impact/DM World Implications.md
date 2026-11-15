@@ -87,7 +87,7 @@ A long rest takes **eight hours**, restores full HP and the recovery reserve, an
 
 ## Other mechanics to track
 
-- Ability checks and saving throws still use Haruto's ordinary abilities. The curse grants no weapon, armor, or saving-throw proficiency; his specific proficiencies remain unassigned.
+- Ability checks and saving throws still use Haruto's ordinary abilities. The curse grants no weapon, armor, or saving-throw proficiency. His ordinary skill proficiencies are Investigation and Insight, recorded with the full profiles in [[DM Inverse Impact Characters#Starting Statistics|the character reference]].
 - Advancement is handled during long rests under [[Gameplay Changes#Levels:|the level rules]]. His XP total and the creatures' XP values are not established. No numerical XP award has been assigned to these scenes.
 - Food, water, cold, carrying loads, and light can affect his survival. A warm ring supplies no food, water, or protection from hypothermia. Loss of HP does not automatically mean a lasting wound.
 - Unconsciousness, stabilization, and death at zero HP have not occurred. Use the vault's D&D baseline and overrides when needed. No **Plot Armor** effect has been assigned to him.

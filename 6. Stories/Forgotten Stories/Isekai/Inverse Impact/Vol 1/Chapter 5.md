@@ -559,7 +559,7 @@ Nessa set the bag on the landing and knocked with the metal ring. Three hard kno
 
 A voice came through the door. "Nessa?"
 
-She closed her eyes and let out a long breath. "Yes."
+She closed her eyes and let out a long breath. "Yes, **[[DM Inverse Impact Characters#The worker at the service exit|Bren]]**."
 
 I climbed the last step as footsteps approached. The bolt scraped, and Nessa moved her bag clear before the door opened toward us. Daylight reached the landing. I raised my hand against it and waited for my eyes to adjust.
 
@@ -567,15 +567,15 @@ A covered work yard stood beyond the door, with split wood stacked on boards dar
 
 The sky kept going.
 
-A man in a heavy coat stood beside the door with a lamp he no longer needed. He looked at Nessa, then at me. His eyes stopped at my empty scabbard and continued down to the leather pad under my foot. "Who is that?"
+Bren stood beside the door with a lamp he no longer needed. He was a head taller than Nessa, thick through the shoulders and middle, with a red-brown beard spreading over the collar of his heavy coat. He looked at Nessa, then at me. His eyes stopped at my empty scabbard and continued down to the leather pad under my foot. "Who is that?"
 
 I lowered my hand. I hesitated, trying to decide which version of myself to introduce. Summoned champion. Civilian. The person responsible for some of the repairs they were about to need.
 
 Nessa picked up the bag. "Haruto. He is with me."
 
-The man stepped aside. I went through the doorway after her, keeping my hands clear of the frame. Cold air reached my face beneath the roof. I took a breath and could smell the wet wood without dust catching in my throat. I had never thought the smell of wet wood could make me want to cry.
+Bren stepped aside. I went through the doorway after her, keeping my hands clear of the frame. Cold air reached my face beneath the roof. I took a breath and could smell the wet wood without dust catching in my throat. I had never thought the smell of wet wood could make me want to cry.
 
-The trees moved beyond the yard. There was a road beside them, with room to walk away from the building, and I kept looking at it while Nessa spoke to the man. There would be questions about the lodge, the palace, and the very large problem attached to my hands. For now, I could see where I would put my feet next.
+The trees moved beyond the yard. There was a road beside them, with room to walk away from the building, and I kept looking at it while Nessa spoke to Bren. There would be questions about the lodge, the palace, and the very large problem attached to my hands. For now, I could see where I would put my feet next.
 
 Nessa glanced back. "Coming?"
 
