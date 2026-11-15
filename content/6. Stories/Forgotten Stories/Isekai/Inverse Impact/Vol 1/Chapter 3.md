@@ -38,7 +38,9 @@ I raised the wrapped dagger's wooden handle toward the slab, then stopped just s
 
 I put the dagger away and crouched at the cracked corner. With my palm resting below knee height, I could feel dust trapped between the glove and the stone. Nothing happened yet. I lifted the cloak clear of my feet and checked the direction one more time: out into the corridor, away from my knees. I gave a small push.
 
-The corner broke outward with a crack that filled the chamber. I snatched my hand back as stone crashed beyond the doorway. Dust spilled down a fresh split climbing halfway up the slab, and I moved to the side, keeping my head clear of what remained. The wheel above me stayed still as I watched the upper slab between its guides, waiting for the dust to thin enough to reveal both edges. It was holding, and I would have to go beneath it. The hole at floor level was wider than my shoulders, though low enough to make me crawl. I had pictured something tidier. Apparently, a hole I could crawl through was the best I could manage.
+The corner broke outward with a crack that filled the chamber. I snatched my hand back as stone crashed beyond the doorway. Dust spilled down a fresh split climbing halfway up the slab, and I moved to the side, keeping my head clear of what remained. The wheel above me stayed still as I watched the upper slab between its guides, waiting for the dust to thin enough to reveal both edges.
+
+It was holding, and I would have to go beneath it. The hole at floor level was wider than my shoulders, though low enough to make me crawl. I had pictured something tidier. Apparently, a hole I could crawl through was the best I could manage.
 
 A sharp rattle drew my attention back across the chamber. The chain had pulled tight beside the wall where I had been sitting, tipping a piece of floor and exposing more blue light. I lowered myself onto my good knee in front of the hole. "You can have the room."
 
@@ -159,12 +161,13 @@ I took off the cloak, folded it around the slate, and tucked the bundle into my 
 
 An iron bar about the length of my forearm was the last useful thing on the shelf, one end flattened into a narrow wedge. Holding it out tired my wrist, but carrying it at my side was manageable, and the metal had no cracks I could see. I took it in my left hand, leaving the dagger wrapped in my pocket. Neither was a sword, but I was still the person who had repeatedly dropped a sword whenever keeping it became inconvenient.
 
-At the door, I stopped and looked back at the table. Whoever had left edible food here must have a route they used. It might lead to the surface or another part of the dungeon I would prefer not to meet, assuming I had not already destroyed it by accident. Finding it still seemed more useful than trying the broken lift again. I was nervous about leaving, but eager to find the people who used this room.
+At the door, I stopped and looked back at the table. Whoever had left edible food here must have a route they used. It might lead to the surface or another part of the dungeon I would prefer not to meet, assuming I had not already destroyed it by accident. Finding it still seemed more useful than trying the broken lift again. I wanted to hear another person say something as ordinary as good morning.
 
-At the threshold, I listened before taking my first step. The wooden bar stood beside its brackets, ready if I came back. I looked once more at the table and the folded blanket, then stepped into the corridor with the iron tool at my side. The door stayed open, with the bench beside it.
+At the threshold, I listened with the iron tool at my side. The corridor stayed quiet, but I still had to make myself step through. I left the door open and the bench beside it, with the wooden bar ready by its brackets if I came back.
 
 This time, I knew where I would come back if the next route failed.
 
 ---
 
-**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 2|Chapter 2]] · **Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 4|Chapter 4]]
+**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 2|Chapter 2]]
+**Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 4|Chapter 4]]

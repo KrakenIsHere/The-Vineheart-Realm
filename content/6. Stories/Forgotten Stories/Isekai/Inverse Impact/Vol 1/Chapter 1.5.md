@@ -12,7 +12,7 @@ aliases:
 
 # Chapter 1.5: The Gentle Calamity
 
-Now that things had gone quiet, I could hear water running along the lower passage. I took that branch and followed the gutter along the wall, still turning at small sounds, until its water gathered in a [[DM World Implications#Basin & workroom|shallow basin]]. My first handful scarcely reached my mouth before I wanted another. I drank, then sat with my shoulder beside the basin and let my feet stop carrying me for a while. Behind me were the failing lift, the wolf, and a series of freshly opened holes that seemed more useful to monsters than to rescuers.
+Now that things had gone quiet, I could hear water running along the lower passage. I took that branch and followed the gutter along the wall, still turning at small sounds, until its water gathered in a [[DM World Implications#Basin & workroom|shallow basin]]. My first handful barely reached my mouth before I wanted another. I drank, then sat with my shoulder beside the basin and let my feet stop carrying me for a while. Behind me were the failing lift, the wolf, and a series of freshly opened holes that seemed more useful to monsters than to rescuers.
 
 The water tasted of stone and the metal basin. I drank more slowly after the first handful, then wet a corner of my shirt and wiped the dust from my lip. The cut on my forearm had dried into a stiff line beneath the sleeve. I rinsed around it and tied a strip of cloth over it, awkwardly, with my teeth helping more than my right hand. The window still listed me as injured, and the ache under my ribs caught me whenever I shifted. I settled back more carefully and drew the cloak around my shoulders against the draft, grateful for the ring's faint warmth in my cold hand.
 
@@ -20,7 +20,7 @@ I stretched out my legs and checked my pockets, finding my wallet and the phone 
 
 Through the narrow doorway beside the basin, I could see shelves crowded with broken baskets and several lidded pottery jars. I drew my feet beneath me and got up at the thought of bread, too quickly for my bruised hip. After waiting for the ache to ease, I shuffled through the doorway and approached the shelves. I would have accepted bread old enough to require a formal apology.
 
-I lifted the first lid, found an empty jar, and set the lid aside before moving along the shelf. A pale growth covered the clumped grains in the next jar, and the thought of a mouthful turned my stomach. I lowered its lid again and tried the third. That one had cracked, spilling dark seeds across the shelf, some partly eaten. I picked up a few and carried them beneath the lamp, hoping whatever small creature had found meals here knew something I did not. The seeds were shriveled, hard, and unfamiliar. I lifted one toward my mouth, then hesitated; I could not tell whether I was looking at spoiled food, perfectly normal food, or something people here fed exclusively to animals. I took them back to the shelf and put them down, keeping my face clear of whatever was growing beneath the lower shelf. The translation spell had not provided grocery training.
+I lifted the first lid, found an empty jar, and set the lid aside before moving along the shelf. A pale growth covered the clumped grains in the next jar, and the thought of a mouthful turned my stomach. I lowered its lid again and tried the third. That one had cracked, spilling dark seeds across the shelf, some partly eaten. I picked up a few and carried them beneath the lamp, hoping whatever small creature had found meals here knew something I did not. The seeds were shriveled, hard, and unfamiliar. I lifted one toward my mouth, then hesitated; I could not tell whether what I was looking at was spoiled, perfectly normal food, or something people here fed exclusively to animals. I took them back to the shelf and put them down, keeping my face clear of whatever was growing beneath the lower shelf. The translation spell had not provided grocery training.
 
 While I was checking the last basket, a mouse emerged from a crack beside the door, and we both stopped: it with its nose lifted, me with a basket lid in my hand. It was small, brown, and entirely without armor, and no window appeared beside it. Its only apparent qualification for living here was that it could fit through places I could not. "Hello," I said quietly, absurdly glad of the company.
 
@@ -28,7 +28,7 @@ Its ears moved. It stayed beside the crack.
 
 "I am having a difficult day." That seemed to be enough information. The mouse slipped beneath the shelf, found one of the fallen seeds, and carried it back toward the doorway. I lowered the basket lid and crouched, keeping a comfortable distance between my hands and the floor.
 
-After pausing to sniff a loose thread beside my wrapped foot, the mouse went to the basin. I watched it drink, its nose twitching between mouthfuls, until it stopped to wash its face without once looking up at me. I found myself breathing more quietly so I would not frighten it. I listened to the water trickling as the mouse washed its face. I still glanced at the doorway whenever something clicked in the gutter. It took effort to believe I could stay here without waiting for the next attack.
+After pausing to sniff a loose thread beside my wrapped foot, the mouse went to the basin. I watched it drink, its nose twitching between mouthfuls, until it stopped to wash its face without once looking up at me. I found myself breathing more quietly so I would not frighten it, listening to the trickle beside us. I still glanced at the doorway whenever something clicked in the gutter. It took effort to believe I could stay here without waiting for the next attack.
 
 I picked up a seed from the shelf and placed it beside the wall, reminding myself that carrying things and setting them down had been safe all morning. The mouse waited until my hand was well away before collecting it. "You are welcome," I said.
 
@@ -38,13 +38,13 @@ I stayed until it finished eating and disappeared through a hole beside the gutt
 
 I thought of my mother calling to ask whether I was eating. Usually I told her yes while deciding what to buy on the way home. I had never wanted to hear that question so much, and remembering her voice made my throat tighten. She would have questions when I failed to answer. So would my manager, though his would arrive with considerably less concern about my lunch. With no signal, there was little reason to switch on the phone and watch the nearly empty battery in the corner of its screen. I kept it off, saving what remained for a photograph of a useful sign or a little light when the lamps stopped working.
 
-*1. Find food. 2. Find a way out. 3. Stay alive long enough to need both.* The order might require adjustment. At least I had a list.
+*1. Find food. 2. Find a way out. 3. Stay alive long enough to need both. 4. Profit.* The order might require adjustment. At least I had a list.
 
 As I rose, I watched the water arriving from somewhere above and thought of the people who had built and maintained the channel. They had used the room beside it for stores and carried loads between levels on the stairs and platforms, coming here for reasons that did not involve fighting. I wanted to find one of those routes before I damaged it.
 
 The gloves gave me a little more room for mistakes: when a floor tile tipped beneath my foot and I caught myself against an iron bracket, the silver stitches warmed and the bracket bent a little instead of tearing out of the wall. A deliberate push on a loose stone still sent it shooting across the room. I was dangerous, even with help.
 
-I took the sword out to practice where the corridor widened. A hard swing barely marked a rotten post. Moving the blade gently cut through it and scored a deep groove in the stone behind it. A pebble thrown normally bounced along the floor; one tossed with almost no effort buried itself in a distant slab. I had seen versions of both experiments in the palace. Repeating them alone was less educational than I had hoped. Nobody could tell me whether I was doing it wrong, or doing it right, which was what frightened me.
+I took the sword out to practice where the corridor widened. A hard swing barely marked a rotten post, so I brought the blade back and tried moving it gently. It cut through the wood and scored a deep groove in the stone behind it. I drew the sword back and stared at the groove; I had meant to stop at the post. A pebble thrown normally bounced along the floor, while one tossed with almost no effort buried itself in a distant slab. I had seen versions of both experiments in the palace. Repeating them alone was less educational than I had hoped. Nobody could tell me whether I was doing it wrong, or doing it right, which was what frightened me.
 
 What worried me most was how difficult it was to produce the same result twice. One tap that seemed gentle broke a tile, while another broke a whole step, though afterward I found an old crack running through its underside. The stone mattered, as did the difference between what I meant to do and what my cold, shaking fingers actually did. I had no useful way to measure either before something broke. *Would a handshake destroy someone? Would a high-five remove the arm? Could I ever pet a cat again?*
 
@@ -71,7 +71,7 @@ I stopped just inside the doorway, afraid even of shifting my feet. For a moment
 > **Size:** Huge.
 > **Hit Points:** 168 / 168.
 > **Armor Class:** 18 (natural armor).
-> **Condition:** Active.
+> **Condition:** Active, Hostile.
 > **Traits:** Multiattack.
 >
 > **Threat:** Lethal.
@@ -89,7 +89,7 @@ A shadow crossed my hand.
 
 I turned and stumbled sideways as the axe struck where my feet had been. Bones rolled beneath my shoe, dropping me onto my back. The broad sword passed above my face; I felt its air move my hair before it struck somewhere beyond me. Pieces of stone hit my back as I rolled onto my side and crawled for the cracked pillar. The hooked blade dragged through the heap behind my legs. I pulled them in and squeezed into the space behind the pillar, beneath the brace joining it to the cradle.
 
-A sting in my calf drew my attention to a tear in my pants, where blood was running into my remaining shoe. I could still put weight on the leg, which was the full medical examination I had time for. Malgorth pulled the axe free and turned toward the pillar.
+A sting in my calf drew my attention to a tear in my pants, where blood was running into my remaining shoe. I put the foot flat and tested my weight on it. The leg held, which was the full medical examination I had time for. Malgorth pulled the axe free and turned toward the pillar.
 
 My sword's grip was slick inside my glove when I drew it. All I had to do was move it gently enough to make contact, just as I had practiced. Unfortunately, my shoulders were locked, my teeth were clenched, and every part of me wanted to hit the thing as hard as possible. *Hard swings are useless. Fear makes me tense. Tensing makes me push harder.*
 
@@ -101,7 +101,7 @@ I could let the cloak go. I hated how reluctant I was to lose it, even with the 
 
 The hook grated against the pillar. Its shaft was wood, bound with dark metal near the blade. I had cut a post with this sword a few minutes earlier. I looked at the shaft, then at my blade, and tried to remember the movement instead of the monster holding the other end. I lowered the sword toward the shaft, stopping when the edge settled against wood. My right hand wanted to squeeze harder. I loosened my shoulder instead, keeping the blade in place while the collar pressed against my throat.
 
-A small, deliberate push split the haft. The hooked end dropped beside my knee, and the cloak fell loose across my chest. I drew a breath that hurt, pulled the fabric free, and scrambled farther behind the pillar before the monster could bring another weapon around it. *That worked. I actually meant to do that.* For a moment, the relief was enormous. I had chosen a target, reached it, and produced something useful. There had been no accidental hole in a wall and no need to explain myself to anyone afterward.
+A small, deliberate push split the haft. The hooked end dropped beside my knee, and the cloak fell loose across my chest. I drew a breath that hurt, pulled the fabric free, and scrambled farther behind the pillar before the monster could bring another weapon around it. *That worked. I actually meant to do that.* The relief nearly made me laugh, but I kept the sword between myself and the pillar's edge, waiting to see which weapon would come around it next.
 
 Malgorth looked at the short piece of wood in its lower hand and let it fall. Three weapons remained.
 
@@ -127,7 +127,7 @@ I rested my palm against its scales with the care of someone trying to comfort a
 
 Malgorth looked down at me. *Please be enough.*
 
-I gave the smallest push I could manage, away from me.
+I gave the smallest push I could manage.
 
 Malgorth staggered backward three heavy steps, its weapons falling from its hands, and struck the hanging counterweight. The damaged brace snapped. Rusted rails tore out of cracked sockets, the cradle tipped, and the counterweight fell across the monster. Chains dragged through the overhead pulleys with a crash that seemed to go on far longer than one crash had any right to.
 
@@ -196,7 +196,7 @@ I stared at YES. The letters brightened under my gaze. "How much worse could thi
 
 "Affection?" More writing appeared beneath the heading.
 
-> **Affection Multiplier**
+> Affection Multiplier
 >
 > The more sincere the bearer's emotional attachment to the target, the greater the resulting impact.
 >
@@ -210,7 +210,7 @@ I thought of the mouse beside the basin and the impulse to rub a finger between 
 
 A final line appeared beneath the explanation.
 
-> **Warning: Kissing is not recommended.**
+> **Warning:** Kissing is not recommended.
 
 For a moment, I could hear nothing except my own breathing. Then I shouted, "NOOOOOOOOOOOOO!"
 
@@ -222,4 +222,5 @@ Something roared. It sounded awake.
 
 ---
 
-**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1|Chapter 1]] · **Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 2|Chapter 2]]
+**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1|Chapter 1]]
+**Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 2|Chapter 2]]
