@@ -92,7 +92,7 @@ When the opening was large enough to crouch through, I set the bar down and look
 
 I looked at the narrow strip of walkway beside the wall. That was where I would have to stand when I went through. I had opened a way forward and made it harder to use. *Keep clear of the railing.*
 
-I collected the slate and bar, climbed through, and marked my new opening on the map before looking out over the water.
+I tucked the slate away and set the bar on the walkway beyond the opening before crouching through. I kept one shoulder close to the wall as I straightened, unwilling to put a hand on the railing even for balance. Only then did I retrieve the bar and mark the opening on the map before looking out over the water.
 
 A broad [[DM World Implications#Reservoir & service route|reservoir]] spread below the railing, its surface streaked with trembling reflections from the blue lamps. Stone pillars rose through it to support beams overhead, with weights hanging from chains inside tall iron frames between them. Most were still, but one at the far end kept descending a little, catching with a metallic bang, and jerking upward again. It never completed the journey. That was the sound I had heard through several walls.
 
@@ -400,7 +400,7 @@ She glanced at the water. "There are barred service gates between those gallerie
 
 "It is the answer I have."
 
-I remembered the hole in Malgorth's entrance slab and the feeling of the floor moving behind me. For the first time since leaving, I wished I could be certain what I had left on the other side.
+I remembered the hole in Malgorth's entrance slab and the floor moving behind me. I looked toward the arch, trying to hear anything beyond the water. I had crawled away without finding out what was down there.
 
 Nessa looked at me. "Did it follow you?"
 
@@ -422,4 +422,5 @@ I looked back at the water, the distant lamps, and the passage I had reached by 
 
 ---
 
-**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 3|Chapter 3]] · **Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 5|Chapter 5]]
+**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 3|Chapter 3]]
+**Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 5|Chapter 5]]

@@ -12,9 +12,11 @@ aliases:
 
 # Chapter 1: Please Stop Calling Me “Gentle Hands”
 
-The monster died because I patted it on the head. I did not punch it, stab it, or blast it apart with legendary fire magic. I already knew a gentle touch could break stone. The problem was getting close enough to use it without losing my hand. The wolf's front legs were pinned between two fallen beams, but its mouth still reached the rusty sword I held in front of it. Teeth closed on the blade with a scrape that traveled into my sore hand. I set my feet wider and tried not to pull back. Wrestling with it would only bring its teeth closer. My free hand hovered above its lowered head. I could feel its breath against my wrist, and each movement of its jaw made my fingers curl. I opened them again, reached over the teeth, and rested my palm against the fur. Then I gave it the smallest nudge I could manage, away from me.
+The monster died because I patted it on the head. I did not punch it, stab it, or blast it apart with legendary fire magic. I already knew that a gentle touch could break stone. The problem was convincing my legs to carry me close enough when one snap could cost me a hand. The wolf's rear were pinned between two fallen beams, but it kept straining toward the rusty sword I held between us. Its teeth closed around the blade, sending a jolt through the hilt into my sore hand. I spread my feet to steady myself and fought the urge to yank the sword back. Wrestling with it would only bring its teeth closer.
 
-"Good doggy."
+My free hand hovering above its lowered head. I could feel its breath against my wrist, and each movement of its jaw made my fingers curl. I opened my hand, reached over the teeth, and rested my palm against the fur on top of its head. Then I gave it the smallest nudge I could manage.
+
+"Good dog."
 
 The **[[Hellfang Wolf]]** disappeared.
 
@@ -47,7 +49,7 @@ A second window slid into place beneath the first.
 
 While leaning back to listen, I reached for the wall with my free hand and found a stone with crumbling mortar around its edges. I could have left my hand there, but I gave it a tiny, careful push to steady myself. The stone split, sending a crack through the loose joints above it. I pulled away as dust sprinkled onto my shoulder. My fingers curled against my chest, and I watched the crack until the last loose grain stopped falling. Nothing else broke. I moved my feet instead of reaching for something to steady me. *Fantastic. Even an apology requires somewhere safe to put my hands.*
 
-The beams had bought me one chance to make contact while its teeth were occupied. I had meant to knock it away. I had no reliable way to choose how far. "Good doggy" had been an instruction to my own shoulders; dogs at home did not make me lock every muscle in my body.
+The beams had bought me one chance to make contact while its teeth were occupied. I had meant to knock it away. I had no reliable way to choose how far. "Good dog" had been an instruction to my own shoulders; dogs at home did not make me lock every muscle in my body.
 
 There was nothing to be gained by checking the rubble. I backed out of the room, stepping around the loose stones, and found a patch of floor that had not yet developed a personal grievance against me. I sat there until the shaking in my knees became small enough to ignore, turning my left hand over as though the dangerous part might be visible from the other side. It looked ordinary, with dirt beneath the nails and a shallow scratch across the thumb. Yesterday, that hand had held a sandwich. I would have liked to return to that level of responsibility.
 
@@ -61,7 +63,7 @@ Testing my weight on both feet revealed that the cloth around my left sock had s
 
 Yesterday, I had been [[DM Inverse Impact Characters#Haruto Minase|Haruto Minase]], twenty-two years old, underpaid *whenever anyone was paying me*, and carrying fourteen hundred yen in my wallet when I fell asleep on a commuter train. There had been no truck, no goddess, and no heroic sacrifice. I had taken a nap, which seemed an unreasonable basis for everything that was happening. People in robes had hoped to summon a champion. They got someone who processed invoices. My ordinary abilities seemed to disappoint them; my 'extraordinary' skill had damaged the palace. They called what happened afterward temporary relocation. I called it being banished before dinner, though the paperwork was apparently very firm on the distinction.
 
-Since then, I had been robbed, chased by slimes, and dropped into the [[DM World Implications#Hanging Halls|Hanging Halls]] through a hole I had made worse while trying not to fall down it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
+Since then, I had been robbed, chased by slimes, and dropped into the [[DM World Implications#Hanging Halls|Hanging Halls]] through a hole I had made worse while trying not to fall into it. The way back was buried. I had counted twenty-three downward stairways, then realized several might have been the same stairway approached from different directions. I stopped keeping a floor count before it became another reason to panic.
 
 I had found the sword on a rack beside an empty guardroom, after walking through several corridors telling myself I did not need a weapon. The palace had given me a different one, now in the bandits' possession. Rust spotted this blade, but its hilt gave me something I could grip, which put it ahead of every bone I had considered carrying instead. I also had one shoe, cloth tied around my other foot, and a phone whose screen had cracked in the fall. *A miracle that the fall didn't do more damage.* I had switched it off when I last checked the battery at eighteen percent. I missed the sound of a message arriving. If rescue depended on someone calling me, there were already several larger problems with the plan.
 
@@ -82,7 +84,7 @@ The blue windows stayed at the edge of my vision as I stepped into the corridor,
 
 The level and armor numbers were unchanged since the summoning hall, but my hit points now read five, down from the seven I had before anyone started giving me things to punch. I looked from the cut beneath my sleeve to the number, which offered no useful estimate of how many more mistakes I could survive. Five sounded like a quantity I should stop spending. There was no class or supply of spells tucked away somewhere, and the hand that broke stone belonged to someone wearing a work shirt for protection. I had known that already, but looking from the assessment to my sleeve made it harder to pretend the situation would improve on its own. Then I read the new designation.
 
-"Catastrophic Pacifist?" I snapped. The window remaining politely blue. "And please stop calling it Gentle Hands. That sounds like something you book an appointment for," I hissed. Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
+"Catastrophic Pacifist?" I snapped. The window remaining politely blue. "And please stop calling me Gentle Hands. That sounds like something you book an appointment for," I hissed. Whatever was writing these messages knew my name, recognized a monster I had never heard of, and had no apparent interest in the one piece of information that might keep me alive. A search around the window's edge revealed no customer-support option either.
 
 The passage divided ahead, with one branch climbing beneath an arch with a cracked corner and the other sloping down beside a pair of bronze rails. Blue lamps lit both ways, and the same damp smell came from each. I stopped at the junction and looked from the upper arch to the lower passage, hoping for the kind of obvious difference a person in a story ought to notice. I studied the marks cut into the wall beside the upper branch: a square, three short lines, and something shaped like a hook. They could have meant EXIT, STORAGE, or PLEASE DO NOT FEED THE WOLF. The translation spell had given me speech and apparently left reading out of the deal.
 
@@ -107,7 +109,7 @@ I had met enough skeletons by then to know they did not respond to reasonable ex
 
 The first came at me with its sword raised. I drew my borrowed weapon, fumbling the last inch clear of the scabbard, and tried to bring the edge toward its skull without swinging. Then its blade filled the space in front of my face. I flinched. My shoulder tightened, my grip locked, and the careful movement became a frantic swing before I could stop it. The blade rang against its skull. The skull remained a skull. The skeleton tilted its head as though trying to understand the point of the demonstration.
 
-"I meant to tap you," I said, trying to draw the blade back between us. Its free hand came past the sword. Knuckles struck my mouth before I had room to duck, and I tasted blood. The hit-point number at the edge of my vision dropped to four.
+"I meant to tap you," I said, trying to draw the blade back between us. Its free hand came past the sword. Knuckles struck my jaws before I had room to duck, and the taste of iron filled my mouth. The hit-point number at the edge of my vision dropped to four.
 
 My heel caught a fallen stone. I went backward and landed hard on my hip, losing the sword as I tried to keep my head off the floor. I reached for it, then pulled my hand back when three sets of boots entered the space in front of me. I needed air. I needed to get out from under the blades. *I know what to do. My hand needs to stop arguing.*
 
@@ -117,19 +119,17 @@ The nearest blade struck the carved ankle above me with a crack. I ducked so sha
 
 Its knee joint scraped the base as the second skeleton crowded behind it, trying to get around the same obstruction. Neither seemed concerned about giving the other room. I had worked beside people like that. Usually they carried coffee rather than swords.
 
-I watched the first one's hands. When it raised the blade, its elbow left a small gap beneath the sword arm. If I could get close enough, I would only need a moment. I would also need to be right about which way the sword was going. My left hand kept closing into a fist. I spread the fingers, rested them on my own knee, and waited for it to swing its blade. The window stayed in the corner of my vision, reporting that I was injured and fatigued. I had already gathered that information. *Wait until it has to move its feet.*
+I watched the first one's hands. When it raised the blade, its elbow left a small gap beneath the sword arm. If I could get close enough, I would only need a moment. I would also need to be right about which way the sword was going. My left hand kept closing into a fist. I spread the fingers, rested them on my own knee, and waited for it to swing its blade. The window stayed in the corner of my vision, reporting that I was injured and fatigued. I already knew that, in fact I was actively feeling it. *Wait until it has to move its feet.*
 
 Rubble was piled unevenly beside the base. I shifted toward it, making the skeleton change direction. The move hurt. It still felt better than giving it a clear path to my head. I edged around the base, keeping low enough that the stone still covered my head. The first skeleton followed with its sword near its knee. Its boot caught between two stones as it stepped over the rubble, and the blade dipped while it looked down.
 
-I brought my good foot beneath me. My hip hurt when I rose, and for a moment I was certain I would be too slow. Its forehead came within reach. I lifted my hand before it could look up. "No hard feelings," I said shakily.
+I brought my best leg into a weight carrying position. My hip hurt when I rose, and for a moment I was certain I would be too slow. Its forehead came within reach. I lifted my hand before it could look up. "No hard feelings," I said shakily.
 
-I flicked it.
-
-The impact cracked through the corridor. The skull shot backward, dragging the helmet with it, and struck the skeleton immediately behind it. Armor and bones crashed into the third. By the time the pieces reached the far wall, all three skeletons had become a problem for whoever swept the floor. A helmet struck a loose brick, knocked it out, and let cold air into the passage.
+I flicked it. The impact cracked through the corridor. The skull shot backward, dragging the helmet with it, and struck the skeleton immediately behind it. Armor and bones crashed into the third. By the time the pieces reached the far wall, all three skeletons had become a problem for whoever swept the floor. A helmet struck a loose brick, knocked it out, and let cold air into the passage.
 
 Somewhere on the other side, something enormous screamed.
 
-I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through a mouth that tasted of blood. My lip was bleeding, my hip hurt, and I was afraid that whatever had made that sound now knew something was happening here.
+I dropped behind the base again, listening to the pieces strike the floor. The scream beyond the wall lasted longer than the clatter. I held my breath until it ended, then let the air out through my mouth, enhancing the iron taste. My lip was bleeding, my hip hurt, and I was afraid that whatever had made that sound now knew something was happening here.
 
 "That was a flick?" I asked my finger in disbelief.
 
@@ -143,7 +143,7 @@ The latch broke off and the lid swung open, revealing a black cloak, a pair of g
 >
 > Dampens minor unintended impacts.
 >
-> **Deliberate force remains dangerous.**
+> **Warning:** Deliberate force remains dangerous.
 
 I almost cried. Not because the warning was reassuring, but because the sentence before it contained the possibility that something might help me. "Thank God. Any available deity of such generosity!"
 
@@ -153,7 +153,7 @@ I turned Ordan's old gloves over in my lap, studying the split cuff and the drie
 
 The new pair fit closely enough for me to bend every finger without the leather bunching at the joints. I turned my hands beneath the lamp, following the silver stitches over my knuckles and into the seams at my wrists, looking for a buckle, a dial, or anything that would tell me how much protection I had. The window offered the same two sentences. *Minor unintended impacts. That is a very small promise.* It was still a promise. Nobody at the palace had managed even that.
 
-As I shifted to stand, I lost my balance and pushed lightly against the stone ledge beside me. The silver stitches warmed across my palm. A chip snapped off, but the rest of the ledge stayed where it was. Yesterday, a similarly careful push had broken a great deal more stone. "Right. Less leaning." Holding things and resting my hands were safe, but pushing to keep myself upright was a different matter. The gloves had turned this particular mistake into a chip instead of a hole. I would have preferred a railing I could trust, but I was prepared to be grateful in installments.
+Pain caught in my bruised hip as I rose, and I pushed lightly against the stone ledge beside me to keep from falling. The silver stitches warmed across my palm. A chip snapped off, but the rest of the ledge stayed where it was. Yesterday, a similarly careful push had broken a great deal more stone. "Right. Less leaning." Holding things and resting my hands were safe, but pushing to keep myself upright was a different matter. The gloves had turned this particular mistake into a chip instead of a hole. I would have preferred a railing I could trust, but I was prepared to be grateful in installments.
 
 The cloak smelled of cedar and old cupboards. I breathed it in, surprised by how comforting it was. As I lifted it from the chest, the writing changed.
 
@@ -167,7 +167,7 @@ I pulled the cloak around my shoulders, relieved to have the cold draft off my b
 >
 > Provides a steady, gentle warmth to the wearer.
 >
-> **Does not prevent hypothermia.**
+> **Note:** Does not prevent hypothermia.
 
 I slid it onto my right index finger and flexed my cold hand as its faint warmth spread through it. Neither window promised an exit, a meal, or replacement footwear, but I kept the cloak and ring; at least they had a purpose I understood. *It is not cold enough for me to worry about hypothermia anyway. But staying warm is a plus.*
 
@@ -187,7 +187,7 @@ I moved beside the handwheel and followed its short metal shaft with my eyes to 
 
 A dusty painted board rested on the walkway beside the controls. Holding it by the edges beneath the lamp over the gate, I could make out one figure at the wheel and another inside the platform with a load of boxes. Two people. I stared at the second figure, jealous of the painted passenger for having someone at the wheel. I set the board down. *Was there a way to use the thing alone?* Perhaps the lever locked the platform at each landing. Perhaps there was another control inside it. I probably couldn't check without getting in. If it started moving with me aboard, I had no idea how I would stop it.
 
-I closed both hands around the cold rim of the handwheel and tried a firm, steady turn, the same sort of pressure that had moved a board normally in the training yard. The mechanism resisted before scraping through a short movement that tightened the chain overhead and raised the platform a few inches. When I stopped, it stayed where it was.
+I closed both hands around the cold rim of the handwheel and tried a firm, steady turn, the same sort of pressure that had moved a board normally in the training yard. It resisted. I kept my feet braced and held the pressure rather than trying a gentler turn. The mechanism scraped through a short movement, tightening the chain overhead and raising the platform a few inches. When I stopped, it stayed where it was.
 
 For a moment, I thought I might actually get out, and the relief nearly made me laugh. I started turning the wheel again. Then something clicked beneath the platform and a narrow strip of metal came free. I stopped turning and watched it fall past the blue light. While I waited to hear it land, I imagined the platform giving way beneath my feet.
 

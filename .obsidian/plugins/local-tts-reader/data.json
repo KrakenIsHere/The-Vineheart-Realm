@@ -32,10 +32,17 @@
   "positions": {
     "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.md": {
       "filePath": "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.md",
-      "segmentId": "2fd271de",
-      "segmentIndex": 134,
-      "sourceOffset": 11534,
-      "updatedAt": 1792252928337
+      "segmentId": "5f3d3998",
+      "segmentIndex": 303,
+      "sourceOffset": 25964,
+      "updatedAt": 1794744024843
+    },
+    "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5.md": {
+      "filePath": "6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5.md",
+      "segmentId": "4f4e88f3",
+      "segmentIndex": 316,
+      "sourceOffset": 26237,
+      "updatedAt": 1794746213293
     }
   }
 }

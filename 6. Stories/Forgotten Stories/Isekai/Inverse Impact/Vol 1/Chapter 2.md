@@ -32,7 +32,7 @@ Everyone started talking. Someone applauded before deciding that it was prematur
 
 "You are in the royal invocation hall of **[[DM World Implications#Mountain court|House Obsidia]]**, in the northern mountains of **[[DM World Implications#Historical Placement|Magnica]]**," the man said. "I am **[[DM Inverse Impact Characters#High Magister Corven|High Magister Corven]]**. You stand under the protection of **[[Gods#Morlith, The Mountain Lord|Morlith, the Mountain Lord]]**."
 
-I asked about Japan, then Tokyo, then Earth, watching his face for even a flicker of recognition. With each attempt, he became more attentive and less useful. I took out my phone and held it higher, as though another few inches might bring back the signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation. "You summoned me," I said, surprised.
+I asked about Japan, then Tokyo, then Earth, watching his face for even a flicker of recognition. With each attempt, he became more attentive and less useful. I took out my phone and held it higher, as though another few inches might bring back the signal. My wallet still contained fourteen hundred yen, which seemed unlikely to improve the situation. "You summoned me." I lowered the phone and waited for him to deny it.
 
 Corven nodded. "Yes. We called beyond our world for a champion bearing an extraordinary gift."
 
@@ -94,7 +94,7 @@ I lifted my eyes from the silent phone. "Then find one." I was scared enough tha
 
 Corven took a breath before answering. "We will examine the workings."
 
-I put the phone away as Corven pointed to the door.
+When Corven pointed to the door, I put the phone away and followed him, the bag rustling against my leg. I kept looking back at the silver circle until the doorway hid it.
 
 * * *
 
@@ -156,7 +156,7 @@ Corven inspected the dummy. "No split."
 
 "Check the kid," Ordan said.
 
-Nothing seemed broken, but when Corven asked for another punch, I declined firmly enough that we tried pushing instead. Ordan clamped a board onto a sliding stand and stepped aside; my firm shove moved it normally, while a lighter one knocked it free of its clamps. The dwarf secured a fresh board and cleared the space behind it.
+Nothing seemed broken, but I kept my aching hand against my stomach when Corven asked for another punch. I declined firmly enough that we tried pushing instead. Ordan clamped a board onto a sliding stand and stepped aside; my firm shove moved it normally, while a lighter one knocked it free of its clamps. I stepped back as it struck the sand. The dwarf secured a fresh board and cleared the space behind it.
 
 Ordan pointed to the center of the new board. "Give it a little nudge. No more pressure than you would use to test whether paint is dry."
 
@@ -184,7 +184,7 @@ Ordan fetched a discarded block of granite with flat, chiseled faces. He traced 
 
 Ordan stopped tracing the seam and looked at my hand. "I will mind if you touch anything else."
 
-They set it in a sand-filled trough on a low table in front of a stone backstop, then retreated behind shields. My hard shove accomplished little, while a lighter one dragged the granite forward.
+They set it in a sand-filled trough on a low table in front of a stone backstop, then retreated behind shields. My hard shove accomplished little, while a lighter one shifted the granite forward.
 
 "Less force," Corven said. "Only slightly."
 
@@ -192,7 +192,7 @@ I could measure the pressure in my fingertip no better than I could measure how 
 
 Someone shouted below as the loaded chain groaned, and I heard running feet before I could see who was moving. I reached toward the table for balance, only for Ordan to seize my wrist and stop my hand short of the edge. He shouted workers off the walkway while sand trickled from the joint above the damaged pier. I could not stop watching the crack, expecting the arch to follow each little fall of grit. Every footstep below made me picture someone still beneath it, and I wanted to shout for them to run faster.
 
-"Do NOT touch the mountain!" Ordan's face was unmistakably serious, with a hint of fear.
+"Do NOT touch the mountain!" Ordan's grip tightened around my wrist, and his eyes went from my hand to the damaged arch.
 
 "I was only…"
 
@@ -323,7 +323,7 @@ I stayed on the sacks with my mouth open, trying to breathe through the dust as 
 
 My phone lit through a new crack, showing forty-eight percent battery. By its flashlight, I could make out bronze rails, stone weights suspended in rusting frames, and the passage I had fallen through, now buried beneath rubble.
 
-I climbed the sacks to look for a gap, but something shifted overhead before I got far. I climbed down again. *I can break stone. I can also be crushed by stone.*
+I climbed the sacks to look for a gap, but a scrape overhead stopped me with one foot still searching for a hold. I backed down the way I had come, keeping my hands clear of the rubble. *I can break stone. I can also be crushed by stone.*
 
 My calls for help echoed through air that smelled of damp limestone and old iron. Beneath the dust, tracks crossed the floor and continued through an arch. Someone had built all of this, then left it behind. I could not tell how long ago. Blue lamps brightened inside glass cages along the wall, and I switched off the flashlight and put the phone away before following them past enormous slabs hanging from chains. I called the place the **[[DM World Implications#Hanging Halls|Hanging Halls]]**. Someone who knew its proper name would ideally also know the exit.
 
@@ -366,9 +366,9 @@ After listening at the door, I shifted the bench and stepped back into the passa
 
 A rack beside an empty guardroom held spare weapons. I found dry canvas in a crate, then set the phone on the floor while I tied the cloth around my left sock. Then I chose a rusty sword with an intact hilt. Perhaps the next creature would not present a forehead at a convenient height. "You are borrowed," I told it. "Please behave." I used a strap from beside the rack to secure the scabbard at my hip. I picked up the phone and continued until it reached eighteen percent, then switched it off and put it away.
 
-The sound of breathing stopped me outside the next doorway. Beneath a blue lamp, two fallen beams pinned a wolf across the room's entrance, one rotten length trapping its front legs against the other. Six red eyes followed the movement of my hand. Its lips drew back, and a snap of its jaws sent me a step away from the doorway. The teeth had closed on empty air where I had been about to stand.
+The sound of breathing stopped me outside the next doorway. Beneath a blue lamp, two fallen beams pinned a wolf across the room's entrance, one rotten length trapping its rear against the other. Six red eyes followed the movement of my hand. Its lips drew back, and a snap of its jaws sent me a step away from the doorway. The teeth had closed on empty air where I had been about to stand.
 
-I waited for it to come after me. The beams creaked under its struggling front legs, but held. Its jaws were still free. A red window appeared beside its head.
+I waited for it to come after me. The beams creaked under its struggling, but held. Its jaws were still free. A red window appeared beside its head.
 
 > **[[Hellfang Wolf]]**
 >
@@ -390,4 +390,5 @@ I held the hilt firmly with my right hand and rested my left palm against the fu
 
 ---
 
-**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5|Chapter 1.5]] · **Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 3|Chapter 3]]
+**Previous:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 1.5|Chapter 1.5]]
+**Next:** [[6. Stories/Forgotten Stories/Isekai/Inverse Impact/Vol 1/Chapter 3|Chapter 3]]
