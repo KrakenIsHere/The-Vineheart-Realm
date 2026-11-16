@@ -13,7 +13,7 @@ tags:
 
 Appearance tables record author reference values. Height and weight are working measurements, not measurements Haruto has made. Exact ages remain open except where the story gives one. Stable features, first-appearance condition, and later changes have separate rows. Select details for a scene according to what Haruto can observe.
 
-The cast includes humans, dwarves, half-elves, wood elves, half-orcs, forest and rock gnomes, and a lightfoot halfling. Their appearance and species traits are recorded together. Haruto does not automatically know a person's exact ancestry from an ear shape or stature.
+The cast includes humans, dwarves, half-elves, wood elves, half-orcs, a rock gnome, a lightfoot halfling, and Mira, who has human and forest gnome parents. Their appearance and species traits are recorded together. Haruto does not automatically know a person's exact ancestry from an ear shape or stature.
 
 The people below use **homebrew NPC profiles**. Their levels follow [[Levels Breakdown#Common Folk|the vault's population scale]] and [[Levels Breakdown#Professional Class|professional scale]]. A trade level supplies the proficiencies listed in its profile. It does not grant an adventuring class or unlisted player-character features. The two wizard-based profiles use the specified caster features and resources.
 
@@ -40,7 +40,7 @@ Keep these statistics in the DM reference. Haruto learns only what the scenes an
 | [[#Nessa\|Nessa]] | Half-Orc | 4 | Watergate repair worker | 21 | 11 |
 | [[#The worker at the service exit\|Bren Harl]] | Human | 3 | Surface-yard worker | 16 | 10 |
 | [[#The Obsidia monarch\|Edric Obsidia]] | Human | 6 | Ruling monarch; court leadership | 31 | 10 |
-| [[#The appraising mage\|Mira Venn]] | Forest Gnome | 4 | Wizard-based NPC | 18 | 12 |
+| [[#The appraising mage\|Mira Venn]] | Human / Forest Gnome | 4 | Wizard-based NPC | 18 | 12 |
 | [[#Lenna Marr\|Lenna Marr]] | Lightfoot Halfling | 2 | Court servant | 7 | 11 |
 | [[#Tavin Rusk\|Tavin Rusk]] | Wood Elf | 5 | Experienced court guard | 26 | 16 |
 | [[#Hessa Dorn\|Hessa Dorn]] | Mountain Dwarf | 4 | Watchpost soldier | 21 | 16 |
@@ -955,18 +955,20 @@ Persuasion Expertise is an explicit NPC specialization in court negotiation. Ran
 
 **Mira Venn** is the young woman who supplies translation, checks Haruto's ability to read, and examines the binding. Corven addresses her as Mira when he asks for an appraisal. Her surname is not spoken in the chapters. Her formal relationship to Corven remains unassigned.
 
+She has one human parent and one forest gnome parent. Their identities and her family history remain unassigned. During the translation check, she leans close to inspect the light beside Haruto's face. She steps back when he explains why he has stopped answering.
+
 ### Appearance
 
 | Variable                   | Description                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------- |
-| Species                    | Forest Gnome                                                                          |
+| Species                    | Human / Forest Gnome; mixed ancestry                                                  |
 | Gender & pronouns          | Woman; she/her                                                                        |
-| Apparent age               | Young adult gnome; exact years unassigned                                             |
-| Height                     | 3 ft. 7 in. (about 109 cm)                                                            |
-| Weight                     | 40 lbs (about 18 kg)                                                                  |
-| Overall build              | Short and slightly built                                                              |
-| Frame & proportions        | Small shoulders and torso; round head and face are prominent against the slight frame |
-| Visible musculature        | Little visible muscle bulk                                                            |
+| Apparent age               | Adult; appears mid-twenties by human comparison, exact age unassigned                 |
+| Height                     | 4 ft. 9 in. (about 145 cm)                                                            |
+| Weight                     | 132 lbs (about 60 kg)                                                                 |
+| Overall build              | Short and thickset, with a soft, full figure                                          |
+| Frame & proportions        | Broad torso and hips, rounded waist, relatively short legs; taller and larger-framed than most gnomes |
+| Visible musculature        | Full upper arms and thighs; little visible muscle definition                          |
 | Posture                    | Inclines toward instruments and writing                                               |
 | Movement & gait            | Quick, compact steps; changes position to bring an instrument closer                  |
 | Dominant hand              | Right                                                                                 |
@@ -982,23 +984,23 @@ Persuasion Expertise is an explicit NPC specialization in court negotiation. Ran
 | Hair texture & length      | Curly, short enough to brush her cheeks                                               |
 | Hairstyle                  | Loose curls; front strands pushed behind the ears when working                        |
 | Facial hair                | None                                                                                  |
-| Hands & forearms           | Small hands, thin wrists, ink-marked fingertips                                       |
+| Hands & forearms           | Small hands, fuller forearms, ink-marked fingertips                                   |
 | Distinctive marks          | No permanent scar established                                                         |
 | Grooming                   | Practical rather than ceremonial; sleeves kept clear                                  |
-| Usual clothing             | Plain robes with sleeves rolled to the elbows                                         |
+| Usual clothing             | Plain robes cut for her fuller frame; sleeves rolled to the elbows                    |
 | Footwear                   | Low, soft-soled leather shoes                                                         |
 | Accessories & equipment    | Crystal disk, slate, appraisal instruments, spellbook, and a small focus wand         |
 | Voice                      | Clear, quick higher mid-register; an adult's professional delivery                    |
 | Visible habits             | Turns an instrument to follow a change in its light; checks writing before answering  |
-| First-appearance condition | A short, slight gnome working beside Corven after the invocation                      |
+| First-appearance condition | A short, fuller-built young woman working beside Corven after the invocation          |
 | Changes during the story   | Palace dust and the strain of the tests; no injury or HP loss established             |
 
 ### D&D Statistics
 
 | Statistic | Value |
 | --- | --- |
-| Species & type | Forest Gnome; Humanoid |
-| Size | Small |
+| Species & type | Human / Forest Gnome (homebrew mixed ancestry); Humanoid |
+| Size | Medium |
 | Level | 4 |
 | Adventuring class / profile | Wizard-based NPC |
 | Occupation | Court appraiser and translation practitioner |
@@ -1051,6 +1053,8 @@ Persuasion Expertise is an explicit NPC specialization in court negotiation. Ran
 | Unarmed Strike | +1 | 0 Bludgeoning | Reach 5 ft. (about 1.5 m) | Normal full-force baseline |
 
 **Grapple or Shove:** DC 9 STR or DEX save, chosen by the target. Standard size and free-hand limits apply.
+
+**Mixed ancestry:** This story-specific homebrew profile uses the listed forest gnome traits with Medium size. Ability scores already include the chosen ancestry adjustments. Do not add a second set of human ancestry benefits.
 
 **Species traits:** Gnome Cunning gives Advantage on INT, WIS, and CHA saves against magic. Natural Illusionist supplies Minor Illusion using INT, separate from the four wizard cantrips. Speak with Small Beasts conveys simple ideas to Small or smaller Beasts through sounds and gestures.
 

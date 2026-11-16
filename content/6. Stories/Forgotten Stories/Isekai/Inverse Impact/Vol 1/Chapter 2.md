@@ -22,7 +22,7 @@ I sat up too quickly and had to wait for the ceiling to stop tilting. The people
 
 "Sorry. Where is this?" My voice was thin enough that I cleared my throat and tried to sit straighter.
 
-He tried again, louder. It was interesting to discover that this approach to foreign languages apparently existed everywhere. A slight young mage pushed past him carrying a crystal disk, the top of her head scarcely reaching his elbow. Brown curls brushed her round cheeks and pointed ears, and her sleeves were rolled to her elbows. Gold light unwound above my head. For a moment, the announcement from the train returned, stretched into one long note.
+He tried again, louder. It was interesting to discover that this approach to foreign languages apparently existed everywhere. A young mage pushed past him carrying a crystal disk. The top of her head barely reached his chest, and her plain robes hung over a broad, softly rounded frame. Brown curls brushed her round cheeks and pointed ears, and her sleeves were rolled to her elbows. Gold light unwound above my head. For a moment, the announcement from the train returned, stretched into one long note.
 
 "Can you understand me?" the older man asked.
 
@@ -118,9 +118,29 @@ Elyra turned toward the window, leaving her pear untouched. "The temples disagre
 
 "No." Elyra glanced toward the city. "But my father wants a champion ready if the temples' arguments turn into fighting."
 
-Mira returned, carrying her crystal disk and a slate. "May I check the translation?" I turned toward her, still trying to decide how reassuring the princess's answer had been.
+Mira returned, carrying her crystal disk and a slate. She set the slate beside my plate and came to stand on my right. "May I check the translation?"
 
-After checking the translation, Mira explained that the spell would stay with me. Reading was another matter. She held out the slate, whose writing remained entirely unhelpful. I took it from her and turned it over, embarrassed by how badly I wanted to find even one familiar word.
+I nodded and turned toward her, still trying to decide how reassuring the princess's answer had been. Mira lifted the disk beside my temple, where a few threads of gold light unwound from its edge.
+
+"Count to five, please."
+
+"One, two—"
+
+She bent closer to inspect the light. From my chair, I found myself looking straight into hazel-brown eyes that were suddenly much nearer than I had expected. A curl brushed my cheek, and I eased back against the chair, painfully aware that I had stopped counting at a number most people could manage without supervision.
+
+Mira tilted the disk. "Are the words arriving late?"
+
+"No. The words are fine." My ears were getting hot. I glanced at the narrow space between our faces, hoping she might follow my eyes and spare me the explanation. She waited. "You are just very close."
+
+Her eyes shifted from the disk to me. "Oh." She straightened, taking a step back. "My apologies. Please continue."
+
+"Three, four, five."
+
+Across the table, Elyra was smiling. I looked down at my food until the warmth in my ears began to fade.
+
+Mira checked the disk once more, then lowered it. "Good. You should continue to understand us without further casting."
+
+That brought my head up. At least I would not wake tomorrow unable to ask where the bathroom was. Reading was another matter. Mira picked up the slate and held it out, but its writing remained entirely unhelpful. I took it from her and turned it over, embarrassed by how badly I wanted to find even one familiar word.
 
 Most of the morning went to proving I was ordinary. After I carried weights, Mira set a copper bowl in front of me and asked me to make it ring like a bell using magic, without touching it. I had no idea how to begin, and the bowl remained silent. Next, I showed the [[DM Inverse Impact Characters#Tavin Rusk|lean guard from the summoning hall]] a fighting stance I remembered from a boxing game. Up close, I could see an old scar splitting one eyebrow. His cropped black hair left his long, pointed ears uncovered. He unfolded his long arms and corrected my feet, shoulders, and both hands before deciding that was enough.
 
